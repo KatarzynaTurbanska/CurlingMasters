@@ -1,0 +1,44 @@
+id,team_name,facility_id,category,num_of_players
+1,Toronto Eagles,1.0,men,8.0
+2,Montreal Raiders,2.0,men,7.0
+3,Calgary Bruins,3.0,mixed,6.0
+4,Ottawa Victorias,4.0,men,7.0
+5,Vancouver Islanders,5.0,women,7.0
+6,Toronto Penguins,1.0,women,6.0
+7,Montreal Vipers,2.0,junior men,8.0
+8,Calgary Cougars,3.0,men,4.0
+9,Ottawa Kiltys,4.0,junior mixed,5.0
+10,Vancouver Buccaneers,5.0,junior women,6.0
+11,Baby Broomers,2.0,junior women,5.0
+12,Rolling Stones,3.0,junior women,4.0
+13,Game of Stones,4.0,women,4.0
+14,Ice Unicorns,2.0,junior women,7.0
+15,Ice Cougars,1.0,women,5.0
+16,Calgary Fleur-de-Lys,3.0,men,7.0
+17,Calgary Cubs,3.0,men,4.0
+18,Cold Chinooks,4.0,junior women,7.0
+19,Vancouver Fury,5.0,men,8.0
+20,Curlers Terriers,5.0,junior men,5.0
+21,Toronto Rockets,1.0,junior men,7.0
+22,Montreal Braves,2.0,junior men,6.0
+23,Super Atlantics,5.0,junior women,4.0
+24,Montreal Bruins,2.0,men,5.0
+25,Ice Dodgers,4.0,junior mixed,8.0
+26,Ice Huskies,3.0,junior mixed,5.0
+27,Broom Hawks,5.0,junior men,8.0
+28,Super Salsa,2.0,junior mixed,8.0
+29,Broom Mets,4.0,junior mixed,7.0
+30,Stone Timberwolves,5.0,junior mixed,8.0
+31,Calgary Rockets,3.0,men,7.0
+32,Super Lords,5.0,junior men,6.0
+33,Cold Islanders,1.0,junior women,6.0
+34,Ottawa Greys,4.0,junior mixed,6.0
+35,Ice Sabres,1.0,mixed,7.0
+36,Toronto Olympics,1.0,junior mixed,7.0
+37,Cold Travelways,4.0,men,7.0
+38,Cold Colts,2.0,men,6.0
+39,Cold Huskies,3.0,mixed,8.0
+40,Stone Mariners,3.0,junior mixed,4.0
+41,Calgary Metros,3.0,junior women,4.0
+42,Ice Bulls,2.0,men,5.0
+43,Montreal Lasers,2.0,junior women,8.0
