@@ -1,6 +1,6 @@
 # Curling Masters Database 🥌
 
-Database made in MySql for Canadian 🇨🇦 curling sports club.
+Database made in MySql for Canadian 🍁 curling sports club.
 
 ## What it contains
 - Database scheme: tables & how they are connected.
