@@ -11,3 +11,4 @@ Database made in MySql for Canadian 🍁 curling sports club.
 ## Authors
 [Edyta Łabędzka](https://github.com/3dytalabedzka)
 [Katarzyna Turbańska](https://github.com/KatarzynaTurbanska)
+[Iga Świtalska](https://github.com/IgaSwitalska)
