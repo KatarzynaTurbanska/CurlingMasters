@@ -1,0 +1,62 @@
+birthdate,age,category,facility_id,join_date,retire_date,team_name,gender
+1984-08-28,37,adult,1.0,2021-06-21,2021-08-11,Toronto Eagles,M
+1972-07-30,49,adult,1.0,2021-01-13,2022-01-28,Ice Sabres,M
+1989-07-11,32,adult,1.0,2020-09-27,2022-02-01,Ice Cougars,F
+1995-02-14,27,adult,1.0,2020-04-14,2021-09-22,Toronto Penguins,F
+1991-02-02,31,adult,1.0,2020-07-01,2020-08-01,Toronto Penguins,F
+1995-07-10,26,adult,1.0,2020-07-25,2021-01-27,Ice Cougars,F
+1986-12-15,35,adult,1.0,2019-10-29,2021-04-21,Toronto Penguins,F
+1998-04-03,24,adult,1.0,2022-01-30,2022-03-15,Ice Sabres,F
+1993-11-22,28,adult,1.0,2022-04-11,2022-05-08,Toronto Eagles,M
+1997-05-26,25,adult,1.0,2019-10-29,2019-11-16,Toronto Penguins,F
+1987-08-06,34,adult,1.0,2021-04-01,2022-04-15,Toronto Eagles,M
+1982-07-31,39,adult,1.0,2019-06-25,2021-06-01,Ice Sabres,M
+1994-07-25,27,adult,1.0,2019-09-24,2020-10-15,Ice Sabres,F
+1991-08-07,30,adult,2.0,2022-04-03,2022-05-30,Cold Colts,M
+1986-03-21,36,adult,2.0,2020-02-21,2022-01-11,Montreal Bruins,M
+1978-06-12,43,adult,2.0,2020-11-15,2021-08-02,Cold Colts,M
+1999-06-06,22,adult,2.0,2021-10-17,2022-04-23,Montreal Raiders,M
+1990-11-17,31,adult,2.0,2022-05-04,2022-05-11,Cold Colts,M
+1999-02-20,23,adult,2.0,2020-03-27,2022-05-08,Ice Bulls,M
+1972-08-11,49,adult,2.0,2019-12-19,2021-10-04,Montreal Bruins,M
+1986-02-05,36,adult,2.0,2021-03-06,2021-07-31,Montreal Raiders,M
+1994-12-24,27,adult,2.0,2021-11-08,2022-02-28,Montreal Bruins,M
+1986-09-07,35,adult,2.0,2022-05-23,2022-05-25,Cold Colts,M
+1986-12-28,35,adult,2.0,2021-08-20,2021-09-16,Montreal Bruins,M
+1984-04-19,38,adult,2.0,2021-01-24,2021-03-24,Montreal Raiders,M
+1980-02-11,42,adult,3.0,2020-09-26,2021-05-27,Calgary Cougars,M
+1991-05-19,31,adult,3.0,2021-06-14,2021-12-02,Calgary Cubs,M
+1975-10-13,46,adult,3.0,2020-05-02,2020-07-19,Calgary Bruins,M
+1992-05-17,30,adult,3.0,2020-01-17,2021-12-27,Calgary Cougars,M
+1995-08-29,26,adult,3.0,2022-01-23,2022-03-13,Calgary Rockets,M
+1986-08-01,35,adult,3.0,2021-02-04,2022-03-17,Calgary Cubs,M
+1985-09-22,36,adult,3.0,2021-08-08,2022-03-17,Calgary Rockets,M
+1998-04-25,24,adult,3.0,2020-01-13,2022-04-08,Calgary Cougars,M
+1978-11-21,43,adult,3.0,2019-10-05,2021-07-24,Calgary Bruins,M
+1987-03-08,35,adult,3.0,2019-11-06,2021-02-17,Calgary Fleur-de-Lys,M
+1991-02-03,31,adult,3.0,2020-03-29,2022-01-27,Cold Huskies,F
+1974-06-14,47,adult,3.0,2020-10-29,2021-04-22,Calgary Cubs,M
+1976-05-16,46,adult,3.0,2019-09-13,2020-11-08,Calgary Bruins,M
+1999-09-26,22,adult,4.0,2021-03-08,2021-09-04,Game of Stones,F
+1983-03-04,39,adult,4.0,2019-12-14,2021-08-20,Game of Stones,F
+1989-08-07,32,adult,4.0,2022-01-10,2022-02-18,Game of Stones,F
+1980-07-29,41,adult,4.0,2019-09-22,2022-02-15,Game of Stones,F
+1998-08-30,23,adult,4.0,2020-07-19,2022-03-26,Ottawa Victorias,M
+1987-03-07,35,adult,4.0,2021-11-03,2022-01-05,Cold Travelways,M
+1994-08-22,27,adult,4.0,2019-11-07,2020-09-15,Cold Travelways,M
+1991-01-24,31,adult,4.0,2019-06-09,2020-02-22,Game of Stones,F
+1975-04-06,47,adult,4.0,2021-10-18,2022-02-17,Cold Travelways,M
+1990-02-11,32,adult,4.0,2022-04-24,2022-05-04,Ottawa Victorias,M
+2000-01-30,22,adult,4.0,2022-01-13,2022-03-12,Ottawa Victorias,M
+1988-09-28,33,adult,4.0,2020-01-12,2021-09-04,Ottawa Victorias,M
+1991-12-30,30,adult,5.0,2021-04-08,2021-10-13,Vancouver Fury,M
+1991-07-09,30,adult,5.0,2021-06-17,2021-07-24,Vancouver Fury,M
+1997-06-10,24,adult,5.0,2021-05-31,2022-03-30,Vancouver Islanders,F
+1978-09-17,43,adult,5.0,2019-07-24,2020-07-06,Vancouver Islanders,F
+1993-01-22,29,adult,5.0,2019-12-29,2021-05-04,Vancouver Islanders,F
+1980-08-25,41,adult,5.0,2021-10-05,2022-04-09,Vancouver Fury,M
+1977-01-28,45,adult,5.0,2021-07-04,2022-03-16,Vancouver Islanders,F
+1979-06-29,42,adult,5.0,2022-05-12,2022-05-22,Vancouver Islanders,F
+1983-01-02,39,adult,5.0,2019-07-23,2020-11-14,Vancouver Fury,M
+1998-01-18,24,adult,5.0,2021-09-18,2021-12-05,Vancouver Islanders,F
+1974-05-08,48,adult,5.0,2021-01-01,2021-01-31,Vancouver Islanders,F
