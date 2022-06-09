@@ -4,6 +4,11 @@ import pandas as pd
 
 def download_names():
 
+    '''
+    function to download and prepare data
+
+    '''
+
     global names_female_2, names_male_2, last_names
    
    # downloading data
@@ -39,6 +44,24 @@ def download_names():
     last_names = np.array(last_names)
 
 def gen_name_to_file(file_name1, file_name2, n):
+    '''
+    function generating first names and last names based on 
+    real names from files 'names_female.csv', 'names_male.csv'
+    and 'last_names.csv' and saving them to new files
+
+    takes
+    -----
+    file_name1 - name of the file to which the first names 
+                 and the last names will be written
+    file_name2 - name of the file to which the first names 
+                 and genders will be written
+    n - how many names to generate for male and female (given in dictionary)
+        e.g. {'Male':30,'Female':20}
+
+    returns
+    -------
+    two csv files with first names, last names and genders
+    '''
 
     genders = list(n.keys())
     genders = sorted(genders)
