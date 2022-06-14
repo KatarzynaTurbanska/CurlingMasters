@@ -1,0 +1,19 @@
+Średnia stawka godzinowa, dla różnych grup zawodowych. Stan na 2022.
+* sprzątaczka: $15 na godzinę,
+* dyrektor: $40.08 na godzinę,
+* team manager/leader: $22.84 na godzinę,
+* lekarz: $37.46 na godzinę,
+* psycholog $33.5 na godzinę,
+* księgowa: $28.78 na godzinę,
+* trener: $25 na godzinę.
+
+Minimalna krajowa w Kanadzie to około $1600 na miesiąc.
+
+W ciągu miesiąca zakładamy maksymalną nieobecność pracownika równą 7 dni.
+
+Maksymalna ilość nadgodzin to 4 dni.
+
+Z prawdopodobieństem 70% pracownik przepracował wszystkie dni robocze w danym miesiącu.
+W pozostałych przypadkach z równym prawdopodobieństwem losujemy dni z zakresu [-7, 4]/{0}.
+
+Dodatkowo zakładamy grudniowe premie dla wszystkich pracowników.
