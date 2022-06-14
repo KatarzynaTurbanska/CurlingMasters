@@ -40,7 +40,7 @@ def random_street(city):
 
     return np.random.choice(streets[city])
 
-def gen_address_to_file(file_name,n):
+def gen_address_to_file(file_name,file_name2,n):
 
     '''
     function generating addresses based on 
@@ -48,7 +48,8 @@ def gen_address_to_file(file_name,n):
 
     takes
     -----
-    file_name - name of the file to which the address will be written
+    file_name - name of the file to which the addresses of players will be written
+    file_name2 - name of the file to which the addresses of facilities will be written
     n - how many addresses to generate foreach city (given in dictionary)
         e.g. {'tornto':5,'ottawa':6,'vancouver':2,'calgary':10,'montreal':1,'random':20}
 
@@ -56,22 +57,29 @@ def gen_address_to_file(file_name,n):
     -------
     csv file with city name, street name and building number
     '''
-
-    cities = ['tornto','ottawa','vancouver','calgary','montreal','random']
+    
+    # Toronto: 1, Montreal: 2, Calgary:3, Ottawa:4, Vancouver: 5
+    cities = ['tornto','ottawa','vancouver','calgary','montreal']
 
     with open(file_name,'w',encoding='utf-8') as file:
         for c in cities:
             for i in range(n[c]):
-                if c == 'random':
-                    fake = Faker(['en-CA'])
-                    address = '{},{},{}\n'.format(fake.city(),fake.street_name(),fake.building_number())
-                    file.write(address)
-                else:
-                    address = '{},{},{}\n'.format(c.capitalize(),random_street(c),np.random.randint(100,10000))
-                    file.write(address)
+                address = '{},{},{}\n'.format(c.capitalize(),random_street(c),np.random.randint(100,10000))
+                file.write(address)
+
+    with open(file_name2,'w',encoding='utf-8') as file2:
+        for c in cities:
+            address = '{},{},{}\n'.format(c.capitalize(),random_street(c),np.random.randint(100,10000))
+            file2.write(address)
+
+        for _ in range(n['random']):
+            fake = Faker(['en-CA'])
+            address = '{},{},{}\n'.format(fake.city(),fake.street_name(),fake.building_number())
+            file2.write(address)
+
 
 if __name__ == '__main__':
     Faker.seed(0)
     download_streets()
-    numbers = {'tornto':66,'ottawa':67,'vancouver':72,'calgary':78,'montreal':87,'random':20}
-    gen_address_to_file('addreses.csv',numbers)
+    numbers = {'tornto':99,'ottawa':104,'vancouver':106,'calgary':113,'montreal':125,'random':99}
+    gen_address_to_file('addreses.csv','facilities.csv',numbers)
