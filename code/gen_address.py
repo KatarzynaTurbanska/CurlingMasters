@@ -35,7 +35,7 @@ def random_street(city):
     street name
     '''
 
-    streets = {'tornto':streets_toronto,'ottawa':streets_ottawa,'vancouver':streets_vancouer,
+    streets = {'toronto':streets_toronto,'ottawa':streets_ottawa,'vancouver':streets_vancouer,
     'calgary':streets_calgary,'montreal':streets_montreal}
 
     return np.random.choice(streets[city])
@@ -59,15 +59,18 @@ def gen_address_to_file(file_name,file_name2,n):
     '''
     
     # Toronto: 1, Montreal: 2, Calgary:3, Ottawa:4, Vancouver: 5
-    cities = ['tornto','ottawa','vancouver','calgary','montreal']
+    cities = ['toronto','ottawa','vancouver','calgary','montreal']
 
     with open(file_name,'w',encoding='utf-8') as file:
+        file.write('city,street,street_number\n')
         for c in cities:
             for i in range(n[c]):
                 address = '{},{},{}\n'.format(c.capitalize(),random_street(c),np.random.randint(100,10000))
                 file.write(address)
 
     with open(file_name2,'w',encoding='utf-8') as file2:
+        file2.write('city','street','street_number\n')
+
         for c in cities:
             address = '{},{},{}\n'.format(c.capitalize(),random_street(c),np.random.randint(100,10000))
             file2.write(address)
@@ -81,5 +84,5 @@ def gen_address_to_file(file_name,file_name2,n):
 if __name__ == '__main__':
     Faker.seed(0)
     download_streets()
-    numbers = {'tornto':99,'ottawa':104,'vancouver':106,'calgary':113,'montreal':125,'random':99}
-    gen_address_to_file('addreses.csv','facilities.csv',numbers)
+    numbers = {'toronto':99,'ottawa':104,'vancouver':106,'calgary':113,'montreal':125,'random':99}
+    gen_address_to_file('../data/addreses.csv','facilities.csv',numbers)
