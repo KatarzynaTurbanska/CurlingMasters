@@ -8,11 +8,11 @@ def download_streets():
     
     global streets_toronto, streets_ottawa, streets_vancouer, streets_calgary, streets_montreal
    
-    streets_toronto = pd.read_csv('streets/streets_toronto.csv',names=['street'],encoding='latin')
-    streets_ottawa = pd.read_csv('streets/streets_ottawa.csv',names=['street'],encoding='latin')
-    streets_vancouer = pd.read_csv('streets/streets_vancouver.csv',names=['street'],encoding='latin')
-    streets_calgary = pd.read_csv('streets/streets_calgary.csv',names=['street'],encoding='latin')
-    streets_montreal = pd.read_csv('streets/streets_montreal.csv',names=['street'],encoding='latin')
+    streets_toronto = pd.read_csv('../data/backup/streets/streets_toronto.csv',names=['street'],encoding='latin')
+    streets_ottawa = pd.read_csv('../data/backup/streets/streets_ottawa.csv',names=['street'],encoding='latin')
+    streets_vancouer = pd.read_csv('../data/backup/streets/streets_vancouver.csv',names=['street'],encoding='latin')
+    streets_calgary = pd.read_csv('../data/backup/streets/streets_calgary.csv',names=['street'],encoding='latin')
+    streets_montreal = pd.read_csv('../data/backup/streets/streets_montreal.csv',names=['street'],encoding='latin')
 
     streets_toronto = np.array(streets_toronto).transpose()[0]
     streets_ottawa = np.array(streets_ottawa).transpose()[0]
