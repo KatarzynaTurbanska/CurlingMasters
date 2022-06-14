@@ -1,0 +1,44 @@
+team_name,facility_id,category,num_of_players,city,street,street_number
+Toronto Eagles,1.0,men,8.0,Toronto,Albani Street,1365.0
+Toronto Olympics,1.0,junior mixed,7.0,Toronto,Albani Street,1365.0
+Ice Sabres,1.0,mixed,7.0,Toronto,Albani Street,1365.0
+Cold Islanders,1.0,junior women,6.0,Toronto,Albani Street,1365.0
+Toronto Penguins,1.0,women,6.0,Toronto,Albani Street,1365.0
+Toronto Rockets,1.0,junior men,7.0,Toronto,Albani Street,1365.0
+Ice Cougars,1.0,women,5.0,Toronto,Albani Street,1365.0
+Cold Colts,2.0,men,6.0,Montreal,Rue Bressani,119.0
+Super Salsa,2.0,junior mixed,8.0,Montreal,Rue Bressani,119.0
+Montreal Bruins,2.0,men,5.0,Montreal,Rue Bressani,119.0
+Ice Bulls,2.0,men,5.0,Montreal,Rue Bressani,119.0
+Ice Unicorns,2.0,junior women,7.0,Montreal,Rue Bressani,119.0
+Montreal Braves,2.0,junior men,6.0,Montreal,Rue Bressani,119.0
+Montreal Vipers,2.0,junior men,8.0,Montreal,Rue Bressani,119.0
+Montreal Raiders,2.0,men,7.0,Montreal,Rue Bressani,119.0
+Montreal Lasers,2.0,junior women,8.0,Montreal,Rue Bressani,119.0
+Baby Broomers,2.0,junior women,5.0,Montreal,Rue Bressani,119.0
+Calgary Cubs,3.0,men,4.0,Calgary,Walden Road South-east,8310.0
+Calgary Metros,3.0,junior women,4.0,Calgary,Walden Road South-east,8310.0
+Stone Mariners,3.0,junior mixed,4.0,Calgary,Walden Road South-east,8310.0
+Cold Huskies,3.0,mixed,8.0,Calgary,Walden Road South-east,8310.0
+Calgary Bruins,3.0,mixed,6.0,Calgary,Walden Road South-east,8310.0
+Calgary Rockets,3.0,men,7.0,Calgary,Walden Road South-east,8310.0
+Calgary Fleur-de-Lys,3.0,men,7.0,Calgary,Walden Road South-east,8310.0
+Ice Huskies,3.0,junior mixed,5.0,Calgary,Walden Road South-east,8310.0
+Rolling Stones,3.0,junior women,4.0,Calgary,Walden Road South-east,8310.0
+Calgary Cougars,3.0,men,4.0,Calgary,Walden Road South-east,8310.0
+Ottawa Victorias,4.0,men,7.0,Ottawa,Hawley Crescent,4678.0
+Game of Stones,4.0,women,4.0,Ottawa,Hawley Crescent,4678.0
+Broom Mets,4.0,junior mixed,7.0,Ottawa,Hawley Crescent,4678.0
+Cold Chinooks,4.0,junior women,7.0,Ottawa,Hawley Crescent,4678.0
+Ottawa Greys,4.0,junior mixed,6.0,Ottawa,Hawley Crescent,4678.0
+Ice Dodgers,4.0,junior mixed,8.0,Ottawa,Hawley Crescent,4678.0
+Ottawa Kiltys,4.0,junior mixed,5.0,Ottawa,Hawley Crescent,4678.0
+Cold Travelways,4.0,men,7.0,Ottawa,Hawley Crescent,4678.0
+Vancouver Fury,5.0,men,8.0,Vancouver,Fir Offramp Street,8615.0
+Curlers Terriers,5.0,junior men,5.0,Vancouver,Fir Offramp Street,8615.0
+Broom Hawks,5.0,junior men,8.0,Vancouver,Fir Offramp Street,8615.0
+Vancouver Islanders,5.0,women,7.0,Vancouver,Fir Offramp Street,8615.0
+Super Lords,5.0,junior men,6.0,Vancouver,Fir Offramp Street,8615.0
+Super Atlantics,5.0,junior women,4.0,Vancouver,Fir Offramp Street,8615.0
+Vancouver Buccaneers,5.0,junior women,6.0,Vancouver,Fir Offramp Street,8615.0
+Stone Timberwolves,5.0,junior mixed,8.0,Vancouver,Fir Offramp Street,8615.0
