@@ -18,7 +18,7 @@ real_names.replace(';', ',')
 real_names.to_csv('real_names.csv', index=False)
 '''
 
-def gen_names(base_file, team, n):
+def gen_names(base_file, team, n, file_name):
     '''
     function generating team names based on 
     real team names from given file and saving them to file
@@ -29,6 +29,7 @@ def gen_names(base_file, team, n):
     base_file - file with some real names for reference
     team - 'home' for our teams and 'opponent' for opponent teams
     n - how many names to generate (min 14)
+    file_name - name of file to save output to
 
     returns
     -------
@@ -44,7 +45,7 @@ def gen_names(base_file, team, n):
     
     if team == 'opponent':
         first_words = real_names['first_word']
-        with open('test2.csv', 'a') as file: #'opponent_team_names.csv'
+        with open(file_name, 'a') as file: 
             file.write('team_name')
             file.write('\n')
             teams = []
@@ -58,7 +59,7 @@ def gen_names(base_file, team, n):
     if team == 'home':
         cities = ['Toronto', 'Montreal', 'Calgary', 'Ottawa', 'Vancouver', 'Toronto', 'Montreal', 'Calgary', 'Ottawa', 'Vancouver'] # we want min 2 teams from 1 city 
         first_words = ['Toronto', 'Montreal', 'Calgary', 'Ottawa', 'Vancouver', 'Broom', 'Stone', 'Ice', 'Cold', 'Curlers', 'Super'] # all possible first parts of team name
-        with open('test1.csv', 'a') as file: #'home_team_names.csv'
+        with open(file_name, 'a') as file: 
             file.write('team_name')
             file.write('\n')
             teams = ['Ice Unicorns', 'Baby Broomers', 'Rolling Stones', 'Game of Stones'] # some names we just had to add because of how lovely they are
@@ -76,11 +77,8 @@ def gen_names(base_file, team, n):
                     teams.append(name)
                     file.write(name)
                     file.write('\n')
-
-    
-
            
 if __name__ == "__main__" :
     # real_names.csv is a list of real Canadian Junior Hockey League team names
-    gen_names('real_team_names.csv', 'home', 43) 
-    gen_names('real_team_names.csv', 'opponent', 100)
+    gen_names('../data/backup/real_team_names.csv', 'home', 43, '../data/backup/home_team_names.csv') 
+    gen_names('../data/backup/real_team_names.csv', 'opponent', 100, '../data/backup/opponent_team_names.csv')

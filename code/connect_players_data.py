@@ -35,7 +35,7 @@ def teams_for_group(teams_group):
     return teams
 
 
-def add_active_to_team(players, teams):
+def add_active_to_team(players, teams, adults_file_name, juniors_file_name):
     '''
     function assigning each ACTIVE player from group
     (either adult or junior) a team and gender
@@ -44,6 +44,7 @@ def add_active_to_team(players, teams):
     -----
     players - previously made dataframe with active players info
     teams - previously made dataframe with teams info
+    adults_file_name, juniors_file_name - names of the files to save results into
 
     returns
     -------
@@ -53,7 +54,6 @@ def add_active_to_team(players, teams):
     
     adults = players[(players['category'] == 'adult')]
     adults.reset_index(inplace=True, drop=True)
-    #print(len(adults))
     juniors = players[(players['category'] == 'junior')]
 
     adult_teams = teams[teams['category'].isin(['men', 'women', 'mixed'])] 
@@ -62,16 +62,15 @@ def add_active_to_team(players, teams):
     junior_teams = junior_teams.sort_values(by=['facility_id', 'category']).reset_index(drop=True)
 
     teams_for_adults = teams_for_group(adult_teams)
-    #print(len(teams_for_adults))
     teams_for_juniors = teams_for_group(junior_teams)
 
     full_adults = adults.join(teams_for_adults, how='outer')
-    full_adults.to_csv('active_adults_teams_v1.csv', index=False)
+    full_adults.to_csv(adults_file_name, index=False)
     full_juniors = juniors.join(teams_for_juniors, how="outer")
-    full_juniors.to_csv('active_juniors_teams_v1.csv', index=False)
+    full_juniors.to_csv(juniors_file_name, index=False)
 
 
-def add_retired_to_team(players, teams):
+def add_retired_to_team(players, teams, adults_file_name, juniors_file_name):
     '''
     function assigning each RETIRED player from group
     (either adult or junior) a team and gender
@@ -80,6 +79,7 @@ def add_retired_to_team(players, teams):
     -----
     players - previously made dataframe with retired players info
     teams - previously made dataframe with teams info
+    adults_file_name, juniors_file_name - names of the files to save results into
 
     returns
     -------
@@ -125,31 +125,31 @@ def add_retired_to_team(players, teams):
             gender = random.choice(['M', 'F'])
         juniors.loc[index, 'gender'] = gender
 
-    adults.to_csv('retired_adults_teams_v1.csv', index=False)
-    juniors.to_csv('retired_juniors_teams_v1.csv', index=False)
+    adults.to_csv(adults_file_name, index=False)
+    juniors.to_csv(juniors_file_name, index=False)
 
 if __name__ == "__main__" :
+    teams = pd.read_csv('../data/backup/home_teams_structure_v1.csv')
     # for active players
     '''
-    teams = pd.read_csv('teams_structure_v2.csv')
-    #print(len(teams['team_name'].unique()))
-    players = pd.read_csv('active_players_v2.csv')
+    players = pd.read_csv('../data/backup/active_players_v2.csv')
     players = players[['birthdate','age','category','facility_id','join_date','retire_date']]
-    add_active_to_team(players, teams)
+    add_active_to_team(players, teams, '../data/backup/active_adults_teams_v1.csv', '../data/backup/active_juniors_teams_v1.csv')
     '''
     # for retired players
     '''
-    teams = pd.read_csv('teams_structure_v2.csv')
-    players = pd.read_csv('retired_players_v2.csv')
+    players = pd.read_csv('../data/backup/retired_players_v2.csv')
     players = players[['birthdate','age','category','facility_id','join_date','retire_date']]
-    add_retired_to_team(players, teams)
+    add_retired_to_team(players, teams, '../data/backup/retired_adults_teams_v1.csv', '../data/backup/retired_juniors_teams_v1.csv')
     '''
     # to connect all togehter
-    active_adult = pd.read_csv('active_adults_teams_v1.csv')
-    active_junior = pd.read_csv('active_juniors_teams_v1.csv')
-    retired_adult = pd.read_csv('retired_adults_teams_v1.csv')
-    retired_junior = pd.read_csv('retired_juniors_teams_v1.csv')
+    
+    active_adult = pd.read_csv('../data/backup/active_adults_teams_v1.csv')
+    active_junior = pd.read_csv('../data/backup/active_juniors_teams_v1.csv')
+    retired_adult = pd.read_csv('../data/backup/retired_adults_teams_v1.csv')
+    retired_junior = pd.read_csv('../data/backup/retired_juniors_teams_v1.csv')
 
     full_players = pd.concat([active_adult,retired_adult,active_junior,retired_junior])
     full_players = full_players.sort_values(by=['facility_id', 'team_name']).reset_index(drop=True)
-    full_players.to_csv('full_players_teams_v1.csv', index=False)
+    full_players.to_csv('../data/backup/full_players_teams_v1.csv', index=False) 
+    

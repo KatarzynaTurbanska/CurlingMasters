@@ -4,8 +4,8 @@ import numpy as np
 
 
 def connect_people():
-    players = pd.read_csv('../data/full_players_teams_v1.csv')
-    employees = pd.read_csv('../data/full_employees_v1.csv')
+    players = pd.read_csv('../data/backup/full_players_teams_v1.csv')
+    employees = pd.read_csv('../data/backup/full_employees_v1.csv')
 
     data = pd.concat([players,employees])
 

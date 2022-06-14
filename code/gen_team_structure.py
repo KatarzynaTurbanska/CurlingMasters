@@ -1,7 +1,7 @@
 import pandas as pd
 import random
 
-def gen_structure(home, template, teams_names, file_name):
+def gen_structure(home, teams_names, file_name):
     '''
     function connecting names of teams, adding in which 
     facility they are, how many members they have and
@@ -11,7 +11,6 @@ def gen_structure(home, template, teams_names, file_name):
     -----
     home[bool] - if true generates structure for home teams
     else for opponents
-    template - csv base file with only id column
     teams_names - csv file with team names
     file_name - name of file we want to save generated data in
 
@@ -20,8 +19,8 @@ def gen_structure(home, template, teams_names, file_name):
     csv file with team structure
 
     '''
-    teams = pd.read_csv(template) 
     names = pd.read_csv(teams_names)['team_name']
+    teams = pd.DataFrame(columns=['team_name'], index=range(len(names)))
     cat = ['junior men', 'junior women', 'junior mixed', 'mixed', 'men', 'women']
     fac = {'Toronto':1, 'Montreal':2, 'Calgary':3, 'Ottawa':4, 'Vancouver':5}
 
@@ -69,7 +68,6 @@ def connect_adresses(home, teams_data, addreses, file_name):
         
     else:
         address = address[5:].reset_index(drop=True)
-        print(address)
         for index, row in teams.iterrows():
             teams.loc[index, 'city'] = address.loc[index, 'city']
             teams.loc[index, 'street'] = address.loc[index, 'street'] 
@@ -81,19 +79,20 @@ def connect_adresses(home, teams_data, addreses, file_name):
 if __name__ == "__main__" :
     # home teams
     '''
-    gen_structure(True, '../data/base_id.csv', '../data/home_team_names.csv', 'home_teams_structure_v1.csv') 
-    connect_adresses(True, '../data/home_teams_structure_v1.csv', '../data/facilities.csv','../data/home_teams_structure_v2.csv')
+    gen_structure(True, '../data/backup/home_team_names.csv', '../data/backup/home_teams_structure_v1.csv') 
+    connect_adresses(True, '../data/backup/home_teams_structure_v1.csv', '../data/addresses_facilities.csv','../data/home_teams_structure_v2.csv')
     '''
     # opponents
     '''
-    gen_structure(False, '../data/base_id.csv', '../data/opponent_team_names.csv', 'opponent_teams_structure_v1.csv') 
-    connect_adresses(False, '../data/opponent_teams_structure_v1.csv', '../data/facilities.csv','../data/opponent_teams_structure_v2.csv')
+    gen_structure(False, '../data/backup/opponent_team_names.csv', '../data/backup/opponent_teams_structure_v1.csv') 
+    connect_adresses(False, '../data/backup/opponent_teams_structure_v1.csv', '../data/addresses_facilities.csv','../data/backup/opponent_teams_structure_v2.csv')
     '''
     # connecting data toogether for full oponents for matches list
+    '''
     home = pd.read_csv('../data/home_teams_structure_v2.csv')
-    opponents = pd.read_csv('../data/opponent_teams_structure_v2.csv')
+    opponents = pd.read_csv('../data/backup/opponent_teams_structure_v2.csv')
     
     full_match_opponents = pd.concat([home, opponents])
     full_match_opponents = full_match_opponents.sort_values(by=['category']).reset_index(drop=True)
-    full_match_opponents.to_csv('../data/full_match_opponents_v1.csv', index=False)
-  
+    full_match_opponents.to_csv('../data/match_opponents_v1.csv', index=False)
+   '''
