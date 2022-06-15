@@ -150,7 +150,7 @@ def finance_history(join_date, position, retire_date, salaries_filename):
             last_day = salaries_dates(join_date, retire_date+relativedelta(months=1))[0]
             workdays = working_days(pd.Timestamp(join_date.year, join_date.month, 1), last_day) + 1
             person_salaries.append(round(reference_salaries_df[str(join_date.year)][position] * (working_days(join_date, retire_date) + 1)/workdays))
-            df = pd.DataFrame(list(zip([last_day], person_salaries)), columns=["date", "salary"])
+            df = pd.DataFrame(list(zip([last_day], person_salaries)), columns=["date", "financial_flow"])
             return df
 
     dates = salaries_dates(join_date, retire_date)
@@ -186,7 +186,7 @@ def finance_history(join_date, position, retire_date, salaries_filename):
         workdays = working_days(dates[-2], dates[-1])
         person_salaries.append(round(reference_salaries_df[str(retire_date.year)][position] * days_to_retire/workdays, 2))
 
-    df = pd.DataFrame(list(zip(dates, person_salaries)), columns=["date", "salary"])
+    df = pd.DataFrame(list(zip(dates, person_salaries)), columns=["date", "financial_flow"])
     return df
 
 def gen_finances(people_filename, salaries_filename, filename):
@@ -219,18 +219,18 @@ def gen_finances(people_filename, salaries_filename, filename):
             else:
                 emp_fin = finance_history(pd.Timestamp(people["join_date"][i]), people["position"][i], pd.Timestamp(people["retire_date"][i]), salaries_filename)
 
-            ids = pd.DataFrame([i]*len(emp_fin), columns=["id"])
+            ids = pd.DataFrame([i]*len(emp_fin), columns=["person_id"])
             ids_fin = pd.concat([ids, emp_fin], axis=1)
             finances = pd.concat([finances, ids_fin])
 
     finances = finances.reset_index(drop=True)
-    finances["salary"] *= -1
-    finances = finances.sort_values(["date", "id"])
+    finances["financial_flow"] *= -1
+    finances = finances.sort_values(["date", "person_id"])
     finances.to_csv(filename, index=False, float_format='%.2f')
 
 if __name__ == "__main__":
     salaries_filename = "../data/backup/reference_salaries.csv"
     #gen_reference_salaries(salaries_filename)
     people_filename = "../data/full_people.csv"
-    filename = "../data/salaries.csv"
+    filename = "../data/backup/salaries.csv"
     gen_finances(people_filename, salaries_filename, filename)

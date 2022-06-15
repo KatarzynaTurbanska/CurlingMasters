@@ -3,8 +3,8 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": -1687.6666666666665,
-    "scrollLeft": -357.6666666666668,
+    "scrollTop": -641.3385416666666,
+    "scrollLeft": -107.33333333333333,
     "zoomLevel": 0.9,
     "show": {
       "tableComment": true,
@@ -885,8 +885,8 @@
             "id": "872caf35-68f6-42ac-a4f6-57b6a1af4469"
           },
           {
-            "name": "salary",
-            "comment": "monthly salary",
+            "name": "financial_flow",
+            "comment": "",
             "dataType": "FLOAT(7, 2)",
             "default": "",
             "option": {
@@ -900,8 +900,8 @@
               "pk": false,
               "fk": false,
               "pfk": false,
-              "widthName": 60,
-              "widthComment": 85.80810546875,
+              "widthName": 80.04443359375,
+              "widthComment": 60,
               "widthDataType": 73.271484375,
               "widthDefault": 60
             },
@@ -909,10 +909,10 @@
           }
         ],
         "ui": {
-          "active": false,
+          "active": true,
           "left": 128.4019,
           "top": 748.1672,
-          "zIndex": 5,
+          "zIndex": 28,
           "widthName": 60,
           "widthComment": 60,
           "color": "#3F51B5"
@@ -1185,7 +1185,7 @@
           {
             "name": "phone",
             "comment": "",
-            "dataType": "INT(9) UNSIGNED",
+            "dataType": "VARCHAR(14)",
             "default": "",
             "option": {
               "autoIncrement": false,
@@ -1200,7 +1200,7 @@
               "pfk": false,
               "widthName": 60,
               "widthComment": 60,
-              "widthDataType": 111.05908203125,
+              "widthDataType": 87.71875,
               "widthDefault": 60
             },
             "id": "5d4ce27c-ee84-42ea-81ad-9c476b6659e2"
@@ -1208,9 +1208,9 @@
         ],
         "ui": {
           "active": false,
-          "left": 523.332,
-          "top": 1843.6706,
-          "zIndex": 1,
+          "left": 529.9985,
+          "top": 1879.504,
+          "zIndex": 26,
           "widthName": 73.56982421875,
           "widthComment": 60
         },
@@ -1555,8 +1555,8 @@
           "columnIds": [
             "cd74bff8-9a45-45ad-b19d-cd9f22f83d69"
           ],
-          "x": 743.676970703125,
-          "y": 1843.6706,
+          "x": 750.343470703125,
+          "y": 1879.504,
           "direction": "top"
         },
         "constraintName": "fk_people_to_phone_book",
@@ -1581,7 +1581,7 @@
           "columnIds": [
             "2163f907-3964-4098-9e3e-edc4b0376be6"
           ],
-          "x": 594.8999468750001,
+          "x": 589.1362750000001,
           "y": 813.4172,
           "direction": "right"
         },
