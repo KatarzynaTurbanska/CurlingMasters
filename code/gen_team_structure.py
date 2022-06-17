@@ -80,7 +80,7 @@ if __name__ == "__main__" :
     # home teams
     '''
     gen_structure(True, '../data/backup/home_team_names.csv', '../data/backup/home_teams_structure_v1.csv') 
-    connect_adresses(True, '../data/backup/home_teams_structure_v1.csv', '../data/addresses_facilities.csv','../data/home_teams_structure_v2.csv')
+    connect_adresses(True, '../data/backup/home_teams_structure_v1.csv', '../data/addresses_facilities.csv','../data/backup/home_teams_structure_v2.csv')
     '''
     # opponents
     '''
@@ -89,7 +89,7 @@ if __name__ == "__main__" :
     '''
     # connecting data toogether for full oponents for matches list
     '''
-    home = pd.read_csv('../data/home_teams_structure_v2.csv')
+    home = pd.read_csv('../data/backup/home_teams_structure_v2.csv')
     opponents = pd.read_csv('../data/backup/opponent_teams_structure_v2.csv')
     
     full_match_opponents = pd.concat([home, opponents])

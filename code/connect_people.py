@@ -13,6 +13,7 @@ def connect_people():
     data.reset_index(inplace=True)
 
     data = data.iloc[:,1:12]
+    data.index.name = 'person_id'
     data.to_csv('../data/full_people.csv')
 
 if __name__ == '__main__':

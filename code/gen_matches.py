@@ -94,13 +94,13 @@ def gen_matches_to_file(file_name):
     id of the lead, the second, the vice and the skip
     '''
 
-    dates = np.array(pd.date_range('2019-06-01','2022-05-31',freq='D').strftime("%Y-%m-%d").tolist())
+    dates = np.array(pd.date_range('2019-06-01','2022-05-30',freq='D').strftime("%Y-%m-%d").tolist())
     lockdown_dates = np.array(pd.date_range('2020-03-01','2020-06-30',freq='D').strftime("%Y-%m-%d").tolist())
     dates2 = np.setdiff1d(dates,lockdown_dates,assume_unique=True)
 
     with open(file_name,'w') as file:
 
-        file.write('team_name,date,address_id,opponent_name,team_score,opponent_score,number_of_ends,number_of_ends_won,lead,second,vice,skip\n')
+        file.write('team_name,date,address_id,opponent_name,team_score,opponent_score,number_of_ends,number_of_ends_won,lead_id,second_id,vice_id,skip_id\n')
 
         for index, row in home.iterrows():
             team = row['team_name']
@@ -109,11 +109,12 @@ def gen_matches_to_file(file_name):
 
             team_players = players[players['team_name']==team]
 
-            n = np.random.randint(12,37)
-            i = 0
-            while i < n:
+            n = np.random.randint(20,45)
+            n_dates = np.random.choice(dates2,size=n,replace=False)
+            
+            for i in range(n):
 
-                date = np.random.choice(dates2)
+                date = n_dates[i]
                 cond = ((team_players['join_date'] <= date) & ((team_players['retire_date'] >= date) | (team_players['retire_date'].isnull())))
                 team_active = team_players[cond]
 
@@ -154,7 +155,7 @@ def gen_matches_to_file(file_name):
                         match = '{},{},{},{},{},{},{},{},{},{},{},{}\n'.format(opponent_name,date,address_id,team,opponent_score,team_score,n_ends,n_ends-n_wins,lineup[0],lineup[1],lineup[2],lineup[3])
                         file.write(match)
 
-                    i += 1
+                    
 
 
 if  __name__ == "__main__":

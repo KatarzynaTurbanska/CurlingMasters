@@ -3,8 +3,8 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": -240.33854166666652,
-    "scrollLeft": -192,
+    "scrollTop": -1106,
+    "scrollLeft": -879,
     "zoomLevel": 0.8,
     "show": {
       "tableComment": true,
@@ -319,9 +319,9 @@
         ],
         "ui": {
           "active": false,
-          "left": 1422.2004,
-          "top": 1225.5511,
-          "zIndex": 8,
+          "left": 1413.9504,
+          "top": 1722,
+          "zIndex": 139,
           "widthName": 60,
           "widthComment": 60,
           "color": "#FF9800"
@@ -451,9 +451,9 @@
         ],
         "ui": {
           "active": false,
-          "left": 90.3817,
-          "top": 112.9661,
-          "zIndex": 6,
+          "left": 19.2706,
+          "top": 199.6327,
+          "zIndex": 129,
           "widthName": 60,
           "widthComment": 60,
           "color": "#159790"
@@ -602,97 +602,11 @@
               "widthDefault": 60
             },
             "id": "a664fe64-83e1-4092-8717-2cad28e49ea7"
-          }
-        ],
-        "ui": {
-          "active": false,
-          "left": 799.2783,
-          "top": 317.4058,
-          "zIndex": 5,
-          "widthName": 60,
-          "widthComment": 60,
-          "color": "#E91E63"
-        },
-        "visible": true,
-        "id": "5984d0df-d1bd-4b1a-a2c8-304772ba799d"
-      },
-      {
-        "name": "schedule",
-        "comment": "",
-        "columns": [
-          {
-            "name": "team_name",
-            "comment": "",
-            "dataType": "VARCHAR(20)",
-            "default": "",
-            "option": {
-              "autoIncrement": false,
-              "primaryKey": true,
-              "unique": false,
-              "notNull": true
-            },
-            "ui": {
-              "active": false,
-              "pk": false,
-              "fk": false,
-              "pfk": true,
-              "widthName": 70.64990234375,
-              "widthComment": 60,
-              "widthDataType": 87.71875,
-              "widthDefault": 60
-            },
-            "id": "06778908-449f-4603-952c-b5e9b8c1c0e2"
           },
           {
-            "name": "date",
+            "name": "number_of_ends",
             "comment": "",
-            "dataType": "DATE",
-            "default": "",
-            "option": {
-              "autoIncrement": false,
-              "primaryKey": true,
-              "unique": false,
-              "notNull": true
-            },
-            "ui": {
-              "active": false,
-              "pk": true,
-              "fk": false,
-              "pfk": false,
-              "widthName": 60,
-              "widthComment": 60,
-              "widthDataType": 60,
-              "widthDefault": 60
-            },
-            "id": "8caf148f-1f8f-49bf-a8f1-231885dc10bb"
-          },
-          {
-            "name": "address_id",
-            "comment": "",
-            "dataType": "SMALLINT(5) UNSIGNED",
-            "default": "",
-            "option": {
-              "autoIncrement": false,
-              "primaryKey": false,
-              "unique": false,
-              "notNull": true
-            },
-            "ui": {
-              "active": false,
-              "pk": false,
-              "fk": true,
-              "pfk": false,
-              "widthName": 65.59716796875,
-              "widthComment": 60,
-              "widthDataType": 153.68994140625,
-              "widthDefault": 60
-            },
-            "id": "749424cc-bd3c-454c-a99d-c58c9aa50f1a"
-          },
-          {
-            "name": "opponent_name",
-            "comment": "",
-            "dataType": "VARCHAR(5)",
+            "dataType": "TINYINT UNSIGNED",
             "default": "",
             "option": {
               "autoIncrement": false,
@@ -705,25 +619,48 @@
               "pk": false,
               "fk": false,
               "pfk": false,
-              "widthName": 95.970703125,
+              "widthName": 99.56982421875,
               "widthComment": 60,
-              "widthDataType": 80.48876953125,
+              "widthDataType": 124.78271484375,
               "widthDefault": 60
             },
-            "id": "76e2954e-3cc3-4b07-9730-b0bf939eec6e"
+            "id": "fbc99174-4769-47f6-84cb-72219c002312"
+          },
+          {
+            "name": "number_of_ends_won",
+            "comment": "",
+            "dataType": "TINYINT UNSIGNED",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": false,
+              "unique": false,
+              "notNull": false
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": false,
+              "widthName": 130.64794921875,
+              "widthComment": 60,
+              "widthDataType": 124.78271484375,
+              "widthDefault": 60
+            },
+            "id": "49ea7956-fdd8-4e8c-b247-de84da728545"
           }
         ],
         "ui": {
           "active": false,
-          "left": 1406.6704,
-          "top": 551.9605,
-          "zIndex": 9,
+          "left": 1062.8336,
+          "top": 541.7946,
+          "zIndex": 136,
           "widthName": 60,
           "widthComment": 60,
-          "color": "#9C27B0"
+          "color": "#E91E63"
         },
         "visible": true,
-        "id": "7675c01d-009a-43e7-b3b1-8e2368d8769f"
+        "id": "5984d0df-d1bd-4b1a-a2c8-304772ba799d"
       },
       {
         "name": "address",
@@ -824,9 +761,9 @@
         ],
         "ui": {
           "active": false,
-          "left": 806.3166,
-          "top": 775.7221,
-          "zIndex": 3,
+          "left": 792.0666,
+          "top": 901.7221,
+          "zIndex": 143,
           "widthName": 60,
           "widthComment": 60,
           "color": "#FFEB3B"
@@ -996,9 +933,9 @@
         ],
         "ui": {
           "active": false,
-          "left": 807.7597,
-          "top": 69.4999,
-          "zIndex": 7,
+          "left": 1103.0933,
+          "top": 88.8332,
+          "zIndex": 133,
           "widthName": 60,
           "widthComment": 60,
           "color": "#F44336"
@@ -1216,6 +1153,92 @@
         },
         "visible": true,
         "id": "64de4ac2-7167-4103-9d9f-cdfd7cf3d612"
+      },
+      {
+        "name": "positions",
+        "comment": "",
+        "columns": [
+          {
+            "name": "date",
+            "comment": "",
+            "dataType": "DATE",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": true,
+              "unique": false,
+              "notNull": true
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": true,
+              "widthName": 60,
+              "widthComment": 60,
+              "widthDataType": 60,
+              "widthDefault": 60
+            },
+            "id": "fa4f1c9d-dbb3-493b-aa7f-bef666463e4d"
+          },
+          {
+            "name": "person_id",
+            "comment": "",
+            "dataType": "SMALLINT(5) UNSIGNED",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": true,
+              "unique": false,
+              "notNull": true
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": true,
+              "widthName": 60,
+              "widthComment": 60,
+              "widthDataType": 153.68994140625,
+              "widthDefault": 60
+            },
+            "id": "842d52ca-1b4d-46a1-a1b4-78325b6b3872"
+          },
+          {
+            "name": "position",
+            "comment": "",
+            "dataType": "ENUM(lead,second,vice,skip)",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": false,
+              "unique": false,
+              "notNull": false
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": false,
+              "widthName": 60,
+              "widthComment": 60,
+              "widthDataType": 172.50439453125,
+              "widthDefault": 60
+            },
+            "id": "5af0c888-95ff-4218-9955-c21d0ec0c83a"
+          }
+        ],
+        "ui": {
+          "active": false,
+          "left": 1230.4956,
+          "top": 1196.8385,
+          "zIndex": 142,
+          "widthName": 60,
+          "widthComment": 60,
+          "color": "#84FF00"
+        },
+        "visible": true,
+        "id": "46795e55-20b5-47f7-bf85-3e5242947c70"
       }
     ],
     "indexes": []
@@ -1234,8 +1257,8 @@
           "columnIds": [
             "32c11cf5-233e-47d4-b5a3-ea014222e27f"
           ],
-          "x": 596.668809375,
-          "y": 155.84109999999998,
+          "x": 525.5577093750001,
+          "y": 242.5077,
           "direction": "right"
         },
         "end": {
@@ -1243,8 +1266,8 @@
           "columnIds": [
             "8c4b67de-a92c-45b1-b8b2-5428b0a06172"
           ],
-          "x": 807.7597,
-          "y": 134.7499,
+          "x": 1103.0933,
+          "y": 154.0832,
           "direction": "left"
         },
         "constraintName": "fk_facility_to_teams",
@@ -1260,8 +1283,8 @@
           "columnIds": [
             "ea20ec26-00ce-404d-8eb1-d39d814f6f9d"
           ],
-          "x": 1033.792430078125,
-          "y": 926.7221,
+          "x": 1019.542430078125,
+          "y": 1052.7221,
           "direction": "bottom"
         },
         "end": {
@@ -1286,8 +1309,8 @@
           "columnIds": [
             "ea20ec26-00ce-404d-8eb1-d39d814f6f9d"
           ],
-          "x": 1261.26826015625,
-          "y": 888.9721,
+          "x": 1247.01826015625,
+          "y": 1014.9721,
           "direction": "right"
         },
         "end": {
@@ -1295,9 +1318,9 @@
           "columnIds": [
             "14330604-da83-4214-a2cf-3351fa52dea9"
           ],
-          "x": 1422.2004,
-          "y": 1273.5511,
-          "direction": "left"
+          "x": 1639.6203218749997,
+          "y": 1722,
+          "direction": "top"
         },
         "constraintName": "fk_address_to_players",
         "visible": true,
@@ -1312,8 +1335,8 @@
           "columnIds": [
             "ea20ec26-00ce-404d-8eb1-d39d814f6f9d"
           ],
-          "x": 806.3166,
-          "y": 851.2221,
+          "x": 792.0666,
+          "y": 977.2221,
           "direction": "left"
         },
         "end": {
@@ -1321,8 +1344,8 @@
           "columnIds": [
             "42a24335-4cdc-45c0-92cf-23258f19ed6d"
           ],
-          "x": 596.668809375,
-          "y": 241.59109999999998,
+          "x": 525.5577093750001,
+          "y": 328.2577,
           "direction": "right"
         },
         "constraintName": "fk_address_to_facility",
@@ -1338,17 +1361,17 @@
           "columnIds": [
             "815b4049-9574-46d2-b61c-cbaab8a0d99f"
           ],
-          "x": 1593.82610625,
-          "y": 167.3749,
-          "direction": "right"
+          "x": 1692.6431046875,
+          "y": 219.3332,
+          "direction": "bottom"
         },
         "end": {
           "tableId": "210e4465-2568-4886-bcfb-febf0e38ea76",
           "columnIds": [
             "41ba7c60-b58e-40c3-9fe5-976c4c33be46"
           ],
-          "x": 1647.870321875,
-          "y": 1225.5511,
+          "x": 1790.066936458333,
+          "y": 1722,
           "direction": "top"
         },
         "constraintName": "fk_teams_to_players",
@@ -1364,34 +1387,8 @@
           "columnIds": [
             "815b4049-9574-46d2-b61c-cbaab8a0d99f"
           ],
-          "x": 1593.82610625,
-          "y": 102.1249,
-          "direction": "right"
-        },
-        "end": {
-          "tableId": "7675c01d-009a-43e7-b3b1-8e2368d8769f",
-          "columnIds": [
-            "06778908-449f-4603-952c-b5e9b8c1c0e2"
-          ],
-          "x": 1645.000722265625,
-          "y": 551.9605,
-          "direction": "top"
-        },
-        "constraintName": "fk_teams_to_schedule",
-        "visible": true,
-        "id": "93102858-9052-401f-ae6c-04ad2f2c485c"
-      },
-      {
-        "identification": true,
-        "relationshipType": "ZeroN",
-        "startRelationshipType": "Dash",
-        "start": {
-          "tableId": "b20973df-d058-44c9-882b-2c6f9f4d2f79",
-          "columnIds": [
-            "815b4049-9574-46d2-b61c-cbaab8a0d99f"
-          ],
-          "x": 1200.792903125,
-          "y": 199.9999,
+          "x": 1299.6099015625,
+          "y": 219.3332,
           "direction": "bottom"
         },
         "end": {
@@ -1399,8 +1396,8 @@
           "columnIds": [
             "0f84512c-5598-4f47-b81e-4f67eefdacdf"
           ],
-          "x": 1037.608622265625,
-          "y": 317.4058,
+          "x": 1318.5025453125,
+          "y": 541.7946,
           "direction": "top"
         },
         "constraintName": "fk_teams_to_matches",
@@ -1416,43 +1413,17 @@
           "columnIds": [
             "ea20ec26-00ce-404d-8eb1-d39d814f6f9d"
           ],
-          "x": 1261.26826015625,
-          "y": 813.4721,
+          "x": 1247.01826015625,
+          "y": 939.4721,
           "direction": "right"
-        },
-        "end": {
-          "tableId": "7675c01d-009a-43e7-b3b1-8e2368d8769f",
-          "columnIds": [
-            "749424cc-bd3c-454c-a99d-c58c9aa50f1a"
-          ],
-          "x": 1406.6704,
-          "y": 627.4605,
-          "direction": "left"
-        },
-        "constraintName": "fk_address_to_schedule",
-        "visible": true,
-        "id": "05f7441c-fc73-4aca-8ec3-ac69589367cc"
-      },
-      {
-        "identification": false,
-        "relationshipType": "ZeroN",
-        "startRelationshipType": "Dash",
-        "start": {
-          "tableId": "58e97025-354d-4e5e-86e5-6041e64bf2e9",
-          "columnIds": [
-            "ea20ec26-00ce-404d-8eb1-d39d814f6f9d"
-          ],
-          "x": 1033.792430078125,
-          "y": 775.7221,
-          "direction": "top"
         },
         "end": {
           "tableId": "5984d0df-d1bd-4b1a-a2c8-304772ba799d",
           "columnIds": [
             "c80f0ce0-e0f4-4c70-80f6-e717fbd78c5e"
           ],
-          "x": 1037.608622265625,
-          "y": 509.4058,
+          "x": 1190.66807265625,
+          "y": 774.7946,
           "direction": "bottom"
         },
         "constraintName": "fk_address_to_matches",
@@ -1503,8 +1474,8 @@
           "columnIds": [
             "229430ba-10ee-42ff-8ef5-d6b54b39ac79"
           ],
-          "x": 1422.2004,
-          "y": 1369.5511,
+          "x": 1413.9504,
+          "y": 1818,
           "direction": "left"
         },
         "constraintName": "fk_people_to_players",
@@ -1588,6 +1559,58 @@
         "constraintName": "fk_employees_to_finances",
         "visible": true,
         "id": "b9f127fe-5037-4a0b-88b9-37221258ff74"
+      },
+      {
+        "identification": true,
+        "relationshipType": "ZeroN",
+        "startRelationshipType": "Dash",
+        "start": {
+          "tableId": "210e4465-2568-4886-bcfb-febf0e38ea76",
+          "columnIds": [
+            "229430ba-10ee-42ff-8ef5-d6b54b39ac79"
+          ],
+          "x": 1489.1737072916665,
+          "y": 1722,
+          "direction": "top"
+        },
+        "end": {
+          "tableId": "46795e55-20b5-47f7-bf85-3e5242947c70",
+          "columnIds": [
+            "842d52ca-1b4d-46a1-a1b4-78325b6b3872"
+          ],
+          "x": 1460.247797265625,
+          "y": 1327.3385,
+          "direction": "bottom"
+        },
+        "constraintName": "fk_players_to_positions",
+        "visible": true,
+        "id": "fd3359f0-56a4-4876-943a-d61aedf2e139"
+      },
+      {
+        "identification": true,
+        "relationshipType": "ZeroN",
+        "startRelationshipType": "Dash",
+        "start": {
+          "tableId": "5984d0df-d1bd-4b1a-a2c8-304772ba799d",
+          "columnIds": [
+            "15fe5fcf-296f-49c8-91f7-14d03180c256"
+          ],
+          "x": 1446.33701796875,
+          "y": 774.7946,
+          "direction": "bottom"
+        },
+        "end": {
+          "tableId": "46795e55-20b5-47f7-bf85-3e5242947c70",
+          "columnIds": [
+            "fa4f1c9d-dbb3-493b-aa7f-bef666463e4d"
+          ],
+          "x": 1460.247797265625,
+          "y": 1196.8385,
+          "direction": "top"
+        },
+        "constraintName": "fk_matches_to_positions",
+        "visible": true,
+        "id": "1fc4ffc2-8470-4d92-b158-544ca06fd1ec"
       }
     ]
   }
