@@ -4,14 +4,11 @@ import pandas as pd
 
 def gen_ranking_to_file():
 
-    home = pd.read_csv('../data/home_team_names.csv')
-    opponent = pd.read_csv('../data/opponent_team_names.csv')
+    teams = pd.read_csv('../data/match_opponents_v1.csv')
 
-    home['ranking'] = np.random.randint(1,100,len(home))
-    opponent['ranking'] = np.random.randint(1,100,len(opponent))
+    teams['ranking'] = np.random.randint(1,100,len(teams))
     
-    #home.to_csv('../data/home_team_names2.csv')
-    #opponent.to_csv('../data/opponent_team_names2.csv')
+    teams.to_csv('../data/match_opponents_v2.csv')
 
 
 if __name__ == '__main__':
