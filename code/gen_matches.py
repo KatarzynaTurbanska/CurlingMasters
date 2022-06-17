@@ -160,4 +160,4 @@ def gen_matches_to_file(file_name):
 if  __name__ == "__main__":
     download_data()
 
-    gen_matches_to_file('../data/matches.csv')
+    gen_matches_to_file('../data/full_matches.csv')
