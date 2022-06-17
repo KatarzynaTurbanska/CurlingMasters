@@ -1,0 +1,143 @@
+,address_id,city,street,street_number,team_name,facility_id,category,num_of_players,ranking
+0,0,Toronto,Albani Street,1365,Toronto Rockets,1.0,junior men,7.0,17
+1,0,Toronto,Albani Street,1365,Toronto Olympics,1.0,junior mixed,7.0,77
+2,0,Toronto,Albani Street,1365,Cold Islanders,1.0,junior women,6.0,77
+3,0,Toronto,Albani Street,1365,Toronto Eagles,1.0,men,8.0,7
+4,0,Toronto,Albani Street,1365,Ice Sabres,1.0,mixed,7.0,5
+5,0,Toronto,Albani Street,1365,Toronto Penguins,1.0,women,6.0,87
+6,0,Toronto,Albani Street,1365,Ice Cougars,1.0,women,5.0,19
+7,1,Ottawa,Hawley Crescent,4678,Ottawa Kiltys,4.0,junior mixed,5.0,55
+8,1,Ottawa,Hawley Crescent,4678,Ice Dodgers,4.0,junior mixed,8.0,40
+9,1,Ottawa,Hawley Crescent,4678,Broom Mets,4.0,junior mixed,7.0,23
+10,1,Ottawa,Hawley Crescent,4678,Ottawa Greys,4.0,junior mixed,6.0,66
+11,1,Ottawa,Hawley Crescent,4678,Cold Chinooks,4.0,junior women,7.0,14
+12,1,Ottawa,Hawley Crescent,4678,Cold Travelways,4.0,men,7.0,34
+13,1,Ottawa,Hawley Crescent,4678,Ottawa Victorias,4.0,men,7.0,43
+14,1,Ottawa,Hawley Crescent,4678,Game of Stones,4.0,women,4.0,96
+15,2,Vancouver,Fir Offramp Street,8615,Super Lords,5.0,junior men,6.0,14
+16,2,Vancouver,Fir Offramp Street,8615,Broom Hawks,5.0,junior men,8.0,86
+17,2,Vancouver,Fir Offramp Street,8615,Curlers Terriers,5.0,junior men,5.0,71
+18,2,Vancouver,Fir Offramp Street,8615,Stone Timberwolves,5.0,junior mixed,8.0,94
+19,2,Vancouver,Fir Offramp Street,8615,Super Atlantics,5.0,junior women,4.0,99
+20,2,Vancouver,Fir Offramp Street,8615,Vancouver Buccaneers,5.0,junior women,6.0,11
+21,2,Vancouver,Fir Offramp Street,8615,Vancouver Fury,5.0,men,8.0,94
+22,2,Vancouver,Fir Offramp Street,8615,Vancouver Islanders,5.0,women,7.0,2
+23,3,Calgary,Walden Road South-east,8310,Stone Mariners,3.0,junior mixed,4.0,3
+24,3,Calgary,Walden Road South-east,8310,Ice Huskies,3.0,junior mixed,5.0,1
+25,3,Calgary,Walden Road South-east,8310,Calgary Metros,3.0,junior women,4.0,90
+26,3,Calgary,Walden Road South-east,8310,Rolling Stones,3.0,junior women,4.0,91
+27,3,Calgary,Walden Road South-east,8310,Calgary Cougars,3.0,men,4.0,47
+28,3,Calgary,Walden Road South-east,8310,Calgary Cubs,3.0,men,4.0,48
+29,3,Calgary,Walden Road South-east,8310,Calgary Fleur-de-Lys,3.0,men,7.0,51
+30,3,Calgary,Walden Road South-east,8310,Calgary Rockets,3.0,men,7.0,99
+31,3,Calgary,Walden Road South-east,8310,Cold Huskies,3.0,mixed,8.0,75
+32,3,Calgary,Walden Road South-east,8310,Calgary Bruins,3.0,mixed,6.0,88
+33,4,Montreal,Rue Bressani,119,Montreal Vipers,2.0,junior men,8.0,74
+34,4,Montreal,Rue Bressani,119,Montreal Braves,2.0,junior men,6.0,93
+35,4,Montreal,Rue Bressani,119,Super Salsa,2.0,junior mixed,8.0,71
+36,4,Montreal,Rue Bressani,119,Baby Broomers,2.0,junior women,5.0,14
+37,4,Montreal,Rue Bressani,119,Montreal Lasers,2.0,junior women,8.0,72
+38,4,Montreal,Rue Bressani,119,Ice Unicorns,2.0,junior women,7.0,62
+39,4,Montreal,Rue Bressani,119,Montreal Raiders,2.0,men,7.0,12
+40,4,Montreal,Rue Bressani,119,Ice Bulls,2.0,men,5.0,26
+41,4,Montreal,Rue Bressani,119,Montreal Bruins,2.0,men,5.0,93
+42,4,Montreal,Rue Bressani,119,Cold Colts,2.0,men,6.0,80
+43,5,Changchester,Jonathan Pass,6475,Port Hope Islanders,,junior men,,29
+44,6,New Donald,Katelyn River,8924,Cape Breton Lumberjacks,,junior mixed,,71
+45,7,Lake Charlesmouth,Castro Knoll,5938,Southeast Nationals,,junior mixed,,40
+46,8,Ramoshaven,Brown Plaza,16097,Peterborough Bearcats,,junior mixed,,45
+47,9,Johnmouth,James Port,32871,Trail Smoke Remparts,,mixed,,66
+48,10,West Nancyfort,Kevin Highway,185,Melfort Bruins,,men,,37
+49,11,Port Carrie,Wallace Ranch,5934,Penticton Chiefs,,junior men,,35
+50,12,East Lori,Chloe Shoals,7112,Kanata Valley Vipers,,women,,11
+51,13,North Megan,Massey Pine,8339,Halifax Team Leafs,,women,,74
+52,14,Rileymouth,Keller Squares,1591,Battleford Greys,,junior mixed,,93
+53,15,Matthewsmouth,John Street,1352,Elliot Lake Wings,,women,,87
+54,16,Ronaldton,Krista Walk,309,Bancroft Waxers,,women,,97
+55,17,North Davidborough,Peter Land,9032,Brandon Warriors,,junior mixed,,56
+56,18,South Jasonton,Amy River,41314,Mississauga Cougars,,junior women,,3
+57,19,Ryanton,Williams Courts,634,Rosemont Bears,,junior men,,20
+58,20,Rebeccafort,Heidi Ford,22584,Dartmouth Oland Thunderbirds,,women,,21
+59,21,New Sandraburgh,Thomas Lodge,845,Victoria Thunder,,men,,58
+60,22,Monroeview,Ann Bridge,1508,Ste. Agathe Flyers,,junior men,,82
+61,23,Dennisfort,Bishop Spring,9924,Laval Rousseau 77's,,junior women,,99
+62,24,Goodmanland,Brooke Square,2337,Sidney Terriers,,junior mixed,,2
+63,25,Pageshire,Johnson Well,960,Chateauguay Canucks,,men,,82
+64,26,South Caleb,Sean Oval,900,Wexford Beehives,,junior mixed,,23
+65,27,Nguyenmouth,Lisa Wells,3812,Burlington Stampeders,,mixed,,17
+66,28,South Stefaniechester,Smith Bridge,89,Thunder Bay Thunder,,women,,68
+67,29,East Davidborough,Ramirez Falls,76104,Richmond Hill Mets,,mixed,,78
+68,30,Marshville,Anderson Pike,512,Peterborough Jr. Patriots,,women,,81
+69,31,Melissaton,Jamie Green,559,Thunder Bay Dogs,,men,,49
+70,32,Port Karafort,Bowman Landing,236,Williams Lake Vulcans,,junior mixed,,58
+71,33,Alanberg,Cook Turnpike,1590,Iron Range Penguins,,mixed,,59
+72,34,West Frankshire,Ward Plaza,41730,Markham Rebels,,junior women,,34
+73,35,Haydenhaven,Kevin Village,4611,Sidney Eagles,,men,,76
+74,36,Wellsmouth,Timothy Squares,6045,Thunder Bay Eaters,,junior women,,62
+75,37,East Courtney,Drake Route,11330,Halifax Oland Vikings,,mixed,,52
+76,38,Smithfurt,West Overpass,361,Espanola Screaming Crystals,,junior mixed,,39
+77,39,Jeffreyview,Ryan Knolls,10873,Charlottetown Schooners,,mixed,,98
+78,40,South Raymondborough,Wendy Union,92137,Kindersley Warriors,,women,,32
+79,41,Wardberg,Vanessa Oval,96687,Dartmouth Crunch,,junior women,,26
+80,42,Marthafort,Amy Forges,55508,Vancouver Jr. Terriers,,men,,9
+81,43,Port Jonathan,Megan Prairie,7118,Temiscaming Hawks,,junior women,,62
+82,44,North Jeffreyton,Smith Vista,5227,Thunder Bay Panthers,,junior mixed,,14
+83,45,Williamhaven,Audrey Springs,916,Prince Albert Marrs,,junior men,,42
+84,46,West Amanda,Petersen Orchard,9930,Steinbach Oilers,,men,,34
+85,47,Lake Hunterhaven,Cook Park,4666,Halifax Flames,,women,,92
+86,48,East Danielleberg,Justin Village,76,Halifax A's,,women,,43
+87,49,South Pamela,Emily Drive,6097,North Sydney Spitfires,,junior mixed,,46
+88,50,Ellisville,Osborne Brooks,99251,Ajax Sports,,junior mixed,,27
+89,51,Jamesfort,Nicole Ridge,795,Richmond Hill Tondas,,women,,70
+90,52,Lake Jenniferport,Susan Loaf,1830,Ottawa Crunch,,junior women,,8
+91,53,Wallaceborough,Kelly Roads,740,Toronto 73's,,junior women,,86
+92,54,East Clayton,Hunter Crescent,69611,Saskatoon Rams,,junior mixed,,84
+93,55,Brownchester,Jessica Burgs,6607,Markham Rockets,,mixed,,49
+94,56,Jenniferland,Jones Knolls,55,Thetford Mines Blizzard,,junior men,,41
+95,57,North Maria,Lori Cliffs,230,New Waterford Pack,,junior mixed,,29
+96,58,Lake Emily,Julie Hill,932,Canmore Rats,,men,,2
+97,59,South Daniel,Zimmerman Green,3557,Thunder Bay Patriots,,junior men,,28
+98,60,Kennethside,White Common,89426,Villanova Terriers,,junior women,,25
+99,61,East Linda,Romero Freeway,45602,Pierrefonds Canadians,,women,,99
+100,62,South Christianland,Robert Plaza,2964,Hamilton Tigers,,junior women,,56
+101,63,Christophermouth,Walsh Pines,66065,Moncton Legionaires,,men,,30
+102,64,Harrisport,Davis Ferry,41892,Vancouver Canadiens,,junior women,,71
+103,65,Hebertburgh,Reynolds Gateway,5825,Winnipeg Beehives,,junior mixed,,48
+104,66,Welchland,Fischer Hill,79703,Vancouver Flyers,,junior women,,51
+105,67,Dannyport,Roger Terrace,1738,Edmonton Maple Predators,,junior men,,97
+106,68,Ramireztown,Joseph Skyway,4689,Vernon Crystals,,junior women,,85
+107,69,Wallaceview,Campbell Throughway,391,Sudbury Jets,,men,,27
+108,70,North Lauraport,Wilson Wall,21644,Calgary Marauders,,mixed,,18
+109,71,New Alexandra,Amanda Loop,864,Thornhill Caribous,,women,,27
+110,72,Scottshire,Eric Square,66972,Yorkton Indians,,men,,68
+111,73,Michaelfort,Robinson Overpass,857,Thunder Bay Flames,,mixed,,98
+112,74,South Kevinfort,Paige Forge,57608,Port-aux-Basques Buccaneers,,junior mixed,,53
+113,75,Lake Michellefurt,Michael Crescent,44,New Westminster Thunder,,mixed,,78
+114,76,East Karen,Lee Mews,5625,Whitby Lakers,,men,,60
+115,77,Wongchester,Seth Station,85232,Lanark Festivals,,junior mixed,,54
+116,78,Baileyfurt,Roman Loaf,337,Halifax Oland Centennials,,junior mixed,,56
+117,79,New Jennifer,Johnson Roads,25023,Pembroke Lumber Bears,,junior men,,99
+118,80,Cheyennehaven,Wise Knoll,7088,Thunder Bay Thunderbirds,,women,,26
+119,81,Carpenterfort,Padilla Forge,4000,Brockville Spirit,,mixed,,19
+120,82,West Adam,Donald Turnpike,3968,Oswego Cougars,,junior mixed,,33
+121,83,South James,Catherine Corner,5875,North York Capitals,,junior women,,57
+122,84,Anthonyton,Miguel Fords,533,Windsor Royals,,men,,97
+123,85,Emilyport,Black Lights,7530,Sherwood Park Grads,,junior mixed,,69
+124,86,Sarahland,Steven Stream,677,Cape Breton Rustlers,,junior women,,41
+125,87,Wilsonland,Corey Track,63791,South Surrey Canadians,,junior women,,40
+126,88,Hansenfurt,Susan Gateway,3245,Niagara Falls Filons,,junior men,,76
+127,89,Virginiaville,Bishop Turnpike,47897,Williams Lake Warriors,,junior mixed,,77
+128,90,Josephtown,Christina Station,26334,Langley Hawks,,junior mixed,,10
+129,91,Lake Amandachester,David Rue,1953,La Salle Eagles,,junior women,,44
+130,92,Jeffreybury,April Spring,3574,Toronto Wild,,women,,69
+131,93,East Lisa,Richardson Roads,26228,Humboldt Vipers,,mixed,,51
+132,94,East Kathyfort,Joe Curve,65992,Aurora Chiefs,,junior women,,63
+133,95,Lesterville,Alicia Knolls,7403,Fort Garry Eagles,,mixed,,45
+134,96,Lake Natasha,Payne Squares,42963,Vernon Bears,,junior mixed,,72
+135,97,Kristenfurt,Jason Island,357,Pembroke Lumber Express,,women,,69
+136,98,West Max,Kevin Knolls,802,Aurora Canadians,,junior men,,74
+137,99,Andrewton,John Bridge,51056,Bellingham Travelways,,men,,42
+138,100,East Shane,Michael Fall,566,Chilliwack Metros,,mixed,,30
+139,101,South Patriciaside,Malone Port,66208,Cape Breton Spartans,,junior men,,54
+140,102,New Misty,Christopher Freeway,30282,Nickel Centre Terriers,,men,,42
+141,103,South Saraville,Mckinney Ridges,45,Riverview Elites,,junior women,,49

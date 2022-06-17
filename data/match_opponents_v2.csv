@@ -1,0 +1,143 @@
+,team_name,facility_id,category,num_of_players,city,street,street_number,ranking
+0,Prince Albert Marrs,,junior men,,Williamhaven,Audrey Springs,916.0,42
+1,Thetford Mines Blizzard,,junior men,,Jenniferland,Jones Knolls,55.0,41
+2,Edmonton Maple Predators,,junior men,,Dannyport,Roger Terrace,1738.0,97
+3,Montreal Vipers,2.0,junior men,8.0,Montreal,Rue Bressani,119.0,74
+4,Montreal Braves,2.0,junior men,6.0,Montreal,Rue Bressani,119.0,93
+5,Niagara Falls Filons,,junior men,,Hansenfurt,Susan Gateway,3245.0,76
+6,Pembroke Lumber Bears,,junior men,,New Jennifer,Johnson Roads,25023.0,99
+7,Port Hope Islanders,,junior men,,Changchester,Jonathan Pass,6475.0,29
+8,Super Lords,5.0,junior men,6.0,Vancouver,Fir Offramp Street,8615.0,14
+9,Rosemont Bears,,junior men,,Ryanton,Williams Courts,634.0,20
+10,Ste. Agathe Flyers,,junior men,,Monroeview,Ann Bridge,1508.0,82
+11,Toronto Rockets,1.0,junior men,7.0,Toronto,Albani Street,1365.0,17
+12,Thunder Bay Patriots,,junior men,,South Daniel,Zimmerman Green,3557.0,28
+13,Aurora Canadians,,junior men,,West Max,Kevin Knolls,802.0,74
+14,Cape Breton Spartans,,junior men,,South Patriciaside,Malone Port,66208.0,54
+15,Broom Hawks,5.0,junior men,8.0,Vancouver,Fir Offramp Street,8615.0,86
+16,Curlers Terriers,5.0,junior men,5.0,Vancouver,Fir Offramp Street,8615.0,71
+17,Penticton Chiefs,,junior men,,Port Carrie,Wallace Ranch,5934.0,35
+18,Williams Lake Vulcans,,junior mixed,,Port Karafort,Bowman Landing,236.0,58
+19,New Waterford Pack,,junior mixed,,North Maria,Lori Cliffs,230.0,29
+20,Stone Timberwolves,5.0,junior mixed,8.0,Vancouver,Fir Offramp Street,8615.0,94
+21,Cape Breton Lumberjacks,,junior mixed,,New Donald,Katelyn River,8924.0,71
+22,Ajax Sports,,junior mixed,,Ellisville,Osborne Brooks,99251.0,27
+23,Peterborough Bearcats,,junior mixed,,Ramoshaven,Brown Plaza,16097.0,45
+24,Saskatoon Rams,,junior mixed,,East Clayton,Hunter Crescent,69611.0,84
+25,Battleford Greys,,junior mixed,,Rileymouth,Keller Squares,1591.0,93
+26,North Sydney Spitfires,,junior mixed,,South Pamela,Emily Drive,6097.0,46
+27,Brandon Warriors,,junior mixed,,North Davidborough,Peter Land,9032.0,56
+28,Thunder Bay Panthers,,junior mixed,,North Jeffreyton,Smith Vista,5227.0,14
+29,Espanola Screaming Crystals,,junior mixed,,Smithfurt,West Overpass,361.0,39
+30,Sidney Terriers,,junior mixed,,Goodmanland,Brooke Square,2337.0,2
+31,Southeast Nationals,,junior mixed,,Lake Charlesmouth,Castro Knoll,5938.0,40
+32,Ottawa Kiltys,4.0,junior mixed,5.0,Ottawa,Hawley Crescent,4678.0,55
+33,Ice Dodgers,4.0,junior mixed,8.0,Ottawa,Hawley Crescent,4678.0,40
+34,Lanark Festivals,,junior mixed,,Wongchester,Seth Station,85232.0,54
+35,Super Salsa,2.0,junior mixed,8.0,Montreal,Rue Bressani,119.0,71
+36,Sherwood Park Grads,,junior mixed,,Emilyport,Black Lights,7530.0,69
+37,Wexford Beehives,,junior mixed,,South Caleb,Sean Oval,900.0,23
+38,Oswego Cougars,,junior mixed,,West Adam,Donald Turnpike,3968.0,33
+39,Stone Mariners,3.0,junior mixed,4.0,Calgary,Walden Road South-east,8310.0,3
+40,Halifax Oland Centennials,,junior mixed,,Baileyfurt,Roman Loaf,337.0,56
+41,Williams Lake Warriors,,junior mixed,,Virginiaville,Bishop Turnpike,47897.0,77
+42,Port-aux-Basques Buccaneers,,junior mixed,,South Kevinfort,Paige Forge,57608.0,53
+43,Langley Hawks,,junior mixed,,Josephtown,Christina Station,26334.0,10
+44,Vernon Bears,,junior mixed,,Lake Natasha,Payne Squares,42963.0,72
+45,Winnipeg Beehives,,junior mixed,,Hebertburgh,Reynolds Gateway,5825.0,48
+46,Broom Mets,4.0,junior mixed,7.0,Ottawa,Hawley Crescent,4678.0,23
+47,Toronto Olympics,1.0,junior mixed,7.0,Toronto,Albani Street,1365.0,77
+48,Ottawa Greys,4.0,junior mixed,6.0,Ottawa,Hawley Crescent,4678.0,66
+49,Ice Huskies,3.0,junior mixed,5.0,Calgary,Walden Road South-east,8310.0,1
+50,Aurora Chiefs,,junior women,,East Kathyfort,Joe Curve,65992.0,63
+51,Dartmouth Crunch,,junior women,,Wardberg,Vanessa Oval,96687.0,26
+52,Temiscaming Hawks,,junior women,,Port Jonathan,Megan Prairie,7118.0,62
+53,La Salle Eagles,,junior women,,Lake Amandachester,David Rue,1953.0,44
+54,Thunder Bay Eaters,,junior women,,Wellsmouth,Timothy Squares,6045.0,62
+55,Hamilton Tigers,,junior women,,South Christianland,Robert Plaza,2964.0,56
+56,North York Capitals,,junior women,,South James,Catherine Corner,5875.0,57
+57,Cape Breton Rustlers,,junior women,,Sarahland,Steven Stream,677.0,41
+58,Ottawa Crunch,,junior women,,Lake Jenniferport,Susan Loaf,1830.0,8
+59,Toronto 73's,,junior women,,Wallaceborough,Kelly Roads,740.0,86
+60,Vernon Crystals,,junior women,,Ramireztown,Joseph Skyway,4689.0,85
+61,Vancouver Flyers,,junior women,,Welchland,Fischer Hill,79703.0,51
+62,Vancouver Canadiens,,junior women,,Harrisport,Davis Ferry,41892.0,71
+63,Villanova Terriers,,junior women,,Kennethside,White Common,89426.0,25
+64,South Surrey Canadians,,junior women,,Wilsonland,Corey Track,63791.0,40
+65,Markham Rebels,,junior women,,West Frankshire,Ward Plaza,41730.0,34
+66,Riverview Elites,,junior women,,South Saraville,Mckinney Ridges,45.0,49
+67,Super Atlantics,5.0,junior women,4.0,Vancouver,Fir Offramp Street,8615.0,99
+68,Mississauga Cougars,,junior women,,South Jasonton,Amy River,41314.0,3
+69,Vancouver Buccaneers,5.0,junior women,6.0,Vancouver,Fir Offramp Street,8615.0,11
+70,Calgary Metros,3.0,junior women,4.0,Calgary,Walden Road South-east,8310.0,90
+71,Rolling Stones,3.0,junior women,4.0,Calgary,Walden Road South-east,8310.0,91
+72,Baby Broomers,2.0,junior women,5.0,Montreal,Rue Bressani,119.0,14
+73,Laval Rousseau 77's,,junior women,,Dennisfort,Bishop Spring,9924.0,99
+74,Montreal Lasers,2.0,junior women,8.0,Montreal,Rue Bressani,119.0,72
+75,Ice Unicorns,2.0,junior women,7.0,Montreal,Rue Bressani,119.0,62
+76,Cold Islanders,1.0,junior women,6.0,Toronto,Albani Street,1365.0,77
+77,Cold Chinooks,4.0,junior women,7.0,Ottawa,Hawley Crescent,4678.0,14
+78,Sudbury Jets,,men,,Wallaceview,Campbell Throughway,391.0,27
+79,Moncton Legionaires,,men,,Christophermouth,Walsh Pines,66065.0,30
+80,Calgary Cougars,3.0,men,4.0,Calgary,Walden Road South-east,8310.0,47
+81,Cold Travelways,4.0,men,7.0,Ottawa,Hawley Crescent,4678.0,34
+82,Vancouver Fury,5.0,men,8.0,Vancouver,Fir Offramp Street,8615.0,94
+83,Canmore Rats,,men,,Lake Emily,Julie Hill,932.0,2
+84,Yorkton Indians,,men,,Scottshire,Eric Square,66972.0,68
+85,Ottawa Victorias,4.0,men,7.0,Ottawa,Hawley Crescent,4678.0,43
+86,Whitby Lakers,,men,,East Karen,Lee Mews,5625.0,60
+87,Calgary Cubs,3.0,men,4.0,Calgary,Walden Road South-east,8310.0,48
+88,Windsor Royals,,men,,Anthonyton,Miguel Fords,533.0,97
+89,Montreal Raiders,2.0,men,7.0,Montreal,Rue Bressani,119.0,12
+90,Ice Bulls,2.0,men,5.0,Montreal,Rue Bressani,119.0,26
+91,Montreal Bruins,2.0,men,5.0,Montreal,Rue Bressani,119.0,93
+92,Cold Colts,2.0,men,6.0,Montreal,Rue Bressani,119.0,80
+93,Bellingham Travelways,,men,,Andrewton,John Bridge,51056.0,42
+94,Calgary Fleur-de-Lys,3.0,men,7.0,Calgary,Walden Road South-east,8310.0,51
+95,Calgary Rockets,3.0,men,7.0,Calgary,Walden Road South-east,8310.0,99
+96,Toronto Eagles,1.0,men,8.0,Toronto,Albani Street,1365.0,7
+97,Vancouver Jr. Terriers,,men,,Marthafort,Amy Forges,55508.0,9
+98,Steinbach Oilers,,men,,West Amanda,Petersen Orchard,9930.0,34
+99,Melfort Bruins,,men,,West Nancyfort,Kevin Highway,185.0,37
+100,Thunder Bay Dogs,,men,,Melissaton,Jamie Green,559.0,49
+101,Victoria Thunder,,men,,New Sandraburgh,Thomas Lodge,845.0,58
+102,Nickel Centre Terriers,,men,,New Misty,Christopher Freeway,30282.0,42
+103,Chateauguay Canucks,,men,,Pageshire,Johnson Well,960.0,82
+104,Sidney Eagles,,men,,Haydenhaven,Kevin Village,4611.0,76
+105,Brockville Spirit,,mixed,,Carpenterfort,Padilla Forge,4000.0,19
+106,Charlottetown Schooners,,mixed,,Jeffreyview,Ryan Knolls,10873.0,98
+107,Halifax Oland Vikings,,mixed,,East Courtney,Drake Route,11330.0,52
+108,Burlington Stampeders,,mixed,,Nguyenmouth,Lisa Wells,3812.0,17
+109,Iron Range Penguins,,mixed,,Alanberg,Cook Turnpike,1590.0,59
+110,Humboldt Vipers,,mixed,,East Lisa,Richardson Roads,26228.0,51
+111,Fort Garry Eagles,,mixed,,Lesterville,Alicia Knolls,7403.0,45
+112,Chilliwack Metros,,mixed,,East Shane,Michael Fall,566.0,30
+113,Ice Sabres,1.0,mixed,7.0,Toronto,Albani Street,1365.0,5
+114,Markham Rockets,,mixed,,Brownchester,Jessica Burgs,6607.0,49
+115,Cold Huskies,3.0,mixed,8.0,Calgary,Walden Road South-east,8310.0,75
+116,Richmond Hill Mets,,mixed,,East Davidborough,Ramirez Falls,76104.0,78
+117,Trail Smoke Remparts,,mixed,,Johnmouth,James Port,32871.0,66
+118,New Westminster Thunder,,mixed,,Lake Michellefurt,Michael Crescent,44.0,78
+119,Thunder Bay Flames,,mixed,,Michaelfort,Robinson Overpass,857.0,98
+120,Calgary Marauders,,mixed,,North Lauraport,Wilson Wall,21644.0,18
+121,Calgary Bruins,3.0,mixed,6.0,Calgary,Walden Road South-east,8310.0,88
+122,Dartmouth Oland Thunderbirds,,women,,Rebeccafort,Heidi Ford,22584.0,21
+123,Pierrefonds Canadians,,women,,East Linda,Romero Freeway,45602.0,99
+124,Peterborough Jr. Patriots,,women,,Marshville,Anderson Pike,512.0,81
+125,Kanata Valley Vipers,,women,,East Lori,Chloe Shoals,7112.0,11
+126,Pembroke Lumber Express,,women,,Kristenfurt,Jason Island,357.0,69
+127,Toronto Penguins,1.0,women,6.0,Toronto,Albani Street,1365.0,87
+128,Richmond Hill Tondas,,women,,Jamesfort,Nicole Ridge,795.0,70
+129,Ice Cougars,1.0,women,5.0,Toronto,Albani Street,1365.0,19
+130,Game of Stones,4.0,women,4.0,Ottawa,Hawley Crescent,4678.0,96
+131,Thunder Bay Thunder,,women,,South Stefaniechester,Smith Bridge,89.0,68
+132,Halifax Team Leafs,,women,,North Megan,Massey Pine,8339.0,74
+133,Elliot Lake Wings,,women,,Matthewsmouth,John Street,1352.0,87
+134,Halifax A's,,women,,East Danielleberg,Justin Village,76.0,43
+135,Thornhill Caribous,,women,,New Alexandra,Amanda Loop,864.0,27
+136,Halifax Flames,,women,,Lake Hunterhaven,Cook Park,4666.0,92
+137,Kindersley Warriors,,women,,South Raymondborough,Wendy Union,92137.0,32
+138,Bancroft Waxers,,women,,Ronaldton,Krista Walk,309.0,97
+139,Thunder Bay Thunderbirds,,women,,Cheyennehaven,Wise Knoll,7088.0,26
+140,Toronto Wild,,women,,Jeffreybury,April Spring,3574.0,69
+141,Vancouver Islanders,5.0,women,7.0,Vancouver,Fir Offramp Street,8615.0,2
