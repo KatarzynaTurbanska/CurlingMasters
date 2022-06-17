@@ -10,7 +10,7 @@ def download_data():
 
     global teams, home, players
 
-    teams = pd.read_csv('../data/match_opponents_v3.csv')
+    teams = pd.read_csv('../data/backup/match_opponents_v3.csv')
     home = teams[teams['facility_id'].notnull()]
 
     people = pd.read_csv('../data/full_people.csv')
@@ -160,4 +160,4 @@ def gen_matches_to_file(file_name):
 if  __name__ == "__main__":
     download_data()
 
-    gen_matches_to_file('../data/full_matches.csv')
+    gen_matches_to_file('../data/backup/full_matches.csv')

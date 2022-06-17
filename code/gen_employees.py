@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import random, math
 
-def gen_employees(active, today, establishment, dates, positions_list, facility_list, file_name):
+def gen_employees(active, today, establishment, n, positions_list, facility_list, file_name):
     '''
     function appending birthdays, hire daes, retire dates,
     supplementary age, position and facility_id to base file with id
@@ -11,7 +11,10 @@ def gen_employees(active, today, establishment, dates, positions_list, facility_
     -----
     active[bool] - are we generating active or retired players
     today - date of database creation
-    dates - csv base file only id column
+    establishment - date of club establishment
+    n - number of employees to generate
+    positions_list - list of positions for the employees
+    facility_list - list of facilities coressponding to positions
     file_name - name of file we want to save generated data in
 
     returns
@@ -20,6 +23,7 @@ def gen_employees(active, today, establishment, dates, positions_list, facility_
     and facility_id
 
     '''
+    dates = pd.DataFrame(columns=['birthdate'], index=range(n))
     dates['birthdate'] = np.nan
     dates['join_date'] = np.nan
     dates['retire_date'] = np.nan
@@ -67,7 +71,6 @@ if __name__ == "__main__" :
 
     # for active players
     '''
-    dates = pd.read_csv('base_id.csv')
     positions_1 = ['cleaner' for _ in range(8)] + ['director'] + ['manager' for _ in range(7)] + ['medic' for _ in range(2)] + ['psychologist' for _ in range(1)] + ['accountant' for _ in range(1)] + ['coach' for _ in range(4)]
     positions_2 = ['cleaner' for _ in range(5)] + ['director'] + ['manager' for _ in range(10)] + ['medic' for _ in range(3)] + ['psychologist' for _ in range(1)] + ['accountant' for _ in range(2)] + ['coach' for _ in range(5)]
     positions_3 = ['cleaner' for _ in range(6)] + ['director'] + ['manager' for _ in range(10)] + ['medic' for _ in range(2)] + ['psychologist' for _ in range(2)] + ['accountant' for _ in range(1)] + ['coach' for _ in range(6)]
@@ -75,22 +78,24 @@ if __name__ == "__main__" :
     positions_5 = ['cleaner' for _ in range(10)] + ['director'] + ['manager' for _ in range(8)] + ['medic' for _ in range(2)] + ['psychologist' for _ in range(1)] + ['accountant' for _ in range(2)] + ['coach' for _ in range(3)]
     positions_list = positions_1 + positions_2 + positions_3 + positions_4 + positions_5
     facility_list = [1 for _ in range(len(positions_1))] + [2 for _ in range(len(positions_2))] + [3 for _ in range(len(positions_3))] + [4 for _ in range(len(positions_4))] + [5 for _ in range(len(positions_5))]
-    gen_employees(True, today, establishment, dates, positions_list, facility_list, 'active_employees_v1.csv')
+    gen_employees(True, today, establishment, len(positions_list), positions_list, facility_list, '../data/backup/active_employees_v1.csv')
     '''
-    '''
+   
     # for retired players
-    dates = pd.read_csv('base_id.csv')
+    '''
     positions = ['cleaner', 'director', 'manager', 'medic', 'psychologist', 'accountant', 'coach']
     positions_list = random.choices(positions, weights=[10, 1, 10, 3, 2, 2, 6], k=44)
     facilities = [1, 2, 3, 4, 5]
     facility_list = random.choices(facilities, k=44)
-    gen_employees(False, today, establishment, dates, positions_list, facility_list, 'retired_employees_v1.csv')
+    gen_employees(False, today, establishment, len(positions_list), positions_list, facility_list, '../data/backup/retired_employees_v1.csv')
     '''
 
     # to conect everything
-    active = pd.read_csv('active_employees_v1.csv')
-    retired = pd.read_csv('retired_employees_v1.csv')
+    '''
+    active = pd.read_csv('../data/backup/active_employees_v1.csv')
+    retired = pd.read_csv('../data/backup/retired_employees_v1.csv')
     full_employees = pd.concat([active, retired])
     full_employees = full_employees[['birthdate', 'age', 'join_date', 'retire_date', 'position', 'facility_id']]
     full_employees = full_employees.sort_values(by=['facility_id', 'position']).reset_index(drop=True)
-    full_employees.to_csv('full_employees_v1.csv', index=False)
+    full_employees.to_csv('../data/backup/full_employees_v1.csv', index=False)
+    '''

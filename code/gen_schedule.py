@@ -18,7 +18,7 @@ def gen_schedule_to_file(file_name):
     csv file with home team name, date and opponent team name
     '''
 
-    teams = pd.read_csv('../data/match_opponents_v3.csv')
+    teams = pd.read_csv('../data/backup/match_opponents_v3.csv')
     home = teams[teams['facility_id'].notnull()]
 
     dates = pd.date_range('2022-06-01','2023-05-31',freq='D').strftime('%Y-%m-%d')
@@ -52,4 +52,4 @@ def gen_schedule_to_file(file_name):
 
 
 if  __name__ == "__main__":
-    gen_schedule_to_file('../data/schedule.csv')
+    gen_schedule_to_file('../data/backup/schedule.csv')

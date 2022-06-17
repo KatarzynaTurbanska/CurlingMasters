@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import random, math
 
-def gen_birthdays(today, dates, n_jun, n_adu, file_name):
+def gen_birthdays(today, n_jun, n_adu, file_name):
     '''
     function appending birthdays to base file with id,
     appends birthdates for n_jun juniors and n_adu adults 
@@ -11,7 +11,6 @@ def gen_birthdays(today, dates, n_jun, n_adu, file_name):
     takes
     -----
     today - date of database creation
-    dates - csv base file only id column
     n_jun - number of juniors birthdays to generate
     n_adu - number of adults birthdays to generate
     file_name - name of file we want to save generated data in
@@ -21,6 +20,8 @@ def gen_birthdays(today, dates, n_jun, n_adu, file_name):
     csv file with birthdays, age and category
 
     '''
+    dates = pd.DataFrame(columns=['birthdate'], index=range(n_adu+n_jun))
+
     dates_junior = pd.date_range('2001-05-30','2015-05-30',freq='D') # range dates for juniors: 7 < birthdate < 21
     dates_adult = pd.date_range('1972-05-30','2000-05-30',freq='D') # range dates for adults: 22 < birthdate < 50
 
@@ -56,6 +57,7 @@ def assign_facility(dates, file_name, index_junior, index_adult):
     dates csv file with new column facility_id
 
     '''
+    dates = pd.read_csv(dates)
 
     for index, row in dates.iterrows():
         if index < len(index_junior):
@@ -85,7 +87,7 @@ def gen_join_retire_dates(active, today, establishment, dates, file_name):
     csv file with join_dates and retire_dates
 
     '''
-
+    dates = pd.read_csv(dates)
     dates['join_date'] = np.nan
     dates['retire_date'] = np.nan
     join_dates = pd.date_range(establishment, today, freq='D')
@@ -113,23 +115,21 @@ if __name__ == "__main__" :
     establishment = pd.to_datetime('2019-06-01') 
 
     # for active players
-    """
-    dates = pd.read_csv('active_players_v1.csv')
-    gen_birthdays(today, dates, 149, 118, 'active_players_v1.csv')
+    '''
+    gen_birthdays(today, 149, 118, '../data/backup/active_players_v1.csv')
     index_junior = [1 for _ in range(20)] + [2 for _ in range(42)] + [3 for _ in range(17)] + [4 for _ in range(33)] + [5 for _ in range(37)] 
     index_adult = [1 for _ in range(26)] + [2 for _ in range(23)] + [3 for _ in range(36)] + [4 for _ in range(18)] + [5 for _ in range(15)] 
-    assign_facility(dates, 'active_players_v1.csv', index_junior, index_adult)
-    gen_join_retire_dates(True, today, establishment, dates, 'active_players_v2.csv')
-    """
+    assign_facility('../data/backup/active_players_v1.csv', '../data/backup/active_players_v1.csv', index_junior, index_adult)
+    gen_join_retire_dates(True, today, establishment, '../data/backup/active_players_v1.csv', '../data/backup/active_players_v2.csv')
+    '''
     
     # for retired players
-    
-    dates = pd.read_csv('retired_players_v1.csv')
-    gen_birthdays(today, dates, 42, 61, 'retired_players_v1.csv')
+    '''
+    gen_birthdays(today, 42, 61, '../data/backup/retired_players_v1.csv')
     index_junior = random.choices([1,2,3,4,5], k=42)
     index_adult = random.choices([1,2,3,4,5], k=61)
     index_junior.sort()
     index_adult.sort()
-    assign_facility(dates, 'retired_players_v1.csv', index_junior, index_adult)
-    gen_join_retire_dates(False, today, establishment, dates, 'retired_players_v2.csv')
-    
+    assign_facility('../data/backup/retired_players_v1.csv','../data/backup/retired_players_v1.csv', index_junior, index_adult) 
+    gen_join_retire_dates(False, today, establishment,'../data/backup/retired_players_v1.csv','../data/backup/retired_players_v2.csv')
+    '''

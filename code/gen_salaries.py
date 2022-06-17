@@ -1,6 +1,7 @@
 import calendar
 import numpy as np
 import pandas as pd
+from dateutil.relativedelta import relativedelta
 
 def reference_salary(position, avg_monthly_salaries, avg_daily_salaries, minimum_wage):
     '''
@@ -103,7 +104,7 @@ def salaries_dates(join_date, retire_date):
             year += 1
             month = 1
 
-    if retire_date == "":
+    if (retire_date == "") or (retire_date >= pd.Timestamp(2022, 5, 1)):
         return dates[1:-1]
     return dates[1:]
 
@@ -146,11 +147,10 @@ def finance_history(join_date, position, retire_date, salaries_filename):
 
     if retire_date != "":
         if (join_date.month, join_date.year) == (retire_date.month, retire_date.year):
-            d = calendar.monthrange(join_date.year, join_date.month)[1]
-            last_day = pd.Timestamp(join_date.year, join_date.month,d)
+            last_day = salaries_dates(join_date, retire_date+relativedelta(months=1))[0]
             workdays = working_days(pd.Timestamp(join_date.year, join_date.month, 1), last_day) + 1
             person_salaries.append(round(reference_salaries_df[str(join_date.year)][position] * (working_days(join_date, retire_date) + 1)/workdays))
-            df = pd.DataFrame(list(zip([last_day], person_salaries)), columns=["date", "salary"])
+            df = pd.DataFrame(list(zip([last_day], person_salaries)), columns=["date", "financial_flow"])
             return df
 
     dates = salaries_dates(join_date, retire_date)
@@ -181,21 +181,21 @@ def finance_history(join_date, position, retire_date, salaries_filename):
 
         person_salaries.append(salary_for_date)
 
-    if retire_date != "":
+    if retire_date != "" and (retire_date < pd.Timestamp(2022, 5, 1)):
         days_to_retire = working_days(dates[-2], retire_date)
         workdays = working_days(dates[-2], dates[-1])
         person_salaries.append(round(reference_salaries_df[str(retire_date.year)][position] * days_to_retire/workdays, 2))
 
-    df = pd.DataFrame(list(zip(dates, person_salaries)), columns=["date", "salary"])
+    df = pd.DataFrame(list(zip(dates, person_salaries)), columns=["date", "financial_flow"])
     return df
 
-def gen_finances(employees_filename, salaries_filename, filename):
+def gen_finances(people_filename, salaries_filename, filename):
     '''
     function generating finance history for an employee
 
     takes
     -----
-    employees_filename - name of file with employees
+    people_filename - name of file with people
     salaries_filename - name of file with reference salaries
     filename - name of file we want to save generated data in
 
@@ -205,30 +205,32 @@ def gen_finances(employees_filename, salaries_filename, filename):
 
     '''
 
-    employees = pd.read_csv(employees_filename, index_col=0)
-    is_present_employees_list = employees["retire_date"].isnull()
+    people = pd.read_csv(people_filename, index_col=0)
+    is_present_employees_list = people["retire_date"].isnull()
+    is_employees_list = people["position"].notnull()
 
     finances = pd.DataFrame()
 
-    for i in range(len(employees)):
+    for i in range(len(people)):
         is_present_employee = is_present_employees_list[i]
-        if pd.Timestamp(employees["join_date"][i]) < pd.Timestamp(2022, 5, 1):
+        if (is_employees_list[i]) and (pd.Timestamp(people["join_date"][i]) < pd.Timestamp(2022, 5, 1)):
             if is_present_employee:
-                emp_fin = finance_history(pd.Timestamp(employees["join_date"][i]), employees["position"][i], "", salaries_filename)
+                emp_fin = finance_history(pd.Timestamp(people["join_date"][i]), people["position"][i], "", salaries_filename)
             else:
-                emp_fin = finance_history(pd.Timestamp(employees["join_date"][i]), employees["position"][i], pd.Timestamp(employees["retire_date"][i]), salaries_filename)
+                emp_fin = finance_history(pd.Timestamp(people["join_date"][i]), people["position"][i], pd.Timestamp(people["retire_date"][i]), salaries_filename)
 
-            ids = pd.DataFrame([i+1]*len(emp_fin), columns=["id"])
+            ids = pd.DataFrame([i]*len(emp_fin), columns=["person_id"])
             ids_fin = pd.concat([ids, emp_fin], axis=1)
             finances = pd.concat([finances, ids_fin])
 
     finances = finances.reset_index(drop=True)
-
+    finances["financial_flow"] *= -1
+    finances = finances.sort_values(["date", "person_id"])
     finances.to_csv(filename, index=False, float_format='%.2f')
 
 if __name__ == "__main__":
     salaries_filename = "../data/backup/reference_salaries.csv"
     #gen_reference_salaries(salaries_filename)
-    employees_filename = "../data/full_employees_v1.csv"
-    filename = "../data/finances.csv"
-    gen_finances(employees_filename, salaries_filename, filename)
+    people_filename = "../data/full_people.csv"
+    filename = "../data/backup/salaries.csv"
+    gen_finances(people_filename, salaries_filename, filename)

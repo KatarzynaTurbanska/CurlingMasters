@@ -4,8 +4,8 @@ import numpy as np
 
 
 def connect_matches():
-    matches = pd.read_csv('../data/full_matches.csv')
-    schedule = pd.read_csv('../data/schedule.csv')
+    matches = pd.read_csv('../data/backup/full_matches.csv')
+    schedule = pd.read_csv('../data/backup/schedule.csv')
 
     data = pd.concat([matches,schedule])
 
