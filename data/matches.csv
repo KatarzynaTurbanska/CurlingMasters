@@ -1,0 +1,1506 @@
+team_name,date,address_id,opponent_name,team_score,opponent_score,number_of_ends,number_of_ends_won
+Calgary Bruins,2019-11-26,37,Halifax Oland Vikings,6.0,4.0,10.0,4.0
+Cold Colts,2019-12-28,99,Bellingham Travelways,9.0,3.0,8.0,4.0
+Cold Colts,2020-01-25,35,Sidney Eagles,7.0,1.0,6.0,4.0
+Calgary Fleur-de-Lys,2020-01-30,10,Melfort Bruins,3.0,4.0,11.0,3.0
+Calgary Bruins,2020-02-02,55,Markham Rockets,6.0,0.0,6.0,5.0
+Cold Colts,2020-02-05,31,Thunder Bay Dogs,7.0,1.0,9.0,6.0
+Montreal Bruins,2020-02-27,4,Calgary Fleur-de-Lys,5.0,11.0,9.0,3.0
+Calgary Fleur-de-Lys,2020-02-27,4,Montreal Bruins,11.0,5.0,9.0,6.0
+Montreal Bruins,2020-02-28,46,Steinbach Oilers,7.0,0.0,6.0,5.0
+Ice Sabres,2020-07-03,55,Markham Rockets,1.0,6.0,10.0,1.0
+Cold Colts,2020-07-07,72,Yorkton Indians,6.0,1.0,10.0,5.0
+Stone Mariners,2020-07-09,32,Williams Lake Vulcans,1.0,11.0,9.0,1.0
+Ice Dodgers,2020-07-11,3,Stone Mariners,8.0,2.0,8.0,5.0
+Stone Mariners,2020-07-11,3,Ice Dodgers,2.0,8.0,8.0,3.0
+Vancouver Fury,2020-07-13,2,Cold Colts,9.0,1.0,10.0,9.0
+Cold Colts,2020-07-13,2,Vancouver Fury,1.0,9.0,10.0,1.0
+Super Lords,2020-07-15,67,Edmonton Maple Predators,2.0,8.0,6.0,1.0
+Toronto Penguins,2020-07-15,47,Halifax Flames,3.0,6.0,10.0,3.0
+Cold Chinooks,2020-07-21,1,Cold Islanders,0.0,10.0,6.0,1.0
+Cold Islanders,2020-07-21,1,Cold Chinooks,10.0,0.0,6.0,5.0
+Cold Chinooks,2020-07-23,34,Markham Rebels,5.0,7.0,10.0,4.0
+Montreal Raiders,2020-07-23,58,Canmore Rats,5.0,7.0,10.0,4.0
+Ottawa Greys,2020-07-24,26,Wexford Beehives,7.0,1.0,8.0,5.0
+Ice Dodgers,2020-07-26,1,Ottawa Greys,0.0,6.0,5.0,0.0
+Ottawa Greys,2020-07-26,1,Ice Dodgers,6.0,0.0,5.0,5.0
+Ice Sabres,2020-07-27,3,Calgary Bruins,0.0,6.0,6.0,0.0
+Calgary Bruins,2020-07-27,3,Ice Sabres,6.0,0.0,6.0,6.0
+Super Salsa,2020-07-28,89,Williams Lake Warriors,4.0,5.0,10.0,2.0
+Cold Chinooks,2020-08-01,86,Cape Breton Rustlers,2.0,9.0,8.0,1.0
+Cold Travelways,2020-08-03,63,Moncton Legionaires,8.0,7.0,10.0,4.0
+Toronto Penguins,2020-08-04,30,Peterborough Jr. Patriots,6.0,7.0,12.0,2.0
+Cold Chinooks,2020-08-07,4,Montreal Lasers,4.0,8.0,10.0,2.0
+Montreal Lasers,2020-08-07,4,Cold Chinooks,8.0,4.0,10.0,8.0
+Stone Timberwolves,2020-08-08,65,Winnipeg Beehives,10.0,9.0,10.0,5.0
+Cold Islanders,2020-08-08,53,Toronto 73's,4.0,5.0,10.0,3.0
+Cold Travelways,2020-08-08,84,Windsor Royals,0.0,6.0,6.0,0.0
+Cold Colts,2020-08-09,21,Victoria Thunder,7.0,2.0,10.0,4.0
+Ice Sabres,2020-08-10,93,Humboldt Vipers,4.0,9.0,10.0,2.0
+Cold Colts,2020-08-11,31,Thunder Bay Dogs,8.0,2.0,10.0,6.0
+Calgary Bruins,2020-08-12,29,Richmond Hill Mets,9.0,2.0,9.0,7.0
+Toronto Penguins,2020-08-12,15,Elliot Lake Wings,7.0,3.0,10.0,4.0
+Calgary Fleur-de-Lys,2020-08-15,99,Bellingham Travelways,8.0,7.0,11.0,7.0
+Cold Colts,2020-08-18,46,Steinbach Oilers,8.0,3.0,10.0,6.0
+Stone Mariners,2020-08-20,65,Winnipeg Beehives,6.0,7.0,10.0,3.0
+Cold Islanders,2020-08-20,41,Dartmouth Crunch,7.0,0.0,6.0,5.0
+Game of Stones,2020-08-20,20,Dartmouth Oland Thunderbirds,10.0,0.0,8.0,8.0
+Cold Islanders,2020-08-21,83,North York Capitals,2.0,8.0,9.0,2.0
+Vancouver Islanders,2020-08-22,97,Pembroke Lumber Express,2.0,7.0,10.0,2.0
+Calgary Cougars,2020-08-22,102,Nickel Centre Terriers,6.0,3.0,10.0,4.0
+Ice Dodgers,2020-08-23,7,Southeast Nationals,9.0,5.0,10.0,5.0
+Cold Travelways,2020-08-24,1,Ottawa Victorias,5.0,9.0,10.0,5.0
+Ottawa Victorias,2020-08-24,1,Cold Travelways,9.0,5.0,10.0,5.0
+Montreal Lasers,2020-08-26,94,Aurora Chiefs,6.0,5.0,10.0,3.0
+Game of Stones,2020-08-28,16,Bancroft Waxers,8.0,6.0,13.0,3.0
+Montreal Bruins,2020-08-29,63,Moncton Legionaires,9.0,3.0,8.0,6.0
+Calgary Bruins,2020-08-29,73,Thunder Bay Flames,6.0,0.0,7.0,5.0
+Broom Mets,2020-08-31,96,Vernon Bears,5.0,8.0,10.0,3.0
+Game of Stones,2020-09-01,16,Bancroft Waxers,4.0,10.0,8.0,3.0
+Ice Sabres,2020-09-01,75,New Westminster Thunder,8.0,10.0,11.0,3.0
+Vancouver Islanders,2020-09-04,47,Halifax Flames,0.0,9.0,8.0,0.0
+Montreal Raiders,2020-09-05,58,Canmore Rats,6.0,0.0,6.0,4.0
+Cold Chinooks,2020-09-06,86,Cape Breton Rustlers,3.0,6.0,10.0,2.0
+Super Lords,2020-09-07,45,Prince Albert Marrs,7.0,8.0,10.0,4.0
+Super Salsa,2020-09-08,50,Ajax Sports,9.0,1.0,7.0,4.0
+Super Lords,2020-09-10,19,Rosemont Bears,4.0,7.0,10.0,2.0
+Ice Dodgers,2020-09-12,6,Cape Breton Lumberjacks,3.0,9.0,8.0,2.0
+Cold Chinooks,2020-09-15,0,Cold Islanders,3.0,10.0,8.0,1.0
+Cold Islanders,2020-09-15,0,Cold Chinooks,10.0,3.0,8.0,7.0
+Montreal Bruins,2020-09-16,1,Cold Travelways,7.0,0.0,5.0,3.0
+Cold Travelways,2020-09-16,1,Montreal Bruins,0.0,7.0,5.0,2.0
+Ice Sabres,2020-09-17,29,Richmond Hill Mets,3.0,8.0,10.0,2.0
+Montreal Lasers,2020-09-17,68,Vernon Crystals,8.0,6.0,10.0,4.0
+Ice Sabres,2020-09-26,75,New Westminster Thunder,0.0,8.0,8.0,0.0
+Montreal Raiders,2020-09-27,99,Bellingham Travelways,4.0,7.0,10.0,3.0
+Calgary Bruins,2020-09-28,33,Iron Range Penguins,5.0,6.0,11.0,4.0
+Calgary Fleur-de-Lys,2020-09-29,3,Cold Colts,6.0,7.0,10.0,5.0
+Stone Mariners,2020-09-29,44,Thunder Bay Panthers,0.0,10.0,5.0,0.0
+Cold Colts,2020-09-29,3,Calgary Fleur-de-Lys,7.0,6.0,10.0,5.0
+Ice Cougars,2020-09-30,30,Peterborough Jr. Patriots,2.0,8.0,7.0,1.0
+Game of Stones,2020-10-01,80,Thunder Bay Thunderbirds,8.0,0.0,6.0,5.0
+Game of Stones,2020-10-02,51,Richmond Hill Tondas,7.0,1.0,6.0,4.0
+Ice Sabres,2020-10-05,29,Richmond Hill Mets,1.0,9.0,6.0,1.0
+Vancouver Fury,2020-10-05,35,Sidney Eagles,9.0,3.0,7.0,5.0
+Stone Mariners,2020-10-06,26,Wexford Beehives,5.0,8.0,10.0,2.0
+Vancouver Fury,2020-10-08,4,Montreal Bruins,6.0,11.0,10.0,4.0
+Montreal Bruins,2020-10-08,4,Vancouver Fury,11.0,6.0,10.0,6.0
+Stone Mariners,2020-10-10,77,Lanark Festivals,1.0,8.0,6.0,1.0
+Calgary Cougars,2020-10-14,58,Canmore Rats,6.0,0.0,5.0,5.0
+Ice Dodgers,2020-10-16,57,New Waterford Pack,8.0,3.0,10.0,5.0
+Ice Dodgers,2020-10-17,26,Wexford Beehives,6.0,0.0,6.0,5.0
+Broom Mets,2020-10-19,38,Espanola Screaming Crystals,7.0,1.0,5.0,3.0
+Ottawa Greys,2020-10-21,17,Brandon Warriors,5.0,7.0,10.0,4.0
+Cold Chinooks,2020-10-22,87,South Surrey Canadians,5.0,4.0,10.0,4.0
+Stone Timberwolves,2020-10-22,85,Sherwood Park Grads,7.0,5.0,10.0,4.0
+Cold Chinooks,2020-10-23,18,Mississauga Cougars,8.0,10.0,10.0,6.0
+Montreal Raiders,2020-10-24,76,Whitby Lakers,2.0,8.0,7.0,2.0
+Cold Islanders,2020-10-29,34,Markham Rebels,8.0,5.0,10.0,4.0
+Montreal Lasers,2020-10-29,60,Villanova Terriers,12.0,0.0,5.0,5.0
+Stone Mariners,2020-10-29,1,Ice Dodgers,0.0,8.0,5.0,0.0
+Ice Dodgers,2020-10-29,1,Stone Mariners,8.0,0.0,5.0,5.0
+Game of Stones,2020-10-31,48,Halifax A's,7.0,0.0,6.0,5.0
+Toronto Penguins,2020-10-31,47,Halifax Flames,5.0,3.0,10.0,5.0
+Calgary Bruins,2020-11-03,3,Ice Sabres,7.0,0.0,5.0,5.0
+Ice Sabres,2020-11-03,3,Calgary Bruins,0.0,7.0,5.0,0.0
+Calgary Fleur-de-Lys,2020-11-04,69,Sudbury Jets,9.0,5.0,10.0,4.0
+Cold Travelways,2020-11-05,1,Ottawa Victorias,0.0,12.0,5.0,0.0
+Ottawa Victorias,2020-11-05,1,Cold Travelways,12.0,0.0,5.0,5.0
+Ice Sabres,2020-11-06,100,Chilliwack Metros,1.0,8.0,9.0,1.0
+Toronto Eagles,2020-11-06,84,Windsor Royals,0.0,7.0,6.0,0.0
+Ice Sabres,2020-11-10,55,Markham Rockets,1.0,9.0,5.0,1.0
+Montreal Lasers,2020-11-11,4,Cold Islanders,7.0,4.0,10.0,6.0
+Cold Islanders,2020-11-11,4,Montreal Lasers,4.0,7.0,10.0,4.0
+Toronto Penguins,2020-11-13,20,Dartmouth Oland Thunderbirds,11.0,5.0,8.0,6.0
+Calgary Cubs,2020-11-14,4,Montreal Bruins,5.0,6.0,10.0,4.0
+Montreal Bruins,2020-11-14,4,Calgary Cubs,6.0,5.0,10.0,6.0
+Toronto Penguins,2020-11-17,51,Richmond Hill Tondas,10.0,4.0,6.0,4.0
+Vancouver Islanders,2020-11-20,28,Thunder Bay Thunder,0.0,6.0,8.0,0.0
+Stone Mariners,2020-11-20,90,Langley Hawks,4.0,6.0,10.0,3.0
+Ice Cougars,2020-11-26,97,Pembroke Lumber Express,2.0,8.0,10.0,2.0
+Ice Sabres,2020-11-27,27,Burlington Stampeders,2.0,10.0,9.0,2.0
+Calgary Fleur-de-Lys,2020-11-27,21,Victoria Thunder,3.0,9.0,8.0,2.0
+Broom Mets,2020-11-28,78,Halifax Oland Centennials,10.0,0.0,5.0,5.0
+Calgary Cubs,2020-11-28,3,Vancouver Fury,2.0,8.0,9.0,3.0
+Calgary Fleur-de-Lys,2020-11-28,1,Ottawa Victorias,5.0,4.0,10.0,3.0
+Stone Mariners,2020-11-28,49,North Sydney Spitfires,5.0,6.0,10.0,3.0
+Vancouver Fury,2020-11-28,3,Calgary Cubs,8.0,2.0,9.0,6.0
+Ottawa Victorias,2020-11-28,1,Calgary Fleur-de-Lys,4.0,5.0,10.0,7.0
+Game of Stones,2020-11-29,0,Ice Cougars,9.0,2.0,8.0,6.0
+Ice Cougars,2020-11-29,0,Game of Stones,2.0,9.0,8.0,2.0
+Calgary Fleur-de-Lys,2020-11-30,46,Steinbach Oilers,7.0,0.0,5.0,4.0
+Cold Islanders,2020-11-30,34,Markham Rebels,8.0,2.0,6.0,5.0
+Cold Travelways,2020-12-03,76,Whitby Lakers,1.0,7.0,7.0,1.0
+Montreal Bruins,2020-12-05,63,Moncton Legionaires,4.0,7.0,11.0,3.0
+Calgary Bruins,2020-12-06,95,Fort Garry Eagles,6.0,0.0,8.0,5.0
+Calgary Cubs,2020-12-08,3,Montreal Bruins,2.0,7.0,10.0,5.0
+Montreal Bruins,2020-12-08,3,Calgary Cubs,7.0,2.0,10.0,5.0
+Ice Dodgers,2020-12-11,96,Vernon Bears,5.0,6.0,10.0,4.0
+Calgary Cubs,2020-12-11,4,Montreal Raiders,12.0,2.0,8.0,6.0
+Montreal Raiders,2020-12-11,4,Calgary Cubs,2.0,12.0,8.0,2.0
+Cold Chinooks,2020-12-11,94,Aurora Chiefs,3.0,8.0,10.0,3.0
+Montreal Raiders,2020-12-11,46,Steinbach Oilers,4.0,7.0,10.0,3.0
+Calgary Fleur-de-Lys,2020-12-23,3,Montreal Bruins,2.0,8.0,9.0,4.0
+Montreal Bruins,2020-12-23,3,Calgary Fleur-de-Lys,8.0,2.0,9.0,5.0
+Game of Stones,2020-12-24,20,Dartmouth Oland Thunderbirds,8.0,0.0,5.0,5.0
+Calgary Cubs,2020-12-25,58,Canmore Rats,7.0,0.0,6.0,3.0
+Montreal Raiders,2020-12-27,63,Moncton Legionaires,10.0,2.0,6.0,5.0
+Montreal Bruins,2020-12-30,84,Windsor Royals,4.0,3.0,10.0,4.0
+Calgary Bruins,2020-12-31,81,Brockville Spirit,8.0,2.0,8.0,5.0
+Game of Stones,2021-01-01,61,Pierrefonds Canadians,5.0,7.0,10.0,3.0
+Montreal Raiders,2021-01-03,21,Victoria Thunder,1.0,7.0,6.0,1.0
+Broom Mets,2021-01-05,1,Ottawa Greys,2.0,10.0,9.0,1.0
+Ottawa Greys,2021-01-05,1,Broom Mets,10.0,2.0,9.0,8.0
+Calgary Cubs,2021-01-07,42,Vancouver Jr. Terriers,8.0,2.0,10.0,5.0
+Montreal Lasers,2021-01-10,4,Cold Chinooks,8.0,3.0,10.0,8.0
+Cold Chinooks,2021-01-10,4,Montreal Lasers,3.0,8.0,10.0,2.0
+Calgary Fleur-de-Lys,2021-01-12,21,Victoria Thunder,7.0,4.0,10.0,5.0
+Cold Colts,2021-01-14,3,Calgary Cougars,9.0,1.0,6.0,4.0
+Calgary Cougars,2021-01-14,3,Cold Colts,1.0,9.0,6.0,2.0
+Ottawa Greys,2021-01-15,54,Saskatoon Rams,1.0,7.0,8.0,1.0
+Calgary Fleur-de-Lys,2021-01-17,72,Yorkton Indians,8.0,12.0,10.0,3.0
+Game of Stones,2021-01-18,0,Toronto Penguins,7.0,3.0,10.0,5.0
+Ice Dodgers,2021-01-18,26,Wexford Beehives,10.0,4.0,9.0,5.0
+Toronto Penguins,2021-01-18,0,Game of Stones,3.0,7.0,10.0,5.0
+Cold Travelways,2021-01-19,58,Canmore Rats,9.0,1.0,7.0,4.0
+Cold Travelways,2021-01-20,58,Canmore Rats,8.0,0.0,5.0,4.0
+Montreal Lasers,2021-01-20,86,Cape Breton Rustlers,6.0,8.0,10.0,4.0
+Ice Dodgers,2021-01-21,77,Lanark Festivals,8.0,2.0,5.0,4.0
+Calgary Bruins,2021-01-21,100,Chilliwack Metros,8.0,1.0,8.0,5.0
+Broom Mets,2021-01-22,65,Winnipeg Beehives,6.0,7.0,10.0,4.0
+Ottawa Greys,2021-01-26,38,Espanola Screaming Crystals,9.0,2.0,8.0,5.0
+Ice Cougars,2021-01-26,20,Dartmouth Oland Thunderbirds,6.0,5.0,10.0,5.0
+Ottawa Greys,2021-01-28,3,Stone Mariners,7.0,0.0,6.0,3.0
+Game of Stones,2021-01-28,15,Elliot Lake Wings,7.0,4.0,10.0,5.0
+Stone Mariners,2021-01-28,3,Ottawa Greys,0.0,7.0,6.0,3.0
+Cold Colts,2021-01-29,31,Thunder Bay Dogs,1.0,9.0,6.0,1.0
+Stone Mariners,2021-01-29,82,Oswego Cougars,7.0,1.0,9.0,4.0
+Montreal Braves,2021-02-01,19,Rosemont Bears,10.0,3.0,10.0,6.0
+Montreal Lasers,2021-02-08,64,Vancouver Canadiens,0.0,8.0,6.0,0.0
+Toronto Eagles,2021-02-12,69,Sudbury Jets,6.0,4.0,10.0,4.0
+Broom Mets,2021-02-13,74,Port-aux-Basques Buccaneers,5.0,4.0,10.0,2.0
+Calgary Rockets,2021-02-15,3,Ottawa Victorias,7.0,5.0,10.0,7.0
+Ottawa Victorias,2021-02-15,3,Calgary Rockets,5.0,7.0,10.0,3.0
+Cold Travelways,2021-02-15,1,Vancouver Fury,1.0,7.0,6.0,1.0
+Vancouver Fury,2021-02-15,1,Cold Travelways,7.0,1.0,6.0,5.0
+Cold Islanders,2021-02-15,103,Riverview Elites,3.0,9.0,5.0,1.0
+Montreal Bruins,2021-02-19,25,Chateauguay Canucks,6.0,4.0,10.0,4.0
+Calgary Cubs,2021-02-20,76,Whitby Lakers,9.0,6.0,10.0,4.0
+Montreal Lasers,2021-02-24,36,Thunder Bay Eaters,4.0,5.0,10.0,3.0
+Calgary Cubs,2021-02-25,99,Bellingham Travelways,7.0,10.0,10.0,4.0
+Toronto Penguins,2021-02-26,2,Vancouver Islanders,7.0,1.0,5.0,4.0
+Vancouver Islanders,2021-02-26,2,Toronto Penguins,1.0,7.0,5.0,1.0
+Ice Dodgers,2021-02-28,54,Saskatoon Rams,4.0,10.0,8.0,3.0
+Cold Chinooks,2021-02-28,64,Vancouver Canadiens,3.0,6.0,10.0,2.0
+Cold Chinooks,2021-03-01,41,Dartmouth Crunch,7.0,9.0,11.0,4.0
+Cold Travelways,2021-03-01,3,Calgary Rockets,1.0,8.0,7.0,1.0
+Calgary Rockets,2021-03-01,3,Cold Travelways,8.0,1.0,7.0,6.0
+Calgary Rockets,2021-03-03,46,Steinbach Oilers,6.0,3.0,10.0,5.0
+Game of Stones,2021-03-03,51,Richmond Hill Tondas,8.0,4.0,10.0,5.0
+Broom Hawks,2021-03-04,22,Ste. Agathe Flyers,6.0,5.0,11.0,5.0
+Toronto Eagles,2021-03-05,69,Sudbury Jets,3.0,9.0,5.0,2.0
+Stone Timberwolves,2021-03-05,74,Port-aux-Basques Buccaneers,8.0,1.0,8.0,6.0
+Game of Stones,2021-03-06,13,Halifax Team Leafs,7.0,8.0,10.0,3.0
+Calgary Cubs,2021-03-06,76,Whitby Lakers,5.0,6.0,10.0,4.0
+Broom Mets,2021-03-06,57,New Waterford Pack,9.0,5.0,10.0,4.0
+Ottawa Victorias,2021-03-06,69,Sudbury Jets,5.0,4.0,10.0,5.0
+Vancouver Fury,2021-03-07,3,Calgary Fleur-de-Lys,7.0,3.0,10.0,5.0
+Calgary Fleur-de-Lys,2021-03-07,3,Vancouver Fury,3.0,7.0,10.0,5.0
+Ottawa Greys,2021-03-08,1,Broom Mets,5.0,6.0,10.0,6.0
+Broom Mets,2021-03-08,1,Ottawa Greys,6.0,5.0,10.0,4.0
+Cold Colts,2021-03-08,3,Calgary Rockets,7.0,0.0,5.0,4.0
+Calgary Rockets,2021-03-08,3,Cold Colts,0.0,7.0,5.0,1.0
+Broom Hawks,2021-03-08,98,Aurora Canadians,6.0,0.0,5.0,2.0
+Vancouver Islanders,2021-03-09,28,Thunder Bay Thunder,0.0,7.0,6.0,0.0
+Cold Colts,2021-03-09,63,Moncton Legionaires,9.0,3.0,9.0,5.0
+Montreal Lasers,2021-03-09,4,Cold Chinooks,8.0,3.0,10.0,8.0
+Cold Chinooks,2021-03-09,4,Montreal Lasers,3.0,8.0,10.0,2.0
+Toronto Eagles,2021-03-11,69,Sudbury Jets,9.0,7.0,11.0,3.0
+Cold Chinooks,2021-03-12,68,Vernon Crystals,1.0,8.0,6.0,1.0
+Cold Colts,2021-03-15,63,Moncton Legionaires,7.0,2.0,10.0,6.0
+Ottawa Victorias,2021-03-17,1,Toronto Eagles,8.0,2.0,9.0,7.0
+Toronto Eagles,2021-03-17,1,Ottawa Victorias,2.0,8.0,9.0,2.0
+Calgary Fleur-de-Lys,2021-03-18,63,Moncton Legionaires,7.0,1.0,6.0,3.0
+Montreal Bruins,2021-03-19,102,Nickel Centre Terriers,8.0,2.0,7.0,5.0
+Montreal Raiders,2021-03-19,99,Bellingham Travelways,0.0,6.0,8.0,0.0
+Vancouver Fury,2021-03-20,25,Chateauguay Canucks,3.0,4.0,10.0,3.0
+Stone Mariners,2021-03-21,6,Cape Breton Lumberjacks,2.0,5.0,10.0,1.0
+Broom Hawks,2021-03-21,19,Rosemont Bears,7.0,2.0,10.0,4.0
+Stone Mariners,2021-03-24,32,Williams Lake Vulcans,3.0,9.0,10.0,3.0
+Ottawa Victorias,2021-03-25,42,Vancouver Jr. Terriers,9.0,3.0,9.0,6.0
+Cold Travelways,2021-03-28,4,Montreal Bruins,2.0,8.0,10.0,1.0
+Montreal Bruins,2021-03-28,4,Cold Travelways,8.0,2.0,10.0,9.0
+Ice Dodgers,2021-03-29,8,Peterborough Bearcats,10.0,8.0,10.0,4.0
+Calgary Fleur-de-Lys,2021-03-30,102,Nickel Centre Terriers,9.0,4.0,10.0,5.0
+Broom Mets,2021-03-30,32,Williams Lake Vulcans,2.0,8.0,8.0,1.0
+Montreal Bruins,2021-03-30,72,Yorkton Indians,7.0,0.0,5.0,5.0
+Montreal Braves,2021-03-30,67,Edmonton Maple Predators,6.0,0.0,5.0,3.0
+Vancouver Fury,2021-04-01,4,Montreal Raiders,8.0,0.0,6.0,6.0
+Montreal Raiders,2021-04-01,4,Vancouver Fury,0.0,8.0,6.0,0.0
+Ice Cougars,2021-04-02,80,Thunder Bay Thunderbirds,9.0,4.0,10.0,7.0
+Ottawa Greys,2021-04-03,65,Winnipeg Beehives,6.0,1.0,10.0,5.0
+Calgary Cubs,2021-04-06,2,Vancouver Fury,1.0,7.0,7.0,1.0
+Vancouver Fury,2021-04-06,2,Calgary Cubs,7.0,1.0,7.0,6.0
+Calgary Rockets,2021-04-07,58,Canmore Rats,5.0,0.0,10.0,5.0
+Vancouver Islanders,2021-04-08,2,Game of Stones,0.0,8.0,10.0,4.0
+Game of Stones,2021-04-08,2,Vancouver Islanders,8.0,0.0,10.0,6.0
+Broom Hawks,2021-04-09,88,Niagara Falls Filons,4.0,3.0,10.0,4.0
+Game of Stones,2021-04-09,80,Thunder Bay Thunderbirds,7.0,0.0,5.0,5.0
+Broom Hawks,2021-04-11,88,Niagara Falls Filons,8.0,1.0,7.0,4.0
+Ottawa Victorias,2021-04-11,3,Calgary Cubs,1.0,7.0,8.0,1.0
+Calgary Cubs,2021-04-11,3,Ottawa Victorias,7.0,1.0,8.0,7.0
+Broom Hawks,2021-04-12,19,Rosemont Bears,13.0,6.0,9.0,6.0
+Cold Islanders,2021-04-13,87,South Surrey Canadians,7.0,5.0,10.0,6.0
+Ice Cougars,2021-04-17,97,Pembroke Lumber Express,2.0,8.0,9.0,2.0
+Stone Timberwolves,2021-04-19,85,Sherwood Park Grads,6.0,4.0,10.0,4.0
+Ice Dodgers,2021-04-20,32,Williams Lake Vulcans,5.0,3.0,10.0,3.0
+Cold Colts,2021-04-22,69,Sudbury Jets,9.0,5.0,10.0,7.0
+Game of Stones,2021-04-24,2,Vancouver Islanders,8.0,0.0,5.0,5.0
+Vancouver Islanders,2021-04-24,2,Game of Stones,0.0,8.0,5.0,0.0
+Montreal Lasers,2021-04-25,66,Vancouver Flyers,11.0,4.0,9.0,6.0
+Broom Hawks,2021-04-26,45,Prince Albert Marrs,11.0,4.0,9.0,5.0
+Stone Timberwolves,2021-04-27,78,Halifax Oland Centennials,7.0,2.0,10.0,5.0
+Ottawa Greys,2021-04-28,1,Broom Mets,9.0,0.0,5.0,5.0
+Broom Mets,2021-04-28,1,Ottawa Greys,0.0,9.0,5.0,0.0
+Cold Islanders,2021-05-01,60,Villanova Terriers,12.0,1.0,6.0,5.0
+Broom Mets,2021-05-02,90,Langley Hawks,5.0,6.0,10.0,3.0
+Calgary Bruins,2021-05-02,29,Richmond Hill Mets,7.0,1.0,6.0,4.0
+Calgary Bruins,2021-05-05,95,Fort Garry Eagles,10.0,2.0,8.0,6.0
+Ice Dodgers,2021-05-06,3,Stone Mariners,7.0,3.0,10.0,6.0
+Stone Mariners,2021-05-06,3,Ice Dodgers,3.0,7.0,10.0,4.0
+Montreal Lasers,2021-05-06,94,Aurora Chiefs,6.0,5.0,10.0,4.0
+Montreal Braves,2021-05-07,45,Prince Albert Marrs,7.0,1.0,6.0,5.0
+Stone Mariners,2021-05-08,1,Broom Mets,4.0,10.0,6.0,2.0
+Broom Mets,2021-05-08,1,Stone Mariners,10.0,4.0,6.0,4.0
+Vancouver Islanders,2021-05-09,2,Toronto Penguins,1.0,7.0,8.0,1.0
+Calgary Cubs,2021-05-09,35,Sidney Eagles,3.0,10.0,7.0,2.0
+Toronto Penguins,2021-05-09,2,Vancouver Islanders,7.0,1.0,8.0,7.0
+Montreal Lasers,2021-05-09,68,Vernon Crystals,4.0,10.0,8.0,2.0
+Montreal Braves,2021-05-12,22,Ste. Agathe Flyers,8.0,6.0,10.0,4.0
+Super Salsa,2021-05-15,4,Stone Timberwolves,8.0,1.0,6.0,5.0
+Cold Islanders,2021-05-15,60,Villanova Terriers,9.0,1.0,5.0,4.0
+Stone Timberwolves,2021-05-15,4,Super Salsa,1.0,8.0,6.0,1.0
+Montreal Braves,2021-05-16,79,Pembroke Lumber Bears,0.0,6.0,5.0,0.0
+Calgary Rockets,2021-05-16,102,Nickel Centre Terriers,10.0,1.0,8.0,6.0
+Cold Travelways,2021-05-17,31,Thunder Bay Dogs,8.0,7.0,12.0,5.0
+Cold Colts,2021-05-17,84,Windsor Royals,12.0,4.0,10.0,5.0
+Ice Dodgers,2021-05-17,50,Ajax Sports,9.0,4.0,10.0,7.0
+Ice Dodgers,2021-05-19,57,New Waterford Pack,7.0,2.0,10.0,4.0
+Vancouver Fury,2021-05-22,69,Sudbury Jets,6.0,8.0,12.0,3.0
+Stone Timberwolves,2021-05-25,50,Ajax Sports,10.0,3.0,6.0,4.0
+Calgary Rockets,2021-05-26,76,Whitby Lakers,6.0,0.0,7.0,5.0
+Toronto Eagles,2021-05-26,35,Sidney Eagles,0.0,9.0,5.0,0.0
+Ice Sabres,2021-05-30,37,Halifax Oland Vikings,0.0,7.0,5.0,0.0
+Cold Travelways,2021-05-30,0,Toronto Eagles,7.0,6.0,10.0,4.0
+Toronto Eagles,2021-05-30,0,Cold Travelways,6.0,7.0,10.0,6.0
+Stone Mariners,2021-05-31,89,Williams Lake Warriors,0.0,6.0,5.0,0.0
+Vancouver Islanders,2021-06-01,47,Halifax Flames,0.0,7.0,5.0,0.0
+Cold Colts,2021-06-05,102,Nickel Centre Terriers,8.0,3.0,10.0,5.0
+Montreal Lasers,2021-06-06,66,Vancouver Flyers,9.0,1.0,10.0,5.0
+Ice Cougars,2021-06-07,20,Dartmouth Oland Thunderbirds,3.0,4.0,10.0,3.0
+Calgary Rockets,2021-06-08,3,Calgary Fleur-de-Lys,6.0,2.0,10.0,8.0
+Calgary Fleur-de-Lys,2021-06-08,3,Calgary Rockets,2.0,6.0,10.0,2.0
+Ottawa Victorias,2021-06-08,69,Sudbury Jets,5.0,6.0,10.0,4.0
+Ice Cougars,2021-06-09,1,Game of Stones,2.0,9.0,8.0,1.0
+Game of Stones,2021-06-09,1,Ice Cougars,9.0,2.0,8.0,7.0
+Montreal Lasers,2021-06-10,91,La Salle Eagles,6.0,8.0,10.0,6.0
+Cold Chinooks,2021-06-11,18,Mississauga Cougars,8.0,3.0,10.0,6.0
+Calgary Cubs,2021-06-11,3,Calgary Fleur-de-Lys,6.0,5.0,10.0,6.0
+Calgary Fleur-de-Lys,2021-06-11,3,Calgary Cubs,5.0,6.0,10.0,4.0
+Montreal Bruins,2021-06-11,99,Bellingham Travelways,9.0,4.0,10.0,6.0
+Cold Huskies,2021-06-12,93,Humboldt Vipers,7.0,1.0,6.0,4.0
+Super Salsa,2021-06-14,4,Ice Dodgers,9.0,2.0,8.0,6.0
+Broom Hawks,2021-06-14,45,Prince Albert Marrs,11.0,1.0,7.0,6.0
+Ice Bulls,2021-06-14,99,Bellingham Travelways,6.0,4.0,10.0,5.0
+Ice Dodgers,2021-06-14,4,Super Salsa,2.0,9.0,8.0,2.0
+Cold Chinooks,2021-06-15,94,Aurora Chiefs,1.0,7.0,7.0,1.0
+Vancouver Fury,2021-06-17,4,Montreal Raiders,11.0,0.0,6.0,6.0
+Ice Sabres,2021-06-17,75,New Westminster Thunder,0.0,8.0,5.0,0.0
+Montreal Raiders,2021-06-17,4,Vancouver Fury,0.0,11.0,6.0,0.0
+Toronto Eagles,2021-06-18,0,Ottawa Victorias,0.0,8.0,5.0,0.0
+Ottawa Victorias,2021-06-18,0,Toronto Eagles,8.0,0.0,5.0,5.0
+Ice Cougars,2021-06-22,0,Game of Stones,0.0,6.0,8.0,2.0
+Game of Stones,2021-06-22,0,Ice Cougars,6.0,0.0,8.0,6.0
+Montreal Lasers,2021-06-23,53,Toronto 73's,8.0,6.0,10.0,4.0
+Stone Mariners,2021-06-27,4,Super Salsa,3.0,10.0,9.0,2.0
+Super Salsa,2021-06-27,4,Stone Mariners,10.0,3.0,9.0,7.0
+Super Salsa,2021-06-27,4,Ice Dodgers,6.0,1.0,10.0,9.0
+Ice Dodgers,2021-06-27,4,Super Salsa,1.0,6.0,10.0,1.0
+Ice Sabres,2021-06-29,9,Trail Smoke Remparts,3.0,10.0,10.0,2.0
+Calgary Cubs,2021-06-30,76,Whitby Lakers,2.0,6.0,10.0,2.0
+Game of Stones,2021-06-30,0,Toronto Penguins,5.0,7.0,11.0,4.0
+Ice Bulls,2021-06-30,4,Cold Colts,0.0,6.0,5.0,0.0
+Cold Colts,2021-06-30,4,Ice Bulls,6.0,0.0,5.0,5.0
+Toronto Penguins,2021-06-30,0,Game of Stones,7.0,5.0,11.0,7.0
+Broom Hawks,2021-07-01,4,Montreal Braves,2.0,7.0,10.0,2.0
+Broom Mets,2021-07-01,1,Ottawa Greys,5.0,8.0,10.0,4.0
+Montreal Braves,2021-07-01,4,Broom Hawks,7.0,2.0,10.0,8.0
+Ottawa Greys,2021-07-01,1,Broom Mets,8.0,5.0,10.0,6.0
+Ottawa Victorias,2021-07-01,1,Cold Colts,1.0,7.0,5.0,2.0
+Cold Colts,2021-07-01,1,Ottawa Victorias,7.0,1.0,5.0,3.0
+Stone Mariners,2021-07-01,14,Battleford Greys,0.0,7.0,5.0,0.0
+Cold Colts,2021-07-02,25,Chateauguay Canucks,8.0,4.0,10.0,5.0
+Ottawa Victorias,2021-07-02,1,Calgary Cougars,2.0,9.0,6.0,2.0
+Calgary Cougars,2021-07-02,1,Ottawa Victorias,9.0,2.0,6.0,4.0
+Stone Mariners,2021-07-02,8,Peterborough Bearcats,3.0,8.0,10.0,2.0
+Stone Mariners,2021-07-04,89,Williams Lake Warriors,1.0,7.0,5.0,1.0
+Ice Sabres,2021-07-06,27,Burlington Stampeders,4.0,5.0,10.0,3.0
+Cold Travelways,2021-07-09,1,Cold Colts,2.0,9.0,7.0,2.0
+Cold Colts,2021-07-09,1,Cold Travelways,9.0,2.0,7.0,5.0
+Ottawa Victorias,2021-07-10,3,Calgary Fleur-de-Lys,7.0,0.0,5.0,5.0
+Calgary Fleur-de-Lys,2021-07-10,3,Ottawa Victorias,0.0,7.0,5.0,0.0
+Calgary Cubs,2021-07-11,3,Montreal Raiders,7.0,4.0,10.0,8.0
+Montreal Raiders,2021-07-11,3,Calgary Cubs,4.0,7.0,10.0,2.0
+Stone Timberwolves,2021-07-13,65,Winnipeg Beehives,9.0,3.0,9.0,6.0
+Cold Chinooks,2021-07-15,94,Aurora Chiefs,8.0,9.0,10.0,3.0
+Cold Islanders,2021-07-16,0,Cold Chinooks,8.0,2.0,6.0,5.0
+Cold Chinooks,2021-07-16,0,Cold Islanders,2.0,8.0,6.0,1.0
+Calgary Cougars,2021-07-17,31,Thunder Bay Dogs,4.0,5.0,11.0,3.0
+Ice Sabres,2021-07-18,93,Humboldt Vipers,4.0,8.0,10.0,3.0
+Cold Huskies,2021-07-19,55,Markham Rockets,8.0,2.0,7.0,5.0
+Cold Colts,2021-07-20,3,Calgary Cubs,10.0,4.0,8.0,6.0
+Calgary Cubs,2021-07-20,3,Cold Colts,4.0,10.0,8.0,2.0
+Calgary Bruins,2021-07-20,29,Richmond Hill Mets,1.0,7.0,5.0,1.0
+Cold Chinooks,2021-07-21,87,South Surrey Canadians,5.0,4.0,10.0,3.0
+Montreal Raiders,2021-07-21,4,Vancouver Fury,3.0,8.0,10.0,4.0
+Cold Huskies,2021-07-21,100,Chilliwack Metros,4.0,5.0,10.0,3.0
+Vancouver Fury,2021-07-21,4,Montreal Raiders,8.0,3.0,10.0,6.0
+Calgary Fleur-de-Lys,2021-07-27,3,Calgary Rockets,0.0,8.0,5.0,1.0
+Calgary Rockets,2021-07-27,3,Calgary Fleur-de-Lys,8.0,0.0,5.0,4.0
+Ice Bulls,2021-07-28,4,Montreal Raiders,1.0,7.0,5.0,1.0
+Montreal Raiders,2021-07-28,4,Ice Bulls,7.0,1.0,5.0,4.0
+Ice Unicorns,2021-08-02,66,Vancouver Flyers,1.0,7.0,5.0,1.0
+Montreal Bruins,2021-08-03,84,Windsor Royals,1.0,7.0,5.0,1.0
+Ice Cougars,2021-08-03,48,Halifax A's,5.0,12.0,9.0,3.0
+Ice Huskies,2021-08-03,90,Langley Hawks,7.0,4.0,10.0,5.0
+Montreal Braves,2021-08-05,45,Prince Albert Marrs,8.0,4.0,10.0,6.0
+Toronto Eagles,2021-08-06,0,Calgary Fleur-de-Lys,0.0,6.0,5.0,1.0
+Calgary Fleur-de-Lys,2021-08-06,0,Toronto Eagles,6.0,0.0,5.0,4.0
+Cold Islanders,2021-08-07,2,Super Atlantics,0.0,7.0,5.0,0.0
+Super Atlantics,2021-08-07,2,Cold Islanders,7.0,0.0,5.0,5.0
+Calgary Cubs,2021-08-08,21,Victoria Thunder,2.0,8.0,8.0,2.0
+Ice Sabres,2021-08-08,100,Chilliwack Metros,5.0,6.0,10.0,4.0
+Vancouver Fury,2021-08-08,58,Canmore Rats,6.0,0.0,5.0,3.0
+Cold Chinooks,2021-08-09,1,Baby Broomers,7.0,10.0,10.0,5.0
+Baby Broomers,2021-08-09,1,Cold Chinooks,10.0,7.0,10.0,5.0
+Vancouver Fury,2021-08-10,99,Bellingham Travelways,10.0,2.0,9.0,7.0
+Stone Timberwolves,2021-08-10,2,Ice Dodgers,4.0,2.0,10.0,8.0
+Ice Dodgers,2021-08-10,2,Stone Timberwolves,2.0,4.0,10.0,2.0
+Super Salsa,2021-08-12,57,New Waterford Pack,9.0,4.0,10.0,6.0
+Super Atlantics,2021-08-12,36,Thunder Bay Eaters,6.0,7.0,10.0,6.0
+Ice Bulls,2021-08-13,76,Whitby Lakers,6.0,7.0,10.0,4.0
+Montreal Raiders,2021-08-13,76,Whitby Lakers,0.0,8.0,8.0,0.0
+Cold Chinooks,2021-08-14,1,Cold Islanders,3.0,9.0,8.0,4.0
+Cold Islanders,2021-08-14,1,Cold Chinooks,9.0,3.0,8.0,4.0
+Ice Dodgers,2021-08-14,17,Brandon Warriors,1.0,7.0,6.0,1.0
+Vancouver Fury,2021-08-14,69,Sudbury Jets,7.0,0.0,5.0,4.0
+Vancouver Fury,2021-08-18,4,Montreal Raiders,7.0,1.0,5.0,3.0
+Montreal Raiders,2021-08-18,4,Vancouver Fury,1.0,7.0,5.0,2.0
+Calgary Cubs,2021-08-20,58,Canmore Rats,8.0,2.0,7.0,5.0
+Calgary Cubs,2021-08-22,46,Steinbach Oilers,5.0,4.0,10.0,4.0
+Cold Chinooks,2021-08-23,66,Vancouver Flyers,6.0,5.0,12.0,5.0
+Vancouver Fury,2021-08-25,76,Whitby Lakers,4.0,5.0,10.0,3.0
+Stone Timberwolves,2021-08-26,7,Southeast Nationals,10.0,4.0,7.0,6.0
+Calgary Fleur-de-Lys,2021-08-27,21,Victoria Thunder,4.0,8.0,10.0,3.0
+Toronto Eagles,2021-08-28,10,Melfort Bruins,2.0,5.0,10.0,2.0
+Ottawa Greys,2021-08-28,90,Langley Hawks,7.0,1.0,10.0,5.0
+Montreal Braves,2021-08-29,56,Thetford Mines Blizzard,9.0,2.0,7.0,5.0
+Super Salsa,2021-08-29,85,Sherwood Park Grads,6.0,8.0,10.0,4.0
+Ottawa Greys,2021-08-30,54,Saskatoon Rams,1.0,10.0,7.0,1.0
+Ice Sabres,2021-08-30,33,Iron Range Penguins,0.0,13.0,7.0,0.0
+Broom Hawks,2021-09-01,79,Pembroke Lumber Bears,6.0,2.0,10.0,4.0
+Cold Chinooks,2021-09-01,87,South Surrey Canadians,2.0,8.0,7.0,1.0
+Toronto Eagles,2021-09-02,10,Melfort Bruins,1.0,7.0,7.0,1.0
+Super Salsa,2021-09-02,4,Broom Mets,8.0,0.0,6.0,6.0
+Broom Mets,2021-09-02,4,Super Salsa,0.0,8.0,6.0,0.0
+Vancouver Islanders,2021-09-07,0,Ice Cougars,1.0,10.0,6.0,1.0
+Baby Broomers,2021-09-07,52,Ottawa Crunch,7.0,6.0,10.0,5.0
+Ice Cougars,2021-09-07,0,Vancouver Islanders,10.0,1.0,6.0,5.0
+Montreal Braves,2021-09-07,98,Aurora Canadians,6.0,5.0,10.0,4.0
+Vancouver Buccaneers,2021-09-09,41,Dartmouth Crunch,8.0,6.0,11.0,4.0
+Stone Mariners,2021-09-13,24,Sidney Terriers,7.0,3.0,10.0,4.0
+Ice Bulls,2021-09-15,42,Vancouver Jr. Terriers,7.0,8.0,10.0,4.0
+Calgary Cubs,2021-09-16,69,Sudbury Jets,7.0,3.0,10.0,5.0
+Cold Travelways,2021-09-16,35,Sidney Eagles,2.0,8.0,6.0,2.0
+Toronto Penguins,2021-09-17,1,Game of Stones,6.0,0.0,5.0,5.0
+Game of Stones,2021-09-17,1,Toronto Penguins,0.0,6.0,5.0,0.0
+Montreal Lasers,2021-09-17,4,Cold Chinooks,6.0,0.0,5.0,5.0
+Cold Chinooks,2021-09-17,4,Montreal Lasers,0.0,6.0,5.0,0.0
+Ice Unicorns,2021-09-19,4,Baby Broomers,6.0,9.0,10.0,4.0
+Baby Broomers,2021-09-19,4,Ice Unicorns,9.0,6.0,10.0,6.0
+Vancouver Islanders,2021-09-20,71,Thornhill Caribous,7.0,3.0,10.0,4.0
+Ice Dodgers,2021-09-20,74,Port-aux-Basques Buccaneers,2.0,7.0,10.0,1.0
+Ice Unicorns,2021-09-20,60,Villanova Terriers,7.0,6.0,10.0,5.0
+Vancouver Buccaneers,2021-09-20,91,La Salle Eagles,7.0,4.0,10.0,5.0
+Broom Hawks,2021-09-20,59,Thunder Bay Patriots,10.0,0.0,5.0,5.0
+Ice Sabres,2021-09-20,33,Iron Range Penguins,0.0,9.0,5.0,0.0
+Ice Cougars,2021-09-21,97,Pembroke Lumber Express,1.0,8.0,6.0,1.0
+Montreal Bruins,2021-09-23,102,Nickel Centre Terriers,11.0,3.0,7.0,4.0
+Calgary Fleur-de-Lys,2021-09-26,99,Bellingham Travelways,6.0,5.0,10.0,5.0
+Baby Broomers,2021-09-26,53,Toronto 73's,0.0,10.0,7.0,0.0
+Montreal Lasers,2021-09-27,41,Dartmouth Crunch,7.0,3.0,10.0,7.0
+Ice Sabres,2021-09-28,29,Richmond Hill Mets,0.0,8.0,7.0,0.0
+Ice Bulls,2021-09-29,4,Toronto Eagles,8.0,3.0,10.0,7.0
+Toronto Eagles,2021-09-29,4,Ice Bulls,3.0,8.0,10.0,3.0
+Ice Sabres,2021-09-29,100,Chilliwack Metros,1.0,12.0,8.0,1.0
+Cold Islanders,2021-09-30,43,Temiscaming Hawks,5.0,3.0,10.0,4.0
+Ice Dodgers,2021-09-30,65,Winnipeg Beehives,2.0,5.0,10.0,2.0
+Game of Stones,2021-10-01,47,Halifax Flames,4.0,5.0,10.0,3.0
+Montreal Bruins,2021-10-01,99,Bellingham Travelways,7.0,1.0,6.0,4.0
+Ice Sabres,2021-10-04,93,Humboldt Vipers,4.0,7.0,10.0,3.0
+Ice Bulls,2021-10-05,69,Sudbury Jets,2.0,8.0,5.0,1.0
+Vancouver Buccaneers,2021-10-05,103,Riverview Elites,4.0,7.0,10.0,3.0
+Cold Islanders,2021-10-05,34,Markham Rebels,7.0,2.0,10.0,5.0
+Ottawa Victorias,2021-10-07,3,Calgary Cougars,7.0,5.0,10.0,5.0
+Calgary Cougars,2021-10-07,3,Ottawa Victorias,5.0,7.0,10.0,5.0
+Montreal Lasers,2021-10-08,23,Laval Rousseau 77's,0.0,10.0,5.0,0.0
+Ice Huskies,2021-10-09,26,Wexford Beehives,7.0,8.0,10.0,2.0
+Stone Timberwolves,2021-10-10,65,Winnipeg Beehives,8.0,2.0,9.0,6.0
+Ice Cougars,2021-10-11,2,Vancouver Islanders,4.0,2.0,10.0,3.0
+Vancouver Islanders,2021-10-11,2,Ice Cougars,2.0,4.0,10.0,7.0
+Cold Islanders,2021-10-11,4,Baby Broomers,9.0,0.0,6.0,4.0
+Game of Stones,2021-10-11,2,Vancouver Islanders,11.0,0.0,5.0,5.0
+Vancouver Islanders,2021-10-11,2,Game of Stones,0.0,11.0,5.0,0.0
+Baby Broomers,2021-10-11,4,Cold Islanders,0.0,9.0,6.0,2.0
+Ottawa Kiltys,2021-10-13,1,Stone Mariners,3.0,6.0,10.0,5.0
+Stone Mariners,2021-10-13,1,Ottawa Kiltys,6.0,3.0,10.0,5.0
+Calgary Cubs,2021-10-14,3,Ice Bulls,5.0,3.0,10.0,7.0
+Toronto Penguins,2021-10-14,30,Peterborough Jr. Patriots,8.0,3.0,10.0,5.0
+Super Lords,2021-10-14,56,Thetford Mines Blizzard,0.0,7.0,7.0,0.0
+Ice Bulls,2021-10-14,3,Calgary Cubs,3.0,5.0,10.0,3.0
+Stone Timberwolves,2021-10-15,77,Lanark Festivals,10.0,5.0,10.0,6.0
+Stone Timberwolves,2021-10-16,17,Brandon Warriors,8.0,6.0,10.0,5.0
+Montreal Lasers,2021-10-19,66,Vancouver Flyers,7.0,1.0,8.0,5.0
+Ice Cougars,2021-10-19,97,Pembroke Lumber Express,3.0,8.0,10.0,2.0
+Ice Dodgers,2021-10-20,14,Battleford Greys,4.0,10.0,7.0,2.0
+Baby Broomers,2021-10-22,64,Vancouver Canadiens,2.0,11.0,9.0,1.0
+Stone Timberwolves,2021-10-23,54,Saskatoon Rams,4.0,8.0,10.0,3.0
+Broom Hawks,2021-10-24,2,Montreal Braves,3.0,6.0,10.0,6.0
+Montreal Braves,2021-10-24,2,Broom Hawks,6.0,3.0,10.0,4.0
+Cold Colts,2021-10-25,63,Moncton Legionaires,4.0,2.0,10.0,4.0
+Montreal Lasers,2021-10-25,4,Vancouver Buccaneers,8.0,0.0,5.0,5.0
+Vancouver Buccaneers,2021-10-25,4,Montreal Lasers,0.0,8.0,5.0,0.0
+Vancouver Fury,2021-10-27,31,Thunder Bay Dogs,8.0,2.0,7.0,5.0
+Calgary Bruins,2021-10-28,75,New Westminster Thunder,2.0,8.0,6.0,1.0
+Cold Islanders,2021-10-28,34,Markham Rebels,7.0,4.0,10.0,5.0
+Calgary Cougars,2021-10-29,3,Calgary Cubs,3.0,5.0,10.0,2.0
+Calgary Cubs,2021-10-29,3,Calgary Cougars,5.0,3.0,10.0,8.0
+Toronto Eagles,2021-10-30,21,Victoria Thunder,1.0,11.0,8.0,1.0
+Toronto Eagles,2021-10-31,31,Thunder Bay Dogs,1.0,7.0,5.0,1.0
+Ice Cougars,2021-11-01,0,Game of Stones,2.0,8.0,7.0,1.0
+Game of Stones,2021-11-01,0,Ice Cougars,8.0,2.0,7.0,6.0
+Ottawa Kiltys,2021-11-02,1,Ottawa Greys,1.0,8.0,5.0,1.0
+Toronto Penguins,2021-11-02,97,Pembroke Lumber Express,9.0,4.0,10.0,4.0
+Ottawa Greys,2021-11-02,1,Ottawa Kiltys,8.0,1.0,5.0,4.0
+Ice Cougars,2021-11-03,48,Halifax A's,2.0,7.0,10.0,2.0
+Ottawa Kiltys,2021-11-04,1,Ice Dodgers,7.0,1.0,5.0,3.0
+Ice Dodgers,2021-11-04,1,Ottawa Kiltys,1.0,7.0,5.0,2.0
+Super Lords,2021-11-04,56,Thetford Mines Blizzard,5.0,6.0,10.0,3.0
+Stone Mariners,2021-11-05,26,Wexford Beehives,1.0,7.0,7.0,1.0
+Vancouver Fury,2021-11-05,2,Calgary Cubs,8.0,1.0,9.0,8.0
+Super Atlantics,2021-11-05,103,Riverview Elites,7.0,3.0,10.0,3.0
+Calgary Cubs,2021-11-05,2,Vancouver Fury,1.0,8.0,9.0,1.0
+Calgary Cubs,2021-11-09,76,Whitby Lakers,3.0,6.0,10.0,2.0
+Calgary Cougars,2021-11-11,1,Ottawa Victorias,3.0,8.0,10.0,2.0
+Ottawa Victorias,2021-11-11,1,Calgary Cougars,8.0,3.0,10.0,8.0
+Toronto Eagles,2021-11-12,72,Yorkton Indians,3.0,8.0,10.0,3.0
+Montreal Braves,2021-11-13,4,Broom Hawks,6.0,9.0,10.0,6.0
+Broom Hawks,2021-11-13,4,Montreal Braves,9.0,6.0,10.0,4.0
+Montreal Bruins,2021-11-14,58,Canmore Rats,6.0,0.0,6.0,5.0
+Toronto Penguins,2021-11-15,51,Richmond Hill Tondas,11.0,3.0,8.0,6.0
+Calgary Bruins,2021-11-15,70,Calgary Marauders,9.0,4.0,10.0,6.0
+Calgary Bruins,2021-11-16,93,Humboldt Vipers,7.0,1.0,9.0,7.0
+Toronto Penguins,2021-11-17,80,Thunder Bay Thunderbirds,7.0,1.0,8.0,7.0
+Ice Cougars,2021-11-17,13,Halifax Team Leafs,2.0,10.0,6.0,1.0
+Cold Huskies,2021-11-18,100,Chilliwack Metros,10.0,1.0,5.0,4.0
+Montreal Vipers,2021-11-18,22,Ste. Agathe Flyers,7.0,5.0,10.0,5.0
+Cold Colts,2021-11-18,21,Victoria Thunder,8.0,1.0,9.0,5.0
+Calgary Cougars,2021-11-20,72,Yorkton Indians,7.0,9.0,12.0,3.0
+Broom Hawks,2021-11-20,56,Thetford Mines Blizzard,6.0,4.0,10.0,3.0
+Cold Chinooks,2021-11-20,64,Vancouver Canadiens,0.0,6.0,5.0,0.0
+Toronto Rockets,2021-11-22,88,Niagara Falls Filons,0.0,6.0,6.0,0.0
+Toronto Eagles,2021-11-22,0,Ice Bulls,0.0,11.0,5.0,0.0
+Montreal Lasers,2021-11-22,94,Aurora Chiefs,10.0,4.0,9.0,6.0
+Ice Bulls,2021-11-22,0,Toronto Eagles,11.0,0.0,5.0,5.0
+Broom Mets,2021-11-23,1,Ice Dodgers,5.0,6.0,10.0,4.0
+Ice Dodgers,2021-11-23,1,Broom Mets,6.0,5.0,10.0,6.0
+Toronto Eagles,2021-11-23,84,Windsor Royals,0.0,9.0,5.0,0.0
+Toronto Penguins,2021-11-23,12,Kanata Valley Vipers,10.0,1.0,7.0,6.0
+Baby Broomers,2021-11-24,4,Vancouver Buccaneers,8.0,5.0,10.0,5.0
+Vancouver Buccaneers,2021-11-24,4,Baby Broomers,5.0,8.0,10.0,5.0
+Ice Bulls,2021-11-26,72,Yorkton Indians,7.0,5.0,11.0,4.0
+Game of Stones,2021-11-27,16,Bancroft Waxers,5.0,9.0,10.0,3.0
+Vancouver Fury,2021-11-28,2,Montreal Raiders,8.0,0.0,7.0,7.0
+Toronto Penguins,2021-11-28,40,Kindersley Warriors,7.0,1.0,6.0,4.0
+Montreal Raiders,2021-11-28,2,Vancouver Fury,0.0,8.0,7.0,0.0
+Montreal Bruins,2021-11-29,63,Moncton Legionaires,9.0,2.0,9.0,7.0
+Ice Cougars,2021-11-29,80,Thunder Bay Thunderbirds,7.0,9.0,10.0,5.0
+Calgary Cubs,2021-11-30,25,Chateauguay Canucks,3.0,6.0,10.0,2.0
+Toronto Olympics,2021-11-30,17,Brandon Warriors,9.0,5.0,10.0,5.0
+Broom Hawks,2021-11-30,4,Montreal Vipers,5.0,2.0,10.0,4.0
+Montreal Vipers,2021-11-30,4,Broom Hawks,2.0,5.0,10.0,6.0
+Calgary Cubs,2021-12-01,102,Nickel Centre Terriers,2.0,5.0,10.0,2.0
+Super Atlantics,2021-12-01,103,Riverview Elites,4.0,1.0,10.0,4.0
+Toronto Rockets,2021-12-03,98,Aurora Canadians,0.0,10.0,7.0,0.0
+Cold Islanders,2021-12-04,23,Laval Rousseau 77's,3.0,9.0,9.0,2.0
+Cold Islanders,2021-12-05,1,Cold Chinooks,8.0,3.0,10.0,5.0
+Calgary Rockets,2021-12-05,99,Bellingham Travelways,9.0,2.0,8.0,4.0
+Cold Chinooks,2021-12-05,1,Cold Islanders,3.0,8.0,10.0,5.0
+Calgary Rockets,2021-12-06,3,Calgary Cougars,10.0,4.0,10.0,7.0
+Calgary Cougars,2021-12-06,3,Calgary Rockets,4.0,10.0,10.0,3.0
+Toronto Rockets,2021-12-06,2,Broom Hawks,1.0,8.0,7.0,1.0
+Broom Hawks,2021-12-06,2,Toronto Rockets,8.0,1.0,7.0,6.0
+Ottawa Kiltys,2021-12-07,38,Espanola Screaming Crystals,7.0,1.0,6.0,4.0
+Cold Colts,2021-12-07,3,Calgary Cougars,8.0,3.0,10.0,6.0
+Calgary Cougars,2021-12-07,3,Cold Colts,3.0,8.0,10.0,4.0
+Cold Colts,2021-12-08,84,Windsor Royals,1.0,8.0,5.0,1.0
+Vancouver Buccaneers,2021-12-08,83,North York Capitals,11.0,4.0,8.0,5.0
+Montreal Raiders,2021-12-10,4,Calgary Cougars,5.0,3.0,10.0,7.0
+Calgary Cougars,2021-12-10,4,Montreal Raiders,3.0,5.0,10.0,3.0
+Vancouver Buccaneers,2021-12-12,4,Baby Broomers,8.0,4.0,10.0,4.0
+Baby Broomers,2021-12-12,4,Vancouver Buccaneers,4.0,8.0,10.0,6.0
+Calgary Cubs,2021-12-12,10,Melfort Bruins,9.0,3.0,9.0,5.0
+Cold Islanders,2021-12-12,0,Cold Chinooks,4.0,5.0,10.0,7.0
+Cold Chinooks,2021-12-12,0,Cold Islanders,5.0,4.0,10.0,3.0
+Cold Huskies,2021-12-14,37,Halifax Oland Vikings,5.0,4.0,10.0,4.0
+Calgary Rockets,2021-12-14,76,Whitby Lakers,8.0,7.0,10.0,6.0
+Toronto Rockets,2021-12-17,45,Prince Albert Marrs,1.0,7.0,8.0,1.0
+Baby Broomers,2021-12-17,41,Dartmouth Crunch,3.0,6.0,10.0,3.0
+Toronto Penguins,2021-12-19,47,Halifax Flames,13.0,4.0,10.0,6.0
+Calgary Fleur-de-Lys,2021-12-19,3,Cold Colts,3.0,7.0,10.0,6.0
+Cold Colts,2021-12-19,3,Calgary Fleur-de-Lys,7.0,3.0,10.0,4.0
+Stone Timberwolves,2021-12-20,26,Wexford Beehives,7.0,0.0,5.0,5.0
+Ice Sabres,2021-12-22,39,Charlottetown Schooners,0.0,8.0,5.0,0.0
+Ice Huskies,2021-12-22,26,Wexford Beehives,8.0,0.0,5.0,5.0
+Ottawa Kiltys,2021-12-22,50,Ajax Sports,10.0,7.0,10.0,5.0
+Stone Timberwolves,2021-12-23,2,Super Salsa,3.0,10.0,6.0,3.0
+Super Salsa,2021-12-23,2,Stone Timberwolves,10.0,3.0,6.0,3.0
+Super Salsa,2021-12-24,82,Oswego Cougars,5.0,8.0,10.0,3.0
+Stone Timberwolves,2021-12-24,6,Cape Breton Lumberjacks,6.0,4.0,10.0,4.0
+Stone Timberwolves,2021-12-25,6,Cape Breton Lumberjacks,8.0,3.0,10.0,5.0
+Super Lords,2021-12-25,45,Prince Albert Marrs,4.0,7.0,10.0,2.0
+Toronto Eagles,2021-12-27,35,Sidney Eagles,0.0,6.0,5.0,0.0
+Ice Unicorns,2021-12-27,68,Vernon Crystals,8.0,5.0,10.0,4.0
+Game of Stones,2021-12-27,92,Toronto Wild,7.0,8.0,10.0,3.0
+Calgary Fleur-de-Lys,2021-12-28,58,Canmore Rats,9.0,0.0,5.0,5.0
+Baby Broomers,2021-12-28,41,Dartmouth Crunch,6.0,5.0,10.0,4.0
+Stone Mariners,2021-12-28,49,North Sydney Spitfires,5.0,7.0,10.0,2.0
+Ice Cougars,2021-12-28,30,Peterborough Jr. Patriots,3.0,9.0,6.0,1.0
+Calgary Bruins,2021-12-30,33,Iron Range Penguins,5.0,4.0,10.0,4.0
+Montreal Braves,2021-12-30,45,Prince Albert Marrs,8.0,5.0,10.0,6.0
+Montreal Bruins,2021-12-31,42,Vancouver Jr. Terriers,7.0,0.0,5.0,5.0
+Calgary Rockets,2021-12-31,0,Toronto Eagles,6.0,0.0,6.0,5.0
+Toronto Eagles,2021-12-31,0,Calgary Rockets,0.0,6.0,6.0,1.0
+Ice Huskies,2022-01-02,49,North Sydney Spitfires,6.0,8.0,11.0,4.0
+Montreal Lasers,2022-01-03,3,Calgary Metros,5.0,6.0,10.0,2.0
+Super Salsa,2022-01-03,49,North Sydney Spitfires,9.0,0.0,6.0,4.0
+Calgary Cubs,2022-01-03,42,Vancouver Jr. Terriers,8.0,2.0,9.0,6.0
+Calgary Rockets,2022-01-03,63,Moncton Legionaires,15.0,0.0,8.0,6.0
+Calgary Metros,2022-01-03,3,Montreal Lasers,6.0,5.0,10.0,8.0
+Ice Sabres,2022-01-04,95,Fort Garry Eagles,1.0,7.0,5.0,1.0
+Montreal Lasers,2022-01-04,34,Markham Rebels,9.0,7.0,11.0,5.0
+Toronto Eagles,2022-01-04,76,Whitby Lakers,3.0,5.0,10.0,2.0
+Montreal Lasers,2022-01-04,4,Baby Broomers,10.0,4.0,7.0,5.0
+Baby Broomers,2022-01-04,4,Montreal Lasers,4.0,10.0,7.0,2.0
+Super Atlantics,2022-01-05,94,Aurora Chiefs,5.0,4.0,10.0,5.0
+Game of Stones,2022-01-05,97,Pembroke Lumber Express,9.0,4.0,10.0,5.0
+Cold Islanders,2022-01-05,62,Hamilton Tigers,4.0,7.0,10.0,3.0
+Stone Timberwolves,2022-01-07,17,Brandon Warriors,8.0,7.0,10.0,5.0
+Montreal Lasers,2022-01-08,2,Super Atlantics,10.0,11.0,10.0,4.0
+Super Atlantics,2022-01-08,2,Montreal Lasers,11.0,10.0,10.0,6.0
+Vancouver Buccaneers,2022-01-09,94,Aurora Chiefs,3.0,4.0,10.0,3.0
+Cold Chinooks,2022-01-09,2,Vancouver Buccaneers,1.0,8.0,5.0,1.0
+Vancouver Buccaneers,2022-01-09,2,Cold Chinooks,8.0,1.0,5.0,4.0
+Calgary Rockets,2022-01-10,10,Melfort Bruins,8.0,0.0,5.0,5.0
+Toronto Rockets,2022-01-10,98,Aurora Canadians,1.0,8.0,10.0,1.0
+Calgary Cougars,2022-01-12,2,Vancouver Fury,1.0,8.0,7.0,1.0
+Broom Mets,2022-01-12,2,Stone Timberwolves,0.0,6.0,6.0,0.0
+Vancouver Fury,2022-01-12,2,Calgary Cougars,8.0,1.0,7.0,6.0
+Stone Timberwolves,2022-01-12,2,Broom Mets,6.0,0.0,6.0,6.0
+Ice Dodgers,2022-01-14,1,Broom Mets,12.0,4.0,9.0,6.0
+Broom Mets,2022-01-14,1,Ice Dodgers,4.0,12.0,9.0,3.0
+Cold Islanders,2022-01-14,64,Vancouver Canadiens,6.0,2.0,10.0,4.0
+Super Lords,2022-01-15,22,Ste. Agathe Flyers,5.0,8.0,10.0,2.0
+Cold Islanders,2022-01-15,0,Montreal Lasers,8.0,5.0,10.0,6.0
+Montreal Lasers,2022-01-15,0,Cold Islanders,5.0,8.0,10.0,4.0
+Rolling Stones,2022-01-16,60,Villanova Terriers,9.0,0.0,6.0,5.0
+Super Atlantics,2022-01-17,36,Thunder Bay Eaters,10.0,6.0,10.0,6.0
+Calgary Rockets,2022-01-17,1,Ottawa Victorias,10.0,2.0,9.0,7.0
+Ottawa Victorias,2022-01-17,1,Calgary Rockets,2.0,10.0,9.0,2.0
+Ice Huskies,2022-01-18,14,Battleford Greys,0.0,6.0,5.0,0.0
+Cold Chinooks,2022-01-18,62,Hamilton Tigers,4.0,6.0,10.0,3.0
+Ice Unicorns,2022-01-18,3,Rolling Stones,0.0,6.0,5.0,0.0
+Rolling Stones,2022-01-18,3,Ice Unicorns,6.0,0.0,5.0,5.0
+Cold Islanders,2022-01-19,23,Laval Rousseau 77's,4.0,7.0,10.0,3.0
+Montreal Braves,2022-01-21,4,Montreal Vipers,8.0,5.0,10.0,6.0
+Montreal Vipers,2022-01-21,4,Montreal Braves,5.0,8.0,10.0,4.0
+Toronto Eagles,2022-01-22,21,Victoria Thunder,2.0,5.0,10.0,2.0
+Stone Timberwolves,2022-01-22,44,Thunder Bay Panthers,6.0,5.0,10.0,4.0
+Vancouver Islanders,2022-01-23,12,Kanata Valley Vipers,5.0,7.0,11.0,4.0
+Toronto Penguins,2022-01-24,71,Thornhill Caribous,8.0,2.0,5.0,3.0
+Ice Sabres,2022-01-24,95,Fort Garry Eagles,5.0,4.0,10.0,4.0
+Montreal Raiders,2022-01-25,10,Melfort Bruins,9.0,10.0,10.0,3.0
+Toronto Rockets,2022-01-25,2,Broom Hawks,0.0,11.0,6.0,0.0
+Ice Sabres,2022-01-25,39,Charlottetown Schooners,0.0,6.0,7.0,0.0
+Super Atlantics,2022-01-25,83,North York Capitals,6.0,7.0,10.0,4.0
+Ice Dodgers,2022-01-25,49,North Sydney Spitfires,6.0,7.0,10.0,3.0
+Broom Hawks,2022-01-25,2,Toronto Rockets,11.0,0.0,6.0,6.0
+Super Lords,2022-01-25,11,Penticton Chiefs,5.0,6.0,11.0,3.0
+Rolling Stones,2022-01-25,1,Cold Chinooks,9.0,0.0,5.0,5.0
+Cold Chinooks,2022-01-25,1,Rolling Stones,0.0,9.0,5.0,0.0
+Ice Cougars,2022-01-26,51,Richmond Hill Tondas,2.0,9.0,7.0,1.0
+Stone Timberwolves,2022-01-26,49,North Sydney Spitfires,7.0,0.0,7.0,5.0
+Vancouver Fury,2022-01-26,72,Yorkton Indians,7.0,1.0,5.0,4.0
+Ice Dodgers,2022-01-28,24,Sidney Terriers,6.0,7.0,10.0,3.0
+Ice Dodgers,2022-01-29,78,Halifax Oland Centennials,7.0,6.0,10.0,5.0
+Calgary Rockets,2022-01-29,102,Nickel Centre Terriers,7.0,1.0,6.0,5.0
+Stone Mariners,2022-01-29,38,Espanola Screaming Crystals,3.0,5.0,10.0,2.0
+Super Salsa,2022-01-31,6,Cape Breton Lumberjacks,8.0,2.0,8.0,5.0
+Stone Mariners,2022-01-31,82,Oswego Cougars,7.0,2.0,10.0,5.0
+Calgary Metros,2022-01-31,34,Markham Rebels,8.0,0.0,6.0,6.0
+Cold Travelways,2022-01-31,72,Yorkton Indians,5.0,7.0,10.0,4.0
+Cold Huskies,2022-02-01,100,Chilliwack Metros,7.0,0.0,5.0,4.0
+Vancouver Fury,2022-02-02,2,Ottawa Victorias,10.0,0.0,5.0,5.0
+Ottawa Victorias,2022-02-02,2,Vancouver Fury,0.0,10.0,5.0,0.0
+Super Salsa,2022-02-02,32,Williams Lake Vulcans,7.0,1.0,7.0,4.0
+Stone Timberwolves,2022-02-03,54,Saskatoon Rams,5.0,10.0,10.0,3.0
+Montreal Lasers,2022-02-04,64,Vancouver Canadiens,0.0,7.0,5.0,0.0
+Ottawa Greys,2022-02-05,49,North Sydney Spitfires,6.0,9.0,10.0,5.0
+Super Salsa,2022-02-05,0,Toronto Olympics,5.0,6.0,10.0,3.0
+Toronto Olympics,2022-02-05,0,Super Salsa,6.0,5.0,10.0,7.0
+Ice Cougars,2022-02-06,0,Game of Stones,2.0,8.0,8.0,3.0
+Game of Stones,2022-02-06,0,Ice Cougars,8.0,2.0,8.0,5.0
+Toronto Olympics,2022-02-06,77,Lanark Festivals,1.0,8.0,7.0,1.0
+Cold Colts,2022-02-07,10,Melfort Bruins,8.0,4.0,10.0,4.0
+Broom Mets,2022-02-07,85,Sherwood Park Grads,3.0,9.0,8.0,1.0
+Montreal Bruins,2022-02-07,72,Yorkton Indians,6.0,4.0,10.0,5.0
+Ottawa Greys,2022-02-09,44,Thunder Bay Panthers,6.0,0.0,6.0,5.0
+Game of Stones,2022-02-12,0,Toronto Penguins,4.0,6.0,10.0,4.0
+Toronto Penguins,2022-02-12,0,Game of Stones,6.0,4.0,10.0,6.0
+Toronto Penguins,2022-02-13,16,Bancroft Waxers,0.0,6.0,5.0,0.0
+Calgary Cougars,2022-02-13,31,Thunder Bay Dogs,3.0,5.0,10.0,2.0
+Cold Huskies,2022-02-14,100,Chilliwack Metros,8.0,2.0,6.0,3.0
+Montreal Bruins,2022-02-14,4,Cold Travelways,8.0,1.0,5.0,4.0
+Cold Travelways,2022-02-14,4,Montreal Bruins,1.0,8.0,5.0,1.0
+Calgary Bruins,2022-02-14,73,Thunder Bay Flames,6.0,2.0,10.0,3.0
+Stone Mariners,2022-02-15,17,Brandon Warriors,0.0,7.0,5.0,0.0
+Montreal Raiders,2022-02-15,63,Moncton Legionaires,1.0,7.0,6.0,1.0
+Super Lords,2022-02-15,11,Penticton Chiefs,3.0,10.0,6.0,2.0
+Stone Timberwolves,2022-02-17,32,Williams Lake Vulcans,10.0,4.0,9.0,7.0
+Super Atlantics,2022-02-18,64,Vancouver Canadiens,6.0,7.0,10.0,4.0
+Calgary Cougars,2022-02-19,3,Calgary Cubs,9.0,1.0,6.0,5.0
+Calgary Cubs,2022-02-19,3,Calgary Cougars,1.0,9.0,6.0,1.0
+Calgary Metros,2022-02-20,66,Vancouver Flyers,8.0,6.0,10.0,5.0
+Stone Mariners,2022-02-21,74,Port-aux-Basques Buccaneers,1.0,7.0,6.0,1.0
+Ice Huskies,2022-02-21,6,Cape Breton Lumberjacks,0.0,7.0,5.0,0.0
+Montreal Lasers,2022-02-22,87,South Surrey Canadians,8.0,3.0,10.0,5.0
+Ice Huskies,2022-02-22,96,Vernon Bears,0.0,7.0,5.0,0.0
+Calgary Cubs,2022-02-23,3,Vancouver Fury,2.0,10.0,7.0,2.0
+Vancouver Fury,2022-02-23,3,Calgary Cubs,10.0,2.0,7.0,5.0
+Super Lords,2022-02-23,79,Pembroke Lumber Bears,3.0,5.0,10.0,3.0
+Stone Timberwolves,2022-02-25,1,Ice Dodgers,6.0,5.0,11.0,4.0
+Ice Dodgers,2022-02-25,1,Stone Timberwolves,5.0,6.0,11.0,7.0
+Ice Dodgers,2022-02-26,14,Battleford Greys,2.0,6.0,10.0,2.0
+Super Salsa,2022-02-27,17,Brandon Warriors,4.0,7.0,10.0,4.0
+Toronto Rockets,2022-02-27,2,Super Lords,4.0,8.0,10.0,3.0
+Super Lords,2022-02-27,2,Toronto Rockets,8.0,4.0,10.0,7.0
+Toronto Eagles,2022-02-28,76,Whitby Lakers,1.0,8.0,8.0,1.0
+Calgary Fleur-de-Lys,2022-03-01,76,Whitby Lakers,5.0,8.0,10.0,3.0
+Calgary Cubs,2022-03-02,3,Calgary Fleur-de-Lys,7.0,3.0,10.0,4.0
+Calgary Fleur-de-Lys,2022-03-02,3,Calgary Cubs,3.0,7.0,10.0,6.0
+Montreal Bruins,2022-03-03,10,Melfort Bruins,10.0,3.0,7.0,5.0
+Vancouver Islanders,2022-03-03,80,Thunder Bay Thunderbirds,1.0,7.0,8.0,1.0
+Toronto Rockets,2022-03-04,79,Pembroke Lumber Bears,0.0,7.0,6.0,0.0
+Calgary Cougars,2022-03-04,46,Steinbach Oilers,9.0,2.0,9.0,6.0
+Curlers Terriers,2022-03-05,4,Montreal Braves,7.0,8.0,10.0,3.0
+Montreal Braves,2022-03-05,4,Curlers Terriers,8.0,7.0,10.0,7.0
+Cold Travelways,2022-03-06,58,Canmore Rats,8.0,1.0,7.0,5.0
+Ice Cougars,2022-03-07,71,Thornhill Caribous,0.0,10.0,8.0,0.0
+Ottawa Kiltys,2022-03-07,78,Halifax Oland Centennials,8.0,2.0,8.0,5.0
+Stone Timberwolves,2022-03-10,14,Battleford Greys,7.0,4.0,10.0,6.0
+Cold Colts,2022-03-10,84,Windsor Royals,4.0,6.0,10.0,3.0
+Stone Timberwolves,2022-03-12,54,Saskatoon Rams,10.0,0.0,5.0,5.0
+Cold Chinooks,2022-03-12,66,Vancouver Flyers,3.0,9.0,8.0,2.0
+Super Atlantics,2022-03-12,43,Temiscaming Hawks,10.0,2.0,9.0,5.0
+Ottawa Greys,2022-03-13,1,Broom Mets,10.0,0.0,5.0,5.0
+Broom Mets,2022-03-13,1,Ottawa Greys,0.0,10.0,5.0,0.0
+Vancouver Islanders,2022-03-13,61,Pierrefonds Canadians,0.0,10.0,5.0,0.0
+Ice Unicorns,2022-03-14,91,La Salle Eagles,8.0,7.0,10.0,5.0
+Vancouver Fury,2022-03-15,10,Melfort Bruins,9.0,0.0,7.0,6.0
+Calgary Metros,2022-03-15,87,South Surrey Canadians,8.0,2.0,8.0,7.0
+Ice Sabres,2022-03-16,75,New Westminster Thunder,1.0,7.0,6.0,1.0
+Ottawa Greys,2022-03-16,74,Port-aux-Basques Buccaneers,7.0,3.0,10.0,7.0
+Stone Mariners,2022-03-17,3,Ottawa Kiltys,3.0,9.0,7.0,2.0
+Ottawa Kiltys,2022-03-17,3,Stone Mariners,9.0,3.0,7.0,5.0
+Stone Timberwolves,2022-03-17,65,Winnipeg Beehives,9.0,0.0,6.0,6.0
+Toronto Olympics,2022-03-17,85,Sherwood Park Grads,5.0,3.0,10.0,3.0
+Cold Travelways,2022-03-18,76,Whitby Lakers,7.0,5.0,10.0,5.0
+Vancouver Islanders,2022-03-21,71,Thornhill Caribous,4.0,6.0,10.0,4.0
+Calgary Rockets,2022-03-21,4,Montreal Bruins,8.0,2.0,8.0,6.0
+Montreal Bruins,2022-03-21,4,Calgary Rockets,2.0,8.0,8.0,2.0
+Toronto Olympics,2022-03-23,6,Cape Breton Lumberjacks,0.0,6.0,5.0,0.0
+Vancouver Islanders,2022-03-23,97,Pembroke Lumber Express,1.0,7.0,7.0,1.0
+Vancouver Fury,2022-03-24,3,Calgary Rockets,5.0,3.0,10.0,4.0
+Montreal Lasers,2022-03-24,4,Baby Broomers,8.0,2.0,7.0,4.0
+Baby Broomers,2022-03-24,4,Montreal Lasers,2.0,8.0,7.0,3.0
+Calgary Rockets,2022-03-24,3,Vancouver Fury,3.0,5.0,10.0,6.0
+Super Atlantics,2022-03-25,103,Riverview Elites,8.0,4.0,10.0,4.0
+Calgary Bruins,2022-03-25,9,Trail Smoke Remparts,10.0,0.0,7.0,5.0
+Toronto Eagles,2022-03-25,63,Moncton Legionaires,6.0,0.0,7.0,5.0
+Ottawa Greys,2022-03-26,1,Ice Dodgers,6.0,0.0,5.0,4.0
+Ice Bulls,2022-03-26,3,Calgary Fleur-de-Lys,4.0,9.0,10.0,3.0
+Calgary Fleur-de-Lys,2022-03-26,3,Ice Bulls,9.0,4.0,10.0,7.0
+Ice Dodgers,2022-03-26,1,Ottawa Greys,0.0,6.0,5.0,1.0
+Montreal Bruins,2022-03-26,4,Montreal Raiders,8.0,0.0,6.0,6.0
+Montreal Raiders,2022-03-26,4,Montreal Bruins,0.0,8.0,6.0,0.0
+Ice Sabres,2022-03-27,39,Charlottetown Schooners,0.0,11.0,5.0,0.0
+Broom Mets,2022-03-27,14,Battleford Greys,0.0,6.0,5.0,0.0
+Ottawa Kiltys,2022-03-28,3,Ice Huskies,8.0,4.0,10.0,5.0
+Cold Travelways,2022-03-28,1,Ottawa Victorias,4.0,6.0,10.0,6.0
+Ice Huskies,2022-03-28,3,Ottawa Kiltys,4.0,8.0,10.0,5.0
+Ottawa Victorias,2022-03-28,1,Cold Travelways,6.0,4.0,10.0,4.0
+Toronto Penguins,2022-03-29,40,Kindersley Warriors,8.0,2.0,7.0,6.0
+Super Atlantics,2022-03-30,23,Laval Rousseau 77's,5.0,4.0,10.0,4.0
+Calgary Rockets,2022-03-30,3,Montreal Bruins,4.0,2.0,10.0,8.0
+Montreal Bruins,2022-03-30,3,Calgary Rockets,2.0,4.0,10.0,2.0
+Montreal Vipers,2022-03-31,2,Curlers Terriers,5.0,7.0,10.0,3.0
+Curlers Terriers,2022-03-31,2,Montreal Vipers,7.0,5.0,10.0,7.0
+Cold Colts,2022-04-01,1,Ottawa Victorias,4.0,3.0,10.0,4.0
+Ice Dodgers,2022-04-01,89,Williams Lake Warriors,1.0,7.0,8.0,1.0
+Ottawa Victorias,2022-04-01,1,Cold Colts,3.0,4.0,10.0,6.0
+Ottawa Kiltys,2022-04-02,17,Brandon Warriors,3.0,5.0,10.0,3.0
+Ottawa Greys,2022-04-02,82,Oswego Cougars,1.0,7.0,5.0,1.0
+Ottawa Victorias,2022-04-03,58,Canmore Rats,9.0,8.0,10.0,5.0
+Stone Timberwolves,2022-04-03,82,Oswego Cougars,9.0,0.0,8.0,7.0
+Stone Mariners,2022-04-03,38,Espanola Screaming Crystals,7.0,9.0,10.0,4.0
+Cold Huskies,2022-04-04,0,Ice Sabres,7.0,1.0,6.0,5.0
+Super Salsa,2022-04-04,44,Thunder Bay Panthers,9.0,0.0,6.0,6.0
+Ice Sabres,2022-04-04,0,Cold Huskies,1.0,7.0,6.0,1.0
+Cold Travelways,2022-04-05,72,Yorkton Indians,5.0,8.0,10.0,2.0
+Montreal Lasers,2022-04-06,62,Hamilton Tigers,7.0,1.0,9.0,5.0
+Curlers Terriers,2022-04-06,11,Penticton Chiefs,10.0,2.0,9.0,6.0
+Toronto Eagles,2022-04-06,4,Montreal Bruins,0.0,7.0,7.0,0.0
+Montreal Bruins,2022-04-06,4,Toronto Eagles,7.0,0.0,7.0,7.0
+Montreal Lasers,2022-04-07,60,Villanova Terriers,9.0,2.0,10.0,5.0
+Cold Islanders,2022-04-07,60,Villanova Terriers,9.0,3.0,7.0,5.0
+Vancouver Buccaneers,2022-04-09,2,Cold Chinooks,9.0,4.0,10.0,7.0
+Cold Chinooks,2022-04-09,2,Vancouver Buccaneers,4.0,9.0,10.0,3.0
+Montreal Bruins,2022-04-09,42,Vancouver Jr. Terriers,6.0,0.0,5.0,4.0
+Ice Huskies,2022-04-10,24,Sidney Terriers,10.0,4.0,10.0,5.0
+Cold Huskies,2022-04-10,95,Fort Garry Eagles,6.0,0.0,6.0,5.0
+Calgary Rockets,2022-04-11,3,Ottawa Victorias,6.0,10.0,10.0,6.0
+Ottawa Victorias,2022-04-11,3,Calgary Rockets,10.0,6.0,10.0,4.0
+Ice Sabres,2022-04-12,39,Charlottetown Schooners,2.0,8.0,6.0,1.0
+Calgary Fleur-de-Lys,2022-04-12,84,Windsor Royals,2.0,9.0,5.0,1.0
+Ice Unicorns,2022-04-12,4,Calgary Metros,0.0,8.0,6.0,2.0
+Calgary Metros,2022-04-12,4,Ice Unicorns,8.0,0.0,6.0,4.0
+Ice Cougars,2022-04-13,71,Thornhill Caribous,3.0,4.0,10.0,2.0
+Super Atlantics,2022-04-13,36,Thunder Bay Eaters,6.0,0.0,5.0,4.0
+Stone Timberwolves,2022-04-14,0,Toronto Olympics,7.0,1.0,7.0,6.0
+Toronto Olympics,2022-04-14,0,Stone Timberwolves,1.0,7.0,7.0,1.0
+Toronto Rockets,2022-04-15,59,Thunder Bay Patriots,7.0,6.0,10.0,5.0
+Calgary Metros,2022-04-15,94,Aurora Chiefs,11.0,1.0,5.0,4.0
+Cold Chinooks,2022-04-15,62,Hamilton Tigers,2.0,8.0,7.0,2.0
+Montreal Lasers,2022-04-16,103,Riverview Elites,3.0,9.0,8.0,2.0
+Broom Mets,2022-04-16,17,Brandon Warriors,8.0,5.0,10.0,3.0
+Stone Timberwolves,2022-04-16,2,Ice Dodgers,6.0,0.0,5.0,5.0
+Montreal Braves,2022-04-16,101,Cape Breton Spartans,7.0,5.0,10.0,5.0
+Ice Dodgers,2022-04-16,2,Stone Timberwolves,0.0,6.0,5.0,0.0
+Calgary Cubs,2022-04-18,35,Sidney Eagles,7.0,8.0,10.0,5.0
+Vancouver Fury,2022-04-19,3,Calgary Rockets,9.0,5.0,10.0,5.0
+Calgary Rockets,2022-04-19,3,Vancouver Fury,5.0,9.0,10.0,5.0
+Ice Huskies,2022-04-19,78,Halifax Oland Centennials,4.0,5.0,11.0,2.0
+Calgary Cubs,2022-04-20,21,Victoria Thunder,6.0,5.0,10.0,4.0
+Super Atlantics,2022-04-21,94,Aurora Chiefs,7.0,4.0,10.0,5.0
+Cold Travelways,2022-04-21,42,Vancouver Jr. Terriers,8.0,2.0,6.0,4.0
+Cold Islanders,2022-04-22,68,Vernon Crystals,4.0,9.0,10.0,4.0
+Baby Broomers,2022-04-22,68,Vernon Crystals,0.0,8.0,5.0,0.0
+Ice Huskies,2022-04-23,65,Winnipeg Beehives,4.0,7.0,10.0,3.0
+Montreal Braves,2022-04-23,19,Rosemont Bears,10.0,0.0,9.0,8.0
+Calgary Rockets,2022-04-23,4,Montreal Bruins,4.0,9.0,10.0,2.0
+Montreal Bruins,2022-04-23,4,Calgary Rockets,9.0,4.0,10.0,8.0
+Cold Huskies,2022-04-24,33,Iron Range Penguins,9.0,4.0,10.0,7.0
+Cold Islanders,2022-04-25,94,Aurora Chiefs,5.0,6.0,11.0,5.0
+Calgary Bruins,2022-04-27,29,Richmond Hill Mets,7.0,8.0,10.0,3.0
+Game of Stones,2022-04-30,61,Pierrefonds Canadians,8.0,4.0,10.0,5.0
+Super Atlantics,2022-05-01,43,Temiscaming Hawks,9.0,0.0,6.0,5.0
+Ice Bulls,2022-05-02,58,Canmore Rats,8.0,3.0,10.0,4.0
+Cold Colts,2022-05-03,4,Calgary Cubs,10.0,7.0,10.0,7.0
+Calgary Cubs,2022-05-03,4,Cold Colts,7.0,10.0,10.0,3.0
+Ice Unicorns,2022-05-04,2,Super Atlantics,2.0,8.0,8.0,2.0
+Super Atlantics,2022-05-04,2,Ice Unicorns,8.0,2.0,8.0,6.0
+Calgary Cougars,2022-05-04,84,Windsor Royals,5.0,9.0,10.0,2.0
+Calgary Metros,2022-05-04,3,Cold Islanders,8.0,1.0,6.0,5.0
+Cold Islanders,2022-05-04,3,Calgary Metros,1.0,8.0,6.0,1.0
+Game of Stones,2022-05-05,28,Thunder Bay Thunder,8.0,2.0,8.0,5.0
+Stone Mariners,2022-05-05,74,Port-aux-Basques Buccaneers,1.0,8.0,9.0,1.0
+Montreal Vipers,2022-05-05,45,Prince Albert Marrs,4.0,7.0,10.0,3.0
+Toronto Rockets,2022-05-05,56,Thetford Mines Blizzard,0.0,6.0,7.0,0.0
+Super Lords,2022-05-05,56,Thetford Mines Blizzard,10.0,5.0,10.0,5.0
+Vancouver Fury,2022-05-08,69,Sudbury Jets,10.0,0.0,7.0,7.0
+Cold Colts,2022-05-09,4,Vancouver Fury,5.0,4.0,10.0,7.0
+Vancouver Fury,2022-05-09,4,Cold Colts,4.0,5.0,10.0,3.0
+Ice Dodgers,2022-05-10,77,Lanark Festivals,6.0,5.0,10.0,4.0
+Super Lords,2022-05-10,0,Toronto Rockets,2.0,10.0,8.0,1.0
+Toronto Rockets,2022-05-10,0,Super Lords,10.0,2.0,8.0,7.0
+Vancouver Fury,2022-05-12,2,Cold Colts,8.0,7.0,10.0,6.0
+Montreal Lasers,2022-05-12,62,Hamilton Tigers,6.0,5.0,10.0,4.0
+Cold Colts,2022-05-12,2,Vancouver Fury,7.0,8.0,10.0,4.0
+Calgary Rockets,2022-05-13,25,Chateauguay Canucks,8.0,1.0,5.0,3.0
+Ice Unicorns,2022-05-13,23,Laval Rousseau 77's,2.0,8.0,8.0,2.0
+Vancouver Islanders,2022-05-13,71,Thornhill Caribous,1.0,7.0,7.0,1.0
+Ottawa Kiltys,2022-05-13,32,Williams Lake Vulcans,10.0,8.0,10.0,5.0
+Ice Cougars,2022-05-13,92,Toronto Wild,6.0,7.0,10.0,4.0
+Stone Timberwolves,2022-05-14,50,Ajax Sports,9.0,3.0,5.0,4.0
+Montreal Braves,2022-05-14,2,Curlers Terriers,7.0,1.0,7.0,6.0
+Curlers Terriers,2022-05-14,2,Montreal Braves,1.0,7.0,7.0,1.0
+Vancouver Fury,2022-05-15,10,Melfort Bruins,7.0,6.0,10.0,4.0
+Ottawa Kiltys,2022-05-15,89,Williams Lake Warriors,5.0,6.0,10.0,3.0
+Ice Sabres,2022-05-17,37,Halifax Oland Vikings,1.0,7.0,8.0,1.0
+Ice Unicorns,2022-05-17,86,Cape Breton Rustlers,10.0,3.0,7.0,5.0
+Cold Chinooks,2022-05-18,18,Mississauga Cougars,2.0,9.0,6.0,1.0
+Calgary Cubs,2022-05-18,3,Cold Colts,0.0,6.0,5.0,3.0
+Ice Huskies,2022-05-18,32,Williams Lake Vulcans,1.0,7.0,5.0,1.0
+Cold Colts,2022-05-18,3,Calgary Cubs,6.0,0.0,5.0,2.0
+Broom Hawks,2022-05-19,88,Niagara Falls Filons,8.0,5.0,10.0,4.0
+Super Atlantics,2022-05-19,66,Vancouver Flyers,8.0,4.0,10.0,5.0
+Stone Timberwolves,2022-05-23,7,Southeast Nationals,7.0,1.0,7.0,5.0
+Stone Mariners,2022-05-23,4,Super Salsa,2.0,8.0,7.0,1.0
+Super Salsa,2022-05-23,4,Stone Mariners,8.0,2.0,7.0,6.0
+Montreal Braves,2022-05-24,88,Niagara Falls Filons,4.0,5.0,10.0,3.0
+Ottawa Victorias,2022-05-24,3,Calgary Cubs,0.0,7.0,9.0,0.0
+Calgary Cubs,2022-05-24,3,Ottawa Victorias,7.0,0.0,9.0,9.0
+Ice Sabres,2022-05-25,33,Iron Range Penguins,5.0,7.0,10.0,3.0
+Super Lords,2022-05-27,4,Montreal Braves,1.0,8.0,7.0,1.0
+Montreal Braves,2022-05-27,4,Super Lords,8.0,1.0,7.0,6.0
+Calgary Cubs,2022-05-28,1,Cold Travelways,4.0,10.0,9.0,3.0
+Cold Travelways,2022-05-28,1,Calgary Cubs,10.0,4.0,9.0,6.0
+Ottawa Kiltys,2022-05-30,1,Ice Dodgers,7.0,1.0,8.0,7.0
+Ice Dodgers,2022-05-30,1,Ottawa Kiltys,1.0,7.0,8.0,1.0
+Vancouver Buccaneers,2022-05-30,86,Cape Breton Rustlers,0.0,8.0,5.0,0.0
+Broom Mets,2022-06-01,50,Ajax Sports,,,,
+Calgary Bruins,2022-06-01,27,Burlington Stampeders,,,,
+Toronto Eagles,2022-06-02,42,Vancouver Jr. Terriers,,,,
+Calgary Fleur-de-Lys,2022-06-02,42,Vancouver Jr. Terriers,,,,
+Stone Mariners,2022-06-03,78,Halifax Oland Centennials,,,,
+Super Salsa,2022-06-04,1,Ice Dodgers,,,,
+Ottawa Victorias,2022-06-04,4,Ice Bulls,,,,
+Ice Bulls,2022-06-04,4,Ottawa Victorias,,,,
+Ice Dodgers,2022-06-04,1,Super Salsa,,,,
+Broom Mets,2022-06-05,14,Battleford Greys,,,,
+Cold Islanders,2022-06-05,64,Vancouver Canadiens,,,,
+Ottawa Victorias,2022-06-07,25,Chateauguay Canucks,,,,
+Ice Unicorns,2022-06-07,0,Cold Islanders,,,,
+Cold Islanders,2022-06-07,0,Ice Unicorns,,,,
+Calgary Cougars,2022-06-08,63,Moncton Legionaires,,,,
+Toronto Penguins,2022-06-09,61,Pierrefonds Canadians,,,,
+Toronto Penguins,2022-06-10,71,Thornhill Caribous,,,,
+Montreal Vipers,2022-06-11,4,Curlers Terriers,,,,
+Curlers Terriers,2022-06-11,4,Montreal Vipers,,,,
+Ice Bulls,2022-06-12,25,Chateauguay Canucks,,,,
+Montreal Bruins,2022-06-14,76,Whitby Lakers,,,,
+Montreal Lasers,2022-06-15,2,Vancouver Buccaneers,,,,
+Vancouver Buccaneers,2022-06-15,2,Montreal Lasers,,,,
+Stone Timberwolves,2022-06-15,1,Ice Dodgers,,,,
+Ice Dodgers,2022-06-15,1,Stone Timberwolves,,,,
+Montreal Bruins,2022-06-16,72,Yorkton Indians,,,,
+Montreal Bruins,2022-06-17,46,Steinbach Oilers,,,,
+Cold Chinooks,2022-06-19,1,Ice Unicorns,,,,
+Ottawa Kiltys,2022-06-19,1,Ottawa Greys,,,,
+Ottawa Greys,2022-06-19,1,Ottawa Kiltys,,,,
+Cold Islanders,2022-06-19,94,Aurora Chiefs,,,,
+Cold Colts,2022-06-19,4,Toronto Eagles,,,,
+Toronto Eagles,2022-06-19,4,Cold Colts,,,,
+Ice Unicorns,2022-06-19,1,Cold Chinooks,,,,
+Toronto Eagles,2022-06-21,46,Steinbach Oilers,,,,
+Vancouver Buccaneers,2022-06-22,3,Rolling Stones,,,,
+Rolling Stones,2022-06-22,3,Vancouver Buccaneers,,,,
+Stone Mariners,2022-06-22,54,Saskatoon Rams,,,,
+Ottawa Victorias,2022-06-22,31,Thunder Bay Dogs,,,,
+Calgary Metros,2022-06-24,86,Cape Breton Rustlers,,,,
+Calgary Rockets,2022-06-25,21,Victoria Thunder,,,,
+Rolling Stones,2022-06-26,60,Villanova Terriers,,,,
+Montreal Raiders,2022-06-26,4,Ottawa Victorias,,,,
+Ottawa Victorias,2022-06-26,4,Montreal Raiders,,,,
+Calgary Cougars,2022-06-26,72,Yorkton Indians,,,,
+Stone Mariners,2022-06-26,90,Langley Hawks,,,,
+Super Salsa,2022-06-28,1,Ice Dodgers,,,,
+Ice Dodgers,2022-06-28,1,Super Salsa,,,,
+Calgary Cubs,2022-06-28,3,Montreal Bruins,,,,
+Montreal Bruins,2022-06-28,3,Calgary Cubs,,,,
+Cold Islanders,2022-06-29,4,Montreal Lasers,,,,
+Montreal Lasers,2022-06-29,4,Cold Islanders,,,,
+Cold Islanders,2022-06-30,0,Calgary Metros,,,,
+Ottawa Victorias,2022-06-30,102,Nickel Centre Terriers,,,,
+Calgary Metros,2022-06-30,0,Cold Islanders,,,,
+Ice Huskies,2022-07-01,96,Vernon Bears,,,,
+Cold Travelways,2022-07-01,1,Calgary Rockets,,,,
+Vancouver Fury,2022-07-01,3,Calgary Cubs,,,,
+Calgary Rockets,2022-07-01,1,Cold Travelways,,,,
+Calgary Cubs,2022-07-01,3,Vancouver Fury,,,,
+Ice Unicorns,2022-07-03,103,Riverview Elites,,,,
+Ottawa Victorias,2022-07-04,4,Montreal Raiders,,,,
+Montreal Raiders,2022-07-04,4,Ottawa Victorias,,,,
+Super Salsa,2022-07-06,65,Winnipeg Beehives,,,,
+Broom Mets,2022-07-06,82,Oswego Cougars,,,,
+Broom Mets,2022-07-06,1,Ice Huskies,,,,
+Ice Huskies,2022-07-06,1,Broom Mets,,,,
+Ice Bulls,2022-07-08,1,Ottawa Victorias,,,,
+Curlers Terriers,2022-07-08,45,Prince Albert Marrs,,,,
+Ottawa Victorias,2022-07-08,1,Ice Bulls,,,,
+Montreal Braves,2022-07-09,4,Toronto Rockets,,,,
+Toronto Rockets,2022-07-09,4,Montreal Braves,,,,
+Toronto Olympics,2022-07-09,17,Brandon Warriors,,,,
+Toronto Eagles,2022-07-10,3,Calgary Cubs,,,,
+Calgary Cubs,2022-07-10,3,Toronto Eagles,,,,
+Broom Hawks,2022-07-11,4,Montreal Braves,,,,
+Super Salsa,2022-07-11,54,Saskatoon Rams,,,,
+Montreal Braves,2022-07-11,4,Broom Hawks,,,,
+Montreal Lasers,2022-07-12,4,Cold Chinooks,,,,
+Cold Chinooks,2022-07-12,4,Montreal Lasers,,,,
+Rolling Stones,2022-07-13,3,Calgary Metros,,,,
+Super Atlantics,2022-07-13,64,Vancouver Canadiens,,,,
+Toronto Eagles,2022-07-13,99,Bellingham Travelways,,,,
+Calgary Metros,2022-07-13,3,Rolling Stones,,,,
+Toronto Rockets,2022-07-14,0,Curlers Terriers,,,,
+Curlers Terriers,2022-07-14,0,Toronto Rockets,,,,
+Ice Dodgers,2022-07-16,32,Williams Lake Vulcans,,,,
+Vancouver Islanders,2022-07-17,0,Toronto Penguins,,,,
+Toronto Penguins,2022-07-17,0,Vancouver Islanders,,,,
+Cold Huskies,2022-07-18,37,Halifax Oland Vikings,,,,
+Vancouver Buccaneers,2022-07-18,34,Markham Rebels,,,,
+Calgary Cubs,2022-07-19,2,Vancouver Fury,,,,
+Vancouver Fury,2022-07-19,2,Calgary Cubs,,,,
+Super Atlantics,2022-07-19,3,Rolling Stones,,,,
+Rolling Stones,2022-07-19,3,Super Atlantics,,,,
+Super Lords,2022-07-20,2,Curlers Terriers,,,,
+Toronto Penguins,2022-07-20,92,Toronto Wild,,,,
+Ottawa Kiltys,2022-07-20,3,Ice Huskies,,,,
+Ice Huskies,2022-07-20,3,Ottawa Kiltys,,,,
+Curlers Terriers,2022-07-20,2,Super Lords,,,,
+Vancouver Fury,2022-07-21,31,Thunder Bay Dogs,,,,
+Toronto Eagles,2022-07-23,58,Canmore Rats,,,,
+Toronto Rockets,2022-07-23,45,Prince Albert Marrs,,,,
+Vancouver Fury,2022-07-24,2,Toronto Eagles,,,,
+Toronto Eagles,2022-07-24,2,Vancouver Fury,,,,
+Ice Unicorns,2022-07-25,60,Villanova Terriers,,,,
+Ice Cougars,2022-07-27,97,Pembroke Lumber Express,,,,
+Broom Mets,2022-07-29,54,Saskatoon Rams,,,,
+Cold Colts,2022-07-30,4,Toronto Eagles,,,,
+Toronto Eagles,2022-07-30,4,Cold Colts,,,,
+Calgary Rockets,2022-08-01,1,Ottawa Victorias,,,,
+Ottawa Victorias,2022-08-01,1,Calgary Rockets,,,,
+Broom Hawks,2022-08-02,79,Pembroke Lumber Bears,,,,
+Montreal Bruins,2022-08-03,4,Calgary Cougars,,,,
+Stone Mariners,2022-08-03,8,Peterborough Bearcats,,,,
+Calgary Cougars,2022-08-03,4,Montreal Bruins,,,,
+Calgary Bruins,2022-08-04,95,Fort Garry Eagles,,,,
+Broom Mets,2022-08-04,3,Stone Mariners,,,,
+Vancouver Islanders,2022-08-04,28,Thunder Bay Thunder,,,,
+Ottawa Kiltys,2022-08-04,1,Toronto Olympics,,,,
+Toronto Olympics,2022-08-04,1,Ottawa Kiltys,,,,
+Stone Mariners,2022-08-04,3,Broom Mets,,,,
+Cold Chinooks,2022-08-05,94,Aurora Chiefs,,,,
+Cold Islanders,2022-08-06,91,La Salle Eagles,,,,
+Broom Mets,2022-08-06,14,Battleford Greys,,,,
+Ottawa Victorias,2022-08-07,10,Melfort Bruins,,,,
+Montreal Raiders,2022-08-09,2,Vancouver Fury,,,,
+Vancouver Fury,2022-08-09,2,Montreal Raiders,,,,
+Cold Islanders,2022-08-10,53,Toronto 73's,,,,
+Super Atlantics,2022-08-10,41,Dartmouth Crunch,,,,
+Calgary Metros,2022-08-11,34,Markham Rebels,,,,
+Toronto Eagles,2022-08-11,4,Montreal Bruins,,,,
+Stone Mariners,2022-08-11,50,Ajax Sports,,,,
+Montreal Bruins,2022-08-11,4,Toronto Eagles,,,,
+Toronto Penguins,2022-08-12,80,Thunder Bay Thunderbirds,,,,
+Stone Timberwolves,2022-08-13,32,Williams Lake Vulcans,,,,
+Ice Huskies,2022-08-14,32,Williams Lake Vulcans,,,,
+Super Lords,2022-08-14,11,Penticton Chiefs,,,,
+Montreal Raiders,2022-08-16,4,Vancouver Fury,,,,
+Broom Hawks,2022-08-16,2,Toronto Rockets,,,,
+Vancouver Fury,2022-08-16,4,Montreal Raiders,,,,
+Rolling Stones,2022-08-16,62,Hamilton Tigers,,,,
+Toronto Rockets,2022-08-16,2,Broom Hawks,,,,
+Ice Dodgers,2022-08-18,17,Brandon Warriors,,,,
+Broom Hawks,2022-08-18,22,Ste. Agathe Flyers,,,,
+Super Atlantics,2022-08-20,60,Villanova Terriers,,,,
+Super Salsa,2022-08-20,89,Williams Lake Warriors,,,,
+Calgary Metros,2022-08-20,68,Vernon Crystals,,,,
+Super Atlantics,2022-08-21,62,Hamilton Tigers,,,,
+Stone Mariners,2022-08-21,50,Ajax Sports,,,,
+Toronto Eagles,2022-08-21,63,Moncton Legionaires,,,,
+Ice Huskies,2022-08-21,26,Wexford Beehives,,,,
+Ice Sabres,2022-08-23,73,Thunder Bay Flames,,,,
+Super Salsa,2022-08-23,50,Ajax Sports,,,,
+Montreal Bruins,2022-08-24,84,Windsor Royals,,,,
+Ice Bulls,2022-08-25,4,Vancouver Fury,,,,
+Vancouver Fury,2022-08-25,4,Ice Bulls,,,,
+Toronto Olympics,2022-08-28,14,Battleford Greys,,,,
+Vancouver Buccaneers,2022-08-31,86,Cape Breton Rustlers,,,,
+Toronto Olympics,2022-08-31,89,Williams Lake Warriors,,,,
+Toronto Eagles,2022-09-01,0,Calgary Rockets,,,,
+Calgary Rockets,2022-09-01,0,Toronto Eagles,,,,
+Ottawa Victorias,2022-09-05,46,Steinbach Oilers,,,,
+Calgary Cougars,2022-09-07,84,Windsor Royals,,,,
+Stone Mariners,2022-09-08,3,Ottawa Kiltys,,,,
+Ottawa Kiltys,2022-09-08,3,Stone Mariners,,,,
+Calgary Rockets,2022-09-08,63,Moncton Legionaires,,,,
+Montreal Raiders,2022-09-10,102,Nickel Centre Terriers,,,,
+Ice Dodgers,2022-09-11,32,Williams Lake Vulcans,,,,
+Super Lords,2022-09-13,19,Rosemont Bears,,,,
+Cold Travelways,2022-09-13,69,Sudbury Jets,,,,
+Stone Timberwolves,2022-09-14,24,Sidney Terriers,,,,
+Vancouver Islanders,2022-09-14,30,Peterborough Jr. Patriots,,,,
+Baby Broomers,2022-09-14,68,Vernon Crystals,,,,
+Ottawa Kiltys,2022-09-15,74,Port-aux-Basques Buccaneers,,,,
+Baby Broomers,2022-09-15,41,Dartmouth Crunch,,,,
+Super Lords,2022-09-16,2,Curlers Terriers,,,,
+Curlers Terriers,2022-09-16,2,Super Lords,,,,
+Baby Broomers,2022-09-18,83,North York Capitals,,,,
+Game of Stones,2022-09-18,40,Kindersley Warriors,,,,
+Ice Dodgers,2022-09-18,3,Stone Mariners,,,,
+Stone Mariners,2022-09-18,3,Ice Dodgers,,,,
+Vancouver Islanders,2022-09-20,0,Toronto Penguins,,,,
+Ice Unicorns,2022-09-20,4,Vancouver Buccaneers,,,,
+Vancouver Buccaneers,2022-09-20,4,Ice Unicorns,,,,
+Super Atlantics,2022-09-20,103,Riverview Elites,,,,
+Toronto Penguins,2022-09-20,0,Vancouver Islanders,,,,
+Vancouver Buccaneers,2022-09-21,94,Aurora Chiefs,,,,
+Calgary Rockets,2022-09-22,3,Calgary Fleur-de-Lys,,,,
+Cold Chinooks,2022-09-22,1,Ice Unicorns,,,,
+Calgary Fleur-de-Lys,2022-09-22,3,Calgary Rockets,,,,
+Ice Unicorns,2022-09-22,1,Cold Chinooks,,,,
+Calgary Cougars,2022-09-23,4,Montreal Bruins,,,,
+Montreal Bruins,2022-09-23,4,Calgary Cougars,,,,
+Game of Stones,2022-09-23,2,Vancouver Islanders,,,,
+Curlers Terriers,2022-09-23,22,Ste. Agathe Flyers,,,,
+Vancouver Islanders,2022-09-23,2,Game of Stones,,,,
+Montreal Vipers,2022-09-24,4,Toronto Rockets,,,,
+Toronto Rockets,2022-09-24,4,Montreal Vipers,,,,
+Ice Unicorns,2022-09-24,62,Hamilton Tigers,,,,
+Toronto Penguins,2022-09-24,92,Toronto Wild,,,,
+Ice Dodgers,2022-09-24,1,Ottawa Kiltys,,,,
+Ottawa Kiltys,2022-09-24,1,Ice Dodgers,,,,
+Game of Stones,2022-09-25,1,Ice Cougars,,,,
+Ice Cougars,2022-09-25,1,Game of Stones,,,,
+Super Atlantics,2022-09-26,23,Laval Rousseau 77's,,,,
+Stone Mariners,2022-09-26,50,Ajax Sports,,,,
+Super Lords,2022-09-27,98,Aurora Canadians,,,,
+Curlers Terriers,2022-09-28,4,Montreal Vipers,,,,
+Montreal Vipers,2022-09-28,4,Curlers Terriers,,,,
+Ice Sabres,2022-09-29,37,Halifax Oland Vikings,,,,
+Cold Colts,2022-09-29,1,Ottawa Victorias,,,,
+Ottawa Victorias,2022-09-29,1,Cold Colts,,,,
+Montreal Bruins,2022-09-29,42,Vancouver Jr. Terriers,,,,
+Rolling Stones,2022-09-30,86,Cape Breton Rustlers,,,,
+Ice Huskies,2022-10-01,44,Thunder Bay Panthers,,,,
+Super Salsa,2022-10-03,44,Thunder Bay Panthers,,,,
+Vancouver Fury,2022-10-03,10,Melfort Bruins,,,,
+Calgary Cougars,2022-10-05,3,Vancouver Fury,,,,
+Vancouver Fury,2022-10-05,3,Calgary Cougars,,,,
+Super Salsa,2022-10-05,4,Broom Mets,,,,
+Broom Mets,2022-10-05,4,Super Salsa,,,,
+Montreal Braves,2022-10-06,56,Thetford Mines Blizzard,,,,
+Ice Unicorns,2022-10-09,34,Markham Rebels,,,,
+Montreal Bruins,2022-10-13,58,Canmore Rats,,,,
+Montreal Lasers,2022-10-14,4,Baby Broomers,,,,
+Baby Broomers,2022-10-14,4,Montreal Lasers,,,,
+Ice Bulls,2022-10-14,4,Calgary Rockets,,,,
+Calgary Rockets,2022-10-14,4,Ice Bulls,,,,
+Cold Huskies,2022-10-14,73,Thunder Bay Flames,,,,
+Ottawa Kiltys,2022-10-17,8,Peterborough Bearcats,,,,
+Ottawa Kiltys,2022-10-17,65,Winnipeg Beehives,,,,
+Broom Mets,2022-10-18,85,Sherwood Park Grads,,,,
+Calgary Rockets,2022-10-20,3,Calgary Fleur-de-Lys,,,,
+Calgary Fleur-de-Lys,2022-10-20,3,Calgary Rockets,,,,
+Calgary Cubs,2022-10-21,3,Cold Colts,,,,
+Cold Colts,2022-10-21,3,Calgary Cubs,,,,
+Calgary Cougars,2022-10-23,10,Melfort Bruins,,,,
+Ice Unicorns,2022-10-24,36,Thunder Bay Eaters,,,,
+Ice Dodgers,2022-10-25,1,Toronto Olympics,,,,
+Toronto Olympics,2022-10-25,1,Ice Dodgers,,,,
+Calgary Metros,2022-10-26,3,Rolling Stones,,,,
+Rolling Stones,2022-10-26,3,Calgary Metros,,,,
+Calgary Rockets,2022-10-26,72,Yorkton Indians,,,,
+Calgary Fleur-de-Lys,2022-10-27,1,Cold Travelways,,,,
+Cold Travelways,2022-10-27,1,Calgary Fleur-de-Lys,,,,
+Calgary Metros,2022-10-27,87,South Surrey Canadians,,,,
+Ice Huskies,2022-10-28,90,Langley Hawks,,,,
+Super Lords,2022-10-29,22,Ste. Agathe Flyers,,,,
+Calgary Cougars,2022-10-31,3,Calgary Fleur-de-Lys,,,,
+Calgary Fleur-de-Lys,2022-10-31,3,Calgary Cougars,,,,
+Super Atlantics,2022-10-31,18,Mississauga Cougars,,,,
+Calgary Fleur-de-Lys,2022-10-31,42,Vancouver Jr. Terriers,,,,
+Toronto Rockets,2022-11-01,2,Super Lords,,,,
+Super Lords,2022-11-01,2,Toronto Rockets,,,,
+Baby Broomers,2022-11-01,36,Thunder Bay Eaters,,,,
+Calgary Cubs,2022-11-01,31,Thunder Bay Dogs,,,,
+Broom Mets,2022-11-01,24,Sidney Terriers,,,,
+Broom Hawks,2022-11-02,101,Cape Breton Spartans,,,,
+Broom Mets,2022-11-04,32,Williams Lake Vulcans,,,,
+Vancouver Islanders,2022-11-04,28,Thunder Bay Thunder,,,,
+Vancouver Fury,2022-11-05,2,Montreal Raiders,,,,
+Montreal Raiders,2022-11-05,2,Vancouver Fury,,,,
+Ice Cougars,2022-11-06,20,Dartmouth Oland Thunderbirds,,,,
+Vancouver Buccaneers,2022-11-06,2,Calgary Metros,,,,
+Calgary Metros,2022-11-06,2,Vancouver Buccaneers,,,,
+Ottawa Kiltys,2022-11-08,6,Cape Breton Lumberjacks,,,,
+Toronto Olympics,2022-11-08,7,Southeast Nationals,,,,
+Toronto Rockets,2022-11-11,101,Cape Breton Spartans,,,,
+Montreal Raiders,2022-11-11,84,Windsor Royals,,,,
+Rolling Stones,2022-11-11,36,Thunder Bay Eaters,,,,
+Toronto Rockets,2022-11-12,19,Rosemont Bears,,,,
+Montreal Vipers,2022-11-14,4,Curlers Terriers,,,,
+Curlers Terriers,2022-11-14,4,Montreal Vipers,,,,
+Vancouver Fury,2022-11-15,31,Thunder Bay Dogs,,,,
+Toronto Olympics,2022-11-15,78,Halifax Oland Centennials,,,,
+Vancouver Fury,2022-11-16,3,Calgary Fleur-de-Lys,,,,
+Calgary Fleur-de-Lys,2022-11-16,3,Vancouver Fury,,,,
+Ice Huskies,2022-11-16,2,Stone Timberwolves,,,,
+Stone Timberwolves,2022-11-16,2,Ice Huskies,,,,
+Ice Cougars,2022-11-17,97,Pembroke Lumber Express,,,,
+Ice Dodgers,2022-11-18,1,Stone Mariners,,,,
+Stone Mariners,2022-11-18,1,Ice Dodgers,,,,
+Calgary Fleur-de-Lys,2022-11-20,25,Chateauguay Canucks,,,,
+Vancouver Buccaneers,2022-11-21,86,Cape Breton Rustlers,,,,
+Cold Chinooks,2022-11-21,60,Villanova Terriers,,,,
+Broom Mets,2022-11-22,38,Espanola Screaming Crystals,,,,
+Ice Cougars,2022-11-23,0,Game of Stones,,,,
+Game of Stones,2022-11-23,0,Ice Cougars,,,,
+Curlers Terriers,2022-11-23,67,Edmonton Maple Predators,,,,
+Super Salsa,2022-11-24,89,Williams Lake Warriors,,,,
+Calgary Metros,2022-11-25,3,Cold Chinooks,,,,
+Cold Chinooks,2022-11-25,3,Calgary Metros,,,,
+Vancouver Fury,2022-11-27,2,Ice Bulls,,,,
+Ice Bulls,2022-11-27,2,Vancouver Fury,,,,
+Ottawa Victorias,2022-11-27,1,Toronto Eagles,,,,
+Toronto Eagles,2022-11-27,1,Ottawa Victorias,,,,
+Super Lords,2022-11-28,5,Port Hope Islanders,,,,
+Cold Colts,2022-11-28,69,Sudbury Jets,,,,
+Baby Broomers,2022-11-28,53,Toronto 73's,,,,
+Montreal Bruins,2022-11-29,42,Vancouver Jr. Terriers,,,,
+Ice Cougars,2022-12-01,47,Halifax Flames,,,,
+Ice Dodgers,2022-12-01,44,Thunder Bay Panthers,,,,
+Vancouver Buccaneers,2022-12-01,1,Cold Chinooks,,,,
+Cold Chinooks,2022-12-01,1,Vancouver Buccaneers,,,,
+Montreal Bruins,2022-12-02,4,Calgary Fleur-de-Lys,,,,
+Calgary Fleur-de-Lys,2022-12-02,4,Montreal Bruins,,,,
+Super Salsa,2022-12-04,50,Ajax Sports,,,,
+Toronto Penguins,2022-12-04,48,Halifax A's,,,,
+Rolling Stones,2022-12-05,64,Vancouver Canadiens,,,,
+Montreal Vipers,2022-12-06,2,Curlers Terriers,,,,
+Ice Huskies,2022-12-06,65,Winnipeg Beehives,,,,
+Cold Colts,2022-12-06,69,Sudbury Jets,,,,
+Cold Islanders,2022-12-06,60,Villanova Terriers,,,,
+Curlers Terriers,2022-12-06,2,Montreal Vipers,,,,
+Stone Timberwolves,2022-12-07,7,Southeast Nationals,,,,
+Ottawa Greys,2022-12-07,82,Oswego Cougars,,,,
+Ice Huskies,2022-12-08,1,Ice Dodgers,,,,
+Ice Dodgers,2022-12-08,1,Ice Huskies,,,,
+Toronto Eagles,2022-12-09,4,Ice Bulls,,,,
+Broom Mets,2022-12-09,26,Wexford Beehives,,,,
+Ice Bulls,2022-12-09,4,Toronto Eagles,,,,
+Stone Mariners,2022-12-11,50,Ajax Sports,,,,
+Vancouver Fury,2022-12-13,2,Toronto Eagles,,,,
+Toronto Eagles,2022-12-13,2,Vancouver Fury,,,,
+Super Lords,2022-12-13,101,Cape Breton Spartans,,,,
+Toronto Olympics,2022-12-13,44,Thunder Bay Panthers,,,,
+Cold Islanders,2022-12-14,36,Thunder Bay Eaters,,,,
+Stone Mariners,2022-12-15,1,Ice Dodgers,,,,
+Ice Dodgers,2022-12-15,1,Stone Mariners,,,,
+Calgary Fleur-de-Lys,2022-12-15,99,Bellingham Travelways,,,,
+Cold Chinooks,2022-12-15,23,Laval Rousseau 77's,,,,
+Calgary Fleur-de-Lys,2022-12-15,3,Calgary Cougars,,,,
+Calgary Cougars,2022-12-15,3,Calgary Fleur-de-Lys,,,,
+Super Atlantics,2022-12-16,36,Thunder Bay Eaters,,,,
+Ice Cougars,2022-12-16,12,Kanata Valley Vipers,,,,
+Broom Mets,2022-12-17,1,Ottawa Kiltys,,,,
+Ottawa Kiltys,2022-12-17,1,Broom Mets,,,,
+Toronto Rockets,2022-12-17,22,Ste. Agathe Flyers,,,,
+Ottawa Victorias,2022-12-20,31,Thunder Bay Dogs,,,,
+Broom Mets,2022-12-21,7,Southeast Nationals,,,,
+Montreal Bruins,2022-12-21,69,Sudbury Jets,,,,
+Montreal Lasers,2022-12-21,86,Cape Breton Rustlers,,,,
+Broom Hawks,2022-12-22,101,Cape Breton Spartans,,,,
+Calgary Rockets,2022-12-22,2,Vancouver Fury,,,,
+Vancouver Fury,2022-12-22,2,Calgary Rockets,,,,
+Toronto Olympics,2022-12-23,78,Halifax Oland Centennials,,,,
+Rolling Stones,2022-12-24,23,Laval Rousseau 77's,,,,
+Rolling Stones,2022-12-24,0,Cold Islanders,,,,
+Cold Islanders,2022-12-24,0,Rolling Stones,,,,
+Super Atlantics,2022-12-25,4,Baby Broomers,,,,
+Baby Broomers,2022-12-25,4,Super Atlantics,,,,
+Calgary Bruins,2022-12-26,81,Brockville Spirit,,,,
+Stone Mariners,2022-12-27,1,Ice Dodgers,,,,
+Ice Dodgers,2022-12-27,1,Stone Mariners,,,,
+Ottawa Victorias,2022-12-28,21,Victoria Thunder,,,,
+Toronto Eagles,2022-12-30,1,Cold Travelways,,,,
+Cold Travelways,2022-12-30,1,Toronto Eagles,,,,
+Ice Huskies,2022-12-30,77,Lanark Festivals,,,,
+Broom Mets,2022-12-30,1,Stone Mariners,,,,
+Stone Mariners,2022-12-30,1,Broom Mets,,,,
+Stone Mariners,2022-12-31,1,Ottawa Greys,,,,
+Ottawa Greys,2022-12-31,1,Stone Mariners,,,,
+Super Salsa,2023-01-01,57,New Waterford Pack,,,,
+Montreal Raiders,2023-01-02,4,Vancouver Fury,,,,
+Vancouver Fury,2023-01-02,4,Montreal Raiders,,,,
+Super Atlantics,2023-01-02,83,North York Capitals,,,,
+Ice Unicorns,2023-01-03,43,Temiscaming Hawks,,,,
+Ottawa Victorias,2023-01-03,84,Windsor Royals,,,,
+Ice Unicorns,2023-01-06,4,Calgary Metros,,,,
+Calgary Metros,2023-01-06,4,Ice Unicorns,,,,
+Cold Islanders,2023-01-07,3,Rolling Stones,,,,
+Ice Dodgers,2023-01-07,54,Saskatoon Rams,,,,
+Toronto Olympics,2023-01-07,77,Lanark Festivals,,,,
+Rolling Stones,2023-01-07,3,Cold Islanders,,,,
+Montreal Bruins,2023-01-09,2,Vancouver Fury,,,,
+Vancouver Fury,2023-01-09,2,Montreal Bruins,,,,
+Toronto Eagles,2023-01-10,102,Nickel Centre Terriers,,,,
+Super Lords,2023-01-11,56,Thetford Mines Blizzard,,,,
+Calgary Cougars,2023-01-12,3,Calgary Fleur-de-Lys,,,,
+Calgary Fleur-de-Lys,2023-01-12,3,Calgary Cougars,,,,
+Game of Stones,2023-01-14,30,Peterborough Jr. Patriots,,,,
+Calgary Cougars,2023-01-14,76,Whitby Lakers,,,,
+Toronto Rockets,2023-01-17,2,Broom Hawks,,,,
+Cold Chinooks,2023-01-17,23,Laval Rousseau 77's,,,,
+Broom Hawks,2023-01-17,2,Toronto Rockets,,,,
+Cold Islanders,2023-01-18,60,Villanova Terriers,,,,
+Broom Hawks,2023-01-19,2,Super Lords,,,,
+Super Lords,2023-01-19,2,Broom Hawks,,,,
+Cold Travelways,2023-01-21,1,Calgary Cubs,,,,
+Calgary Cubs,2023-01-21,1,Cold Travelways,,,,
+Montreal Bruins,2023-01-21,4,Vancouver Fury,,,,
+Toronto Rockets,2023-01-21,0,Curlers Terriers,,,,
+Curlers Terriers,2023-01-21,0,Toronto Rockets,,,,
+Vancouver Fury,2023-01-21,4,Montreal Bruins,,,,
+Calgary Fleur-de-Lys,2023-01-22,0,Toronto Eagles,,,,
+Stone Timberwolves,2023-01-22,54,Saskatoon Rams,,,,
+Toronto Eagles,2023-01-22,0,Calgary Fleur-de-Lys,,,,
+Rolling Stones,2023-01-22,53,Toronto 73's,,,,
+Broom Hawks,2023-01-23,11,Penticton Chiefs,,,,
+Toronto Rockets,2023-01-23,5,Port Hope Islanders,,,,
+Baby Broomers,2023-01-24,66,Vancouver Flyers,,,,
+Calgary Cougars,2023-01-24,31,Thunder Bay Dogs,,,,
+Calgary Cubs,2023-01-25,25,Chateauguay Canucks,,,,
+Vancouver Fury,2023-01-25,58,Canmore Rats,,,,
+Ottawa Victorias,2023-01-26,58,Canmore Rats,,,,
+Super Salsa,2023-01-27,3,Ice Huskies,,,,
+Ice Huskies,2023-01-27,3,Super Salsa,,,,
+Ice Cougars,2023-01-28,20,Dartmouth Oland Thunderbirds,,,,
+Super Salsa,2023-01-28,26,Wexford Beehives,,,,
+Calgary Cubs,2023-01-29,3,Ottawa Victorias,,,,
+Rolling Stones,2023-01-29,103,Riverview Elites,,,,
+Ottawa Victorias,2023-01-29,3,Calgary Cubs,,,,
+Montreal Vipers,2023-01-29,88,Niagara Falls Filons,,,,
+Ice Huskies,2023-01-29,38,Espanola Screaming Crystals,,,,
+Super Atlantics,2023-01-30,18,Mississauga Cougars,,,,
+Ice Dodgers,2023-01-30,57,New Waterford Pack,,,,
+Ottawa Victorias,2023-01-30,2,Vancouver Fury,,,,
+Vancouver Fury,2023-01-30,2,Ottawa Victorias,,,,
+Ottawa Victorias,2023-01-31,1,Calgary Fleur-de-Lys,,,,
+Calgary Fleur-de-Lys,2023-01-31,1,Ottawa Victorias,,,,
+Calgary Cougars,2023-01-31,69,Sudbury Jets,,,,
+Ice Sabres,2023-01-31,70,Calgary Marauders,,,,
+Montreal Braves,2023-02-01,11,Penticton Chiefs,,,,
+Toronto Eagles,2023-02-03,72,Yorkton Indians,,,,
+Super Atlantics,2023-02-04,4,Ice Unicorns,,,,
+Broom Hawks,2023-02-04,2,Montreal Braves,,,,
+Ice Unicorns,2023-02-04,4,Super Atlantics,,,,
+Montreal Braves,2023-02-04,2,Broom Hawks,,,,
+Curlers Terriers,2023-02-06,19,Rosemont Bears,,,,
+Baby Broomers,2023-02-09,87,South Surrey Canadians,,,,
+Baby Broomers,2023-02-09,66,Vancouver Flyers,,,,
+Broom Hawks,2023-02-10,4,Montreal Braves,,,,
+Montreal Braves,2023-02-10,4,Broom Hawks,,,,
+Cold Travelways,2023-02-12,4,Ice Bulls,,,,
+Ice Unicorns,2023-02-12,86,Cape Breton Rustlers,,,,
+Ice Bulls,2023-02-12,4,Cold Travelways,,,,
+Montreal Braves,2023-02-13,19,Rosemont Bears,,,,
+Toronto Rockets,2023-02-13,2,Super Lords,,,,
+Super Lords,2023-02-13,2,Toronto Rockets,,,,
+Ice Sabres,2023-02-13,33,Iron Range Penguins,,,,
+Cold Chinooks,2023-02-13,18,Mississauga Cougars,,,,
+Montreal Bruins,2023-02-15,58,Canmore Rats,,,,
+Super Atlantics,2023-02-15,41,Dartmouth Crunch,,,,
+Stone Mariners,2023-02-15,96,Vernon Bears,,,,
+Ice Dodgers,2023-02-16,17,Brandon Warriors,,,,
+Baby Broomers,2023-02-18,103,Riverview Elites,,,,
+Cold Colts,2023-02-18,4,Montreal Raiders,,,,
+Montreal Raiders,2023-02-18,1,Ottawa Victorias,,,,
+Montreal Raiders,2023-02-18,4,Cold Colts,,,,
+Ottawa Victorias,2023-02-18,1,Montreal Raiders,,,,
+Ice Huskies,2023-02-19,3,Super Salsa,,,,
+Calgary Cougars,2023-02-19,46,Steinbach Oilers,,,,
+Super Salsa,2023-02-19,3,Ice Huskies,,,,
+Curlers Terriers,2023-02-21,22,Ste. Agathe Flyers,,,,
+Super Lords,2023-02-22,59,Thunder Bay Patriots,,,,
+Toronto Olympics,2023-02-22,7,Southeast Nationals,,,,
+Ice Huskies,2023-02-22,77,Lanark Festivals,,,,
+Stone Mariners,2023-02-23,96,Vernon Bears,,,,
+Stone Timberwolves,2023-02-24,2,Broom Mets,,,,
+Broom Mets,2023-02-24,2,Stone Timberwolves,,,,
+Cold Chinooks,2023-02-24,64,Vancouver Canadiens,,,,
+Cold Huskies,2023-03-01,75,New Westminster Thunder,,,,
+Stone Mariners,2023-03-01,3,Super Salsa,,,,
+Super Salsa,2023-03-01,3,Stone Mariners,,,,
+Vancouver Islanders,2023-03-01,12,Kanata Valley Vipers,,,,
+Super Lords,2023-03-02,2,Curlers Terriers,,,,
+Curlers Terriers,2023-03-02,2,Super Lords,,,,
+Montreal Braves,2023-03-02,79,Pembroke Lumber Bears,,,,
+Baby Broomers,2023-03-03,94,Aurora Chiefs,,,,
+Ice Huskies,2023-03-03,17,Brandon Warriors,,,,
+Calgary Rockets,2023-03-06,3,Calgary Cubs,,,,
+Calgary Cubs,2023-03-06,3,Calgary Rockets,,,,
+Vancouver Fury,2023-03-07,2,Toronto Eagles,,,,
+Super Atlantics,2023-03-07,34,Markham Rebels,,,,
+Toronto Eagles,2023-03-07,2,Vancouver Fury,,,,
+Super Atlantics,2023-03-07,64,Vancouver Canadiens,,,,
+Cold Colts,2023-03-08,72,Yorkton Indians,,,,
+Montreal Raiders,2023-03-10,4,Cold Colts,,,,
+Cold Colts,2023-03-10,4,Montreal Raiders,,,,
+Cold Colts,2023-03-11,4,Calgary Cougars,,,,
+Calgary Cougars,2023-03-11,4,Cold Colts,,,,
+Cold Chinooks,2023-03-12,1,Baby Broomers,,,,
+Vancouver Fury,2023-03-12,4,Montreal Bruins,,,,
+Montreal Bruins,2023-03-12,4,Vancouver Fury,,,,
+Baby Broomers,2023-03-12,1,Cold Chinooks,,,,
+Super Lords,2023-03-13,19,Rosemont Bears,,,,
+Cold Islanders,2023-03-15,36,Thunder Bay Eaters,,,,
+Ottawa Victorias,2023-03-15,10,Melfort Bruins,,,,
+Ottawa Victorias,2023-03-16,1,Vancouver Fury,,,,
+Cold Chinooks,2023-03-16,53,Toronto 73's,,,,
+Vancouver Fury,2023-03-16,1,Ottawa Victorias,,,,
+Ice Dodgers,2023-03-16,38,Espanola Screaming Crystals,,,,
+Super Lords,2023-03-16,0,Toronto Rockets,,,,
+Toronto Rockets,2023-03-16,0,Super Lords,,,,
+Calgary Cougars,2023-03-16,4,Montreal Raiders,,,,
+Montreal Raiders,2023-03-16,4,Calgary Cougars,,,,
+Toronto Penguins,2023-03-18,47,Halifax Flames,,,,
+Vancouver Islanders,2023-03-19,51,Richmond Hill Tondas,,,,
+Toronto Olympics,2023-03-19,14,Battleford Greys,,,,
+Cold Colts,2023-03-21,0,Toronto Eagles,,,,
+Toronto Eagles,2023-03-21,0,Cold Colts,,,,
+Broom Mets,2023-03-21,44,Thunder Bay Panthers,,,,
+Vancouver Buccaneers,2023-03-22,94,Aurora Chiefs,,,,
+Cold Travelways,2023-03-23,21,Victoria Thunder,,,,
+Toronto Rockets,2023-03-23,88,Niagara Falls Filons,,,,
+Broom Hawks,2023-03-24,67,Edmonton Maple Predators,,,,
+Ottawa Kiltys,2023-03-25,1,Toronto Olympics,,,,
+Toronto Olympics,2023-03-25,1,Ottawa Kiltys,,,,
+Ice Cougars,2023-03-25,48,Halifax A's,,,,
+Vancouver Fury,2023-03-26,1,Ottawa Victorias,,,,
+Ottawa Victorias,2023-03-26,1,Vancouver Fury,,,,
+Super Lords,2023-03-26,101,Cape Breton Spartans,,,,
+Toronto Rockets,2023-03-30,101,Cape Breton Spartans,,,,
+Cold Huskies,2023-03-30,55,Markham Rockets,,,,
+Toronto Penguins,2023-04-01,71,Thornhill Caribous,,,,
+Baby Broomers,2023-04-01,23,Laval Rousseau 77's,,,,
+Game of Stones,2023-04-01,20,Dartmouth Oland Thunderbirds,,,,
+Ice Unicorns,2023-04-02,36,Thunder Bay Eaters,,,,
+Ottawa Greys,2023-04-02,77,Lanark Festivals,,,,
+Calgary Cougars,2023-04-02,3,Calgary Cubs,,,,
+Calgary Cubs,2023-04-02,3,Calgary Cougars,,,,
+Super Salsa,2023-04-02,82,Oswego Cougars,,,,
+Montreal Braves,2023-04-04,2,Curlers Terriers,,,,
+Curlers Terriers,2023-04-04,2,Montreal Braves,,,,
+Montreal Bruins,2023-04-04,4,Calgary Cubs,,,,
+Calgary Cubs,2023-04-04,4,Montreal Bruins,,,,
+Toronto Penguins,2023-04-05,15,Elliot Lake Wings,,,,
+Cold Islanders,2023-04-06,0,Baby Broomers,,,,
+Baby Broomers,2023-04-06,0,Cold Islanders,,,,
+Cold Colts,2023-04-07,4,Calgary Cubs,,,,
+Calgary Cubs,2023-04-07,4,Cold Colts,,,,
+Baby Broomers,2023-04-07,34,Markham Rebels,,,,
+Ice Dodgers,2023-04-11,17,Brandon Warriors,,,,
+Super Lords,2023-04-11,2,Broom Hawks,,,,
+Broom Hawks,2023-04-11,2,Super Lords,,,,
+Calgary Rockets,2023-04-11,21,Victoria Thunder,,,,
+Ottawa Kiltys,2023-04-11,24,Sidney Terriers,,,,
+Ice Huskies,2023-04-12,1,Ottawa Greys,,,,
+Ottawa Greys,2023-04-12,1,Ice Huskies,,,,
+Cold Islanders,2023-04-13,52,Ottawa Crunch,,,,
+Calgary Cougars,2023-04-13,84,Windsor Royals,,,,
+Calgary Cubs,2023-04-14,3,Calgary Fleur-de-Lys,,,,
+Calgary Fleur-de-Lys,2023-04-14,3,Calgary Cubs,,,,
+Calgary Rockets,2023-04-15,76,Whitby Lakers,,,,
+Toronto Penguins,2023-04-15,71,Thornhill Caribous,,,,
+Cold Travelways,2023-04-17,1,Ice Bulls,,,,
+Ice Bulls,2023-04-17,1,Cold Travelways,,,,
+Baby Broomers,2023-04-19,43,Temiscaming Hawks,,,,
+Super Salsa,2023-04-19,85,Sherwood Park Grads,,,,
+Ice Cougars,2023-04-19,15,Elliot Lake Wings,,,,
+Vancouver Fury,2023-04-19,3,Calgary Fleur-de-Lys,,,,
+Calgary Fleur-de-Lys,2023-04-19,3,Vancouver Fury,,,,
+Ottawa Victorias,2023-04-20,2,Vancouver Fury,,,,
+Ottawa Greys,2023-04-20,74,Port-aux-Basques Buccaneers,,,,
+Vancouver Fury,2023-04-20,2,Ottawa Victorias,,,,
+Cold Colts,2023-04-21,10,Melfort Bruins,,,,
+Toronto Rockets,2023-04-22,0,Montreal Vipers,,,,
+Montreal Vipers,2023-04-22,0,Toronto Rockets,,,,
+Calgary Metros,2023-04-23,68,Vernon Crystals,,,,
+Toronto Olympics,2023-04-23,49,North Sydney Spitfires,,,,
+Super Lords,2023-04-23,101,Cape Breton Spartans,,,,
+Ottawa Kiltys,2023-04-24,82,Oswego Cougars,,,,
+Vancouver Fury,2023-04-26,35,Sidney Eagles,,,,
+Ice Huskies,2023-04-27,17,Brandon Warriors,,,,
+Montreal Bruins,2023-04-27,84,Windsor Royals,,,,
+Calgary Cougars,2023-04-28,10,Melfort Bruins,,,,
+Montreal Lasers,2023-04-29,53,Toronto 73's,,,,
+Ottawa Victorias,2023-04-30,1,Calgary Fleur-de-Lys,,,,
+Calgary Fleur-de-Lys,2023-04-30,1,Ottawa Victorias,,,,
+Toronto Penguins,2023-04-30,12,Kanata Valley Vipers,,,,
+Calgary Fleur-de-Lys,2023-05-01,99,Bellingham Travelways,,,,
+Ice Bulls,2023-05-01,4,Ottawa Victorias,,,,
+Ottawa Victorias,2023-05-01,4,Ice Bulls,,,,
+Ice Cougars,2023-05-03,15,Elliot Lake Wings,,,,
+Game of Stones,2023-05-04,51,Richmond Hill Tondas,,,,
+Calgary Fleur-de-Lys,2023-05-05,1,Cold Travelways,,,,
+Cold Travelways,2023-05-05,1,Calgary Fleur-de-Lys,,,,
+Calgary Bruins,2023-05-06,73,Thunder Bay Flames,,,,
+Montreal Braves,2023-05-06,4,Broom Hawks,,,,
+Broom Hawks,2023-05-06,4,Montreal Braves,,,,
+Toronto Eagles,2023-05-07,25,Chateauguay Canucks,,,,
+Ottawa Kiltys,2023-05-08,8,Peterborough Bearcats,,,,
+Curlers Terriers,2023-05-09,11,Penticton Chiefs,,,,
+Calgary Cubs,2023-05-10,35,Sidney Eagles,,,,
+Calgary Metros,2023-05-10,43,Temiscaming Hawks,,,,
+Broom Mets,2023-05-11,85,Sherwood Park Grads,,,,
+Montreal Vipers,2023-05-12,4,Super Lords,,,,
+Ice Cougars,2023-05-12,71,Thornhill Caribous,,,,
+Toronto Rockets,2023-05-12,19,Rosemont Bears,,,,
+Super Lords,2023-05-12,4,Montreal Vipers,,,,
+Ice Dodgers,2023-05-12,85,Sherwood Park Grads,,,,
+Vancouver Buccaneers,2023-05-13,23,Laval Rousseau 77's,,,,
+Calgary Cougars,2023-05-13,3,Calgary Fleur-de-Lys,,,,
+Calgary Fleur-de-Lys,2023-05-13,3,Calgary Cougars,,,,
+Ottawa Kiltys,2023-05-13,32,Williams Lake Vulcans,,,,
+Curlers Terriers,2023-05-13,79,Pembroke Lumber Bears,,,,
+Cold Islanders,2023-05-14,0,Ice Unicorns,,,,
+Ice Unicorns,2023-05-14,0,Cold Islanders,,,,
+Toronto Rockets,2023-05-18,2,Super Lords,,,,
+Super Lords,2023-05-18,2,Toronto Rockets,,,,
+Baby Broomers,2023-05-21,91,La Salle Eagles,,,,
+Super Salsa,2023-05-22,89,Williams Lake Warriors,,,,
+Calgary Fleur-de-Lys,2023-05-22,1,Cold Travelways,,,,
+Cold Travelways,2023-05-22,1,Calgary Fleur-de-Lys,,,,
+Toronto Penguins,2023-05-22,61,Pierrefonds Canadians,,,,
+Toronto Olympics,2023-05-23,1,Ice Dodgers,,,,
+Ice Dodgers,2023-05-23,1,Toronto Olympics,,,,
+Ottawa Kiltys,2023-05-24,57,New Waterford Pack,,,,
+Ice Cougars,2023-05-24,51,Richmond Hill Tondas,,,,
+Calgary Fleur-de-Lys,2023-05-24,3,Vancouver Fury,,,,
+Vancouver Fury,2023-05-24,3,Calgary Fleur-de-Lys,,,,
+Ice Unicorns,2023-05-25,4,Super Atlantics,,,,
+Ice Huskies,2023-05-25,17,Brandon Warriors,,,,
+Super Atlantics,2023-05-25,4,Ice Unicorns,,,,
+Ice Huskies,2023-05-26,3,Ottawa Kiltys,,,,
+Ottawa Kiltys,2023-05-26,3,Ice Huskies,,,,
+Cold Islanders,2023-05-27,68,Vernon Crystals,,,,
+Calgary Fleur-de-Lys,2023-05-28,3,Vancouver Fury,,,,
+Vancouver Fury,2023-05-28,3,Calgary Fleur-de-Lys,,,,
+Ice Huskies,2023-05-29,65,Winnipeg Beehives,,,,
+Ottawa Kiltys,2023-05-30,0,Toronto Olympics,,,,
+Ottawa Victorias,2023-05-30,42,Vancouver Jr. Terriers,,,,
+Calgary Metros,2023-05-30,18,Mississauga Cougars,,,,
+Toronto Penguins,2023-05-30,16,Bancroft Waxers,,,,
+Toronto Olympics,2023-05-30,0,Ottawa Kiltys,,,,

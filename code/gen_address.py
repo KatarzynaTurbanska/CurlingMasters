@@ -85,4 +85,4 @@ if __name__ == '__main__':
     Faker.seed(0)
     download_streets()
     numbers = {'toronto':99,'ottawa':104,'vancouver':106,'calgary':113,'montreal':125,'random':99}
-    gen_address_to_file('../data/addreses.csv','facilities.csv',numbers)
+    gen_address_to_file('../data/backup/addresses_people.csv','../data/backup/addresses_facilities.csv',numbers)

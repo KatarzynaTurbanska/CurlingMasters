@@ -1,0 +1,627 @@
+team_name,date,address_id,opponent_name
+Toronto Rockets,2023-01-23,5,Port Hope Islanders
+Toronto Rockets,2022-12-17,22,Ste. Agathe Flyers
+Toronto Rockets,2022-07-23,45,Prince Albert Marrs
+Toronto Rockets,2022-11-11,101,Cape Breton Spartans
+Toronto Rockets,2023-01-17,2,Broom Hawks
+Broom Hawks,2023-01-17,2,Toronto Rockets
+Toronto Rockets,2023-03-30,101,Cape Breton Spartans
+Toronto Rockets,2022-07-09,4,Montreal Braves
+Montreal Braves,2022-07-09,4,Toronto Rockets
+Toronto Rockets,2023-02-13,2,Super Lords
+Super Lords,2023-02-13,2,Toronto Rockets
+Toronto Rockets,2023-05-12,19,Rosemont Bears
+Toronto Rockets,2022-11-12,19,Rosemont Bears
+Toronto Rockets,2022-09-24,4,Montreal Vipers
+Montreal Vipers,2022-09-24,4,Toronto Rockets
+Toronto Rockets,2023-05-18,2,Super Lords
+Super Lords,2023-05-18,2,Toronto Rockets
+Toronto Rockets,2023-03-23,88,Niagara Falls Filons
+Toronto Rockets,2022-11-01,2,Super Lords
+Super Lords,2022-11-01,2,Toronto Rockets
+Toronto Rockets,2022-08-16,2,Broom Hawks
+Broom Hawks,2022-08-16,2,Toronto Rockets
+Toronto Olympics,2023-05-23,1,Ice Dodgers
+Ice Dodgers,2023-05-23,1,Toronto Olympics
+Toronto Olympics,2023-02-22,7,Southeast Nationals
+Toronto Olympics,2022-12-23,78,Halifax Oland Centennials
+Toronto Olympics,2023-01-07,77,Lanark Festivals
+Toronto Olympics,2022-12-13,44,Thunder Bay Panthers
+Toronto Olympics,2022-11-08,7,Southeast Nationals
+Toronto Olympics,2022-08-04,1,Ottawa Kiltys
+Ottawa Kiltys,2022-08-04,1,Toronto Olympics
+Toronto Olympics,2023-03-19,14,Battleford Greys
+Toronto Olympics,2022-07-09,17,Brandon Warriors
+Toronto Olympics,2022-08-31,89,Williams Lake Warriors
+Toronto Olympics,2023-03-25,1,Ottawa Kiltys
+Ottawa Kiltys,2023-03-25,1,Toronto Olympics
+Toronto Olympics,2023-04-23,49,North Sydney Spitfires
+Toronto Olympics,2022-10-25,1,Ice Dodgers
+Ice Dodgers,2022-10-25,1,Toronto Olympics
+Toronto Olympics,2022-11-15,78,Halifax Oland Centennials
+Toronto Olympics,2022-08-28,14,Battleford Greys
+Cold Islanders,2022-08-10,53,Toronto 73's
+Cold Islanders,2022-12-14,36,Thunder Bay Eaters
+Cold Islanders,2022-06-29,4,Montreal Lasers
+Montreal Lasers,2022-06-29,4,Cold Islanders
+Cold Islanders,2023-05-27,68,Vernon Crystals
+Cold Islanders,2022-12-06,60,Villanova Terriers
+Cold Islanders,2023-03-15,36,Thunder Bay Eaters
+Cold Islanders,2022-06-05,64,Vancouver Canadiens
+Cold Islanders,2022-06-19,94,Aurora Chiefs
+Cold Islanders,2023-04-13,52,Ottawa Crunch
+Cold Islanders,2023-01-07,3,Rolling Stones
+Rolling Stones,2023-01-07,3,Cold Islanders
+Cold Islanders,2023-01-18,60,Villanova Terriers
+Cold Islanders,2022-08-06,91,La Salle Eagles
+Toronto Eagles,2022-11-27,1,Ottawa Victorias
+Ottawa Victorias,2022-11-27,1,Toronto Eagles
+Toronto Eagles,2022-07-13,99,Bellingham Travelways
+Toronto Eagles,2022-07-23,58,Canmore Rats
+Toronto Eagles,2022-06-19,4,Cold Colts
+Cold Colts,2022-06-19,4,Toronto Eagles
+Toronto Eagles,2023-02-03,72,Yorkton Indians
+Toronto Eagles,2022-12-30,1,Cold Travelways
+Cold Travelways,2022-12-30,1,Toronto Eagles
+Toronto Eagles,2022-12-13,2,Vancouver Fury
+Vancouver Fury,2022-12-13,2,Toronto Eagles
+Toronto Eagles,2022-07-24,2,Vancouver Fury
+Vancouver Fury,2022-07-24,2,Toronto Eagles
+Toronto Eagles,2023-01-10,102,Nickel Centre Terriers
+Toronto Eagles,2023-03-07,2,Vancouver Fury
+Vancouver Fury,2023-03-07,2,Toronto Eagles
+Toronto Eagles,2022-12-09,4,Ice Bulls
+Ice Bulls,2022-12-09,4,Toronto Eagles
+Toronto Eagles,2022-07-10,3,Calgary Cubs
+Calgary Cubs,2022-07-10,3,Toronto Eagles
+Toronto Eagles,2023-05-07,25,Chateauguay Canucks
+Toronto Eagles,2022-06-02,42,Vancouver Jr. Terriers
+Toronto Eagles,2022-08-11,4,Montreal Bruins
+Montreal Bruins,2022-08-11,4,Toronto Eagles
+Toronto Eagles,2022-07-30,4,Cold Colts
+Cold Colts,2022-07-30,4,Toronto Eagles
+Toronto Eagles,2022-06-21,46,Steinbach Oilers
+Toronto Eagles,2022-08-21,63,Moncton Legionaires
+Ice Sabres,2023-02-13,33,Iron Range Penguins
+Ice Sabres,2022-08-23,73,Thunder Bay Flames
+Ice Sabres,2022-09-29,37,Halifax Oland Vikings
+Ice Sabres,2023-01-31,70,Calgary Marauders
+Toronto Penguins,2023-04-15,71,Thornhill Caribous
+Toronto Penguins,2022-06-10,71,Thornhill Caribous
+Toronto Penguins,2022-07-20,92,Toronto Wild
+Toronto Penguins,2022-06-09,61,Pierrefonds Canadians
+Toronto Penguins,2022-12-04,48,Halifax A's
+Toronto Penguins,2023-05-30,16,Bancroft Waxers
+Toronto Penguins,2023-04-30,12,Kanata Valley Vipers
+Toronto Penguins,2022-08-12,80,Thunder Bay Thunderbirds
+Toronto Penguins,2022-09-24,92,Toronto Wild
+Toronto Penguins,2023-04-05,15,Elliot Lake Wings
+Toronto Penguins,2023-04-01,71,Thornhill Caribous
+Toronto Penguins,2023-05-22,61,Pierrefonds Canadians
+Toronto Penguins,2023-03-18,47,Halifax Flames
+Ice Cougars,2023-05-03,15,Elliot Lake Wings
+Ice Cougars,2022-12-01,47,Halifax Flames
+Ice Cougars,2023-03-25,48,Halifax A's
+Ice Cougars,2022-09-25,1,Game of Stones
+Game of Stones,2022-09-25,1,Ice Cougars
+Ice Cougars,2022-12-16,12,Kanata Valley Vipers
+Ice Cougars,2023-05-24,51,Richmond Hill Tondas
+Ice Cougars,2023-01-28,20,Dartmouth Oland Thunderbirds
+Ice Cougars,2023-05-12,71,Thornhill Caribous
+Ice Cougars,2022-07-27,97,Pembroke Lumber Express
+Ice Cougars,2022-11-06,20,Dartmouth Oland Thunderbirds
+Ice Cougars,2023-04-19,15,Elliot Lake Wings
+Ice Cougars,2022-11-17,97,Pembroke Lumber Express
+Ottawa Kiltys,2023-05-30,0,Toronto Olympics
+Toronto Olympics,2023-05-30,0,Ottawa Kiltys
+Ottawa Kiltys,2022-09-15,74,Port-aux-Basques Buccaneers
+Ottawa Kiltys,2023-05-26,3,Ice Huskies
+Ice Huskies,2023-05-26,3,Ottawa Kiltys
+Ottawa Kiltys,2022-07-20,3,Ice Huskies
+Ice Huskies,2022-07-20,3,Ottawa Kiltys
+Ottawa Kiltys,2022-10-17,8,Peterborough Bearcats
+Ottawa Kiltys,2022-11-08,6,Cape Breton Lumberjacks
+Ottawa Kiltys,2022-09-24,1,Ice Dodgers
+Ice Dodgers,2022-09-24,1,Ottawa Kiltys
+Ottawa Kiltys,2023-04-24,82,Oswego Cougars
+Ottawa Kiltys,2022-10-17,65,Winnipeg Beehives
+Ottawa Kiltys,2023-04-11,24,Sidney Terriers
+Ottawa Kiltys,2022-09-08,3,Stone Mariners
+Stone Mariners,2022-09-08,3,Ottawa Kiltys
+Ottawa Kiltys,2023-05-08,8,Peterborough Bearcats
+Ottawa Kiltys,2023-05-13,32,Williams Lake Vulcans
+Ottawa Kiltys,2023-05-24,57,New Waterford Pack
+Ottawa Kiltys,2022-12-17,1,Broom Mets
+Broom Mets,2022-12-17,1,Ottawa Kiltys
+Ice Dodgers,2022-08-18,17,Brandon Warriors
+Ice Dodgers,2023-02-16,17,Brandon Warriors
+Ice Dodgers,2023-05-12,85,Sherwood Park Grads
+Ice Dodgers,2022-07-16,32,Williams Lake Vulcans
+Ice Dodgers,2023-01-30,57,New Waterford Pack
+Ice Dodgers,2023-03-16,38,Espanola Screaming Crystals
+Ice Dodgers,2023-04-11,17,Brandon Warriors
+Ice Dodgers,2023-01-07,54,Saskatoon Rams
+Ice Dodgers,2022-12-01,44,Thunder Bay Panthers
+Ice Dodgers,2022-09-18,3,Stone Mariners
+Stone Mariners,2022-09-18,3,Ice Dodgers
+Ice Dodgers,2022-09-11,32,Williams Lake Vulcans
+Broom Mets,2023-03-21,44,Thunder Bay Panthers
+Broom Mets,2022-07-29,54,Saskatoon Rams
+Broom Mets,2022-06-05,14,Battleford Greys
+Broom Mets,2022-06-01,50,Ajax Sports
+Broom Mets,2022-08-06,14,Battleford Greys
+Broom Mets,2022-10-18,85,Sherwood Park Grads
+Broom Mets,2022-07-06,82,Oswego Cougars
+Broom Mets,2022-11-04,32,Williams Lake Vulcans
+Broom Mets,2022-11-22,38,Espanola Screaming Crystals
+Broom Mets,2022-10-05,4,Super Salsa
+Super Salsa,2022-10-05,4,Broom Mets
+Broom Mets,2023-05-11,85,Sherwood Park Grads
+Broom Mets,2022-11-01,24,Sidney Terriers
+Broom Mets,2023-02-24,2,Stone Timberwolves
+Stone Timberwolves,2023-02-24,2,Broom Mets
+Broom Mets,2022-08-04,3,Stone Mariners
+Stone Mariners,2022-08-04,3,Broom Mets
+Broom Mets,2022-12-09,26,Wexford Beehives
+Broom Mets,2022-12-21,7,Southeast Nationals
+Ottawa Greys,2023-04-02,77,Lanark Festivals
+Ottawa Greys,2022-12-07,82,Oswego Cougars
+Ottawa Greys,2022-06-19,1,Ottawa Kiltys
+Ottawa Kiltys,2022-06-19,1,Ottawa Greys
+Ottawa Greys,2023-04-20,74,Port-aux-Basques Buccaneers
+Cold Chinooks,2022-08-05,94,Aurora Chiefs
+Cold Chinooks,2022-11-21,60,Villanova Terriers
+Cold Chinooks,2023-02-13,18,Mississauga Cougars
+Cold Chinooks,2022-12-15,23,Laval Rousseau 77's
+Cold Chinooks,2022-11-25,3,Calgary Metros
+Calgary Metros,2022-11-25,3,Cold Chinooks
+Cold Chinooks,2022-07-12,4,Montreal Lasers
+Montreal Lasers,2022-07-12,4,Cold Chinooks
+Cold Chinooks,2023-03-16,53,Toronto 73's
+Cold Chinooks,2023-01-17,23,Laval Rousseau 77's
+Cold Chinooks,2023-02-24,64,Vancouver Canadiens
+Cold Travelways,2023-03-23,21,Victoria Thunder
+Cold Travelways,2022-09-13,69,Sudbury Jets
+Cold Travelways,2023-02-12,4,Ice Bulls
+Ice Bulls,2023-02-12,4,Cold Travelways
+Ottawa Victorias,2023-01-30,2,Vancouver Fury
+Vancouver Fury,2023-01-30,2,Ottawa Victorias
+Ottawa Victorias,2023-04-20,2,Vancouver Fury
+Vancouver Fury,2023-04-20,2,Ottawa Victorias
+Ottawa Victorias,2023-01-29,3,Calgary Cubs
+Calgary Cubs,2023-01-29,3,Ottawa Victorias
+Ottawa Victorias,2023-01-26,58,Canmore Rats
+Ottawa Victorias,2022-06-26,4,Montreal Raiders
+Montreal Raiders,2022-06-26,4,Ottawa Victorias
+Ottawa Victorias,2022-06-22,31,Thunder Bay Dogs
+Ottawa Victorias,2023-05-01,4,Ice Bulls
+Ice Bulls,2023-05-01,4,Ottawa Victorias
+Ottawa Victorias,2022-09-05,46,Steinbach Oilers
+Ottawa Victorias,2022-07-04,4,Montreal Raiders
+Montreal Raiders,2022-07-04,4,Ottawa Victorias
+Ottawa Victorias,2023-03-15,10,Melfort Bruins
+Ottawa Victorias,2022-12-28,21,Victoria Thunder
+Ottawa Victorias,2022-06-07,25,Chateauguay Canucks
+Ottawa Victorias,2023-05-30,42,Vancouver Jr. Terriers
+Ottawa Victorias,2022-06-04,4,Ice Bulls
+Ice Bulls,2022-06-04,4,Ottawa Victorias
+Ottawa Victorias,2023-01-03,84,Windsor Royals
+Ottawa Victorias,2022-08-07,10,Melfort Bruins
+Ottawa Victorias,2022-12-20,31,Thunder Bay Dogs
+Ottawa Victorias,2022-06-30,102,Nickel Centre Terriers
+Game of Stones,2022-09-23,2,Vancouver Islanders
+Vancouver Islanders,2022-09-23,2,Game of Stones
+Game of Stones,2023-04-01,20,Dartmouth Oland Thunderbirds
+Game of Stones,2023-05-04,51,Richmond Hill Tondas
+Game of Stones,2022-11-23,0,Ice Cougars
+Ice Cougars,2022-11-23,0,Game of Stones
+Game of Stones,2023-01-14,30,Peterborough Jr. Patriots
+Game of Stones,2022-09-18,40,Kindersley Warriors
+Super Lords,2022-11-28,5,Port Hope Islanders
+Super Lords,2022-09-27,98,Aurora Canadians
+Super Lords,2023-03-26,101,Cape Breton Spartans
+Super Lords,2023-05-12,4,Montreal Vipers
+Montreal Vipers,2023-05-12,4,Super Lords
+Super Lords,2023-01-19,2,Broom Hawks
+Broom Hawks,2023-01-19,2,Super Lords
+Super Lords,2022-10-29,22,Ste. Agathe Flyers
+Super Lords,2023-01-11,56,Thetford Mines Blizzard
+Super Lords,2023-03-13,19,Rosemont Bears
+Super Lords,2022-09-13,19,Rosemont Bears
+Super Lords,2023-04-11,2,Broom Hawks
+Broom Hawks,2023-04-11,2,Super Lords
+Super Lords,2022-07-20,2,Curlers Terriers
+Curlers Terriers,2022-07-20,2,Super Lords
+Super Lords,2023-04-23,101,Cape Breton Spartans
+Super Lords,2023-02-22,59,Thunder Bay Patriots
+Super Lords,2022-08-14,11,Penticton Chiefs
+Super Lords,2023-03-16,0,Toronto Rockets
+Toronto Rockets,2023-03-16,0,Super Lords
+Super Lords,2022-12-13,101,Cape Breton Spartans
+Broom Hawks,2023-01-23,11,Penticton Chiefs
+Broom Hawks,2023-02-10,4,Montreal Braves
+Montreal Braves,2023-02-10,4,Broom Hawks
+Broom Hawks,2023-03-24,67,Edmonton Maple Predators
+Broom Hawks,2022-08-18,22,Ste. Agathe Flyers
+Broom Hawks,2022-08-02,79,Pembroke Lumber Bears
+Broom Hawks,2022-11-02,101,Cape Breton Spartans
+Broom Hawks,2022-12-22,101,Cape Breton Spartans
+Broom Hawks,2022-07-11,4,Montreal Braves
+Montreal Braves,2022-07-11,4,Broom Hawks
+Broom Hawks,2023-05-06,4,Montreal Braves
+Montreal Braves,2023-05-06,4,Broom Hawks
+Curlers Terriers,2022-11-14,4,Montreal Vipers
+Montreal Vipers,2022-11-14,4,Curlers Terriers
+Curlers Terriers,2023-03-02,2,Super Lords
+Super Lords,2023-03-02,2,Curlers Terriers
+Curlers Terriers,2022-09-23,22,Ste. Agathe Flyers
+Curlers Terriers,2022-11-23,67,Edmonton Maple Predators
+Curlers Terriers,2023-05-09,11,Penticton Chiefs
+Curlers Terriers,2023-01-21,0,Toronto Rockets
+Toronto Rockets,2023-01-21,0,Curlers Terriers
+Curlers Terriers,2023-02-06,19,Rosemont Bears
+Curlers Terriers,2023-02-21,22,Ste. Agathe Flyers
+Curlers Terriers,2022-07-08,45,Prince Albert Marrs
+Curlers Terriers,2022-09-16,2,Super Lords
+Super Lords,2022-09-16,2,Curlers Terriers
+Curlers Terriers,2022-07-14,0,Toronto Rockets
+Toronto Rockets,2022-07-14,0,Curlers Terriers
+Curlers Terriers,2023-05-13,79,Pembroke Lumber Bears
+Curlers Terriers,2022-06-11,4,Montreal Vipers
+Montreal Vipers,2022-06-11,4,Curlers Terriers
+Curlers Terriers,2022-09-28,4,Montreal Vipers
+Montreal Vipers,2022-09-28,4,Curlers Terriers
+Stone Timberwolves,2023-01-22,54,Saskatoon Rams
+Stone Timberwolves,2022-08-13,32,Williams Lake Vulcans
+Stone Timberwolves,2022-12-07,7,Southeast Nationals
+Stone Timberwolves,2022-09-14,24,Sidney Terriers
+Stone Timberwolves,2022-06-15,1,Ice Dodgers
+Ice Dodgers,2022-06-15,1,Stone Timberwolves
+Super Atlantics,2022-08-20,60,Villanova Terriers
+Super Atlantics,2022-10-31,18,Mississauga Cougars
+Super Atlantics,2023-05-25,4,Ice Unicorns
+Ice Unicorns,2023-05-25,4,Super Atlantics
+Super Atlantics,2023-03-07,64,Vancouver Canadiens
+Super Atlantics,2022-09-20,103,Riverview Elites
+Super Atlantics,2022-12-25,4,Baby Broomers
+Baby Broomers,2022-12-25,4,Super Atlantics
+Super Atlantics,2022-09-26,23,Laval Rousseau 77's
+Super Atlantics,2023-02-15,41,Dartmouth Crunch
+Super Atlantics,2023-02-04,4,Ice Unicorns
+Ice Unicorns,2023-02-04,4,Super Atlantics
+Super Atlantics,2022-07-13,64,Vancouver Canadiens
+Super Atlantics,2022-08-10,41,Dartmouth Crunch
+Super Atlantics,2022-12-16,36,Thunder Bay Eaters
+Super Atlantics,2023-03-07,34,Markham Rebels
+Super Atlantics,2023-01-30,18,Mississauga Cougars
+Super Atlantics,2023-01-02,83,North York Capitals
+Super Atlantics,2022-07-19,3,Rolling Stones
+Rolling Stones,2022-07-19,3,Super Atlantics
+Super Atlantics,2022-08-21,62,Hamilton Tigers
+Vancouver Buccaneers,2022-06-22,3,Rolling Stones
+Rolling Stones,2022-06-22,3,Vancouver Buccaneers
+Vancouver Buccaneers,2023-03-22,94,Aurora Chiefs
+Vancouver Buccaneers,2022-09-21,94,Aurora Chiefs
+Vancouver Buccaneers,2023-05-13,23,Laval Rousseau 77's
+Vancouver Buccaneers,2022-12-01,1,Cold Chinooks
+Cold Chinooks,2022-12-01,1,Vancouver Buccaneers
+Vancouver Buccaneers,2022-11-21,86,Cape Breton Rustlers
+Vancouver Buccaneers,2022-08-31,86,Cape Breton Rustlers
+Vancouver Buccaneers,2022-07-18,34,Markham Rebels
+Vancouver Buccaneers,2022-09-20,4,Ice Unicorns
+Ice Unicorns,2022-09-20,4,Vancouver Buccaneers
+Vancouver Fury,2022-07-21,31,Thunder Bay Dogs
+Vancouver Fury,2023-03-26,1,Ottawa Victorias
+Ottawa Victorias,2023-03-26,1,Vancouver Fury
+Vancouver Fury,2023-03-16,1,Ottawa Victorias
+Ottawa Victorias,2023-03-16,1,Vancouver Fury
+Vancouver Fury,2023-05-28,3,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2023-05-28,3,Vancouver Fury
+Vancouver Fury,2022-11-15,31,Thunder Bay Dogs
+Vancouver Fury,2022-11-16,3,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2022-11-16,3,Vancouver Fury
+Vancouver Fury,2022-08-16,4,Montreal Raiders
+Montreal Raiders,2022-08-16,4,Vancouver Fury
+Vancouver Fury,2023-01-02,4,Montreal Raiders
+Montreal Raiders,2023-01-02,4,Vancouver Fury
+Vancouver Fury,2023-05-24,3,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2023-05-24,3,Vancouver Fury
+Vancouver Fury,2022-10-05,3,Calgary Cougars
+Calgary Cougars,2022-10-05,3,Vancouver Fury
+Vancouver Fury,2023-04-19,3,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2023-04-19,3,Vancouver Fury
+Vancouver Fury,2023-01-21,4,Montreal Bruins
+Montreal Bruins,2023-01-21,4,Vancouver Fury
+Vancouver Fury,2022-10-03,10,Melfort Bruins
+Vancouver Fury,2022-08-25,4,Ice Bulls
+Ice Bulls,2022-08-25,4,Vancouver Fury
+Vancouver Fury,2023-01-25,58,Canmore Rats
+Vancouver Fury,2023-03-12,4,Montreal Bruins
+Montreal Bruins,2023-03-12,4,Vancouver Fury
+Vancouver Fury,2023-04-26,35,Sidney Eagles
+Vancouver Fury,2022-07-01,3,Calgary Cubs
+Calgary Cubs,2022-07-01,3,Vancouver Fury
+Vancouver Islanders,2022-09-20,0,Toronto Penguins
+Toronto Penguins,2022-09-20,0,Vancouver Islanders
+Vancouver Islanders,2022-08-04,28,Thunder Bay Thunder
+Vancouver Islanders,2022-09-14,30,Peterborough Jr. Patriots
+Vancouver Islanders,2023-03-01,12,Kanata Valley Vipers
+Vancouver Islanders,2022-07-17,0,Toronto Penguins
+Toronto Penguins,2022-07-17,0,Vancouver Islanders
+Vancouver Islanders,2022-11-04,28,Thunder Bay Thunder
+Vancouver Islanders,2023-03-19,51,Richmond Hill Tondas
+Stone Mariners,2022-09-26,50,Ajax Sports
+Stone Mariners,2022-11-18,1,Ice Dodgers
+Ice Dodgers,2022-11-18,1,Stone Mariners
+Stone Mariners,2022-06-22,54,Saskatoon Rams
+Stone Mariners,2022-12-27,1,Ice Dodgers
+Ice Dodgers,2022-12-27,1,Stone Mariners
+Stone Mariners,2022-12-30,1,Broom Mets
+Broom Mets,2022-12-30,1,Stone Mariners
+Stone Mariners,2022-08-03,8,Peterborough Bearcats
+Stone Mariners,2022-06-03,78,Halifax Oland Centennials
+Stone Mariners,2023-02-15,96,Vernon Bears
+Stone Mariners,2022-12-15,1,Ice Dodgers
+Ice Dodgers,2022-12-15,1,Stone Mariners
+Stone Mariners,2022-12-31,1,Ottawa Greys
+Ottawa Greys,2022-12-31,1,Stone Mariners
+Stone Mariners,2023-02-23,96,Vernon Bears
+Stone Mariners,2022-12-11,50,Ajax Sports
+Stone Mariners,2022-08-21,50,Ajax Sports
+Stone Mariners,2022-06-26,90,Langley Hawks
+Stone Mariners,2022-08-11,50,Ajax Sports
+Ice Huskies,2022-10-28,90,Langley Hawks
+Ice Huskies,2022-08-21,26,Wexford Beehives
+Ice Huskies,2022-10-01,44,Thunder Bay Panthers
+Ice Huskies,2022-07-01,96,Vernon Bears
+Ice Huskies,2022-11-16,2,Stone Timberwolves
+Stone Timberwolves,2022-11-16,2,Ice Huskies
+Ice Huskies,2023-04-12,1,Ottawa Greys
+Ottawa Greys,2023-04-12,1,Ice Huskies
+Ice Huskies,2023-05-25,17,Brandon Warriors
+Ice Huskies,2022-07-06,1,Broom Mets
+Broom Mets,2022-07-06,1,Ice Huskies
+Ice Huskies,2023-01-29,38,Espanola Screaming Crystals
+Ice Huskies,2023-03-03,17,Brandon Warriors
+Ice Huskies,2023-02-22,77,Lanark Festivals
+Ice Huskies,2022-12-08,1,Ice Dodgers
+Ice Dodgers,2022-12-08,1,Ice Huskies
+Ice Huskies,2022-08-14,32,Williams Lake Vulcans
+Ice Huskies,2022-12-06,65,Winnipeg Beehives
+Ice Huskies,2022-12-30,77,Lanark Festivals
+Ice Huskies,2023-05-29,65,Winnipeg Beehives
+Ice Huskies,2023-04-27,17,Brandon Warriors
+Calgary Metros,2023-05-10,43,Temiscaming Hawks
+Calgary Metros,2022-08-20,68,Vernon Crystals
+Calgary Metros,2022-06-24,86,Cape Breton Rustlers
+Calgary Metros,2022-10-26,3,Rolling Stones
+Rolling Stones,2022-10-26,3,Calgary Metros
+Calgary Metros,2023-01-06,4,Ice Unicorns
+Ice Unicorns,2023-01-06,4,Calgary Metros
+Calgary Metros,2022-06-30,0,Cold Islanders
+Cold Islanders,2022-06-30,0,Calgary Metros
+Calgary Metros,2022-07-13,3,Rolling Stones
+Rolling Stones,2022-07-13,3,Calgary Metros
+Calgary Metros,2022-11-06,2,Vancouver Buccaneers
+Vancouver Buccaneers,2022-11-06,2,Calgary Metros
+Calgary Metros,2023-04-23,68,Vernon Crystals
+Calgary Metros,2023-05-30,18,Mississauga Cougars
+Calgary Metros,2022-10-27,87,South Surrey Canadians
+Calgary Metros,2022-08-11,34,Markham Rebels
+Rolling Stones,2022-09-30,86,Cape Breton Rustlers
+Rolling Stones,2022-11-11,36,Thunder Bay Eaters
+Rolling Stones,2022-08-16,62,Hamilton Tigers
+Rolling Stones,2022-06-26,60,Villanova Terriers
+Rolling Stones,2022-12-05,64,Vancouver Canadiens
+Rolling Stones,2022-12-24,23,Laval Rousseau 77's
+Rolling Stones,2023-01-22,53,Toronto 73's
+Rolling Stones,2023-01-29,103,Riverview Elites
+Rolling Stones,2022-12-24,0,Cold Islanders
+Cold Islanders,2022-12-24,0,Rolling Stones
+Calgary Cougars,2023-01-31,69,Sudbury Jets
+Calgary Cougars,2023-04-28,10,Melfort Bruins
+Calgary Cougars,2023-01-24,31,Thunder Bay Dogs
+Calgary Cougars,2022-06-08,63,Moncton Legionaires
+Calgary Cougars,2023-02-19,46,Steinbach Oilers
+Calgary Cougars,2023-04-02,3,Calgary Cubs
+Calgary Cubs,2023-04-02,3,Calgary Cougars
+Calgary Cougars,2022-09-23,4,Montreal Bruins
+Montreal Bruins,2022-09-23,4,Calgary Cougars
+Calgary Cougars,2022-09-07,84,Windsor Royals
+Calgary Cougars,2022-08-03,4,Montreal Bruins
+Montreal Bruins,2022-08-03,4,Calgary Cougars
+Calgary Cougars,2022-06-26,72,Yorkton Indians
+Calgary Cougars,2023-03-11,4,Cold Colts
+Cold Colts,2023-03-11,4,Calgary Cougars
+Calgary Cougars,2022-12-15,3,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2022-12-15,3,Calgary Cougars
+Calgary Cougars,2022-10-23,10,Melfort Bruins
+Calgary Cougars,2023-04-13,84,Windsor Royals
+Calgary Cougars,2023-01-14,76,Whitby Lakers
+Calgary Cougars,2023-03-16,4,Montreal Raiders
+Montreal Raiders,2023-03-16,4,Calgary Cougars
+Calgary Cubs,2022-07-19,2,Vancouver Fury
+Vancouver Fury,2022-07-19,2,Calgary Cubs
+Calgary Cubs,2023-03-06,3,Calgary Rockets
+Calgary Rockets,2023-03-06,3,Calgary Cubs
+Calgary Cubs,2023-05-10,35,Sidney Eagles
+Calgary Cubs,2023-01-21,1,Cold Travelways
+Cold Travelways,2023-01-21,1,Calgary Cubs
+Calgary Cubs,2023-04-07,4,Cold Colts
+Cold Colts,2023-04-07,4,Calgary Cubs
+Calgary Cubs,2023-01-25,25,Chateauguay Canucks
+Calgary Cubs,2022-11-01,31,Thunder Bay Dogs
+Calgary Cubs,2023-04-04,4,Montreal Bruins
+Montreal Bruins,2023-04-04,4,Calgary Cubs
+Calgary Fleur-de-Lys,2022-06-02,42,Vancouver Jr. Terriers
+Calgary Fleur-de-Lys,2022-12-15,99,Bellingham Travelways
+Calgary Fleur-de-Lys,2022-11-20,25,Chateauguay Canucks
+Calgary Fleur-de-Lys,2023-05-22,1,Cold Travelways
+Cold Travelways,2023-05-22,1,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2023-05-13,3,Calgary Cougars
+Calgary Cougars,2023-05-13,3,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2022-10-27,1,Cold Travelways
+Cold Travelways,2022-10-27,1,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2023-04-14,3,Calgary Cubs
+Calgary Cubs,2023-04-14,3,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2023-05-05,1,Cold Travelways
+Cold Travelways,2023-05-05,1,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2022-12-02,4,Montreal Bruins
+Montreal Bruins,2022-12-02,4,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2022-10-31,42,Vancouver Jr. Terriers
+Calgary Fleur-de-Lys,2023-05-01,99,Bellingham Travelways
+Calgary Fleur-de-Lys,2023-01-31,1,Ottawa Victorias
+Ottawa Victorias,2023-01-31,1,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2023-01-22,0,Toronto Eagles
+Toronto Eagles,2023-01-22,0,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2023-01-12,3,Calgary Cougars
+Calgary Cougars,2023-01-12,3,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2022-10-31,3,Calgary Cougars
+Calgary Cougars,2022-10-31,3,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2023-04-30,1,Ottawa Victorias
+Ottawa Victorias,2023-04-30,1,Calgary Fleur-de-Lys
+Calgary Rockets,2022-09-08,63,Moncton Legionaires
+Calgary Rockets,2022-10-26,72,Yorkton Indians
+Calgary Rockets,2023-04-15,76,Whitby Lakers
+Calgary Rockets,2022-10-20,3,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2022-10-20,3,Calgary Rockets
+Calgary Rockets,2022-06-25,21,Victoria Thunder
+Calgary Rockets,2022-09-01,0,Toronto Eagles
+Toronto Eagles,2022-09-01,0,Calgary Rockets
+Calgary Rockets,2022-09-22,3,Calgary Fleur-de-Lys
+Calgary Fleur-de-Lys,2022-09-22,3,Calgary Rockets
+Calgary Rockets,2022-10-14,4,Ice Bulls
+Ice Bulls,2022-10-14,4,Calgary Rockets
+Calgary Rockets,2022-07-01,1,Cold Travelways
+Cold Travelways,2022-07-01,1,Calgary Rockets
+Calgary Rockets,2022-12-22,2,Vancouver Fury
+Vancouver Fury,2022-12-22,2,Calgary Rockets
+Calgary Rockets,2023-04-11,21,Victoria Thunder
+Calgary Rockets,2022-08-01,1,Ottawa Victorias
+Ottawa Victorias,2022-08-01,1,Calgary Rockets
+Cold Huskies,2022-10-14,73,Thunder Bay Flames
+Cold Huskies,2022-07-18,37,Halifax Oland Vikings
+Cold Huskies,2023-03-01,75,New Westminster Thunder
+Cold Huskies,2023-03-30,55,Markham Rockets
+Calgary Bruins,2022-12-26,81,Brockville Spirit
+Calgary Bruins,2022-08-04,95,Fort Garry Eagles
+Calgary Bruins,2022-06-01,27,Burlington Stampeders
+Calgary Bruins,2023-05-06,73,Thunder Bay Flames
+Montreal Vipers,2023-01-29,88,Niagara Falls Filons
+Montreal Vipers,2022-12-06,2,Curlers Terriers
+Curlers Terriers,2022-12-06,2,Montreal Vipers
+Montreal Vipers,2023-04-22,0,Toronto Rockets
+Toronto Rockets,2023-04-22,0,Montreal Vipers
+Montreal Braves,2023-04-04,2,Curlers Terriers
+Curlers Terriers,2023-04-04,2,Montreal Braves
+Montreal Braves,2023-02-04,2,Broom Hawks
+Broom Hawks,2023-02-04,2,Montreal Braves
+Montreal Braves,2023-03-02,79,Pembroke Lumber Bears
+Montreal Braves,2023-02-01,11,Penticton Chiefs
+Montreal Braves,2022-10-06,56,Thetford Mines Blizzard
+Montreal Braves,2023-02-13,19,Rosemont Bears
+Super Salsa,2022-06-28,1,Ice Dodgers
+Ice Dodgers,2022-06-28,1,Super Salsa
+Super Salsa,2022-11-24,89,Williams Lake Warriors
+Super Salsa,2022-08-20,89,Williams Lake Warriors
+Super Salsa,2023-04-19,85,Sherwood Park Grads
+Super Salsa,2023-01-28,26,Wexford Beehives
+Super Salsa,2022-12-04,50,Ajax Sports
+Super Salsa,2023-04-02,82,Oswego Cougars
+Super Salsa,2023-01-01,57,New Waterford Pack
+Super Salsa,2022-07-11,54,Saskatoon Rams
+Super Salsa,2022-07-06,65,Winnipeg Beehives
+Super Salsa,2023-05-22,89,Williams Lake Warriors
+Super Salsa,2022-10-03,44,Thunder Bay Panthers
+Super Salsa,2023-02-19,3,Ice Huskies
+Ice Huskies,2023-02-19,3,Super Salsa
+Super Salsa,2023-01-27,3,Ice Huskies
+Ice Huskies,2023-01-27,3,Super Salsa
+Super Salsa,2023-03-01,3,Stone Mariners
+Stone Mariners,2023-03-01,3,Super Salsa
+Super Salsa,2022-06-04,1,Ice Dodgers
+Ice Dodgers,2022-06-04,1,Super Salsa
+Super Salsa,2022-08-23,50,Ajax Sports
+Baby Broomers,2023-02-09,66,Vancouver Flyers
+Baby Broomers,2022-11-01,36,Thunder Bay Eaters
+Baby Broomers,2023-04-19,43,Temiscaming Hawks
+Baby Broomers,2023-04-07,34,Markham Rebels
+Baby Broomers,2022-11-28,53,Toronto 73's
+Baby Broomers,2023-04-01,23,Laval Rousseau 77's
+Baby Broomers,2022-09-18,83,North York Capitals
+Baby Broomers,2023-05-21,91,La Salle Eagles
+Baby Broomers,2022-09-15,41,Dartmouth Crunch
+Baby Broomers,2023-01-24,66,Vancouver Flyers
+Baby Broomers,2023-03-03,94,Aurora Chiefs
+Baby Broomers,2023-03-12,1,Cold Chinooks
+Cold Chinooks,2023-03-12,1,Baby Broomers
+Baby Broomers,2023-02-09,87,South Surrey Canadians
+Baby Broomers,2022-09-14,68,Vernon Crystals
+Baby Broomers,2023-02-18,103,Riverview Elites
+Baby Broomers,2023-04-06,0,Cold Islanders
+Cold Islanders,2023-04-06,0,Baby Broomers
+Montreal Lasers,2022-10-14,4,Baby Broomers
+Baby Broomers,2022-10-14,4,Montreal Lasers
+Montreal Lasers,2023-04-29,53,Toronto 73's
+Montreal Lasers,2022-06-15,2,Vancouver Buccaneers
+Vancouver Buccaneers,2022-06-15,2,Montreal Lasers
+Montreal Lasers,2022-12-21,86,Cape Breton Rustlers
+Ice Unicorns,2023-04-02,36,Thunder Bay Eaters
+Ice Unicorns,2022-07-03,103,Riverview Elites
+Ice Unicorns,2022-09-22,1,Cold Chinooks
+Cold Chinooks,2022-09-22,1,Ice Unicorns
+Ice Unicorns,2022-10-09,34,Markham Rebels
+Ice Unicorns,2022-10-24,36,Thunder Bay Eaters
+Ice Unicorns,2023-05-14,0,Cold Islanders
+Cold Islanders,2023-05-14,0,Ice Unicorns
+Ice Unicorns,2022-06-07,0,Cold Islanders
+Cold Islanders,2022-06-07,0,Ice Unicorns
+Ice Unicorns,2022-06-19,1,Cold Chinooks
+Cold Chinooks,2022-06-19,1,Ice Unicorns
+Ice Unicorns,2022-09-24,62,Hamilton Tigers
+Ice Unicorns,2022-07-25,60,Villanova Terriers
+Ice Unicorns,2023-01-03,43,Temiscaming Hawks
+Ice Unicorns,2023-02-12,86,Cape Breton Rustlers
+Montreal Raiders,2023-02-18,1,Ottawa Victorias
+Ottawa Victorias,2023-02-18,1,Montreal Raiders
+Montreal Raiders,2022-11-05,2,Vancouver Fury
+Vancouver Fury,2022-11-05,2,Montreal Raiders
+Montreal Raiders,2022-08-09,2,Vancouver Fury
+Vancouver Fury,2022-08-09,2,Montreal Raiders
+Montreal Raiders,2022-09-10,102,Nickel Centre Terriers
+Montreal Raiders,2023-02-18,4,Cold Colts
+Cold Colts,2023-02-18,4,Montreal Raiders
+Montreal Raiders,2022-11-11,84,Windsor Royals
+Ice Bulls,2022-06-12,25,Chateauguay Canucks
+Ice Bulls,2022-07-08,1,Ottawa Victorias
+Ottawa Victorias,2022-07-08,1,Ice Bulls
+Ice Bulls,2022-11-27,2,Vancouver Fury
+Vancouver Fury,2022-11-27,2,Ice Bulls
+Ice Bulls,2023-04-17,1,Cold Travelways
+Cold Travelways,2023-04-17,1,Ice Bulls
+Montreal Bruins,2023-01-09,2,Vancouver Fury
+Vancouver Fury,2023-01-09,2,Montreal Bruins
+Montreal Bruins,2022-06-14,76,Whitby Lakers
+Montreal Bruins,2023-04-27,84,Windsor Royals
+Montreal Bruins,2022-06-16,72,Yorkton Indians
+Montreal Bruins,2023-02-15,58,Canmore Rats
+Montreal Bruins,2022-09-29,42,Vancouver Jr. Terriers
+Montreal Bruins,2022-08-24,84,Windsor Royals
+Montreal Bruins,2022-06-28,3,Calgary Cubs
+Calgary Cubs,2022-06-28,3,Montreal Bruins
+Montreal Bruins,2022-10-13,58,Canmore Rats
+Montreal Bruins,2022-06-17,46,Steinbach Oilers
+Montreal Bruins,2022-11-29,42,Vancouver Jr. Terriers
+Montreal Bruins,2022-12-21,69,Sudbury Jets
+Cold Colts,2022-09-29,1,Ottawa Victorias
+Ottawa Victorias,2022-09-29,1,Cold Colts
+Cold Colts,2022-11-28,69,Sudbury Jets
+Cold Colts,2022-12-06,69,Sudbury Jets
+Cold Colts,2023-03-08,72,Yorkton Indians
+Cold Colts,2022-10-21,3,Calgary Cubs
+Calgary Cubs,2022-10-21,3,Cold Colts
+Cold Colts,2023-03-21,0,Toronto Eagles
+Toronto Eagles,2023-03-21,0,Cold Colts
+Cold Colts,2023-03-10,4,Montreal Raiders
+Montreal Raiders,2023-03-10,4,Cold Colts
+Cold Colts,2023-04-21,10,Melfort Bruins

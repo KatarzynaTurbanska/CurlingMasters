@@ -7,8 +7,7 @@ def gen_schedule_to_file(file_name):
     '''
     function generating schedule,
     for dates between 01.06.2022 and 31.05.2023, based on 
-    'home_team_names.csv' and 'opponent_team_names.csv'
-    and saving them to new file
+    'match_opponents_v3.csv' and saving them to new file
     
     takes
     -----
@@ -19,20 +18,38 @@ def gen_schedule_to_file(file_name):
     csv file with home team name, date and opponent team name
     '''
 
-    home = pd.read_csv('../data/home_team_names.csv')
-    opponent = pd.read_csv('../data/opponent_team_names.csv')
+    teams = pd.read_csv('../data/backup/match_opponents_v3.csv')
+    home = teams[teams['facility_id'].notnull()]
+
+    dates = pd.date_range('2022-06-01','2023-05-31',freq='D').strftime('%Y-%m-%d')
 
     with open(file_name,'w') as file:
 
-        for team in home['team_name']:
+        file.write('team_name,date,address_id,opponent_name\n')
 
+
+        for index, row in home.iterrows():
+
+            team = row['team_name']
+            category = row['category']
+
+            teams_cat = teams[teams['category']==category]
             n = np.random.randint(2,19)
 
             for _ in range(n):
-                date = pd.date_range('2022-06-01','2023-05-31',freq='D')
-                future_match = '{},{},{}\n'.format(team,random.choice(date).strftime('%Y-%m-%d'),np.random.choice(opponent['team_name']))
+
+                date = random.choice(dates)
+                opponent_name = np.random.choice(teams_cat[teams_cat['team_name'] != team]['team_name'])
+                address_id = teams_cat[teams_cat['team_name'] == opponent_name].iloc[0]['address_id']
+
+                future_match = '{},{},{},{}\n'.format(team,date,address_id,opponent_name)
                 file.write(future_match)
+
+                if opponent_name in np.array(home['team_name']):
+
+                    future_match = '{},{},{},{}\n'.format(opponent_name,date,address_id,team)
+                    file.write(future_match)
 
 
 if  __name__ == "__main__":
-    gen_schedule_to_file('../data/schedule.csv')
+    gen_schedule_to_file('../data/backup/schedule.csv')
