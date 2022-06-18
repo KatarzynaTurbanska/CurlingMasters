@@ -103,7 +103,7 @@ CREATE TABLE positions
   person_id SMALLINT(5) UNSIGNED                NOT NULL,
   date      DATE                                NOT NULL,
   position  ENUM('lead','second','vice','skip') NULL    ,
-  PRIMARY KEY (person_id, date)
+  PRIMARY KEY (date, person_id)
 );
 
 CREATE TABLE teams
@@ -199,3 +199,5 @@ ALTER TABLE phone_book
   ADD PRIMARY KEY (person_id);  
 
 ALTER TABLE address_book MODIFY street_number INT(5);
+
+ALTER TABLE opponents MODIFY opponent_name VARCHAR(30);

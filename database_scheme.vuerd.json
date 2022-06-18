@@ -3,8 +3,8 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": -905.3385416666722,
-    "scrollLeft": -121.33333333333192,
+    "scrollTop": -321.33854166667265,
+    "scrollLeft": -143.99999999999864,
     "zoomLevel": 0.8,
     "show": {
       "tableComment": true,
@@ -189,7 +189,7 @@
           "active": false,
           "left": 1182.1912,
           "top": 997.0412,
-          "zIndex": 6,
+          "zIndex": 5,
           "widthName": 80.05712890625,
           "widthComment": 60,
           "color": "#F44336"
@@ -252,7 +252,7 @@
           "active": false,
           "left": 639.6459,
           "top": 472.5222,
-          "zIndex": 10,
+          "zIndex": 9,
           "widthName": 60,
           "widthComment": 60,
           "color": "#F44336"
@@ -430,7 +430,7 @@
           "active": false,
           "left": 40.3515,
           "top": 643.1283,
-          "zIndex": 13,
+          "zIndex": 11,
           "widthName": 60,
           "widthComment": 60,
           "color": "#F44336"
@@ -536,10 +536,10 @@
           }
         ],
         "ui": {
-          "active": true,
+          "active": false,
           "left": 46.8125,
           "top": 1000.316,
-          "zIndex": 18,
+          "zIndex": 14,
           "widthName": 83.6689453125,
           "widthComment": 60,
           "color": "#F44336"
@@ -734,7 +734,7 @@
           "active": false,
           "left": 878.7254,
           "top": 696.1334,
-          "zIndex": 8,
+          "zIndex": 7,
           "widthName": 60,
           "widthComment": 60,
           "color": "#F44336"
@@ -797,7 +797,7 @@
           "active": false,
           "left": 1198.9261,
           "top": 1764.3337,
-          "zIndex": 5,
+          "zIndex": 4,
           "widthName": 60,
           "widthComment": 60,
           "color": "#F44336"
@@ -946,7 +946,7 @@
           "active": false,
           "left": 640.7765,
           "top": 1787.1891,
-          "zIndex": 15,
+          "zIndex": 13,
           "widthName": 73.56982421875,
           "widthComment": 60,
           "color": "#F44336"
@@ -1032,7 +1032,7 @@
           "active": false,
           "left": 617.7156,
           "top": 1063.4131,
-          "zIndex": 7,
+          "zIndex": 6,
           "widthName": 60,
           "widthComment": 60,
           "color": "#FF1300"
@@ -1181,7 +1181,7 @@
           "active": false,
           "left": 1224.9995,
           "top": 477.1835,
-          "zIndex": 9,
+          "zIndex": 8,
           "widthName": 80.78076171875,
           "widthComment": 120,
           "color": "#F44336"
@@ -1290,7 +1290,7 @@
           "active": false,
           "left": 611.7952,
           "top": 186.7408,
-          "zIndex": 11,
+          "zIndex": 10,
           "widthName": 62.708984375,
           "widthComment": 60,
           "color": "#F44336"
@@ -1351,7 +1351,7 @@
           {
             "name": "opponent_name",
             "comment": "",
-            "dataType": "VARCHAR(20)",
+            "dataType": "VARCHAR(30)",
             "default": "",
             "option": {
               "autoIncrement": false,
@@ -1373,10 +1373,10 @@
           }
         ],
         "ui": {
-          "active": false,
+          "active": true,
           "left": 66.1115,
           "top": 259.5363,
-          "zIndex": 14,
+          "zIndex": 17,
           "widthName": 62.7216796875,
           "widthComment": 60,
           "color": "#F44336"
