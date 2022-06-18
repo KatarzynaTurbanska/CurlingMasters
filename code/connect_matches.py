@@ -1,4 +1,3 @@
-from matplotlib.pyplot import connect
 import pandas as pd
 import numpy as np
 
