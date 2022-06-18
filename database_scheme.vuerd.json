@@ -3,8 +3,8 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": -321.33854166667265,
-    "scrollLeft": -143.99999999999864,
+    "scrollTop": -627.3385416666733,
+    "scrollLeft": -680.6666666666654,
     "zoomLevel": 0.8,
     "show": {
       "tableComment": true,
@@ -252,7 +252,7 @@
           "active": false,
           "left": 639.6459,
           "top": 472.5222,
-          "zIndex": 9,
+          "zIndex": 8,
           "widthName": 60,
           "widthComment": 60,
           "color": "#F44336"
@@ -430,7 +430,7 @@
           "active": false,
           "left": 40.3515,
           "top": 643.1283,
-          "zIndex": 11,
+          "zIndex": 10,
           "widthName": 60,
           "widthComment": 60,
           "color": "#F44336"
@@ -539,7 +539,7 @@
           "active": false,
           "left": 46.8125,
           "top": 1000.316,
-          "zIndex": 14,
+          "zIndex": 12,
           "widthName": 83.6689453125,
           "widthComment": 60,
           "color": "#F44336"
@@ -697,7 +697,7 @@
             "ui": {
               "active": false,
               "pk": false,
-              "fk": true,
+              "fk": false,
               "pfk": false,
               "widthName": 80.78076171875,
               "widthComment": 60,
@@ -946,7 +946,7 @@
           "active": false,
           "left": 640.7765,
           "top": 1787.1891,
-          "zIndex": 13,
+          "zIndex": 11,
           "widthName": 73.56982421875,
           "widthComment": 60,
           "color": "#F44336"
@@ -1104,92 +1104,6 @@
         "id": "03ebb3c5-c8be-47c7-9d0a-55e2cee5a037"
       },
       {
-        "name": "age_category",
-        "comment": "7< junior < 21, normal < 50",
-        "columns": [
-          {
-            "name": "age_category",
-            "comment": "",
-            "dataType": "ENUM('junior', 'adult')",
-            "default": "",
-            "option": {
-              "autoIncrement": false,
-              "primaryKey": true,
-              "unique": false,
-              "notNull": true
-            },
-            "ui": {
-              "active": false,
-              "pk": true,
-              "fk": false,
-              "pfk": false,
-              "widthName": 80.78076171875,
-              "widthComment": 60,
-              "widthDataType": 126.0712890625,
-              "widthDefault": 60
-            },
-            "id": "88bbb5b1-36a6-4d66-9acb-44e0fb776f3b"
-          },
-          {
-            "name": "age_min",
-            "comment": "",
-            "dataType": "INT(2) UNSIGNED",
-            "default": "",
-            "option": {
-              "autoIncrement": false,
-              "primaryKey": false,
-              "unique": false,
-              "notNull": false
-            },
-            "ui": {
-              "active": false,
-              "pk": false,
-              "fk": false,
-              "pfk": false,
-              "widthName": 60,
-              "widthComment": 60,
-              "widthDataType": 111.05908203125,
-              "widthDefault": 60
-            },
-            "id": "701c656e-5051-4054-95c9-416346af3c39"
-          },
-          {
-            "name": "age_max",
-            "comment": "",
-            "dataType": "INT(2) UNSIGNED",
-            "default": "",
-            "option": {
-              "autoIncrement": false,
-              "primaryKey": false,
-              "unique": false,
-              "notNull": false
-            },
-            "ui": {
-              "active": false,
-              "pk": false,
-              "fk": false,
-              "pfk": false,
-              "widthName": 60,
-              "widthComment": 60,
-              "widthDataType": 111.05908203125,
-              "widthDefault": 60
-            },
-            "id": "c1613753-8f08-418d-9ded-ee05b796e8b4"
-          }
-        ],
-        "ui": {
-          "active": false,
-          "left": 1224.9995,
-          "top": 477.1835,
-          "zIndex": 8,
-          "widthName": 80.78076171875,
-          "widthComment": 120,
-          "color": "#F44336"
-        },
-        "visible": true,
-        "id": "31f9c098-e574-46a8-b300-265e6a639a9c"
-      },
-      {
         "name": "equipment",
         "comment": "",
         "columns": [
@@ -1290,7 +1204,7 @@
           "active": false,
           "left": 611.7952,
           "top": 186.7408,
-          "zIndex": 10,
+          "zIndex": 9,
           "widthName": 62.708984375,
           "widthComment": 60,
           "color": "#F44336"
@@ -1373,10 +1287,10 @@
           }
         ],
         "ui": {
-          "active": true,
+          "active": false,
           "left": 66.1115,
           "top": 259.5363,
-          "zIndex": 17,
+          "zIndex": 13,
           "widthName": 62.7216796875,
           "widthComment": 60,
           "color": "#F44336"
@@ -1547,32 +1461,6 @@
         "constraintName": "fk_address_book_to_personal_address",
         "visible": true,
         "id": "ba1310a2-b312-4f6a-915a-b6ba9be7430f"
-      },
-      {
-        "identification": false,
-        "relationshipType": "ZeroN",
-        "startRelationshipType": "Dash",
-        "start": {
-          "tableId": "31f9c098-e574-46a8-b300-265e6a639a9c",
-          "columnIds": [
-            "88bbb5b1-36a6-4d66-9acb-44e0fb776f3b"
-          ],
-          "x": 1441.925525390625,
-          "y": 607.6835,
-          "direction": "bottom"
-        },
-        "end": {
-          "tableId": "b20973df-d058-44c9-882b-2c6f9f4d2f79",
-          "columnIds": [
-            "abb61e74-0b34-43b3-8516-b2ab992c3555"
-          ],
-          "x": 1389.05401328125,
-          "y": 771.6334,
-          "direction": "right"
-        },
-        "constraintName": "fk_age_category_to_teams",
-        "visible": true,
-        "id": "358c9a79-a776-4ff9-8bea-205eab1f3bd2"
       },
       {
         "identification": true,

@@ -14,14 +14,6 @@ CREATE TABLE address_book
   PRIMARY KEY (address_id)
 );
 
-CREATE TABLE age_category
-(
-  age_category ENUM('junior', 'adult') NOT NULL,
-  age_min      INT(2) UNSIGNED         NULL    ,
-  age_max      INT(2) UNSIGNED         NULL    ,
-  PRIMARY KEY (age_category)
-) COMMENT '7< junior < 21, normal < 50';
-
 CREATE TABLE equipment
 (
   facility_id SMALLINT(5) UNSIGNED NOT NULL,
@@ -144,11 +136,6 @@ ALTER TABLE address
   ADD CONSTRAINT FK_address_book_TO_address
     FOREIGN KEY (address_id)
     REFERENCES address_book(address_id);
-
-ALTER TABLE teams
-  ADD CONSTRAINT FK_age_category_TO_teams
-    FOREIGN KEY (age_category)
-    REFERENCES age_category(age_category);
 
 ALTER TABLE equipment
   ADD CONSTRAINT FK_facility_TO_equipment

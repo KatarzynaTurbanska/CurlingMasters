@@ -68,9 +68,6 @@ matches.to_csv('../final_data/matches.csv', index=False)
 opponents = mat[['team_name', 'date', 'opponent_name']]
 opponents.to_csv('../final_data/opponents.csv', index=False)
 
-age_category = pd.DataFrame({'age_category':['junior', 'adult'], 'age_min':[7, 22], 'age_max':[21, 50]})
-age_category.to_csv('../final_data/age_category.csv', index=False)
-
 fac = pd.read_csv('../data/facility.csv')
 facility = fac[['facility_id', 'address_id']]
 facility[['facility_id']] = facility[['facility_id']].astype(int)

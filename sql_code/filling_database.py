@@ -20,7 +20,6 @@ if __name__ == '__main__':
     fill_table('finances', '(%s,%s,%s)')
     fill_table('address_book', '(%s,%s,%s,%s)')
     fill_table('address', '(%s,%s)')
-    fill_table('age_category', '(%s,%s,%s)')
     fill_table('facility', '(%s,%s)')
     fill_table('equipment', '(%s,%s,%s,%s)')
     fill_table('teams', '(%s,%s,%s,%s)')
