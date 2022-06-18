@@ -26,7 +26,7 @@ def gen_schedule_to_file(file_name):
     with open(file_name,'w') as file:
 
         file.write('team_name,date,address_id,opponent_name\n')
-
+        dict_dates = {}
 
         for index, row in home.iterrows():
 
@@ -40,15 +40,25 @@ def gen_schedule_to_file(file_name):
 
                 date = random.choice(dates)
                 opponent_name = np.random.choice(teams_cat[teams_cat['team_name'] != team]['team_name'])
-                address_id = teams_cat[teams_cat['team_name'] == opponent_name].iloc[0]['address_id']
 
-                future_match = '{},{},{},{}\n'.format(team,date,address_id,opponent_name)
-                file.write(future_match)
+                if team not in dict_dates:
+                    dict_dates[team] = []
+                if opponent_name not in dict_dates:
+                    dict_dates[opponent_name] = []
 
-                if opponent_name in np.array(home['team_name']):
+                if  date not in dict_dates[team] and date not in dict_dates[opponent_name]:
+                    dict_dates[team].append(date)
+                    dict_dates[opponent_name].append(date)  
 
-                    future_match = '{},{},{},{}\n'.format(opponent_name,date,address_id,team)
+                    address_id = teams_cat[teams_cat['team_name'] == opponent_name].iloc[0]['address_id']
+
+                    future_match = '{},{},{},{}\n'.format(team,date,address_id,opponent_name)
                     file.write(future_match)
+
+                    if opponent_name in np.array(home['team_name']):
+
+                        future_match = '{},{},{},{}\n'.format(opponent_name,date,address_id,team)
+                        file.write(future_match)
 
 
 if  __name__ == "__main__":

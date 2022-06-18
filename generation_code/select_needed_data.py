@@ -1,3 +1,4 @@
+from dataclasses import replace
 import pandas as pd
 
 phone_book = pd.read_csv('../data/phone_book.csv')
@@ -24,9 +25,12 @@ def connect_people_addresses():
     for id in range(1,6):
         p = people_id[people_id['facility_id'] == id]
         a = address_id[address_id['city'] == cities[id]]
-        address.append(pd.concat([p[['person_id']],a[['address_id']]]))
-    address = pd.concat(address)
-    address.to_csv('../final_data/address.csv', index=False)
+        p.reset_index(inplace=True,drop=True)
+        a.reset_index (inplace=True,drop=True)
+
+        address.append(pd.concat([p[['person_id']],a[['address_id']]],axis=1))
+
+    address[0].to_csv('../final_data/address.csv', index=False)
 
 connect_people_addresses()
 

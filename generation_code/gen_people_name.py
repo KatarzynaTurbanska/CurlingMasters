@@ -104,5 +104,4 @@ def gen_name_to_file(file_name1, file_name2):
 
 if __name__ == '__main__':
     download_data()
-    #gen_name_to_file('../data/people.csv','../data/gender.csv')
-    gen_name_to_file('../data/test1.csv','../data/test2.csv')
+    gen_name_to_file('../data/people.csv','../data/gender.csv')

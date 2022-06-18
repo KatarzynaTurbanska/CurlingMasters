@@ -15,7 +15,7 @@ real_names.replace(';', ',')
             elif len(words) == 3:
                 real_names.loc[index, 'first_word'] = words[0] + ' ' + words[1]
                 real_names.loc[index, 'second_word'] = words[2]
-real_names.to_csv('real_names.csv', index=False)
+real_names.to_csv('real_team_names.csv', index=False)
 '''
 
 def gen_names(base_file, team, n, file_name):

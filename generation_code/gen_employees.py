@@ -69,7 +69,7 @@ if __name__ == "__main__" :
     today = pd.to_datetime('2022-05-30')
     establishment = pd.to_datetime('2019-06-01') 
 
-    # for active players
+    # for active employees
     '''
     positions_1 = ['cleaner' for _ in range(8)] + ['director'] + ['manager' for _ in range(7)] + ['medic' for _ in range(2)] + ['psychologist' for _ in range(1)] + ['accountant' for _ in range(1)] + ['coach' for _ in range(4)]
     positions_2 = ['cleaner' for _ in range(5)] + ['director'] + ['manager' for _ in range(10)] + ['medic' for _ in range(3)] + ['psychologist' for _ in range(1)] + ['accountant' for _ in range(2)] + ['coach' for _ in range(5)]
@@ -81,7 +81,7 @@ if __name__ == "__main__" :
     gen_employees(True, today, establishment, len(positions_list), positions_list, facility_list, '../data/backup/active_employees_v1.csv')
     '''
    
-    # for retired players
+    # for retired employees
     '''
     positions = ['cleaner', 'director', 'manager', 'medic', 'psychologist', 'accountant', 'coach']
     positions_list = random.choices(positions, weights=[10, 1, 10, 3, 2, 2, 6], k=44)
