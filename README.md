@@ -8,10 +8,8 @@ Database made in MySql for Canadian 🍁 curling sports club.
 - Analysis of the generated data & report.
 - Documentation.
 
-## Number of players in the club
-![image_1](stats1.png)
-![image_2](stats2.png)
-![image_3](stats3.png)
+## Scheme of the database
+![image_1](database_scheme.png)
 
 ## Authors
 [Edyta Łabędzka](https://github.com/3dytalabedzka)
