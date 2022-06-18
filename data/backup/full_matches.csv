@@ -1,880 +1,882 @@
-team_name,date,address_id,opponent_name,team_score,opponent_score,number_of_ends,number_of_ends_won,lead,second,vice,skip
-Toronto Rockets,2022-01-25,2,Broom Hawks,0,11,6,0,338,388,424,35
-Broom Hawks,2022-01-25,2,Toronto Rockets,11,0,6,6,264,242,333,311
-Toronto Rockets,2022-03-04,79,Pembroke Lumber Bears,0,7,6,0,338,473,424,388
-Toronto Rockets,2021-11-22,88,Niagara Falls Filons,0,6,6,0,35,424,388,338
-Toronto Rockets,2022-04-15,59,Thunder Bay Patriots,7,6,10,5,338,473,480,388
-Toronto Rockets,2022-02-27,2,Super Lords,4,8,10,3,338,473,424,480
-Super Lords,2022-02-27,2,Toronto Rockets,8,4,10,7,381,214,5,88
-Toronto Rockets,2021-12-06,2,Broom Hawks,1,8,7,1,338,35,388,424
-Broom Hawks,2021-12-06,2,Toronto Rockets,8,1,7,6,436,397,65,311
-Toronto Rockets,2022-01-10,98,Aurora Canadians,1,8,10,1,388,424,338,35
-Toronto Rockets,2022-05-05,56,Thetford Mines Blizzard,0,6,7,0,338,519,473,388
-Toronto Rockets,2021-12-03,98,Aurora Canadians,0,10,7,0,35,388,424,338
-Toronto Rockets,2021-12-17,45,Prince Albert Marrs,1,7,8,1,424,338,35,388
-Toronto Olympics,2022-03-17,85,Sherwood Park Grads,5,3,10,3,433,428,317,482
-Toronto Olympics,2022-03-23,6,Cape Breton Lumberjacks,0,6,5,0,317,91,428,433
-Toronto Olympics,2022-02-06,77,Lanark Festivals,1,8,7,1,433,180,428,317
-Toronto Olympics,2021-11-30,17,Brandon Warriors,9,5,10,5,433,428,91,180
-Cold Islanders,2021-10-11,4,Baby Broomers,9,0,6,4,379,121,241,102
-Baby Broomers,2021-10-11,4,Cold Islanders,0,9,6,2,372,68,20,307
-Cold Islanders,2021-10-28,34,Markham Rebels,7,4,10,5,102,241,215,379
-Cold Islanders,2021-05-15,60,Villanova Terriers,9,1,5,4,291,215,241,147
-Cold Islanders,2020-11-30,34,Markham Rebels,8,2,6,5,241,215,147,121
-Cold Islanders,2020-08-21,83,North York Capitals,2,8,9,2,102,121,147,215
-Cold Islanders,2021-12-04,23,Laval Rousseau 77's,3,9,9,2,102,215,291,379
-Cold Islanders,2022-04-25,94,Aurora Chiefs,5,6,11,5,215,147,291,379
-Cold Islanders,2022-01-05,62,Hamilton Tigers,4,7,10,3,379,147,121,241
-Cold Islanders,2021-12-05,1,Cold Chinooks,8,3,10,5,147,291,379,241
-Cold Chinooks,2021-12-05,1,Cold Islanders,3,8,10,5,144,353,151,400
-Cold Islanders,2020-10-29,34,Markham Rebels,8,5,10,4,215,147,121,102
-Cold Islanders,2020-11-11,4,Montreal Lasers,4,7,10,4,102,215,241,147
-Montreal Lasers,2020-11-11,4,Cold Islanders,7,4,10,6,114,14,136,254
-Cold Islanders,2020-08-08,53,Toronto 73's,4,5,10,3,147,102,121,215
-Cold Islanders,2022-01-19,23,Laval Rousseau 77's,4,7,10,3,147,241,102,215
-Cold Islanders,2021-04-13,87,South Surrey Canadians,7,5,10,6,102,147,241,291
-Cold Islanders,2021-08-07,2,Super Atlantics,0,7,5,0,241,379,215,147
-Super Atlantics,2021-08-07,2,Cold Islanders,7,0,5,5,380,78,296,69
-Cold Islanders,2022-05-04,3,Calgary Metros,1,8,6,1,121,291,379,215
-Calgary Metros,2022-05-04,3,Cold Islanders,8,1,6,5,93,456,39,460
-Cold Islanders,2021-05-01,60,Villanova Terriers,12,1,6,5,121,291,215,147
-Cold Islanders,2021-10-05,34,Markham Rebels,7,2,10,5,121,379,241,147
-Cold Islanders,2022-01-14,64,Vancouver Canadiens,6,2,10,4,379,102,121,147
-Cold Islanders,2022-04-22,68,Vernon Crystals,4,9,10,4,215,379,241,147
-Cold Islanders,2021-08-14,1,Cold Chinooks,9,3,8,4,215,241,102,121
-Cold Chinooks,2021-08-14,1,Cold Islanders,3,9,8,4,144,353,340,111
-Cold Islanders,2020-07-21,1,Cold Chinooks,10,0,6,5,215,121,102,110
-Cold Chinooks,2020-07-21,1,Cold Islanders,0,10,6,1,127,111,144,151
-Cold Islanders,2020-08-20,41,Dartmouth Crunch,7,0,6,5,215,121,102,147
-Cold Islanders,2022-04-07,60,Villanova Terriers,9,3,7,5,241,121,215,147
-Cold Islanders,2021-09-30,43,Temiscaming Hawks,5,3,10,4,121,215,241,147
-Cold Islanders,2021-02-15,103,Riverview Elites,3,9,5,1,102,121,241,147
-Toronto Eagles,2021-11-23,84,Windsor Royals,0,9,5,0,327,325,267,422
-Toronto Eagles,2021-05-26,35,Sidney Eagles,0,9,5,0,267,142,13,325
-Toronto Eagles,2021-10-31,31,Thunder Bay Dogs,1,7,5,1,267,142,325,155
-Toronto Eagles,2022-01-22,21,Victoria Thunder,2,5,10,2,422,155,325,267
-Toronto Eagles,2021-08-28,10,Melfort Bruins,2,5,10,2,371,13,327,325
-Toronto Eagles,2022-04-06,4,Montreal Bruins,0,7,7,0,325,142,267,371
-Montreal Bruins,2022-04-06,4,Toronto Eagles,7,0,7,7,46,221,36,387
-Toronto Eagles,2021-09-02,10,Melfort Bruins,1,7,7,1,13,155,267,327
-Toronto Eagles,2021-03-17,1,Ottawa Victorias,2,8,9,2,155,267,142,13
-Ottawa Victorias,2021-03-17,1,Toronto Eagles,8,2,9,7,287,222,249,207
-Toronto Eagles,2021-03-11,69,Sudbury Jets,9,7,11,3,142,155,267,13
-Toronto Eagles,2021-02-12,69,Sudbury Jets,6,4,10,4,155,142,13,267
-Toronto Eagles,2021-10-30,21,Victoria Thunder,1,11,8,1,142,267,325,327
-Toronto Eagles,2021-09-29,4,Ice Bulls,3,8,10,3,13,327,325,267
-Ice Bulls,2021-09-29,4,Toronto Eagles,8,3,10,7,18,326,169,337
-Toronto Eagles,2021-12-27,35,Sidney Eagles,0,6,5,0,327,155,422,325
-Toronto Eagles,2022-02-28,76,Whitby Lakers,1,8,8,1,155,13,371,267
-Toronto Eagles,2021-11-12,72,Yorkton Indians,3,8,10,3,422,327,155,13
-Toronto Eagles,2022-03-25,63,Moncton Legionaires,6,0,7,5,267,155,371,142
-Toronto Eagles,2020-11-06,84,Windsor Royals,0,7,6,0,267,13,155,142
-Toronto Eagles,2022-01-04,76,Whitby Lakers,3,5,10,2,267,371,142,422
-Toronto Eagles,2021-03-05,69,Sudbury Jets,3,9,5,2,155,13,142,267
-Ice Sabres,2021-09-28,29,Richmond Hill Mets,0,8,7,0,210,234,197,205
-Ice Sabres,2020-09-26,75,New Westminster Thunder,0,8,8,0,59,138,234,62
-Ice Sabres,2020-11-10,55,Markham Rockets,1,9,5,1,10,234,138,145
-Ice Sabres,2022-05-17,37,Halifax Oland Vikings,1,7,8,1,197,234,145,62
-Ice Sabres,2021-07-06,27,Burlington Stampeders,4,5,10,3,205,234,138,145
-Ice Sabres,2022-01-04,95,Fort Garry Eagles,1,7,5,1,210,197,298,205
-Ice Sabres,2022-03-16,75,New Westminster Thunder,1,7,6,1,138,234,197,210
-Ice Sabres,2022-04-12,39,Charlottetown Schooners,2,8,6,1,210,145,205,197
-Ice Sabres,2021-07-18,93,Humboldt Vipers,4,8,10,3,205,145,197,62
-Ice Sabres,2022-05-25,33,Iron Range Penguins,5,7,10,3,205,138,145,197
-Ice Sabres,2021-10-04,93,Humboldt Vipers,4,7,10,3,145,205,197,62
-Ice Sabres,2020-07-03,55,Markham Rockets,1,6,10,1,62,210,138,145
-Ice Sabres,2022-01-25,39,Charlottetown Schooners,0,6,7,0,145,234,205,138
-Ice Sabres,2021-08-30,33,Iron Range Penguins,0,13,7,0,62,145,197,138
-Ice Sabres,2020-10-05,29,Richmond Hill Mets,1,9,6,1,145,197,10,138
-Ice Sabres,2021-09-29,100,Chilliwack Metros,1,12,8,1,234,138,62,210
-Ice Sabres,2021-06-17,75,New Westminster Thunder,0,8,5,0,234,205,197,145
-Ice Sabres,2021-06-29,9,Trail Smoke Remparts,3,10,10,2,210,138,234,197
-Ice Sabres,2021-08-08,100,Chilliwack Metros,5,6,10,4,210,234,62,205
-Ice Sabres,2020-11-06,100,Chilliwack Metros,1,8,9,1,197,145,234,205
-Ice Sabres,2020-11-03,3,Calgary Bruins,0,7,5,0,210,197,234,62
-Calgary Bruins,2020-11-03,3,Ice Sabres,7,0,5,5,219,67,56,54
-Ice Sabres,2022-01-24,95,Fort Garry Eagles,5,4,10,4,145,234,298,197
-Ice Sabres,2020-09-01,75,New Westminster Thunder,8,10,11,3,205,145,234,197
-Ice Sabres,2020-07-27,3,Calgary Bruins,0,6,6,0,210,138,197,62
-Calgary Bruins,2020-07-27,3,Ice Sabres,6,0,6,6,73,67,219,54
-Ice Sabres,2020-08-10,93,Humboldt Vipers,4,9,10,2,62,138,197,59
-Ice Sabres,2021-09-20,33,Iron Range Penguins,0,9,5,0,62,210,197,205
-Ice Sabres,2022-03-27,39,Charlottetown Schooners,0,11,5,0,205,197,210,138
-Ice Sabres,2020-11-27,27,Burlington Stampeders,2,10,9,2,138,197,210,62
-Ice Sabres,2020-09-17,29,Richmond Hill Mets,3,8,10,2,234,10,205,145
-Ice Sabres,2021-12-22,39,Charlottetown Schooners,0,8,5,0,298,205,234,197
-Ice Sabres,2021-05-30,37,Halifax Oland Vikings,0,7,5,0,205,197,138,234
-Toronto Penguins,2021-05-09,2,Vancouver Islanders,7,1,8,7,179,90,260,280
-Vancouver Islanders,2021-05-09,2,Toronto Penguins,1,7,8,1,190,322,273,149
-Toronto Penguins,2020-11-17,51,Richmond Hill Tondas,10,4,6,4,260,233,179,77
-Toronto Penguins,2020-11-13,20,Dartmouth Oland Thunderbirds,11,5,8,6,90,179,77,260
-Toronto Penguins,2021-10-14,30,Peterborough Jr. Patriots,8,3,10,5,90,394,233,260
-Toronto Penguins,2021-02-26,2,Vancouver Islanders,7,1,5,4,179,260,280,77
-Vancouver Islanders,2021-02-26,2,Toronto Penguins,1,7,5,1,149,190,113,230
-Toronto Penguins,2020-10-31,47,Halifax Flames,5,3,10,5,260,77,233,90
-Toronto Penguins,2021-12-19,47,Halifax Flames,13,4,10,6,90,260,280,233
-Toronto Penguins,2020-08-12,15,Elliot Lake Wings,7,3,10,4,233,179,90,77
-Toronto Penguins,2022-02-13,16,Bancroft Waxers,0,6,5,0,394,90,260,280
-Toronto Penguins,2021-11-02,97,Pembroke Lumber Express,9,4,10,4,394,260,280,233
-Toronto Penguins,2021-11-28,40,Kindersley Warriors,7,1,6,4,90,233,260,280
-Toronto Penguins,2022-01-24,71,Thornhill Caribous,8,2,5,3,260,233,90,280
-Toronto Penguins,2021-11-23,12,Kanata Valley Vipers,10,1,7,6,394,280,90,260
-Toronto Penguins,2021-09-17,1,Game of Stones,6,0,5,5,233,280,260,179
-Game of Stones,2021-09-17,1,Toronto Penguins,0,6,5,0,192,231,58,285
-Toronto Penguins,2020-08-04,30,Peterborough Jr. Patriots,6,7,12,2,233,77,179,90
-Toronto Penguins,2021-11-17,80,Thunder Bay Thunderbirds,7,1,8,7,233,260,394,90
-Toronto Penguins,2020-07-15,47,Halifax Flames,3,6,10,3,77,216,179,90
-Toronto Penguins,2021-11-15,51,Richmond Hill Tondas,11,3,8,6,394,233,90,280
-Toronto Penguins,2022-03-29,40,Kindersley Warriors,8,2,7,6,280,500,260,233
-Ice Cougars,2021-06-09,1,Game of Stones,2,9,8,1,177,258,321,101
-Game of Stones,2021-06-09,1,Ice Cougars,9,2,8,7,107,192,231,285
-Ice Cougars,2022-05-13,92,Toronto Wild,6,7,10,4,447,321,101,177
-Ice Cougars,2022-03-07,71,Thornhill Caribous,0,10,8,0,101,447,177,321
-Ice Cougars,2022-04-13,71,Thornhill Caribous,3,4,10,2,447,177,101,321
-Ice Cougars,2020-11-26,97,Pembroke Lumber Express,2,8,10,2,258,232,177,101
-Ice Cougars,2021-11-17,13,Halifax Team Leafs,2,10,6,1,177,321,101,258
-Ice Cougars,2021-04-02,80,Thunder Bay Thunderbirds,9,4,10,7,177,101,258,321
-Ice Cougars,2021-10-19,97,Pembroke Lumber Express,3,8,10,2,258,101,321,177
-Ice Cougars,2021-11-29,80,Thunder Bay Thunderbirds,7,9,10,5,258,321,177,101
-Ice Cougars,2021-06-07,20,Dartmouth Oland Thunderbirds,3,4,10,3,258,177,321,101
-Ice Cougars,2021-01-26,20,Dartmouth Oland Thunderbirds,6,5,10,5,177,258,101,232
-Ice Cougars,2021-08-03,48,Halifax A's,5,12,9,3,101,321,258,177
-Ice Cougars,2021-09-21,97,Pembroke Lumber Express,1,8,6,1,321,177,258,101
-Ice Cougars,2022-01-26,51,Richmond Hill Tondas,2,9,7,1,321,101,258,447
-Ice Cougars,2021-10-11,2,Vancouver Islanders,4,2,10,3,258,321,177,101
-Vancouver Islanders,2021-10-11,2,Ice Cougars,2,4,10,7,190,149,403,349
-Ice Cougars,2021-11-03,48,Halifax A's,2,7,10,2,101,321,258,177
-Ice Cougars,2021-12-28,30,Peterborough Jr. Patriots,3,9,6,1,447,101,258,177
-Ice Cougars,2020-09-30,30,Peterborough Jr. Patriots,2,8,7,1,177,258,101,232
-Ice Cougars,2021-04-17,97,Pembroke Lumber Express,2,8,9,2,101,177,258,321
-Ottawa Kiltys,2021-12-07,38,Espanola Screaming Crystals,7,1,6,4,409,395,220,42
-Ottawa Kiltys,2021-12-22,50,Ajax Sports,10,7,10,5,220,395,409,42
-Ottawa Kiltys,2021-11-02,1,Ottawa Greys,1,8,5,1,409,42,220,395
-Ottawa Greys,2021-11-02,1,Ottawa Kiltys,8,1,5,4,352,24,176,392
-Ottawa Kiltys,2021-11-04,1,Ice Dodgers,7,1,5,3,42,220,409,395
-Ice Dodgers,2021-11-04,1,Ottawa Kiltys,1,7,5,2,131,335,286,211
-Ottawa Kiltys,2022-03-28,3,Ice Huskies,8,4,10,5,220,409,395,42
-Ice Huskies,2022-03-28,3,Ottawa Kiltys,4,8,10,5,367,6,399,252
-Ottawa Kiltys,2022-03-07,78,Halifax Oland Centennials,8,2,8,5,395,409,220,42
-Ottawa Kiltys,2022-05-15,89,Williams Lake Warriors,5,6,10,3,395,220,511,409
-Ottawa Kiltys,2022-04-02,17,Brandon Warriors,3,5,10,3,395,42,409,220
-Ottawa Kiltys,2022-03-17,3,Stone Mariners,9,3,7,5,395,42,409,220
-Stone Mariners,2022-03-17,3,Ottawa Kiltys,3,9,7,2,245,157,478,440
-Ottawa Kiltys,2022-05-13,32,Williams Lake Vulcans,10,8,10,5,511,42,395,220
-Ice Dodgers,2022-04-01,89,Williams Lake Warriors,1,7,8,1,131,286,211,451
-Ice Dodgers,2022-05-30,1,Ottawa Kiltys,1,7,8,1,131,335,286,174
-Ottawa Kiltys,2022-05-30,1,Ice Dodgers,7,1,8,7,42,409,395,220
-Ice Dodgers,2022-05-10,77,Lanark Festivals,6,5,10,4,335,137,131,211
-Ice Dodgers,2021-05-19,57,New Waterford Pack,7,2,10,4,137,211,335,131
-Ice Dodgers,2020-10-16,57,New Waterford Pack,8,3,10,5,174,137,211,131
-Ice Dodgers,2020-09-12,6,Cape Breton Lumberjacks,3,9,8,2,211,131,137,174
-Ice Dodgers,2021-08-10,2,Stone Timberwolves,2,4,10,2,174,131,137,211
-Stone Timberwolves,2021-08-10,2,Ice Dodgers,4,2,10,8,198,50,156,60
-Ice Dodgers,2022-04-16,2,Stone Timberwolves,0,6,5,0,286,451,211,335
-Stone Timberwolves,2022-04-16,2,Ice Dodgers,6,0,5,5,454,198,60,48
-Ice Dodgers,2021-05-06,3,Stone Mariners,7,3,10,6,211,286,137,174
-Stone Mariners,2021-05-06,3,Ice Dodgers,3,7,10,4,245,74,9,269
-Ice Dodgers,2021-10-20,14,Battleford Greys,4,10,7,2,174,211,131,137
-Ice Dodgers,2021-06-14,4,Super Salsa,2,9,8,2,286,137,335,131
-Super Salsa,2021-06-14,4,Ice Dodgers,9,2,8,6,199,154,329,141
-Ice Dodgers,2021-06-27,4,Super Salsa,1,6,10,1,137,211,286,174
-Super Salsa,2021-06-27,4,Ice Dodgers,6,1,10,9,168,329,154,199
-Ice Dodgers,2022-02-26,14,Battleford Greys,2,6,10,2,286,131,211,451
-Ice Dodgers,2021-08-14,17,Brandon Warriors,1,7,6,1,335,286,211,174
-Ice Dodgers,2022-01-29,78,Halifax Oland Centennials,7,6,10,5,131,137,451,335
-Ice Dodgers,2021-02-28,54,Saskatoon Rams,4,10,8,3,211,286,174,137
-Ice Dodgers,2020-12-11,96,Vernon Bears,5,6,10,4,174,131,211,137
-Ice Dodgers,2021-03-29,8,Peterborough Bearcats,10,8,10,4,174,211,286,131
-Ice Dodgers,2022-01-28,24,Sidney Terriers,6,7,10,3,286,174,137,451
-Ice Dodgers,2021-09-20,74,Port-aux-Basques Buccaneers,2,7,10,1,211,131,174,137
-Ice Dodgers,2020-07-26,1,Ottawa Greys,0,6,5,0,174,211,131,137
-Ottawa Greys,2020-07-26,1,Ice Dodgers,6,0,5,5,24,82,176,95
-Ice Dodgers,2021-01-18,26,Wexford Beehives,10,4,9,5,131,174,137,286
-Ice Dodgers,2021-05-17,50,Ajax Sports,9,4,10,7,137,286,335,174
-Ice Dodgers,2020-08-23,7,Southeast Nationals,9,5,10,5,211,131,137,174
-Ice Dodgers,2021-04-20,32,Williams Lake Vulcans,5,3,10,3,286,137,131,174
-Ice Dodgers,2021-09-30,65,Winnipeg Beehives,2,5,10,2,211,174,131,137
-Ice Dodgers,2020-10-17,26,Wexford Beehives,6,0,6,5,137,131,211,174
-Ice Dodgers,2022-01-25,49,North Sydney Spitfires,6,7,10,3,335,137,174,286
-Ice Dodgers,2020-07-11,3,Stone Mariners,8,2,8,5,211,174,131,137
-Stone Mariners,2020-07-11,3,Ice Dodgers,2,8,8,3,9,25,74,217
-Ice Dodgers,2021-01-21,77,Lanark Festivals,8,2,5,4,286,174,137,131
-Broom Mets,2022-01-12,2,Stone Timberwolves,0,6,6,0,188,173,178,370
-Stone Timberwolves,2022-01-12,2,Broom Mets,6,0,6,6,156,60,50,48
-Broom Mets,2020-11-28,78,Halifax Oland Centennials,10,0,5,5,120,96,173,188
-Broom Mets,2021-11-23,1,Ice Dodgers,5,6,10,4,173,120,188,178
-Ice Dodgers,2021-11-23,1,Broom Mets,6,5,10,6,286,137,335,131
-Broom Mets,2022-04-16,17,Brandon Warriors,8,5,10,3,188,370,178,173
-Broom Mets,2021-05-02,90,Langley Hawks,5,6,10,3,96,188,120,178
-Broom Mets,2022-03-27,14,Battleford Greys,0,6,5,0,370,173,188,120
-Broom Mets,2021-07-01,1,Ottawa Greys,5,8,10,4,178,120,188,173
-Ottawa Greys,2021-07-01,1,Broom Mets,8,5,10,6,82,24,352,95
-Broom Mets,2021-04-28,1,Ottawa Greys,0,9,5,0,188,173,120,178
-Ottawa Greys,2021-04-28,1,Broom Mets,9,0,5,5,176,82,24,95
-Broom Mets,2021-03-30,32,Williams Lake Vulcans,2,8,8,1,188,173,96,178
-Broom Mets,2021-03-06,57,New Waterford Pack,9,5,10,4,96,120,178,173
-Broom Mets,2020-08-31,96,Vernon Bears,5,8,10,3,178,120,96,173
-Broom Mets,2021-03-08,1,Ottawa Greys,6,5,10,4,120,178,188,96
-Ottawa Greys,2021-03-08,1,Broom Mets,5,6,10,6,176,24,95,82
-Broom Mets,2021-01-22,65,Winnipeg Beehives,6,7,10,4,173,188,96,178
-Broom Mets,2020-10-19,38,Espanola Screaming Crystals,7,1,5,3,178,173,120,188
-Broom Mets,2022-03-13,1,Ottawa Greys,0,10,5,0,370,178,173,120
-Ottawa Greys,2022-03-13,1,Broom Mets,10,0,5,5,352,24,392,176
-Broom Mets,2022-01-14,1,Ice Dodgers,4,12,9,3,188,370,173,178
-Ice Dodgers,2022-01-14,1,Broom Mets,12,4,9,6,211,137,286,131
-Broom Mets,2022-02-07,85,Sherwood Park Grads,3,9,8,1,370,188,178,120
-Broom Mets,2021-09-02,4,Super Salsa,0,8,6,0,370,173,120,96
-Super Salsa,2021-09-02,4,Broom Mets,8,0,6,6,199,329,386,154
-Broom Mets,2021-01-05,1,Ottawa Greys,2,10,9,1,96,178,173,120
-Ottawa Greys,2021-01-05,1,Broom Mets,10,2,9,8,95,24,176,82
-Broom Mets,2021-02-13,74,Port-aux-Basques Buccaneers,5,4,10,2,120,96,188,178
-Ottawa Greys,2022-04-02,82,Oswego Cougars,1,7,5,1,95,352,365,176
-Ottawa Greys,2021-01-15,54,Saskatoon Rams,1,7,8,1,176,95,82,24
-Ottawa Greys,2022-03-26,1,Ice Dodgers,6,0,5,4,95,392,352,24
-Ice Dodgers,2022-03-26,1,Ottawa Greys,0,6,5,1,335,137,174,451
-Ottawa Greys,2022-02-09,44,Thunder Bay Panthers,6,0,6,5,95,24,365,392
-Ottawa Greys,2022-02-05,49,North Sydney Spitfires,6,9,10,5,365,176,24,392
-Ottawa Greys,2021-08-28,90,Langley Hawks,7,1,10,5,365,176,95,24
-Ottawa Greys,2021-01-28,3,Stone Mariners,7,0,6,3,24,95,176,82
-Stone Mariners,2021-01-28,3,Ottawa Greys,0,7,6,3,217,157,74,269
-Ottawa Greys,2022-03-16,74,Port-aux-Basques Buccaneers,7,3,10,7,352,392,176,24
-Ottawa Greys,2020-07-24,26,Wexford Beehives,7,1,8,5,24,82,95,176
-Ottawa Greys,2021-04-03,65,Winnipeg Beehives,6,1,10,5,95,82,24,176
-Ottawa Greys,2021-01-26,38,Espanola Screaming Crystals,9,2,8,5,176,24,82,95
-Ottawa Greys,2021-08-30,54,Saskatoon Rams,1,10,7,1,352,365,95,392
-Ottawa Greys,2020-10-21,17,Brandon Warriors,5,7,10,4,95,82,24,176
-Cold Chinooks,2021-08-23,66,Vancouver Flyers,6,5,12,5,353,111,151,340
-Cold Chinooks,2021-02-28,64,Vancouver Canadiens,3,6,10,2,127,151,111,144
-Cold Chinooks,2021-11-20,64,Vancouver Canadiens,0,6,5,0,111,127,151,144
-Cold Chinooks,2022-01-09,2,Vancouver Buccaneers,1,8,5,1,151,353,127,144
-Vancouver Buccaneers,2022-01-09,2,Cold Chinooks,8,1,5,4,421,439,393,351
-Cold Chinooks,2020-09-15,0,Cold Islanders,3,10,8,1,144,151,127,111
-Cold Islanders,2020-09-15,0,Cold Chinooks,10,3,8,7,102,241,215,147
-Cold Chinooks,2022-01-18,62,Hamilton Tigers,4,6,10,3,127,144,151,111
-Cold Chinooks,2021-07-21,87,South Surrey Canadians,5,4,10,3,127,144,353,340
-Cold Chinooks,2021-06-11,18,Mississauga Cougars,8,3,10,6,127,151,353,340
-Cold Chinooks,2021-03-09,4,Montreal Lasers,3,8,10,2,151,127,111,144
-Montreal Lasers,2021-03-09,4,Cold Chinooks,8,3,10,8,166,136,191,14
-Cold Chinooks,2020-09-06,86,Cape Breton Rustlers,3,6,10,2,144,151,111,127
-Cold Chinooks,2021-07-16,0,Cold Islanders,2,8,6,1,353,151,144,111
-Cold Islanders,2021-07-16,0,Cold Chinooks,8,2,6,5,147,121,241,291
-Cold Chinooks,2020-12-11,94,Aurora Chiefs,3,8,10,3,144,151,111,127
-Cold Chinooks,2022-05-18,18,Mississauga Cougars,2,9,6,1,127,512,111,400
-Cold Chinooks,2020-08-07,4,Montreal Lasers,4,8,10,2,111,151,144,127
-Montreal Lasers,2020-08-07,4,Cold Chinooks,8,4,10,8,166,136,17,14
-Cold Chinooks,2022-03-12,66,Vancouver Flyers,3,9,8,2,151,400,353,111
-Cold Chinooks,2021-09-17,4,Montreal Lasers,0,6,5,0,400,151,127,111
-Montreal Lasers,2021-09-17,4,Cold Chinooks,6,0,5,5,136,14,254,166
-Cold Chinooks,2020-10-23,18,Mississauga Cougars,8,10,10,6,151,144,127,111
-Cold Chinooks,2020-10-22,87,South Surrey Canadians,5,4,10,4,127,111,151,144
-Cold Chinooks,2021-03-12,68,Vernon Crystals,1,8,6,1,127,111,144,151
-Cold Chinooks,2021-06-15,94,Aurora Chiefs,1,7,7,1,151,353,127,144
-Cold Chinooks,2021-09-01,87,South Surrey Canadians,2,8,7,1,340,144,111,151
-Cold Chinooks,2020-07-23,34,Markham Rebels,5,7,10,4,111,151,127,144
-Cold Chinooks,2021-01-10,4,Montreal Lasers,3,8,10,2,151,144,127,111
-Montreal Lasers,2021-01-10,4,Cold Chinooks,8,3,10,8,114,166,191,14
-Cold Chinooks,2021-03-01,41,Dartmouth Crunch,7,9,11,4,111,127,151,144
-Cold Chinooks,2021-12-12,0,Cold Islanders,5,4,10,3,151,144,400,353
-Cold Islanders,2021-12-12,0,Cold Chinooks,4,5,10,7,121,241,215,147
-Cold Chinooks,2022-04-15,62,Hamilton Tigers,2,8,7,2,151,127,144,400
-Cold Chinooks,2021-07-15,94,Aurora Chiefs,8,9,10,3,353,151,127,111
-Cold Chinooks,2020-08-01,86,Cape Breton Rustlers,2,9,8,1,144,127,151,111
-Cold Chinooks,2022-04-09,2,Vancouver Buccaneers,4,9,10,3,400,127,353,144
-Vancouver Buccaneers,2022-04-09,2,Cold Chinooks,9,4,10,7,439,265,485,486
-Cold Travelways,2020-12-03,76,Whitby Lakers,1,7,7,1,104,247,226,201
-Cold Travelways,2021-03-01,3,Calgary Rockets,1,8,7,1,226,201,247,104
-Calgary Rockets,2021-03-01,3,Cold Travelways,8,1,7,6,200,61,308,21
-Cold Travelways,2022-01-31,72,Yorkton Indians,5,7,10,4,226,201,247,104
-Cold Travelways,2021-03-28,4,Montreal Bruins,2,8,10,1,201,226,104,247
-Montreal Bruins,2021-03-28,4,Cold Travelways,8,2,10,9,109,164,46,221
-Cold Travelways,2022-02-14,4,Montreal Bruins,1,8,5,1,247,201,226,104
-Montreal Bruins,2022-02-14,4,Cold Travelways,8,1,5,4,425,46,387,164
-Cold Travelways,2020-08-03,63,Moncton Legionaires,8,7,10,4,201,226,81,104
-Cold Travelways,2022-03-18,76,Whitby Lakers,7,5,10,5,201,226,318,247
-Cold Travelways,2021-01-19,58,Canmore Rats,9,1,7,4,201,226,104,247
-Cold Travelways,2021-05-30,0,Toronto Eagles,7,6,10,4,201,226,247,104
-Toronto Eagles,2021-05-30,0,Cold Travelways,6,7,10,6,13,325,267,327
-Cold Travelways,2020-08-08,84,Windsor Royals,0,6,6,0,226,104,81,201
-Cold Travelways,2021-05-17,31,Thunder Bay Dogs,8,7,12,5,247,104,226,201
-Cold Travelways,2021-01-20,58,Canmore Rats,8,0,5,4,201,226,247,104
-Cold Travelways,2022-04-21,42,Vancouver Jr. Terriers,8,2,6,4,201,318,502,104
-Cold Travelways,2021-09-16,35,Sidney Eagles,2,8,6,2,104,318,247,201
-Cold Travelways,2022-04-05,72,Yorkton Indians,5,8,10,2,502,226,484,247
-Cold Travelways,2022-03-06,58,Canmore Rats,8,1,7,5,201,104,226,484
-Ottawa Victorias,2021-04-11,3,Calgary Cubs,1,7,8,1,249,222,312,207
-Calgary Cubs,2021-04-11,3,Ottawa Victorias,7,1,8,7,26,272,256,224
-Ottawa Victorias,2022-03-28,1,Cold Travelways,6,4,10,4,312,249,493,313
-Cold Travelways,2022-03-28,1,Ottawa Victorias,4,6,10,6,484,318,247,104
-Ottawa Victorias,2021-06-18,0,Toronto Eagles,8,0,5,5,207,118,287,222
-Toronto Eagles,2021-06-18,0,Ottawa Victorias,0,8,5,0,267,13,155,325
-Ottawa Victorias,2022-05-24,3,Calgary Cubs,0,7,9,0,287,222,312,493
-Calgary Cubs,2022-05-24,3,Ottawa Victorias,7,0,9,9,459,256,26,224
-Ottawa Victorias,2021-02-15,3,Calgary Rockets,5,7,10,3,118,228,222,249
-Calgary Rockets,2021-02-15,3,Ottawa Victorias,7,5,10,7,61,200,308,21
-Ottawa Victorias,2022-02-02,2,Vancouver Fury,0,10,5,0,249,207,287,222
-Vancouver Fury,2022-02-02,2,Ottawa Victorias,10,0,5,5,331,185,72,398
-Ottawa Victorias,2022-04-03,58,Canmore Rats,9,8,10,5,249,313,312,222
-Ottawa Victorias,2021-06-08,69,Sudbury Jets,5,6,10,4,312,222,249,287
-Ottawa Victorias,2021-10-07,3,Calgary Cougars,7,5,10,5,312,287,313,207
-Calgary Cougars,2021-10-07,3,Ottawa Victorias,5,7,10,5,119,347,227,124
-Ottawa Victorias,2020-11-05,1,Cold Travelways,12,0,5,5,222,207,228,118
-Cold Travelways,2020-11-05,1,Ottawa Victorias,0,12,5,0,226,104,247,201
-Ottawa Victorias,2022-04-11,3,Calgary Rockets,10,6,10,4,207,222,493,313
-Calgary Rockets,2022-04-11,3,Ottawa Victorias,6,10,10,6,358,200,21,308
-Ottawa Victorias,2021-03-25,42,Vancouver Jr. Terriers,9,3,9,6,287,207,249,312
-Ottawa Victorias,2020-08-24,1,Cold Travelways,9,5,10,5,118,207,222,228
-Cold Travelways,2020-08-24,1,Ottawa Victorias,5,9,10,5,226,201,104,81
-Ottawa Victorias,2021-03-06,69,Sudbury Jets,5,4,10,5,207,312,118,287
-Ottawa Victorias,2021-07-10,3,Calgary Fleur-de-Lys,7,0,5,5,287,228,207,313
-Calgary Fleur-de-Lys,2021-07-10,3,Ottawa Victorias,0,7,5,0,123,63,117,183
-Game of Stones,2021-03-06,13,Halifax Team Leafs,7,8,10,3,231,58,107,285
-Game of Stones,2021-10-01,47,Halifax Flames,4,5,10,3,58,231,192,285
-Game of Stones,2020-10-01,80,Thunder Bay Thunderbirds,8,0,6,5,58,192,231,107
-Game of Stones,2020-11-29,0,Ice Cougars,9,2,8,6,192,58,231,107
-Ice Cougars,2020-11-29,0,Game of Stones,2,9,8,2,232,258,177,101
-Game of Stones,2020-09-01,16,Bancroft Waxers,4,10,8,3,192,58,231,107
-Game of Stones,2022-02-06,0,Ice Cougars,8,2,8,5,58,458,285,231
-Ice Cougars,2022-02-06,0,Game of Stones,2,8,8,3,101,447,177,321
-Game of Stones,2021-01-18,0,Toronto Penguins,7,3,10,5,58,231,192,285
-Toronto Penguins,2021-01-18,0,Game of Stones,3,7,10,5,280,260,77,233
-Game of Stones,2021-11-01,0,Ice Cougars,8,2,7,6,285,192,58,231
-Ice Cougars,2021-11-01,0,Game of Stones,2,8,7,1,321,258,177,101
-Game of Stones,2021-10-11,2,Vancouver Islanders,11,0,5,5,285,58,231,192
-Vancouver Islanders,2021-10-11,2,Game of Stones,0,11,5,0,230,349,322,190
-Game of Stones,2021-06-22,0,Ice Cougars,6,0,8,6,58,192,107,316
-Ice Cougars,2021-06-22,0,Game of Stones,0,6,8,2,177,101,321,258
-Game of Stones,2020-08-20,20,Dartmouth Oland Thunderbirds,10,0,8,8,192,231,107,58
-Game of Stones,2022-05-05,28,Thunder Bay Thunder,8,2,8,5,285,231,192,514
-Game of Stones,2020-08-28,16,Bancroft Waxers,8,6,13,3,58,192,107,231
-Game of Stones,2021-04-24,2,Vancouver Islanders,8,0,5,5,316,192,107,285
-Vancouver Islanders,2021-04-24,2,Game of Stones,0,8,5,0,273,149,322,113
-Game of Stones,2021-06-30,0,Toronto Penguins,5,7,11,4,316,58,107,231
-Toronto Penguins,2021-06-30,0,Game of Stones,7,5,11,7,233,280,179,90
-Game of Stones,2020-12-24,20,Dartmouth Oland Thunderbirds,8,0,5,5,107,192,285,231
-Game of Stones,2022-04-30,61,Pierrefonds Canadians,8,4,10,5,514,285,231,192
-Game of Stones,2021-04-08,2,Vancouver Islanders,8,0,10,6,192,316,231,58
-Vancouver Islanders,2021-04-08,2,Game of Stones,0,8,10,4,190,149,322,113
-Game of Stones,2022-01-05,97,Pembroke Lumber Express,9,4,10,5,231,192,285,58
-Game of Stones,2022-02-12,0,Toronto Penguins,4,6,10,4,58,192,231,285
-Toronto Penguins,2022-02-12,0,Game of Stones,6,4,10,6,90,260,280,233
-Game of Stones,2021-12-27,92,Toronto Wild,7,8,10,3,285,231,192,58
-Game of Stones,2021-03-03,51,Richmond Hill Tondas,8,4,10,5,58,231,192,107
-Game of Stones,2020-10-31,48,Halifax A's,7,0,6,5,58,107,192,231
-Game of Stones,2021-01-28,15,Elliot Lake Wings,7,4,10,5,107,192,285,231
-Game of Stones,2021-11-27,16,Bancroft Waxers,5,9,10,3,231,192,285,58
-Game of Stones,2021-04-09,80,Thunder Bay Thunderbirds,7,0,5,5,285,231,316,192
-Game of Stones,2020-10-02,51,Richmond Hill Tondas,7,1,6,4,107,58,192,231
-Game of Stones,2021-01-01,61,Pierrefonds Canadians,5,7,10,3,107,192,285,231
-Super Lords,2021-10-14,56,Thetford Mines Blizzard,0,7,7,0,214,5,88,402
-Super Lords,2022-02-15,11,Penticton Chiefs,3,10,6,2,214,88,381,5
-Super Lords,2022-01-25,11,Penticton Chiefs,5,6,11,3,381,402,5,88
-Super Lords,2022-02-23,79,Pembroke Lumber Bears,3,5,10,3,88,214,5,402
-Super Lords,2022-05-05,56,Thetford Mines Blizzard,10,5,10,5,381,214,88,5
-Super Lords,2022-05-27,4,Montreal Braves,1,8,7,1,214,381,88,402
-Montreal Braves,2022-05-27,4,Super Lords,8,1,7,6,152,520,304,194
-Super Lords,2020-07-15,67,Edmonton Maple Predators,2,8,6,1,214,5,186,88
-Super Lords,2022-01-15,22,Ste. Agathe Flyers,5,8,10,2,5,88,214,402
-Super Lords,2021-12-25,45,Prince Albert Marrs,4,7,10,2,402,381,88,5
-Super Lords,2021-11-04,56,Thetford Mines Blizzard,5,6,10,3,214,88,5,381
-Super Lords,2020-09-07,45,Prince Albert Marrs,7,8,10,4,88,5,186,214
-Super Lords,2020-09-10,19,Rosemont Bears,4,7,10,2,186,88,214,5
-Super Lords,2022-05-10,0,Toronto Rockets,2,10,8,1,214,381,88,402
-Toronto Rockets,2022-05-10,0,Super Lords,10,2,8,7,388,35,480,473
-Broom Hawks,2021-03-04,22,Ste. Agathe Flyers,6,5,11,5,65,311,242,264
-Broom Hawks,2021-07-01,4,Montreal Braves,2,7,10,2,333,65,242,311
-Montreal Braves,2021-07-01,4,Broom Hawks,7,2,10,8,194,152,92,304
-Broom Hawks,2021-06-14,45,Prince Albert Marrs,11,1,7,6,264,333,65,242
-Broom Hawks,2021-04-09,88,Niagara Falls Filons,4,3,10,4,311,65,242,264
-Broom Hawks,2021-04-11,88,Niagara Falls Filons,8,1,7,4,264,311,65,242
-Broom Hawks,2021-11-30,4,Montreal Vipers,5,2,10,4,65,311,264,397
-Montreal Vipers,2021-11-30,4,Broom Hawks,2,5,10,6,427,29,263,143
-Broom Hawks,2021-04-26,45,Prince Albert Marrs,11,4,9,5,311,65,242,264
-Broom Hawks,2021-11-13,4,Montreal Braves,9,6,10,4,264,333,397,311
-Montreal Braves,2021-11-13,4,Broom Hawks,6,9,10,6,415,304,92,194
-Broom Hawks,2021-03-08,98,Aurora Canadians,6,0,5,2,242,264,311,65
-Broom Hawks,2021-09-20,59,Thunder Bay Patriots,10,0,5,5,333,65,311,242
-Broom Hawks,2021-11-20,56,Thetford Mines Blizzard,6,4,10,3,264,242,65,311
-Broom Hawks,2021-03-21,19,Rosemont Bears,7,2,10,4,264,311,65,242
-Broom Hawks,2022-05-19,88,Niagara Falls Filons,8,5,10,4,524,436,311,65
-Broom Hawks,2021-09-01,79,Pembroke Lumber Bears,6,2,10,4,242,311,264,333
-Broom Hawks,2021-04-12,19,Rosemont Bears,13,6,9,6,242,311,65,264
-Curlers Terriers,2022-03-05,4,Montreal Braves,7,8,10,3,489,7,310,278
-Montreal Braves,2022-03-05,4,Curlers Terriers,8,7,10,7,304,194,152,445
-Curlers Terriers,2022-04-06,11,Penticton Chiefs,10,2,9,6,7,489,278,310
-Stone Timberwolves,2021-07-13,65,Winnipeg Beehives,9,3,9,6,198,156,60,50
-Stone Timberwolves,2021-12-20,26,Wexford Beehives,7,0,5,5,60,156,50,198
-Stone Timberwolves,2021-12-24,6,Cape Breton Lumberjacks,6,4,10,4,50,48,198,156
-Stone Timberwolves,2022-03-12,54,Saskatoon Rams,10,0,5,5,60,156,48,198
-Stone Timberwolves,2021-10-15,77,Lanark Festivals,10,5,10,6,198,60,48,50
-Stone Timberwolves,2022-01-22,44,Thunder Bay Panthers,6,5,10,4,454,198,156,48
-Stone Timberwolves,2022-02-17,32,Williams Lake Vulcans,10,4,9,7,156,454,198,60
-Stone Timberwolves,2022-05-23,7,Southeast Nationals,7,1,7,5,48,50,156,60
-Stone Timberwolves,2022-04-14,0,Toronto Olympics,7,1,7,6,156,50,454,48
-Toronto Olympics,2022-04-14,0,Stone Timberwolves,1,7,7,1,317,477,91,428
-Stone Timberwolves,2022-01-26,49,North Sydney Spitfires,7,0,7,5,156,48,60,50
-Stone Timberwolves,2021-10-10,65,Winnipeg Beehives,8,2,9,6,60,198,48,156
-Stone Timberwolves,2020-08-08,65,Winnipeg Beehives,10,9,10,5,198,60,50,48
-Stone Timberwolves,2022-03-10,14,Battleford Greys,7,4,10,6,60,50,198,156
-Stone Timberwolves,2021-08-26,7,Southeast Nationals,10,4,7,6,48,60,198,156
-Stone Timberwolves,2021-04-27,78,Halifax Oland Centennials,7,2,10,5,48,60,50,156
-Stone Timberwolves,2022-01-07,17,Brandon Warriors,8,7,10,5,156,60,454,198
-Stone Timberwolves,2021-03-05,74,Port-aux-Basques Buccaneers,8,1,8,6,60,50,156,48
-Stone Timberwolves,2022-05-14,50,Ajax Sports,9,3,5,4,495,198,48,50
-Stone Timberwolves,2022-02-25,1,Ice Dodgers,6,5,11,4,48,156,60,198
-Ice Dodgers,2022-02-25,1,Stone Timberwolves,5,6,11,7,286,211,131,137
-Stone Timberwolves,2020-10-22,85,Sherwood Park Grads,7,5,10,4,156,60,50,48
-Stone Timberwolves,2021-12-25,6,Cape Breton Lumberjacks,8,3,10,5,198,48,156,50
-Stone Timberwolves,2022-02-03,54,Saskatoon Rams,5,10,10,3,50,454,156,48
-Stone Timberwolves,2021-05-25,50,Ajax Sports,10,3,6,4,50,198,48,156
-Stone Timberwolves,2021-10-23,54,Saskatoon Rams,4,8,10,3,156,198,48,50
-Stone Timberwolves,2021-04-19,85,Sherwood Park Grads,6,4,10,4,50,48,198,156
-Stone Timberwolves,2022-04-03,82,Oswego Cougars,9,0,8,7,48,156,454,60
-Stone Timberwolves,2021-10-16,17,Brandon Warriors,8,6,10,5,156,48,198,50
-Stone Timberwolves,2022-03-17,65,Winnipeg Beehives,9,0,6,6,48,156,495,198
-Stone Timberwolves,2021-05-15,4,Super Salsa,1,8,6,1,60,156,48,198
-Super Salsa,2021-05-15,4,Stone Timberwolves,8,1,6,5,154,141,329,41
-Super Atlantics,2022-02-18,64,Vancouver Canadiens,6,7,10,4,296,435,380,69
-Super Atlantics,2022-01-25,83,North York Capitals,6,7,10,4,296,435,69,78
-Super Atlantics,2022-04-13,36,Thunder Bay Eaters,6,0,5,4,69,78,296,380
-Super Atlantics,2022-03-30,23,Laval Rousseau 77's,5,4,10,4,69,296,78,380
-Super Atlantics,2021-11-05,103,Riverview Elites,7,3,10,3,69,296,78,380
-Super Atlantics,2022-04-21,94,Aurora Chiefs,7,4,10,5,380,296,69,78
-Super Atlantics,2022-05-01,43,Temiscaming Hawks,9,0,6,5,380,78,296,69
-Super Atlantics,2021-12-01,103,Riverview Elites,4,1,10,4,69,380,435,296
-Super Atlantics,2022-05-19,66,Vancouver Flyers,8,4,10,5,296,380,69,78
-Super Atlantics,2022-01-17,36,Thunder Bay Eaters,10,6,10,6,380,78,435,296
-Super Atlantics,2022-03-12,43,Temiscaming Hawks,10,2,9,5,69,380,296,78
-Super Atlantics,2022-03-25,103,Riverview Elites,8,4,10,4,380,296,78,69
-Super Atlantics,2022-01-05,94,Aurora Chiefs,5,4,10,5,78,69,296,380
-Super Atlantics,2021-08-12,36,Thunder Bay Eaters,6,7,10,6,380,296,69,78
-Vancouver Buccaneers,2022-01-09,94,Aurora Chiefs,3,4,10,3,351,421,393,265
-Vancouver Buccaneers,2021-12-12,4,Baby Broomers,8,4,10,4,393,421,351,265
-Baby Broomers,2021-12-12,4,Vancouver Buccaneers,4,8,10,6,68,307,372,20
-Vancouver Buccaneers,2021-10-05,103,Riverview Elites,4,7,10,3,390,265,393,351
-Vancouver Buccaneers,2021-10-25,4,Montreal Lasers,0,8,5,0,265,390,351,393
-Montreal Lasers,2021-10-25,4,Vancouver Buccaneers,8,0,5,5,191,136,114,414
-Vancouver Buccaneers,2021-09-20,91,La Salle Eagles,7,4,10,5,351,265,393,390
-Vancouver Buccaneers,2021-12-08,83,North York Capitals,11,4,8,5,393,265,439,421
-Vancouver Buccaneers,2021-09-09,41,Dartmouth Crunch,8,6,11,4,351,265,393,390
-Vancouver Buccaneers,2021-11-24,4,Baby Broomers,5,8,10,5,393,351,390,265
-Baby Broomers,2021-11-24,4,Vancouver Buccaneers,8,5,10,5,20,307,68,372
-Vancouver Buccaneers,2022-05-30,86,Cape Breton Rustlers,0,8,5,0,486,485,393,421
-Vancouver Fury,2021-02-15,1,Cold Travelways,7,1,6,5,259,294,72,185
-Cold Travelways,2021-02-15,1,Vancouver Fury,1,7,6,1,226,201,247,104
-Vancouver Fury,2021-08-14,69,Sudbury Jets,7,0,5,4,294,185,159,331
-Vancouver Fury,2022-02-23,3,Calgary Cubs,10,2,7,5,331,407,72,185
-Calgary Cubs,2022-02-23,3,Vancouver Fury,2,10,7,2,459,224,256,305
-Vancouver Fury,2021-07-21,4,Montreal Raiders,8,3,10,6,294,363,331,185
-Montreal Raiders,2021-07-21,4,Vancouver Fury,3,8,10,4,301,343,115,27
-Vancouver Fury,2021-08-10,99,Bellingham Travelways,10,2,9,7,363,331,328,159
-Vancouver Fury,2022-05-08,69,Sudbury Jets,10,0,7,7,259,363,185,159
-Vancouver Fury,2020-10-08,4,Montreal Bruins,6,11,10,4,259,72,159,22
-Montreal Bruins,2020-10-08,4,Vancouver Fury,11,6,10,6,109,164,221,46
-Vancouver Fury,2022-03-15,10,Melfort Bruins,9,0,7,6,331,294,407,72
-Vancouver Fury,2021-08-25,76,Whitby Lakers,4,5,10,3,331,363,159,185
-Vancouver Fury,2021-06-17,4,Montreal Raiders,11,0,6,6,331,328,259,185
-Montreal Raiders,2021-06-17,4,Vancouver Fury,0,11,6,0,301,182,314,38
-Vancouver Fury,2021-03-20,25,Chateauguay Canucks,3,4,10,3,259,72,159,185
-Vancouver Fury,2021-08-18,4,Montreal Raiders,7,1,5,3,159,328,185,363
-Montreal Raiders,2021-08-18,4,Vancouver Fury,1,7,5,2,27,38,218,301
-Vancouver Fury,2021-03-07,3,Calgary Fleur-de-Lys,7,3,10,5,159,72,294,185
-Calgary Fleur-de-Lys,2021-03-07,3,Vancouver Fury,3,7,10,5,117,63,123,183
-Vancouver Fury,2021-04-01,4,Montreal Raiders,8,0,6,6,185,72,294,159
-Montreal Raiders,2021-04-01,4,Vancouver Fury,0,8,6,0,218,301,38,182
-Vancouver Fury,2022-01-26,72,Yorkton Indians,7,1,5,4,185,363,159,331
-Vancouver Fury,2020-10-05,35,Sidney Eagles,9,3,7,5,259,185,72,22
-Vancouver Fury,2022-05-09,4,Cold Colts,4,5,10,3,259,398,72,294
-Cold Colts,2022-05-09,4,Vancouver Fury,5,4,10,7,503,11,510,45
-Vancouver Fury,2021-10-27,31,Thunder Bay Dogs,8,2,7,5,72,259,407,185
-Vancouver Fury,2021-05-22,69,Sudbury Jets,6,8,12,3,185,294,331,328
-Vancouver Fury,2022-04-19,3,Calgary Rockets,9,5,10,5,363,294,398,72
-Calgary Rockets,2022-04-19,3,Vancouver Fury,5,9,10,5,323,358,21,200
-Vancouver Fury,2022-05-15,10,Melfort Bruins,7,6,10,4,331,398,72,159
-Vancouver Fury,2020-11-28,3,Calgary Cubs,8,2,9,6,185,259,72,159
-Calgary Cubs,2020-11-28,3,Vancouver Fury,2,8,9,3,26,224,272,256
-Vancouver Fury,2021-08-08,58,Canmore Rats,6,0,5,3,159,363,185,259
-Vancouver Fury,2022-03-24,3,Calgary Rockets,5,3,10,4,259,72,331,398
-Calgary Rockets,2022-03-24,3,Vancouver Fury,3,5,10,6,319,358,200,308
-Vancouver Islanders,2020-11-20,28,Thunder Bay Thunder,0,6,8,0,113,273,190,149
-Vancouver Islanders,2021-03-09,28,Thunder Bay Thunder,0,7,6,0,273,113,190,149
-Vancouver Islanders,2022-05-13,71,Thornhill Caribous,1,7,7,1,273,426,530,190
-Vancouver Islanders,2022-03-21,71,Thornhill Caribous,4,6,10,4,426,273,149,190
-Vancouver Islanders,2020-08-22,97,Pembroke Lumber Express,2,7,10,2,113,230,190,149
-Vancouver Islanders,2022-03-13,61,Pierrefonds Canadians,0,10,5,0,322,426,364,149
-Vancouver Islanders,2022-03-03,80,Thunder Bay Thunderbirds,1,7,8,1,149,273,230,426
-Vancouver Islanders,2022-03-23,97,Pembroke Lumber Express,1,7,7,1,230,349,322,190
-Vancouver Islanders,2021-09-07,0,Ice Cougars,1,10,6,1,322,149,364,190
-Ice Cougars,2021-09-07,0,Vancouver Islanders,10,1,6,5,321,258,101,177
-Vancouver Islanders,2022-01-23,12,Kanata Valley Vipers,5,7,11,4,364,190,149,349
-Vancouver Islanders,2020-09-04,47,Halifax Flames,0,9,8,0,190,230,113,149
-Vancouver Islanders,2021-06-01,47,Halifax Flames,0,7,5,0,322,190,230,149
-Vancouver Islanders,2021-09-20,71,Thornhill Caribous,7,3,10,4,190,230,364,349
-Stone Mariners,2020-08-20,65,Winnipeg Beehives,6,7,10,3,157,9,74,217
-Stone Mariners,2022-01-29,38,Espanola Screaming Crystals,3,5,10,2,440,157,277,245
-Stone Mariners,2022-01-31,82,Oswego Cougars,7,2,10,5,245,440,277,157
-Stone Mariners,2020-07-09,32,Williams Lake Vulcans,1,11,9,1,217,74,157,25
-Stone Mariners,2021-06-27,4,Super Salsa,3,10,9,2,217,157,9,245
-Super Salsa,2021-06-27,4,Stone Mariners,10,3,9,7,168,41,154,108
-Stone Mariners,2021-12-28,49,North Sydney Spitfires,5,7,10,2,157,440,245,277
-Stone Mariners,2021-10-13,1,Ottawa Kiltys,6,3,10,5,245,277,251,157
-Ottawa Kiltys,2021-10-13,1,Stone Mariners,3,6,10,5,42,395,220,409
-Stone Mariners,2020-09-29,44,Thunder Bay Panthers,0,10,5,0,25,74,9,251
-Stone Mariners,2021-05-08,1,Broom Mets,4,10,6,2,277,245,74,157
-Broom Mets,2021-05-08,1,Stone Mariners,10,4,6,4,173,120,96,188
-Stone Mariners,2021-01-29,82,Oswego Cougars,7,1,9,4,251,74,245,217
-Stone Mariners,2021-09-13,24,Sidney Terriers,7,3,10,4,245,157,251,277
-Stone Mariners,2022-05-05,74,Port-aux-Basques Buccaneers,1,8,9,1,157,440,277,245
-Stone Mariners,2022-04-03,38,Espanola Screaming Crystals,7,9,10,4,440,157,277,478
-Stone Mariners,2020-11-20,90,Langley Hawks,4,6,10,3,74,269,277,157
-Stone Mariners,2021-11-05,26,Wexford Beehives,1,7,7,1,157,277,217,245
-Stone Mariners,2021-07-01,14,Battleford Greys,0,7,5,0,277,157,269,9
-Stone Mariners,2020-11-28,49,North Sydney Spitfires,5,6,10,3,269,277,251,157
-Stone Mariners,2021-03-24,32,Williams Lake Vulcans,3,9,10,3,277,74,245,9
-Stone Mariners,2022-05-23,4,Super Salsa,2,8,7,1,157,245,277,440
-Super Salsa,2022-05-23,4,Stone Mariners,8,2,7,6,467,41,199,386
-Stone Mariners,2020-10-06,26,Wexford Beehives,5,8,10,2,217,251,157,9
-Stone Mariners,2022-02-21,74,Port-aux-Basques Buccaneers,1,7,6,1,245,277,478,157
-Stone Mariners,2020-10-10,77,Lanark Festivals,1,8,6,1,25,245,251,74
-Stone Mariners,2020-10-29,1,Ice Dodgers,0,8,5,0,74,25,157,217
-Ice Dodgers,2020-10-29,1,Stone Mariners,8,0,5,5,211,137,174,131
-Stone Mariners,2022-02-15,17,Brandon Warriors,0,7,5,0,440,277,245,157
-Stone Mariners,2021-07-02,8,Peterborough Bearcats,3,8,10,2,217,251,277,245
-Stone Mariners,2021-05-31,89,Williams Lake Warriors,0,6,5,0,217,245,157,277
-Stone Mariners,2021-03-21,6,Cape Breton Lumberjacks,2,5,10,1,277,217,157,9
-Stone Mariners,2021-07-04,89,Williams Lake Warriors,1,7,5,1,245,157,217,277
-Ice Huskies,2021-08-03,90,Langley Hawks,7,4,10,5,367,252,244,6
-Ice Huskies,2022-05-18,32,Williams Lake Vulcans,1,7,5,1,244,399,536,367
-Ice Huskies,2022-02-22,96,Vernon Bears,0,7,5,0,367,6,252,244
-Ice Huskies,2022-02-21,6,Cape Breton Lumberjacks,0,7,5,0,244,367,399,6
-Ice Huskies,2022-01-02,49,North Sydney Spitfires,6,8,11,4,252,399,6,244
-Ice Huskies,2021-12-22,26,Wexford Beehives,8,0,5,5,252,6,367,244
-Ice Huskies,2022-04-10,24,Sidney Terriers,10,4,10,5,367,6,399,252
-Ice Huskies,2022-04-23,65,Winnipeg Beehives,4,7,10,3,367,6,399,244
-Ice Huskies,2022-04-19,78,Halifax Oland Centennials,4,5,11,2,6,399,367,244
-Ice Huskies,2021-10-09,26,Wexford Beehives,7,8,10,2,399,367,6,252
-Ice Huskies,2022-01-18,14,Battleford Greys,0,6,5,0,252,367,399,244
-Calgary Metros,2022-04-15,94,Aurora Chiefs,11,1,5,4,456,460,39,93
-Calgary Metros,2022-01-31,34,Markham Rebels,8,0,6,6,460,93,453,456
-Calgary Metros,2022-02-20,66,Vancouver Flyers,8,6,10,5,93,460,39,456
-Calgary Metros,2022-03-15,87,South Surrey Canadians,8,2,8,7,39,93,460,456
-Calgary Metros,2022-04-12,4,Ice Unicorns,8,0,6,4,456,93,460,39
-Ice Unicorns,2022-04-12,4,Calgary Metros,0,8,6,2,474,418,55,376
-Rolling Stones,2022-01-25,1,Cold Chinooks,9,0,5,5,153,284,208,449
-Cold Chinooks,2022-01-25,1,Rolling Stones,0,9,5,0,400,111,353,127
-Rolling Stones,2022-01-16,60,Villanova Terriers,9,0,6,5,449,284,208,153
-Calgary Cougars,2021-07-02,1,Ottawa Victorias,9,2,6,4,227,119,202,347
-Ottawa Victorias,2021-07-02,1,Calgary Cougars,2,9,6,2,249,118,313,207
-Calgary Cougars,2021-07-17,31,Thunder Bay Dogs,4,5,11,3,347,124,119,227
-Calgary Cougars,2021-10-29,3,Calgary Cubs,3,5,10,2,202,227,119,124
-Calgary Cubs,2021-10-29,3,Calgary Cougars,5,3,10,8,356,224,256,26
-Calgary Cougars,2021-11-20,72,Yorkton Indians,7,9,12,3,119,227,124,202
-Calgary Cougars,2021-11-11,1,Ottawa Victorias,3,8,10,2,347,202,227,124
-Ottawa Victorias,2021-11-11,1,Calgary Cougars,8,3,10,8,228,222,287,313
-Calgary Cougars,2022-03-04,46,Steinbach Oilers,9,2,9,6,347,430,202,227
-Calgary Cougars,2022-01-12,2,Vancouver Fury,1,8,7,1,202,119,430,347
-Vancouver Fury,2022-01-12,2,Calgary Cougars,8,1,7,6,398,294,72,159
-Calgary Cougars,2022-02-13,31,Thunder Bay Dogs,3,5,10,2,347,430,202,119
-Calgary Cougars,2022-05-04,84,Windsor Royals,5,9,10,2,430,202,227,347
-Calgary Cougars,2021-12-10,4,Montreal Raiders,3,5,10,3,347,430,119,124
-Montreal Raiders,2021-12-10,4,Calgary Cougars,5,3,10,7,410,301,343,38
-Calgary Cougars,2020-10-14,58,Canmore Rats,6,0,5,5,119,227,202,124
-Calgary Cougars,2020-08-22,102,Nickel Centre Terriers,6,3,10,4,124,119,202,227
-Calgary Cougars,2021-12-06,3,Calgary Rockets,4,10,10,3,430,124,202,227
-Calgary Rockets,2021-12-06,3,Calgary Cougars,10,4,10,7,200,21,308,382
-Calgary Cubs,2022-04-20,21,Victoria Thunder,6,5,10,4,459,256,26,224
-Calgary Cubs,2021-09-16,69,Sudbury Jets,7,3,10,5,356,305,224,256
-Calgary Cubs,2022-03-02,3,Calgary Fleur-de-Lys,7,3,10,4,26,459,256,224
-Calgary Fleur-de-Lys,2022-03-02,3,Calgary Cubs,3,7,10,6,123,33,117,183
-Calgary Cubs,2021-02-20,76,Whitby Lakers,9,6,10,4,26,224,305,256
-Calgary Cubs,2022-05-03,4,Cold Colts,7,10,10,3,459,26,256,224
-Cold Colts,2022-05-03,4,Calgary Cubs,10,7,10,7,11,510,235,45
-Calgary Cubs,2021-06-30,76,Whitby Lakers,2,6,10,2,224,26,256,305
-Calgary Cubs,2021-08-22,46,Steinbach Oilers,5,4,10,4,26,305,224,356
-Calgary Cubs,2021-11-05,2,Vancouver Fury,1,8,9,1,356,305,224,26
-Vancouver Fury,2021-11-05,2,Calgary Cubs,8,1,9,8,398,159,407,72
-Calgary Cubs,2021-03-06,76,Whitby Lakers,5,6,10,4,305,256,224,26
-Calgary Cubs,2021-05-09,35,Sidney Eagles,3,10,7,2,224,305,256,26
-Calgary Cubs,2021-11-09,76,Whitby Lakers,3,6,10,2,224,356,26,305
-Calgary Cubs,2022-04-18,35,Sidney Eagles,7,8,10,5,224,26,256,459
-Calgary Cubs,2022-02-19,3,Calgary Cougars,1,9,6,1,256,224,305,459
-Calgary Cougars,2022-02-19,3,Calgary Cubs,9,1,6,5,119,347,202,430
-Calgary Cubs,2022-05-28,1,Cold Travelways,4,10,9,3,459,26,256,224
-Cold Travelways,2022-05-28,1,Calgary Cubs,10,4,9,6,247,104,318,201
-Calgary Cubs,2021-12-12,10,Melfort Bruins,9,3,9,5,305,256,26,224
-Calgary Cubs,2020-11-14,4,Montreal Bruins,5,6,10,4,26,272,224,256
-Montreal Bruins,2020-11-14,4,Calgary Cubs,6,5,10,6,164,140,221,109
-Calgary Cubs,2021-11-30,25,Chateauguay Canucks,3,6,10,2,305,256,356,224
-Calgary Cubs,2021-02-25,99,Bellingham Travelways,7,10,10,4,256,272,224,26
-Calgary Cubs,2020-12-25,58,Canmore Rats,7,0,6,3,272,224,256,26
-Calgary Cubs,2021-12-01,102,Nickel Centre Terriers,2,5,10,2,356,256,26,305
-Calgary Cubs,2021-08-20,58,Canmore Rats,8,2,7,5,224,256,305,356
-Calgary Cubs,2021-01-07,42,Vancouver Jr. Terriers,8,2,10,5,256,26,272,224
-Calgary Cubs,2022-01-03,42,Vancouver Jr. Terriers,8,2,9,6,256,305,224,26
-Calgary Cubs,2021-08-08,21,Victoria Thunder,2,8,8,2,224,256,305,356
-Calgary Cubs,2021-04-06,2,Vancouver Fury,1,7,7,1,272,256,305,224
-Vancouver Fury,2021-04-06,2,Calgary Cubs,7,1,7,6,259,159,294,72
-Calgary Cubs,2020-12-11,4,Montreal Raiders,12,2,8,6,26,272,256,224
-Montreal Raiders,2020-12-11,4,Calgary Cubs,2,12,8,2,115,218,182,38
-Calgary Fleur-de-Lys,2021-03-18,63,Moncton Legionaires,7,1,6,3,33,63,117,183
-Calgary Fleur-de-Lys,2021-01-17,72,Yorkton Indians,8,12,10,3,79,183,117,63
-Calgary Fleur-de-Lys,2020-11-30,46,Steinbach Oilers,7,0,5,4,183,63,117,79
-Calgary Fleur-de-Lys,2021-01-12,21,Victoria Thunder,7,4,10,5,117,63,123,183
-Calgary Fleur-de-Lys,2020-08-15,99,Bellingham Travelways,8,7,11,7,33,123,117,79
-Calgary Fleur-de-Lys,2021-08-06,0,Toronto Eagles,6,0,5,4,183,123,117,63
-Toronto Eagles,2021-08-06,0,Calgary Fleur-de-Lys,0,6,5,1,155,371,327,325
-Calgary Fleur-de-Lys,2021-09-26,99,Bellingham Travelways,6,5,10,5,123,63,33,183
-Calgary Fleur-de-Lys,2021-06-11,3,Calgary Cubs,5,6,10,4,183,63,33,123
-Calgary Cubs,2021-06-11,3,Calgary Fleur-de-Lys,6,5,10,6,224,256,305,26
-Calgary Fleur-de-Lys,2021-08-27,21,Victoria Thunder,4,8,10,3,183,123,33,63
-Calgary Fleur-de-Lys,2022-03-01,76,Whitby Lakers,5,8,10,3,63,33,183,412
-Calgary Fleur-de-Lys,2020-01-30,10,Melfort Bruins,3,4,11,3,117,79,63,33
-Calgary Fleur-de-Lys,2020-02-27,4,Montreal Bruins,11,5,9,6,117,79,33,123
-Montreal Bruins,2020-02-27,4,Calgary Fleur-de-Lys,5,11,9,3,109,140,36,46
-Calgary Fleur-de-Lys,2020-11-04,69,Sudbury Jets,9,5,10,4,63,79,33,117
-Calgary Fleur-de-Lys,2020-11-28,1,Ottawa Victorias,5,4,10,3,79,63,183,123
-Ottawa Victorias,2020-11-28,1,Calgary Fleur-de-Lys,4,5,10,7,222,249,228,118
-Calgary Fleur-de-Lys,2022-04-12,84,Windsor Royals,2,9,5,1,63,117,33,183
-Calgary Fleur-de-Lys,2020-11-27,21,Victoria Thunder,3,9,8,2,63,117,123,183
-Calgary Fleur-de-Lys,2021-06-08,3,Calgary Rockets,2,6,10,2,63,117,123,33
-Calgary Rockets,2021-06-08,3,Calgary Fleur-de-Lys,6,2,10,8,308,21,61,323
-Calgary Fleur-de-Lys,2021-03-30,102,Nickel Centre Terriers,9,4,10,5,183,123,117,33
-Calgary Fleur-de-Lys,2021-12-28,58,Canmore Rats,9,0,5,5,117,412,183,63
-Calgary Rockets,2022-01-29,102,Nickel Centre Terriers,7,1,6,5,61,308,21,323
-Calgary Rockets,2021-07-27,3,Calgary Fleur-de-Lys,8,0,5,4,323,200,61,308
-Calgary Fleur-de-Lys,2021-07-27,3,Calgary Rockets,0,8,5,1,123,117,183,33
-Calgary Rockets,2021-03-03,46,Steinbach Oilers,6,3,10,5,200,61,308,21
-Calgary Rockets,2022-01-17,1,Ottawa Victorias,10,2,9,7,382,358,319,21
-Ottawa Victorias,2022-01-17,1,Calgary Rockets,2,10,9,2,222,228,312,313
-Calgary Rockets,2022-01-03,63,Moncton Legionaires,15,0,8,6,382,308,323,319
-Calgary Rockets,2022-04-23,4,Montreal Bruins,4,9,10,2,200,61,319,323
-Montreal Bruins,2022-04-23,4,Calgary Rockets,9,4,10,8,221,387,164,36
-Calgary Rockets,2022-01-10,10,Melfort Bruins,8,0,5,5,200,382,323,21
-Calgary Rockets,2021-12-05,99,Bellingham Travelways,9,2,8,4,358,61,308,21
-Calgary Rockets,2021-05-16,102,Nickel Centre Terriers,10,1,8,6,61,319,323,308
-Calgary Rockets,2021-04-07,58,Canmore Rats,5,0,10,5,308,323,21,319
-Calgary Rockets,2021-12-14,76,Whitby Lakers,8,7,10,6,21,382,358,61
-Calgary Rockets,2022-03-21,4,Montreal Bruins,8,2,8,6,308,358,61,323
-Montreal Bruins,2022-03-21,4,Calgary Rockets,2,8,8,2,221,387,164,46
-Calgary Rockets,2022-05-13,25,Chateauguay Canucks,8,1,5,3,200,61,358,319
-Calgary Rockets,2021-05-26,76,Whitby Lakers,6,0,7,5,323,308,61,21
-Calgary Rockets,2021-12-31,0,Toronto Eagles,6,0,6,5,323,308,358,319
-Toronto Eagles,2021-12-31,0,Calgary Rockets,0,6,6,1,13,142,422,371
-Cold Huskies,2022-04-24,33,Iron Range Penguins,9,4,10,7,28,499,479,348
-Cold Huskies,2021-07-21,100,Chilliwack Metros,4,5,10,3,172,348,66,336
-Cold Huskies,2021-11-18,100,Chilliwack Metros,10,1,5,4,336,348,172,66
-Cold Huskies,2021-06-12,93,Humboldt Vipers,7,1,6,4,172,336,348,66
-Cold Huskies,2021-07-19,55,Markham Rockets,8,2,7,5,336,172,66,348
-Cold Huskies,2022-04-10,95,Fort Garry Eagles,6,0,6,5,28,498,499,348
-Cold Huskies,2022-02-14,100,Chilliwack Metros,8,2,6,3,28,348,66,336
-Cold Huskies,2022-02-01,100,Chilliwack Metros,7,0,5,4,348,28,336,66
-Cold Huskies,2022-04-04,0,Ice Sabres,7,1,6,5,499,66,336,479
-Ice Sabres,2022-04-04,0,Cold Huskies,1,7,6,1,145,138,234,197
-Cold Huskies,2021-12-14,37,Halifax Oland Vikings,5,4,10,4,66,336,28,172
-Calgary Bruins,2021-12-30,33,Iron Range Penguins,5,4,10,4,219,345,73,56
-Calgary Bruins,2020-12-31,81,Brockville Spirit,8,2,8,5,219,73,56,67
-Calgary Bruins,2021-10-28,75,New Westminster Thunder,2,8,6,1,345,219,56,384
-Calgary Bruins,2020-08-29,73,Thunder Bay Flames,6,0,7,5,73,219,67,54
-Calgary Bruins,2020-02-02,55,Markham Rockets,6,0,6,5,56,73,54,67
-Calgary Bruins,2020-08-12,29,Richmond Hill Mets,9,2,9,7,73,54,219,67
-Calgary Bruins,2022-04-27,29,Richmond Hill Mets,7,8,10,3,56,483,219,73
-Calgary Bruins,2019-11-26,37,Halifax Oland Vikings,6,4,10,4,73,56,67,54
-Calgary Bruins,2021-01-21,100,Chilliwack Metros,8,1,8,5,67,73,56,219
-Calgary Bruins,2021-05-05,95,Fort Garry Eagles,10,2,8,6,56,73,67,219
-Calgary Bruins,2022-03-25,9,Trail Smoke Remparts,10,0,7,5,73,384,56,483
-Calgary Bruins,2021-07-20,29,Richmond Hill Mets,1,7,5,1,56,73,345,219
-Calgary Bruins,2020-09-28,33,Iron Range Penguins,5,6,11,4,219,54,67,56
-Calgary Bruins,2021-11-15,70,Calgary Marauders,9,4,10,6,384,345,73,219
-Calgary Bruins,2021-11-16,93,Humboldt Vipers,7,1,9,7,56,219,73,345
-Calgary Bruins,2020-12-06,95,Fort Garry Eagles,6,0,8,5,219,56,67,73
-Calgary Bruins,2021-05-02,29,Richmond Hill Mets,7,1,6,4,219,67,56,73
-Calgary Bruins,2022-02-14,73,Thunder Bay Flames,6,2,10,3,73,384,56,345
-Montreal Vipers,2022-01-21,4,Montreal Braves,5,8,10,4,263,452,427,143
-Montreal Braves,2022-01-21,4,Montreal Vipers,8,5,10,6,415,445,152,304
-Montreal Vipers,2021-11-18,22,Ste. Agathe Flyers,7,5,10,5,29,263,427,143
-Montreal Vipers,2022-05-05,45,Prince Albert Marrs,4,7,10,3,491,492,452,263
-Montreal Vipers,2022-03-31,2,Curlers Terriers,5,7,10,3,427,491,492,29
-Curlers Terriers,2022-03-31,2,Montreal Vipers,7,5,10,7,278,489,7,310
-Montreal Braves,2022-04-23,19,Rosemont Bears,10,0,9,8,194,415,92,304
-Montreal Braves,2022-05-14,2,Curlers Terriers,7,1,7,6,445,194,520,304
-Curlers Terriers,2022-05-14,2,Montreal Braves,1,7,7,1,310,525,489,7
-Montreal Braves,2021-10-24,2,Broom Hawks,6,3,10,4,304,92,194,152
-Broom Hawks,2021-10-24,2,Montreal Braves,3,6,10,6,242,333,311,264
-Montreal Braves,2022-05-24,88,Niagara Falls Filons,4,5,10,3,304,152,194,415
-Montreal Braves,2022-04-16,101,Cape Breton Spartans,7,5,10,5,415,194,304,152
-Montreal Braves,2021-03-30,67,Edmonton Maple Predators,6,0,5,3,194,92,152,304
-Montreal Braves,2021-05-12,22,Ste. Agathe Flyers,8,6,10,4,92,194,152,304
-Montreal Braves,2021-12-30,45,Prince Albert Marrs,8,5,10,6,194,152,92,415
-Montreal Braves,2021-02-01,19,Rosemont Bears,10,3,10,6,152,304,92,194
-Montreal Braves,2021-08-05,45,Prince Albert Marrs,8,4,10,6,194,304,92,152
-Montreal Braves,2021-05-07,45,Prince Albert Marrs,7,1,6,5,304,194,92,152
-Montreal Braves,2021-09-07,98,Aurora Canadians,6,5,10,4,152,194,92,304
-Montreal Braves,2021-08-29,56,Thetford Mines Blizzard,9,2,7,5,92,152,304,194
-Montreal Braves,2021-05-16,79,Pembroke Lumber Bears,0,6,5,0,194,92,304,152
-Super Salsa,2022-02-27,17,Brandon Warriors,4,7,10,4,329,467,141,168
-Super Salsa,2022-02-05,0,Toronto Olympics,5,6,10,3,141,41,467,108
-Toronto Olympics,2022-02-05,0,Super Salsa,6,5,10,7,317,433,428,91
-Super Salsa,2021-12-23,2,Stone Timberwolves,10,3,6,3,141,168,108,386
-Stone Timberwolves,2021-12-23,2,Super Salsa,3,10,6,3,60,48,156,50
-Super Salsa,2021-08-12,57,New Waterford Pack,9,4,10,6,154,41,168,108
-Super Salsa,2021-08-29,85,Sherwood Park Grads,6,8,10,4,141,199,329,168
-Super Salsa,2022-02-02,32,Williams Lake Vulcans,7,1,7,4,108,141,329,386
-Super Salsa,2020-09-08,50,Ajax Sports,9,1,7,4,154,168,199,108
-Super Salsa,2022-01-31,6,Cape Breton Lumberjacks,8,2,8,5,141,108,41,467
-Super Salsa,2020-07-28,89,Williams Lake Warriors,4,5,10,2,41,141,168,154
-Super Salsa,2021-12-24,82,Oswego Cougars,5,8,10,3,329,108,154,199
-Super Salsa,2022-01-03,49,North Sydney Spitfires,9,0,6,4,386,141,329,199
-Super Salsa,2022-04-04,44,Thunder Bay Panthers,9,0,6,6,386,41,141,467
-Baby Broomers,2021-08-09,1,Cold Chinooks,10,7,10,5,372,68,20,307
-Cold Chinooks,2021-08-09,1,Baby Broomers,7,10,10,5,353,151,144,340
-Baby Broomers,2021-12-17,41,Dartmouth Crunch,3,6,10,3,68,307,372,20
-Baby Broomers,2021-09-26,53,Toronto 73's,0,10,7,0,307,20,68,372
-Baby Broomers,2021-12-28,41,Dartmouth Crunch,6,5,10,4,68,372,20,307
-Baby Broomers,2022-01-04,4,Montreal Lasers,4,10,7,2,20,307,372,68
-Montreal Lasers,2022-01-04,4,Baby Broomers,10,4,7,5,414,332,437,114
-Baby Broomers,2021-09-07,52,Ottawa Crunch,7,6,10,5,372,307,20,68
-Baby Broomers,2021-10-22,64,Vancouver Canadiens,2,11,9,1,68,20,372,307
-Baby Broomers,2022-04-22,68,Vernon Crystals,0,8,5,0,505,68,20,372
-Montreal Lasers,2022-02-04,64,Vancouver Canadiens,0,7,5,0,414,191,166,332
-Montreal Lasers,2021-06-10,91,La Salle Eagles,6,8,10,6,332,166,136,254
-Montreal Lasers,2022-04-16,103,Riverview Elites,3,9,8,2,437,414,487,114
-Montreal Lasers,2022-04-07,60,Villanova Terriers,9,2,10,5,487,254,414,136
-Montreal Lasers,2021-06-06,66,Vancouver Flyers,9,1,10,5,254,166,332,191
-Montreal Lasers,2021-10-19,66,Vancouver Flyers,7,1,8,5,114,14,166,332
-Montreal Lasers,2021-06-23,53,Toronto 73's,8,6,10,4,254,191,14,332
-Montreal Lasers,2021-05-09,68,Vernon Crystals,4,10,8,2,254,136,14,332
-Montreal Lasers,2021-05-06,94,Aurora Chiefs,6,5,10,4,166,191,332,114
-Montreal Lasers,2022-01-08,2,Super Atlantics,10,11,10,4,254,114,14,437
-Super Atlantics,2022-01-08,2,Montreal Lasers,11,10,10,6,78,69,296,435
-Montreal Lasers,2022-03-24,4,Baby Broomers,8,2,7,4,114,414,136,487
-Baby Broomers,2022-03-24,4,Montreal Lasers,2,8,7,3,68,470,20,372
-Montreal Lasers,2022-02-22,87,South Surrey Canadians,8,3,10,5,414,114,14,166
-Montreal Lasers,2021-02-24,36,Thunder Bay Eaters,4,5,10,3,136,166,14,191
-Montreal Lasers,2021-04-25,66,Vancouver Flyers,11,4,9,6,332,191,254,14
-Montreal Lasers,2021-09-27,41,Dartmouth Crunch,7,3,10,7,254,191,332,14
-Montreal Lasers,2021-01-20,86,Cape Breton Rustlers,6,8,10,4,14,254,136,114
-Montreal Lasers,2021-10-08,23,Laval Rousseau 77's,0,10,5,0,114,254,136,191
-Montreal Lasers,2020-08-26,94,Aurora Chiefs,6,5,10,3,191,136,166,17
-Montreal Lasers,2020-09-17,68,Vernon Crystals,8,6,10,4,17,191,114,136
-Montreal Lasers,2022-04-06,62,Hamilton Tigers,7,1,9,5,437,487,136,254
-Montreal Lasers,2022-05-12,62,Hamilton Tigers,6,5,10,4,254,332,437,14
-Montreal Lasers,2022-01-03,3,Calgary Metros,5,6,10,2,437,332,191,166
-Calgary Metros,2022-01-03,3,Montreal Lasers,6,5,10,8,396,453,93,39
-Montreal Lasers,2022-01-15,0,Cold Islanders,5,8,10,4,114,414,166,191
-Cold Islanders,2022-01-15,0,Montreal Lasers,8,5,10,6,102,241,121,147
-Montreal Lasers,2021-02-08,64,Vancouver Canadiens,0,8,6,0,254,114,166,191
-Montreal Lasers,2022-01-04,34,Markham Rebels,9,7,11,5,166,191,136,437
-Montreal Lasers,2021-11-22,94,Aurora Chiefs,10,4,9,6,414,332,14,136
-Montreal Lasers,2020-10-29,60,Villanova Terriers,12,0,5,5,136,254,191,14
-Ice Unicorns,2021-08-02,66,Vancouver Flyers,1,7,5,1,344,85,55,376
-Ice Unicorns,2022-05-17,86,Cape Breton Rustlers,10,3,7,5,85,474,376,344
-Ice Unicorns,2022-01-18,3,Rolling Stones,0,6,5,0,85,376,418,55
-Rolling Stones,2022-01-18,3,Ice Unicorns,6,0,5,5,153,208,449,284
-Ice Unicorns,2021-09-19,4,Baby Broomers,6,9,10,4,344,376,85,55
-Baby Broomers,2021-09-19,4,Ice Unicorns,9,6,10,6,307,68,20,372
-Ice Unicorns,2021-09-20,60,Villanova Terriers,7,6,10,5,401,299,376,55
-Ice Unicorns,2022-03-14,91,La Salle Eagles,8,7,10,5,55,474,85,418
-Ice Unicorns,2021-12-27,68,Vernon Crystals,8,5,10,4,418,344,85,376
-Ice Unicorns,2022-05-04,2,Super Atlantics,2,8,8,2,474,55,344,418
-Super Atlantics,2022-05-04,2,Ice Unicorns,8,2,8,6,69,296,78,380
-Ice Unicorns,2022-05-13,23,Laval Rousseau 77's,2,8,8,2,418,85,376,55
-Montreal Raiders,2022-01-25,10,Melfort Bruins,9,10,10,3,182,410,115,343
-Montreal Raiders,2022-03-26,4,Montreal Bruins,0,8,6,0,301,38,115,27
-Montreal Bruins,2022-03-26,4,Montreal Raiders,8,0,6,6,46,387,221,36
-Montreal Raiders,2021-08-13,76,Whitby Lakers,0,8,8,0,182,115,27,301
-Montreal Raiders,2020-10-24,76,Whitby Lakers,2,8,7,2,115,38,182,27
-Montreal Raiders,2020-12-11,46,Steinbach Oilers,4,7,10,3,38,218,115,182
-Montreal Raiders,2021-07-28,4,Ice Bulls,7,1,5,4,115,182,38,314
-Ice Bulls,2021-07-28,4,Montreal Raiders,1,7,5,1,337,326,169,18
-Montreal Raiders,2020-09-05,58,Canmore Rats,6,0,6,4,182,38,115,218
-Montreal Raiders,2020-09-27,99,Bellingham Travelways,4,7,10,3,218,182,115,38
-Montreal Raiders,2020-07-23,58,Canmore Rats,5,7,10,4,182,38,115,218
-Montreal Raiders,2021-11-28,2,Vancouver Fury,0,8,7,0,343,410,182,38
-Vancouver Fury,2021-11-28,2,Montreal Raiders,8,0,7,7,72,407,363,294
-Montreal Raiders,2020-12-27,63,Moncton Legionaires,10,2,6,5,115,218,27,182
-Montreal Raiders,2021-07-11,3,Calgary Cubs,4,7,10,2,38,343,182,115
-Calgary Cubs,2021-07-11,3,Montreal Raiders,7,4,10,8,356,224,26,256
-Montreal Raiders,2021-03-19,99,Bellingham Travelways,0,6,8,0,302,301,218,182
-Montreal Raiders,2022-02-15,63,Moncton Legionaires,1,7,6,1,27,410,218,182
-Montreal Raiders,2021-01-03,21,Victoria Thunder,1,7,6,1,115,27,218,182
-Ice Bulls,2021-11-26,72,Yorkton Indians,7,5,11,4,419,337,326,18
-Ice Bulls,2021-10-05,69,Sudbury Jets,2,8,5,1,18,169,326,337
-Ice Bulls,2021-08-13,76,Whitby Lakers,6,7,10,4,337,18,326,169
-Ice Bulls,2021-11-22,0,Toronto Eagles,11,0,5,5,326,169,419,18
-Toronto Eagles,2021-11-22,0,Ice Bulls,0,11,5,0,13,327,267,155
-Ice Bulls,2021-10-14,3,Calgary Cubs,3,5,10,3,18,337,169,326
-Calgary Cubs,2021-10-14,3,Ice Bulls,5,3,10,7,356,256,224,26
-Ice Bulls,2021-09-15,42,Vancouver Jr. Terriers,7,8,10,4,337,169,18,326
-Ice Bulls,2021-06-30,4,Cold Colts,0,6,5,0,18,169,326,337
-Cold Colts,2021-06-30,4,Ice Bulls,6,0,5,5,44,11,235,89
-Ice Bulls,2022-03-26,3,Calgary Fleur-de-Lys,4,9,10,3,326,18,443,419
-Calgary Fleur-de-Lys,2022-03-26,3,Ice Bulls,9,4,10,7,183,63,117,123
-Ice Bulls,2021-06-14,99,Bellingham Travelways,6,4,10,5,18,326,169,337
-Ice Bulls,2022-05-02,58,Canmore Rats,8,3,10,4,443,169,337,18
-Montreal Bruins,2021-09-23,102,Nickel Centre Terriers,11,3,7,4,221,36,140,46
-Montreal Bruins,2021-11-29,63,Moncton Legionaires,9,2,9,7,36,46,387,221
-Montreal Bruins,2020-12-05,63,Moncton Legionaires,4,7,11,3,140,221,109,164
-Montreal Bruins,2021-11-14,58,Canmore Rats,6,0,6,5,425,164,140,46
-Montreal Bruins,2020-12-30,84,Windsor Royals,4,3,10,4,164,109,36,221
-Montreal Bruins,2022-03-03,10,Melfort Bruins,10,3,7,5,36,46,221,164
-Montreal Bruins,2021-08-03,84,Windsor Royals,1,7,5,1,164,36,140,46
-Montreal Bruins,2021-02-19,25,Chateauguay Canucks,6,4,10,4,164,46,109,140
-Montreal Bruins,2021-12-31,42,Vancouver Jr. Terriers,7,0,5,5,221,425,140,164
-Montreal Bruins,2022-03-30,3,Calgary Rockets,2,4,10,2,46,221,164,387
-Calgary Rockets,2022-03-30,3,Montreal Bruins,4,2,10,8,308,61,319,323
-Montreal Bruins,2021-03-30,72,Yorkton Indians,7,0,5,5,140,46,221,109
-Montreal Bruins,2020-09-16,1,Cold Travelways,7,0,5,3,140,36,164,109
-Cold Travelways,2020-09-16,1,Montreal Bruins,0,7,5,2,247,226,201,104
-Montreal Bruins,2020-02-28,46,Steinbach Oilers,7,0,6,5,109,140,46,36
-Montreal Bruins,2020-08-29,63,Moncton Legionaires,9,3,8,6,164,140,36,46
-Montreal Bruins,2020-12-23,3,Calgary Fleur-de-Lys,8,2,9,5,109,46,36,140
-Calgary Fleur-de-Lys,2020-12-23,3,Montreal Bruins,2,8,9,4,183,117,63,79
-Montreal Bruins,2022-02-07,72,Yorkton Indians,6,4,10,5,425,164,221,387
-Montreal Bruins,2021-10-01,99,Bellingham Travelways,7,1,6,4,36,140,387,164
-Montreal Bruins,2021-03-19,102,Nickel Centre Terriers,8,2,7,5,46,164,221,109
-Montreal Bruins,2021-06-11,99,Bellingham Travelways,9,4,10,6,164,46,109,36
-Montreal Bruins,2020-12-08,3,Calgary Cubs,7,2,10,5,221,140,109,36
-Calgary Cubs,2020-12-08,3,Montreal Bruins,2,7,10,5,256,26,272,224
-Montreal Bruins,2022-04-09,42,Vancouver Jr. Terriers,6,0,5,4,36,164,46,221
-Cold Colts,2020-07-07,72,Yorkton Indians,6,1,10,5,45,89,44,11
-Cold Colts,2021-01-29,31,Thunder Bay Dogs,1,9,6,1,11,44,279,89
-Cold Colts,2021-05-17,84,Windsor Royals,12,4,10,5,11,235,44,279
-Cold Colts,2021-07-20,3,Calgary Cubs,10,4,8,6,45,11,279,89
-Calgary Cubs,2021-07-20,3,Cold Colts,4,10,8,2,224,26,356,256
-Cold Colts,2021-12-08,84,Windsor Royals,1,8,5,1,11,44,235,89
-Cold Colts,2020-07-13,2,Vancouver Fury,1,9,10,1,44,89,45,11
-Vancouver Fury,2020-07-13,2,Cold Colts,9,1,10,9,22,185,159,72
-Cold Colts,2021-07-01,1,Ottawa Victorias,7,1,5,3,89,235,11,44
-Ottawa Victorias,2021-07-01,1,Cold Colts,1,7,5,2,312,249,313,118
-Cold Colts,2021-11-18,21,Victoria Thunder,8,1,9,5,44,235,45,11
-Cold Colts,2022-04-01,1,Ottawa Victorias,4,3,10,4,11,44,45,89
-Ottawa Victorias,2022-04-01,1,Cold Colts,3,4,10,6,287,312,207,222
-Cold Colts,2021-06-05,102,Nickel Centre Terriers,8,3,10,5,45,235,89,279
-Cold Colts,2022-02-07,10,Melfort Bruins,8,4,10,4,45,89,235,11
-Cold Colts,2021-03-09,63,Moncton Legionaires,9,3,9,5,45,89,44,279
-Cold Colts,2021-03-08,3,Calgary Rockets,7,0,5,4,279,235,44,11
-Calgary Rockets,2021-03-08,3,Cold Colts,0,7,5,1,61,308,21,200
-Cold Colts,2020-08-18,46,Steinbach Oilers,8,3,10,6,44,11,45,235
-Cold Colts,2021-03-15,63,Moncton Legionaires,7,2,10,6,89,11,45,235
-Cold Colts,2020-02-05,31,Thunder Bay Dogs,7,1,9,6,89,44,45,11
-Cold Colts,2020-08-11,31,Thunder Bay Dogs,8,2,10,6,11,235,44,45
-Cold Colts,2019-12-28,99,Bellingham Travelways,9,3,8,4,11,44,89,45
-Cold Colts,2021-10-25,63,Moncton Legionaires,4,2,10,4,44,235,89,11
-Cold Colts,2021-12-19,3,Calgary Fleur-de-Lys,7,3,10,4,45,235,89,11
-Calgary Fleur-de-Lys,2021-12-19,3,Cold Colts,3,7,10,6,183,33,123,63
-Cold Colts,2020-01-25,35,Sidney Eagles,7,1,6,4,44,11,89,45
-Cold Colts,2021-07-09,1,Cold Travelways,9,2,7,5,89,44,45,11
-Cold Travelways,2021-07-09,1,Cold Colts,2,9,7,2,226,247,318,104
-Cold Colts,2020-08-09,21,Victoria Thunder,7,2,10,4,45,44,11,89
-Cold Colts,2022-05-12,2,Vancouver Fury,7,8,10,4,510,235,503,44
-Vancouver Fury,2022-05-12,2,Cold Colts,8,7,10,6,72,259,159,331
-Cold Colts,2022-03-10,84,Windsor Royals,4,6,10,3,235,45,44,89
-Cold Colts,2021-04-22,69,Sudbury Jets,9,5,10,7,45,89,44,235
-Cold Colts,2022-05-18,3,Calgary Cubs,6,0,5,2,89,503,510,44
-Calgary Cubs,2022-05-18,3,Cold Colts,0,6,5,3,224,256,459,26
-Cold Colts,2021-12-07,3,Calgary Cougars,8,3,10,6,235,11,89,45
-Calgary Cougars,2021-12-07,3,Cold Colts,3,8,10,4,430,227,124,347
-Cold Colts,2021-01-14,3,Calgary Cougars,9,1,6,4,11,44,279,235
-Calgary Cougars,2021-01-14,3,Cold Colts,1,9,6,2,257,227,202,119
-Cold Colts,2020-09-29,3,Calgary Fleur-de-Lys,7,6,10,5,11,89,45,44
-Calgary Fleur-de-Lys,2020-09-29,3,Cold Colts,6,7,10,5,183,123,63,33
-Cold Colts,2021-07-02,25,Chateauguay Canucks,8,4,10,5,279,89,45,44
+team_name,date,address_id,opponent_name,team_score,opponent_score,number_of_ends,number_of_ends_won,lead_id,second_id,vice_id,skip_id
+Toronto Rockets,2022-02-16,11,Penticton Chiefs,0,6,5,0,338,473,388,424
+Toronto Rockets,2021-12-30,79,Pembroke Lumber Bears,0,8,5,0,424,35,338,388
+Toronto Rockets,2022-04-02,79,Pembroke Lumber Bears,0,7,6,0,480,424,35,338
+Toronto Rockets,2022-01-05,79,Pembroke Lumber Bears,0,8,5,0,35,424,338,388
+Toronto Olympics,2022-02-09,4,Super Salsa,7,6,10,4,180,91,317,428
+Super Salsa,2022-02-09,4,Toronto Olympics,6,7,10,6,467,108,199,329
+Toronto Olympics,2022-05-16,3,Stone Mariners,7,0,5,5,433,482,477,529
+Stone Mariners,2022-05-16,3,Toronto Olympics,0,7,5,0,440,157,245,277
+Toronto Olympics,2021-12-28,3,Ice Huskies,8,2,7,5,433,317,428,180
+Ice Huskies,2021-12-28,3,Toronto Olympics,2,8,7,2,367,6,399,252
+Toronto Olympics,2021-12-06,74,Port-aux-Basques Buccaneers,7,6,11,4,317,433,428,91
+Toronto Olympics,2022-02-08,38,Espanola Screaming Crystals,10,2,8,6,428,91,180,317
+Toronto Olympics,2022-01-13,26,Wexford Beehives,9,3,7,4,428,433,91,180
+Toronto Olympics,2022-02-15,32,Williams Lake Vulcans,7,4,10,4,433,91,180,428
+Toronto Olympics,2022-03-02,78,Halifax Oland Centennials,8,1,6,5,482,477,180,428
+Toronto Olympics,2022-01-12,90,Langley Hawks,7,5,11,6,317,180,91,428
+Cold Islanders,2021-04-30,43,Temiscaming Hawks,8,2,9,5,241,147,121,291
+Cold Islanders,2020-12-28,4,Montreal Lasers,6,8,10,3,241,147,215,121
+Montreal Lasers,2020-12-28,4,Cold Islanders,8,6,10,7,191,136,114,254
+Cold Islanders,2022-01-25,91,La Salle Eagles,7,0,6,4,241,215,379,291
+Cold Islanders,2022-03-20,23,Laval Rousseau 77's,4,10,8,1,215,291,147,241
+Cold Islanders,2021-02-07,64,Vancouver Canadiens,12,6,9,6,121,215,291,241
+Cold Islanders,2022-02-27,1,Cold Chinooks,6,4,10,5,121,215,147,291
+Cold Chinooks,2022-02-27,1,Cold Islanders,4,6,10,5,151,111,353,127
+Cold Islanders,2022-03-19,68,Vernon Crystals,6,9,10,2,147,121,241,215
+Cold Islanders,2021-12-29,2,Vancouver Buccaneers,7,1,5,4,291,379,241,121
+Vancouver Buccaneers,2021-12-29,2,Cold Islanders,1,7,5,1,439,265,393,421
+Cold Islanders,2021-06-27,1,Cold Chinooks,7,5,11,4,291,215,121,241
+Cold Chinooks,2021-06-27,1,Cold Islanders,5,7,11,7,151,340,127,353
+Cold Islanders,2022-01-30,18,Mississauga Cougars,9,1,7,5,121,291,215,241
+Cold Islanders,2021-10-09,87,South Surrey Canadians,7,4,10,5,215,102,147,121
+Cold Islanders,2021-03-08,34,Markham Rebels,8,4,10,5,241,121,102,215
+Cold Islanders,2020-08-07,86,Cape Breton Rustlers,6,1,10,5,147,215,121,102
+Cold Islanders,2022-01-16,4,Montreal Lasers,11,3,9,7,291,379,102,121
+Montreal Lasers,2022-01-16,4,Cold Islanders,3,11,9,2,437,332,14,136
+Cold Islanders,2022-04-20,2,Vancouver Buccaneers,7,0,5,4,215,241,147,379
+Vancouver Buccaneers,2022-04-20,2,Cold Islanders,0,7,5,1,486,393,265,485
+Cold Islanders,2022-04-19,36,Thunder Bay Eaters,3,1,10,3,147,121,241,291
+Cold Islanders,2020-09-29,1,Cold Chinooks,6,0,5,5,147,121,241,215
+Cold Chinooks,2020-09-29,1,Cold Islanders,0,6,5,0,111,127,151,144
+Toronto Eagles,2021-03-14,25,Chateauguay Canucks,0,8,6,0,267,142,13,155
+Toronto Eagles,2020-12-20,35,Sidney Eagles,2,6,10,2,13,142,267,155
+Toronto Eagles,2021-09-09,4,Montreal Bruins,2,10,8,1,371,142,325,13
+Montreal Bruins,2021-09-09,4,Toronto Eagles,10,2,8,7,221,389,46,109
+Toronto Eagles,2021-10-17,4,Montreal Bruins,0,11,7,0,327,325,155,13
+Montreal Bruins,2021-10-17,4,Toronto Eagles,11,0,7,7,387,46,164,140
+Toronto Eagles,2022-03-10,46,Steinbach Oilers,2,8,5,2,371,325,155,422
+Toronto Eagles,2022-04-26,63,Moncton Legionaires,5,3,10,3,155,422,13,267
+Toronto Eagles,2021-11-11,102,Nickel Centre Terriers,6,7,10,3,155,327,142,325
+Toronto Eagles,2021-12-12,4,Cold Colts,1,8,9,1,422,327,142,325
+Cold Colts,2021-12-12,4,Toronto Eagles,8,1,9,8,44,235,45,11
+Toronto Eagles,2020-10-28,2,Vancouver Fury,2,9,8,1,155,142,267,13
+Vancouver Fury,2020-10-28,2,Toronto Eagles,9,2,8,7,159,22,259,185
+Toronto Eagles,2020-11-26,25,Chateauguay Canucks,1,7,7,1,13,155,142,267
+Toronto Eagles,2022-02-21,46,Steinbach Oilers,0,6,5,0,13,327,267,142
+Toronto Eagles,2021-09-10,46,Steinbach Oilers,3,9,8,2,325,267,13,371
+Toronto Eagles,2021-03-30,4,Montreal Raiders,3,8,10,2,142,13,267,155
+Montreal Raiders,2021-03-30,4,Toronto Eagles,8,3,10,8,182,115,218,301
+Toronto Eagles,2021-04-22,31,Thunder Bay Dogs,5,6,11,2,327,13,325,155
+Toronto Eagles,2020-12-31,4,Cold Colts,1,7,5,1,13,142,155,267
+Cold Colts,2020-12-31,4,Toronto Eagles,7,1,5,4,235,89,279,44
+Toronto Eagles,2022-01-12,31,Thunder Bay Dogs,0,8,7,0,142,371,325,13
+Toronto Eagles,2021-02-18,1,Cold Travelways,7,3,10,3,13,155,142,267
+Cold Travelways,2021-02-18,1,Toronto Eagles,3,7,10,7,201,104,226,247
+Toronto Eagles,2021-12-14,4,Cold Colts,2,9,9,1,327,422,267,371
+Cold Colts,2021-12-14,4,Toronto Eagles,9,2,9,8,44,235,89,45
+Ice Sabres,2022-04-30,39,Charlottetown Schooners,0,10,6,0,234,197,210,62
+Ice Sabres,2020-10-24,95,Fort Garry Eagles,2,8,10,2,234,138,205,145
+Ice Sabres,2021-10-17,3,Cold Huskies,0,6,6,0,205,197,210,62
+Cold Huskies,2021-10-17,3,Ice Sabres,6,0,6,6,28,172,336,348
+Ice Sabres,2021-10-05,9,Trail Smoke Remparts,2,8,5,1,205,234,210,138
+Ice Sabres,2021-08-11,9,Trail Smoke Remparts,0,9,10,0,62,205,138,234
+Ice Sabres,2022-03-09,29,Richmond Hill Mets,4,9,10,3,234,197,138,62
+Ice Sabres,2021-10-18,75,New Westminster Thunder,0,16,6,0,145,197,205,62
+Ice Sabres,2021-09-07,29,Richmond Hill Mets,0,7,10,0,298,145,138,197
+Ice Sabres,2021-04-01,33,Iron Range Penguins,3,7,10,3,62,145,298,234
+Ice Sabres,2021-07-12,100,Chilliwack Metros,4,6,10,3,298,234,197,145
+Ice Sabres,2022-01-24,70,Calgary Marauders,9,3,8,5,197,205,234,145
+Ice Sabres,2022-05-28,75,New Westminster Thunder,0,10,7,0,197,138,205,62
+Ice Sabres,2021-12-23,33,Iron Range Penguins,1,8,10,1,210,138,298,145
+Ice Sabres,2020-10-14,9,Trail Smoke Remparts,2,7,10,2,197,62,145,234
+Ice Sabres,2021-10-20,37,Halifax Oland Vikings,2,5,10,2,62,234,197,210
+Ice Sabres,2020-12-30,33,Iron Range Penguins,3,9,9,2,234,205,145,62
+Ice Sabres,2022-02-15,9,Trail Smoke Remparts,2,6,10,2,62,145,205,210
+Ice Sabres,2021-11-13,93,Humboldt Vipers,3,7,10,2,205,197,62,138
+Ice Sabres,2020-11-11,33,Iron Range Penguins,2,4,10,2,62,205,10,197
+Ice Sabres,2022-04-01,55,Markham Rockets,3,10,6,2,138,234,145,62
+Ice Sabres,2021-11-05,29,Richmond Hill Mets,0,7,5,0,138,197,234,298
+Ice Sabres,2020-09-18,81,Brockville Spirit,5,6,12,3,138,234,59,62
+Ice Sabres,2021-11-09,3,Calgary Bruins,0,8,5,0,62,234,205,298
+Calgary Bruins,2021-11-09,3,Ice Sabres,8,0,5,5,384,56,219,345
+Ice Sabres,2021-12-07,3,Cold Huskies,0,9,5,0,62,145,205,138
+Cold Huskies,2021-12-07,3,Ice Sabres,9,0,5,5,172,348,66,28
+Ice Sabres,2020-09-09,93,Humboldt Vipers,6,7,10,5,10,138,210,197
+Toronto Penguins,2020-10-21,97,Pembroke Lumber Express,5,12,8,3,233,179,260,90
+Toronto Penguins,2020-09-25,12,Kanata Valley Vipers,7,0,6,6,77,179,90,233
+Toronto Penguins,2021-07-15,51,Richmond Hill Tondas,8,3,10,6,90,233,179,260
+Toronto Penguins,2022-03-21,61,Pierrefonds Canadians,5,7,11,3,394,90,260,280
+Toronto Penguins,2021-01-27,51,Richmond Hill Tondas,6,4,10,4,179,280,233,77
+Toronto Penguins,2022-01-14,1,Game of Stones,4,5,10,4,394,90,260,280
+Game of Stones,2022-01-14,1,Toronto Penguins,5,4,10,6,285,58,192,458
+Toronto Penguins,2020-09-04,20,Dartmouth Oland Thunderbirds,7,1,6,5,90,233,77,179
+Toronto Penguins,2020-12-02,1,Game of Stones,3,8,10,3,280,233,260,179
+Game of Stones,2020-12-02,1,Toronto Penguins,8,3,10,7,231,58,192,107
+Toronto Penguins,2022-01-31,51,Richmond Hill Tondas,8,1,5,4,233,260,280,394
+Toronto Penguins,2020-12-19,40,Kindersley Warriors,4,10,8,3,90,280,260,233
+Toronto Penguins,2020-09-19,28,Thunder Bay Thunder,6,7,10,4,179,77,90,233
+Toronto Penguins,2020-10-13,61,Pierrefonds Canadians,2,7,10,2,90,260,179,233
+Toronto Penguins,2021-04-08,16,Bancroft Waxers,5,8,10,4,77,280,233,90
+Toronto Penguins,2022-05-11,71,Thornhill Caribous,6,0,6,4,90,260,233,394
+Toronto Penguins,2022-05-26,71,Thornhill Caribous,6,3,10,4,260,280,394,233
+Toronto Penguins,2021-10-23,15,Elliot Lake Wings,0,7,5,0,394,90,233,260
+Toronto Penguins,2021-08-16,51,Richmond Hill Tondas,7,6,10,4,179,280,233,90
+Toronto Penguins,2021-05-08,13,Halifax Team Leafs,3,7,10,2,179,90,260,280
+Toronto Penguins,2020-07-02,2,Vancouver Islanders,12,3,9,7,216,179,90,77
+Vancouver Islanders,2020-07-02,2,Toronto Penguins,3,12,9,2,190,23,149,113
+Toronto Penguins,2022-01-24,12,Kanata Valley Vipers,6,3,10,5,233,260,90,280
+Toronto Penguins,2020-12-13,13,Halifax Team Leafs,5,6,10,4,90,77,280,179
+Toronto Penguins,2022-05-06,28,Thunder Bay Thunder,6,10,10,4,394,500,233,90
+Toronto Penguins,2021-10-06,48,Halifax A's,4,5,11,4,90,280,260,233
+Toronto Penguins,2021-12-06,92,Toronto Wild,5,3,10,5,280,90,233,394
+Toronto Penguins,2020-10-10,20,Dartmouth Oland Thunderbirds,8,1,5,4,260,77,179,90
+Toronto Penguins,2022-05-21,97,Pembroke Lumber Express,9,3,8,6,280,260,233,394
+Ice Cougars,2022-04-21,13,Halifax Team Leafs,2,8,9,2,177,447,101,321
+Ice Cougars,2021-12-01,1,Game of Stones,3,5,10,3,177,258,101,321
+Game of Stones,2021-12-01,1,Ice Cougars,5,3,10,7,285,231,192,58
+Ice Cougars,2021-06-22,47,Halifax Flames,1,7,6,1,177,258,321,101
+Ice Cougars,2021-10-01,97,Pembroke Lumber Express,2,7,10,2,321,258,101,177
+Ice Cougars,2021-05-01,71,Thornhill Caribous,1,7,7,1,258,321,101,177
+Ice Cougars,2021-11-10,20,Dartmouth Oland Thunderbirds,3,6,10,3,177,321,101,258
+Ice Cougars,2020-10-29,92,Toronto Wild,9,3,8,5,258,232,177,101
+Ice Cougars,2021-07-20,0,Toronto Penguins,1,11,5,1,258,177,321,101
+Toronto Penguins,2021-07-20,0,Ice Cougars,11,1,5,4,260,179,90,233
+Ice Cougars,2021-10-22,0,Toronto Penguins,0,10,7,0,321,101,177,258
+Toronto Penguins,2021-10-22,0,Ice Cougars,10,0,7,7,233,260,90,394
+Ice Cougars,2021-08-04,71,Thornhill Caribous,6,7,10,3,177,258,101,321
+Ice Cougars,2022-02-06,12,Kanata Valley Vipers,5,6,10,4,447,177,321,101
+Ice Cougars,2021-04-30,80,Thunder Bay Thunderbirds,2,9,10,1,258,177,101,321
+Ottawa Kiltys,2022-05-04,1,Broom Mets,6,0,6,4,42,409,511,395
+Broom Mets,2022-05-04,1,Ottawa Kiltys,0,6,6,2,120,188,507,178
+Ottawa Kiltys,2021-11-25,17,Brandon Warriors,2,11,6,1,409,220,395,42
+Ottawa Kiltys,2022-01-25,2,Stone Timberwolves,0,11,6,0,220,409,395,42
+Stone Timberwolves,2022-01-25,2,Ottawa Kiltys,11,0,6,6,60,48,198,454
+Ottawa Kiltys,2022-01-23,4,Super Salsa,10,3,7,5,395,42,409,220
+Super Salsa,2022-01-23,4,Ottawa Kiltys,3,10,7,2,386,141,199,108
+Ottawa Kiltys,2022-05-16,4,Super Salsa,1,7,5,1,395,220,409,42
+Super Salsa,2022-05-16,4,Ottawa Kiltys,7,1,5,4,168,386,467,199
+Ottawa Kiltys,2021-11-02,77,Lanark Festivals,3,4,10,2,42,220,409,395
+Ottawa Kiltys,2022-04-27,82,Oswego Cougars,3,2,10,3,409,395,220,42
+Ice Dodgers,2022-03-21,3,Ice Huskies,8,3,10,6,137,335,174,211
+Ice Huskies,2022-03-21,3,Ice Dodgers,3,8,10,4,6,399,252,367
+Ice Dodgers,2020-12-12,78,Halifax Oland Centennials,4,7,10,2,211,137,131,174
+Ice Dodgers,2021-06-08,26,Wexford Beehives,5,6,14,3,174,335,131,286
+Ice Dodgers,2021-12-07,77,Lanark Festivals,9,6,10,6,335,174,131,286
+Ice Dodgers,2020-11-23,90,Langley Hawks,5,4,10,5,137,174,131,211
+Ice Dodgers,2021-11-21,89,Williams Lake Warriors,2,9,8,1,131,211,335,174
+Ice Dodgers,2021-04-20,96,Vernon Bears,4,6,10,2,137,131,174,211
+Ice Dodgers,2021-02-17,90,Langley Hawks,5,4,10,4,174,211,137,131
+Ice Dodgers,2021-06-03,77,Lanark Festivals,7,3,10,5,131,335,211,137
+Ice Dodgers,2021-11-02,38,Espanola Screaming Crystals,7,5,10,4,137,335,131,286
+Ice Dodgers,2021-12-26,17,Brandon Warriors,0,6,5,0,211,131,451,286
+Ice Dodgers,2021-02-02,8,Peterborough Bearcats,6,5,10,4,286,131,211,137
+Ice Dodgers,2021-07-01,26,Wexford Beehives,6,4,10,3,286,137,335,174
+Ice Dodgers,2021-03-03,1,Ottawa Greys,9,11,10,4,286,131,211,137
+Ottawa Greys,2021-03-03,1,Ice Dodgers,11,9,10,6,95,24,82,176
+Ice Dodgers,2022-02-02,1,Ottawa Greys,3,6,10,2,335,137,131,451
+Ottawa Greys,2022-02-02,1,Ice Dodgers,6,3,10,8,176,365,95,352
+Ice Dodgers,2021-12-20,96,Vernon Bears,6,7,10,4,286,137,211,131
+Ice Dodgers,2021-01-30,24,Sidney Terriers,5,2,10,3,131,286,211,174
+Ice Dodgers,2020-11-02,3,Stone Mariners,4,6,10,3,137,131,211,174
+Stone Mariners,2020-11-02,3,Ice Dodgers,6,4,10,7,157,245,251,269
+Ice Dodgers,2021-10-03,96,Vernon Bears,4,10,9,1,286,137,174,131
+Ice Dodgers,2021-09-24,77,Lanark Festivals,5,7,10,2,335,211,137,174
+Ice Dodgers,2021-04-27,14,Battleford Greys,4,10,8,2,211,137,286,174
+Ice Dodgers,2020-11-14,49,North Sydney Spitfires,5,6,11,4,137,131,174,211
+Ice Dodgers,2021-08-17,24,Sidney Terriers,9,4,10,4,335,211,174,137
+Ice Dodgers,2021-04-19,6,Cape Breton Lumberjacks,7,5,10,5,137,174,286,211
+Ice Dodgers,2022-05-06,50,Ajax Sports,8,1,7,4,131,211,451,137
+Ice Dodgers,2021-03-08,4,Super Salsa,6,7,10,5,131,211,174,286
+Super Salsa,2021-03-08,4,Ice Dodgers,7,6,10,5,41,168,199,141
+Ice Dodgers,2021-01-10,7,Southeast Nationals,5,6,10,4,131,286,174,137
+Ice Dodgers,2021-02-26,1,Broom Mets,8,0,5,5,137,131,286,174
+Broom Mets,2021-02-26,1,Ice Dodgers,0,8,5,0,96,120,188,173
+Broom Mets,2021-04-06,65,Winnipeg Beehives,5,9,10,4,178,188,96,120
+Broom Mets,2022-02-04,77,Lanark Festivals,1,9,7,1,188,178,120,370
+Broom Mets,2020-11-15,32,Williams Lake Vulcans,3,4,10,2,188,178,120,96
+Broom Mets,2022-03-21,65,Winnipeg Beehives,4,6,10,2,173,178,188,120
+Broom Mets,2021-07-08,4,Super Salsa,2,8,9,2,178,96,120,188
+Super Salsa,2021-07-08,4,Broom Mets,8,2,9,7,41,141,154,329
+Broom Mets,2021-07-21,7,Southeast Nationals,6,9,10,3,96,370,120,188
+Broom Mets,2021-08-19,4,Super Salsa,1,7,6,1,120,173,370,188
+Super Salsa,2021-08-19,4,Broom Mets,7,1,6,5,141,329,154,108
+Broom Mets,2021-07-14,14,Battleford Greys,2,8,6,1,178,188,173,96
+Broom Mets,2022-04-07,7,Southeast Nationals,3,8,10,3,178,188,120,370
+Broom Mets,2021-03-26,26,Wexford Beehives,8,2,7,4,96,173,188,120
+Broom Mets,2021-12-14,17,Brandon Warriors,3,7,10,2,188,178,120,370
+Broom Mets,2022-04-26,32,Williams Lake Vulcans,5,6,10,3,507,188,178,120
+Broom Mets,2020-11-06,24,Sidney Terriers,9,7,10,4,173,178,188,96
+Broom Mets,2020-11-17,57,New Waterford Pack,1,8,6,1,120,96,178,188
+Broom Mets,2021-03-21,82,Oswego Cougars,2,10,10,2,173,96,188,178
+Broom Mets,2020-07-28,14,Battleford Greys,1,8,7,1,173,178,96,188
+Broom Mets,2020-08-29,3,Stone Mariners,8,1,8,5,120,178,173,188
+Stone Mariners,2020-08-29,3,Broom Mets,1,8,8,3,217,74,9,157
+Broom Mets,2021-03-18,90,Langley Hawks,8,2,7,5,188,96,120,178
+Broom Mets,2021-03-30,90,Langley Hawks,3,7,10,2,178,96,120,188
+Broom Mets,2021-08-18,49,North Sydney Spitfires,2,9,7,2,370,96,120,173
+Broom Mets,2020-08-07,89,Williams Lake Warriors,0,6,6,0,178,173,96,120
+Broom Mets,2021-05-18,3,Stone Mariners,8,7,10,5,173,96,178,120
+Stone Mariners,2021-05-18,3,Broom Mets,7,8,10,5,9,74,277,217
+Ottawa Greys,2021-12-22,85,Sherwood Park Grads,6,1,10,4,24,392,95,365
+Ottawa Greys,2022-04-22,96,Vernon Bears,5,2,10,4,365,95,352,24
+Ottawa Greys,2020-07-22,1,Broom Mets,10,0,5,5,82,95,24,176
+Broom Mets,2020-07-22,1,Ottawa Greys,0,10,5,0,178,96,173,120
+Ottawa Greys,2021-01-21,38,Espanola Screaming Crystals,6,1,10,5,95,82,176,24
+Ottawa Greys,2022-05-22,7,Southeast Nationals,7,1,7,6,95,352,365,176
+Ottawa Greys,2021-03-28,4,Super Salsa,9,4,10,5,24,95,82,176
+Super Salsa,2021-03-28,4,Ottawa Greys,4,9,10,5,168,141,154,41
+Ottawa Greys,2021-09-06,3,Stone Mariners,11,0,6,5,176,24,365,392
+Stone Mariners,2021-09-06,3,Ottawa Greys,0,11,6,1,245,157,251,217
+Ottawa Greys,2021-12-13,7,Southeast Nationals,7,0,5,4,365,392,176,352
+Ottawa Greys,2020-12-13,74,Port-aux-Basques Buccaneers,8,6,10,4,82,176,24,95
+Ottawa Greys,2020-08-27,6,Cape Breton Lumberjacks,6,10,10,4,176,95,24,82
+Ottawa Greys,2021-05-24,32,Williams Lake Vulcans,5,6,10,4,95,24,82,176
+Ottawa Greys,2020-10-19,7,Southeast Nationals,5,7,10,4,95,176,24,82
+Ottawa Greys,2021-02-14,78,Halifax Oland Centennials,6,7,10,5,24,176,82,95
+Ottawa Greys,2021-10-15,54,Saskatoon Rams,5,8,10,3,365,95,176,352
+Ottawa Greys,2020-11-20,3,Stone Mariners,6,0,10,4,82,24,95,176
+Stone Mariners,2020-11-20,3,Ottawa Greys,0,6,10,6,277,251,217,9
+Ottawa Greys,2022-04-18,65,Winnipeg Beehives,6,0,6,5,392,352,24,365
+Ottawa Greys,2022-01-16,78,Halifax Oland Centennials,7,4,10,5,95,365,392,24
+Ottawa Greys,2021-06-05,57,New Waterford Pack,6,2,10,4,176,82,95,352
+Ottawa Greys,2021-05-03,38,Espanola Screaming Crystals,8,5,10,5,24,176,95,82
+Ottawa Greys,2021-10-14,57,New Waterford Pack,7,1,6,4,365,176,392,24
+Ottawa Greys,2021-12-11,77,Lanark Festivals,3,9,8,3,176,365,352,24
+Ottawa Greys,2021-11-10,24,Sidney Terriers,7,1,5,4,24,176,392,365
+Ottawa Greys,2021-12-10,7,Southeast Nationals,6,0,5,3,352,24,365,176
+Ottawa Greys,2022-03-24,7,Southeast Nationals,8,5,10,4,95,24,176,352
+Ottawa Greys,2020-08-15,57,New Waterford Pack,7,0,5,5,24,95,82,176
+Ottawa Greys,2022-03-23,6,Cape Breton Lumberjacks,1,7,6,1,352,95,365,24
+Ottawa Greys,2021-08-06,89,Williams Lake Warriors,5,4,10,3,176,95,365,352
+Ottawa Greys,2022-05-01,90,Langley Hawks,6,7,10,5,176,24,95,392
+Ottawa Greys,2021-08-17,3,Stone Mariners,10,3,8,6,176,24,95,365
+Stone Mariners,2021-08-17,3,Ottawa Greys,3,10,8,2,245,217,157,277
+Cold Chinooks,2022-02-15,36,Thunder Bay Eaters,1,8,8,1,151,111,144,400
+Cold Chinooks,2020-10-12,18,Mississauga Cougars,5,7,10,3,144,111,127,151
+Cold Chinooks,2021-07-05,83,North York Capitals,3,10,9,2,111,151,340,144
+Cold Chinooks,2021-09-28,87,South Surrey Canadians,4,3,10,4,111,127,400,151
+Cold Chinooks,2021-07-29,0,Cold Islanders,4,8,10,3,151,340,144,127
+Cold Islanders,2021-07-29,0,Cold Chinooks,8,4,10,7,291,241,121,215
+Cold Chinooks,2021-12-09,87,South Surrey Canadians,13,2,8,5,353,151,127,111
+Cold Chinooks,2021-08-11,87,South Surrey Canadians,8,5,10,3,151,340,144,111
+Cold Chinooks,2022-01-17,3,Calgary Metros,1,8,5,1,400,144,151,111
+Calgary Metros,2022-01-17,3,Cold Chinooks,8,1,5,4,93,453,39,456
+Cold Chinooks,2021-09-13,34,Markham Rebels,8,2,6,4,144,353,151,111
+Cold Chinooks,2021-09-11,62,Hamilton Tigers,1,7,6,1,144,353,111,127
+Cold Chinooks,2021-03-03,23,Laval Rousseau 77's,0,7,5,0,111,127,144,151
+Cold Chinooks,2020-10-14,53,Toronto 73's,5,9,10,4,144,151,127,111
+Cold Chinooks,2021-04-19,66,Vancouver Flyers,2,9,8,2,127,144,111,151
+Cold Chinooks,2022-02-12,86,Cape Breton Rustlers,3,9,8,2,151,353,111,400
+Cold Chinooks,2021-07-30,34,Markham Rebels,4,7,10,3,127,111,144,340
+Cold Chinooks,2021-02-08,62,Hamilton Tigers,2,6,10,2,144,127,111,151
+Cold Chinooks,2021-01-24,62,Hamilton Tigers,5,6,10,4,144,127,151,111
+Cold Travelways,2021-08-02,69,Sudbury Jets,9,3,7,4,318,201,226,247
+Cold Travelways,2021-03-17,99,Bellingham Travelways,4,7,10,3,104,201,247,226
+Cold Travelways,2020-09-05,10,Melfort Bruins,6,8,10,5,226,81,201,247
+Cold Travelways,2021-01-24,58,Canmore Rats,5,7,10,3,104,247,226,201
+Cold Travelways,2022-04-04,69,Sudbury Jets,6,7,10,4,318,502,247,201
+Cold Travelways,2021-01-18,2,Vancouver Fury,0,8,6,0,247,226,104,201
+Vancouver Fury,2021-01-18,2,Cold Travelways,8,0,6,6,72,294,185,259
+Cold Travelways,2021-06-06,0,Toronto Eagles,4,7,10,3,226,201,104,247
+Toronto Eagles,2021-06-06,0,Cold Travelways,7,4,10,7,13,155,267,142
+Cold Travelways,2020-10-13,102,Nickel Centre Terriers,3,10,9,2,226,104,201,247
+Cold Travelways,2022-02-18,35,Sidney Eagles,6,12,11,4,201,247,104,318
+Cold Travelways,2021-02-04,31,Thunder Bay Dogs,7,10,11,4,226,247,104,201
+Cold Travelways,2021-10-21,99,Bellingham Travelways,7,4,10,5,247,318,411,226
+Cold Travelways,2021-01-12,102,Nickel Centre Terriers,6,5,11,4,201,226,104,247
+Cold Travelways,2021-07-11,2,Vancouver Fury,0,6,6,0,226,104,201,318
+Vancouver Fury,2021-07-11,2,Cold Travelways,6,0,6,6,328,259,363,72
+Cold Travelways,2020-12-21,2,Vancouver Fury,1,7,6,1,201,226,247,104
+Vancouver Fury,2020-12-21,2,Cold Travelways,7,1,6,5,185,259,72,159
+Cold Travelways,2022-04-11,63,Moncton Legionaires,6,5,11,5,226,318,201,247
+Cold Travelways,2020-09-12,72,Yorkton Indians,8,4,10,4,247,226,104,81
+Cold Travelways,2021-05-19,3,Calgary Fleur-de-Lys,0,9,5,0,104,318,247,226
+Calgary Fleur-de-Lys,2021-05-19,3,Cold Travelways,9,0,5,5,183,117,33,63
+Cold Travelways,2021-01-17,58,Canmore Rats,4,7,10,3,226,247,104,201
+Ottawa Victorias,2021-07-03,2,Vancouver Fury,3,9,6,2,249,207,287,118
+Vancouver Fury,2021-07-03,2,Ottawa Victorias,9,3,6,4,357,331,185,259
+Ottawa Victorias,2022-01-29,2,Vancouver Fury,5,7,10,3,207,249,228,222
+Vancouver Fury,2022-01-29,2,Ottawa Victorias,7,5,10,7,407,259,159,294
+Ottawa Victorias,2021-07-29,25,Chateauguay Canucks,5,6,11,3,313,249,287,312
+Ottawa Victorias,2021-05-26,25,Chateauguay Canucks,7,3,10,4,118,222,249,207
+Ottawa Victorias,2021-06-16,0,Toronto Eagles,10,4,10,6,222,312,313,228
+Toronto Eagles,2021-06-16,0,Ottawa Victorias,4,10,10,4,155,267,327,325
+Ottawa Victorias,2020-08-15,69,Sudbury Jets,5,4,10,5,207,222,228,118
+Ottawa Victorias,2021-11-05,69,Sudbury Jets,8,1,6,4,312,313,228,207
+Ottawa Victorias,2021-12-20,58,Canmore Rats,6,5,10,3,312,222,207,249
+Ottawa Victorias,2021-07-23,4,Cold Colts,0,11,5,0,228,287,222,207
+Cold Colts,2021-07-23,4,Ottawa Victorias,11,0,5,5,11,45,235,279
+Ottawa Victorias,2021-02-26,35,Sidney Eagles,2,9,9,1,222,228,249,207
+Ottawa Victorias,2021-07-14,102,Nickel Centre Terriers,5,4,10,3,312,313,287,118
+Ottawa Victorias,2021-08-12,63,Moncton Legionaires,7,8,11,4,118,222,228,249
+Ottawa Victorias,2022-01-24,4,Montreal Raiders,7,1,7,6,222,287,461,228
+Montreal Raiders,2022-01-24,4,Ottawa Victorias,1,7,7,1,343,27,410,218
+Ottawa Victorias,2021-09-23,10,Melfort Bruins,3,10,8,2,313,228,287,312
+Ottawa Victorias,2021-01-15,42,Vancouver Jr. Terriers,5,7,10,4,222,228,118,249
+Ottawa Victorias,2021-08-08,42,Vancouver Jr. Terriers,6,4,10,5,249,287,207,312
+Ottawa Victorias,2022-05-05,102,Nickel Centre Terriers,7,6,10,3,493,222,249,287
+Ottawa Victorias,2022-05-26,4,Ice Bulls,8,3,10,6,249,287,493,312
+Ice Bulls,2022-05-26,4,Ottawa Victorias,3,8,10,4,326,18,419,337
+Ottawa Victorias,2021-04-20,3,Calgary Fleur-de-Lys,11,3,9,6,228,312,207,313
+Calgary Fleur-de-Lys,2021-04-20,3,Ottawa Victorias,3,11,9,3,123,117,63,183
+Ottawa Victorias,2020-08-24,35,Sidney Eagles,2,8,9,1,228,118,207,222
+Ottawa Victorias,2021-06-05,69,Sudbury Jets,5,3,10,4,222,228,207,313
+Ottawa Victorias,2021-09-26,4,Cold Colts,2,8,9,1,287,207,313,312
+Cold Colts,2021-09-26,4,Ottawa Victorias,8,2,9,8,235,45,89,11
+Ottawa Victorias,2020-10-01,21,Victoria Thunder,5,6,10,3,222,249,228,207
+Ottawa Victorias,2020-12-25,46,Steinbach Oilers,5,9,13,4,228,222,207,118
+Game of Stones,2020-11-18,80,Thunder Bay Thunderbirds,6,0,6,4,192,231,58,107
+Game of Stones,2020-07-25,47,Halifax Flames,3,8,10,2,107,58,192,231
+Game of Stones,2020-07-31,61,Pierrefonds Canadians,5,8,10,3,107,231,58,192
+Game of Stones,2021-07-04,97,Pembroke Lumber Express,3,9,5,2,316,231,107,58
+Game of Stones,2020-10-03,30,Peterborough Jr. Patriots,7,2,10,7,192,58,107,231
+Game of Stones,2021-10-29,71,Thornhill Caribous,10,0,5,5,58,285,231,192
+Game of Stones,2021-05-01,48,Halifax A's,5,4,10,3,285,107,316,58
+Game of Stones,2022-04-28,2,Vancouver Islanders,6,0,7,5,285,231,192,514
+Vancouver Islanders,2022-04-28,2,Game of Stones,0,6,7,2,190,230,273,506
+Game of Stones,2021-01-27,48,Halifax A's,7,2,10,6,192,285,231,107
+Game of Stones,2021-04-06,12,Kanata Valley Vipers,6,0,6,4,192,58,231,285
+Game of Stones,2021-03-31,20,Dartmouth Oland Thunderbirds,8,0,5,4,107,285,231,316
+Game of Stones,2021-06-27,0,Toronto Penguins,8,6,10,4,285,316,58,192
+Toronto Penguins,2021-06-27,0,Game of Stones,6,8,10,6,233,260,179,280
+Game of Stones,2021-07-03,92,Toronto Wild,8,7,10,4,107,231,192,316
+Game of Stones,2021-10-30,16,Bancroft Waxers,5,8,10,3,231,285,192,58
+Game of Stones,2020-10-27,40,Kindersley Warriors,7,3,10,6,58,107,231,192
+Game of Stones,2020-09-08,97,Pembroke Lumber Express,8,9,10,4,107,58,192,231
+Game of Stones,2021-03-22,13,Halifax Team Leafs,6,5,10,5,192,231,316,285
+Game of Stones,2021-04-16,0,Toronto Penguins,7,0,7,5,192,58,231,107
+Toronto Penguins,2021-04-16,0,Game of Stones,0,7,7,2,280,260,77,179
+Game of Stones,2021-07-05,15,Elliot Lake Wings,3,8,10,2,58,285,192,107
+Game of Stones,2021-03-17,80,Thunder Bay Thunderbirds,8,0,5,4,58,192,316,285
+Game of Stones,2020-10-04,2,Vancouver Islanders,8,0,9,7,58,192,107,231
+Vancouver Islanders,2020-10-04,2,Game of Stones,0,8,9,2,190,149,230,113
+Game of Stones,2020-12-26,47,Halifax Flames,6,0,6,5,231,107,58,285
+Game of Stones,2021-12-28,47,Halifax Flames,7,8,10,3,231,192,285,58
+Game of Stones,2021-11-23,71,Thornhill Caribous,8,0,6,5,231,192,58,285
+Game of Stones,2021-03-28,40,Kindersley Warriors,6,0,6,4,316,231,192,58
+Game of Stones,2021-01-18,2,Vancouver Islanders,7,0,8,6,192,58,107,231
+Vancouver Islanders,2021-01-18,2,Game of Stones,0,7,8,2,190,230,113,149
+Game of Stones,2020-10-20,12,Kanata Valley Vipers,8,0,7,4,107,231,192,58
+Super Lords,2022-05-08,2,Broom Hawks,2,8,9,1,5,88,214,381
+Broom Hawks,2022-05-08,2,Super Lords,8,2,9,8,333,397,311,471
+Super Lords,2022-03-08,56,Thetford Mines Blizzard,3,9,8,3,402,214,5,88
+Super Lords,2022-04-11,2,Broom Hawks,0,6,5,0,402,5,381,214
+Broom Hawks,2022-04-11,2,Super Lords,6,0,5,5,311,436,65,264
+Super Lords,2020-07-14,5,Port Hope Islanders,6,8,11,4,5,186,88,214
+Broom Hawks,2021-10-18,19,Rosemont Bears,12,0,5,5,264,242,311,65
+Broom Hawks,2021-03-07,4,Montreal Braves,1,7,7,1,264,65,311,242
+Montreal Braves,2021-03-07,4,Broom Hawks,7,1,7,6,92,152,194,304
+Broom Hawks,2022-05-22,88,Niagara Falls Filons,9,5,10,4,397,264,524,333
+Broom Hawks,2021-06-24,11,Penticton Chiefs,8,7,10,3,333,242,65,264
+Broom Hawks,2021-08-22,101,Cape Breton Spartans,9,0,6,4,264,311,242,65
+Broom Hawks,2021-10-06,101,Cape Breton Spartans,7,6,10,5,311,264,242,333
+Broom Hawks,2021-03-28,45,Prince Albert Marrs,9,1,6,5,311,264,242,65
+Broom Hawks,2021-08-25,79,Pembroke Lumber Bears,2,7,10,2,333,242,65,311
+Broom Hawks,2021-07-10,79,Pembroke Lumber Bears,1,7,8,1,311,242,333,65
+Broom Hawks,2022-02-07,98,Aurora Canadians,12,9,10,3,311,436,264,242
+Broom Hawks,2022-01-09,11,Penticton Chiefs,8,5,10,5,436,242,311,264
+Broom Hawks,2021-10-22,22,Ste. Agathe Flyers,6,3,10,2,333,264,311,242
+Broom Hawks,2022-04-10,0,Toronto Rockets,11,3,7,6,471,397,311,333
+Toronto Rockets,2022-04-10,0,Broom Hawks,3,11,7,1,35,388,338,480
+Broom Hawks,2022-02-01,0,Toronto Rockets,8,0,5,5,242,333,397,311
+Toronto Rockets,2022-02-01,0,Broom Hawks,0,8,5,0,35,424,338,388
+Broom Hawks,2022-02-16,19,Rosemont Bears,6,0,5,3,436,65,264,397
+Curlers Terriers,2022-04-17,22,Ste. Agathe Flyers,7,5,10,3,7,310,489,278
+Curlers Terriers,2022-05-30,19,Rosemont Bears,6,0,6,5,489,525,7,278
+Stone Timberwolves,2020-10-28,26,Wexford Beehives,7,2,10,5,60,50,156,48
+Stone Timberwolves,2021-07-29,1,Ottawa Greys,8,5,10,5,198,50,60,48
+Ottawa Greys,2021-07-29,1,Stone Timberwolves,5,8,10,5,176,352,82,365
+Stone Timberwolves,2022-04-03,50,Ajax Sports,7,0,7,6,50,48,454,156
+Stone Timberwolves,2021-02-12,85,Sherwood Park Grads,7,5,10,5,156,48,198,60
+Stone Timberwolves,2022-02-06,65,Winnipeg Beehives,6,3,10,4,454,48,50,60
+Stone Timberwolves,2021-01-13,8,Peterborough Bearcats,7,1,8,5,50,156,48,198
+Stone Timberwolves,2022-05-15,96,Vernon Bears,10,12,11,3,495,60,48,454
+Stone Timberwolves,2020-07-28,90,Langley Hawks,8,0,5,4,156,60,198,48
+Stone Timberwolves,2022-05-09,26,Wexford Beehives,9,2,6,5,156,495,60,454
+Stone Timberwolves,2021-07-27,1,Broom Mets,8,2,7,4,50,156,60,48
+Broom Mets,2021-07-27,1,Stone Timberwolves,2,8,7,3,178,173,370,120
+Stone Timberwolves,2022-01-24,24,Sidney Terriers,9,0,5,5,198,454,60,48
+Stone Timberwolves,2020-12-26,32,Williams Lake Vulcans,7,0,6,5,50,60,198,156
+Stone Timberwolves,2022-05-20,32,Williams Lake Vulcans,6,7,10,4,156,50,48,198
+Stone Timberwolves,2021-04-07,4,Super Salsa,9,4,10,6,198,156,60,48
+Super Salsa,2021-04-07,4,Stone Timberwolves,4,9,10,4,141,168,154,199
+Stone Timberwolves,2021-01-29,8,Peterborough Bearcats,10,1,7,6,198,48,50,60
+Stone Timberwolves,2021-08-16,65,Winnipeg Beehives,6,0,5,3,198,48,156,50
+Stone Timberwolves,2021-06-27,4,Super Salsa,8,3,10,5,156,48,60,50
+Super Salsa,2021-06-27,4,Stone Timberwolves,3,8,10,5,154,199,41,329
+Super Atlantics,2022-05-15,1,Cold Chinooks,11,0,6,6,78,296,69,380
+Cold Chinooks,2022-05-15,1,Super Atlantics,0,11,6,0,144,400,111,127
+Super Atlantics,2021-10-10,91,La Salle Eagles,9,1,8,6,380,296,78,69
+Super Atlantics,2021-09-25,4,Montreal Lasers,7,3,10,6,380,296,78,69
+Montreal Lasers,2021-09-25,4,Super Atlantics,3,7,10,4,136,332,254,114
+Super Atlantics,2022-05-13,18,Mississauga Cougars,7,0,6,4,69,78,296,380
+Super Atlantics,2022-01-24,3,Rolling Stones,7,3,10,5,69,380,435,78
+Rolling Stones,2022-01-24,3,Super Atlantics,3,7,10,5,449,208,153,284
+Super Atlantics,2021-08-30,0,Cold Islanders,6,8,10,4,296,380,78,69
+Cold Islanders,2021-08-30,0,Super Atlantics,8,6,10,6,379,215,241,291
+Vancouver Buccaneers,2022-03-06,1,Cold Chinooks,1,8,5,1,485,439,421,393
+Cold Chinooks,2022-03-06,1,Vancouver Buccaneers,8,1,5,4,127,353,151,400
+Vancouver Buccaneers,2021-09-05,52,Ottawa Crunch,6,0,6,5,351,393,265,390
+Vancouver Buccaneers,2022-02-03,86,Cape Breton Rustlers,6,4,10,4,439,351,421,393
+Vancouver Buccaneers,2022-04-14,103,Riverview Elites,8,7,10,3,265,486,439,485
+Vancouver Buccaneers,2022-02-21,34,Markham Rebels,8,11,10,4,439,393,265,421
+Vancouver Buccaneers,2022-02-09,1,Cold Chinooks,6,4,10,4,351,265,439,421
+Cold Chinooks,2022-02-09,1,Vancouver Buccaneers,4,6,10,6,127,151,144,400
+Vancouver Buccaneers,2021-09-11,86,Cape Breton Rustlers,5,4,10,3,393,265,390,351
+Vancouver Buccaneers,2022-02-15,34,Markham Rebels,0,6,6,0,439,351,421,393
+Vancouver Buccaneers,2021-11-11,83,North York Capitals,3,10,7,2,390,351,393,421
+Vancouver Buccaneers,2022-03-07,18,Mississauga Cougars,10,0,5,5,421,439,486,393
+Vancouver Buccaneers,2021-12-06,91,La Salle Eagles,1,8,8,1,265,393,351,421
+Vancouver Fury,2021-05-08,3,Calgary Rockets,7,8,10,3,328,294,185,72
+Calgary Rockets,2021-05-08,3,Vancouver Fury,8,7,10,7,61,21,308,200
+Vancouver Fury,2020-12-02,3,Calgary Fleur-de-Lys,7,1,6,5,159,259,72,185
+Calgary Fleur-de-Lys,2020-12-02,3,Vancouver Fury,1,7,6,1,117,123,33,63
+Vancouver Fury,2021-01-25,46,Steinbach Oilers,4,2,10,4,294,159,259,185
+Vancouver Fury,2021-02-18,3,Calgary Cubs,8,6,11,6,72,294,185,259
+Calgary Cubs,2021-02-18,3,Vancouver Fury,6,8,11,5,272,256,305,224
+Vancouver Fury,2021-05-11,46,Steinbach Oilers,7,4,10,5,72,259,185,331
+Vancouver Fury,2021-03-30,3,Calgary Rockets,6,8,11,5,259,159,72,294
+Calgary Rockets,2021-03-30,3,Vancouver Fury,8,6,11,6,61,308,323,21
+Vancouver Fury,2021-12-22,72,Yorkton Indians,7,8,11,4,159,407,331,398
+Vancouver Fury,2020-07-12,102,Nickel Centre Terriers,9,0,8,6,72,22,159,185
+Vancouver Fury,2020-09-28,3,Calgary Cougars,9,0,6,6,159,185,72,259
+Calgary Cougars,2020-09-28,3,Vancouver Fury,0,9,6,0,257,202,124,227
+Vancouver Fury,2022-01-20,1,Cold Travelways,7,1,5,3,398,331,407,294
+Cold Travelways,2022-01-20,1,Vancouver Fury,1,7,5,2,226,247,201,104
+Vancouver Fury,2020-08-18,1,Cold Travelways,7,0,6,6,185,22,159,72
+Cold Travelways,2020-08-18,1,Vancouver Fury,0,7,6,0,81,104,226,201
+Vancouver Fury,2021-03-02,3,Calgary Cougars,9,0,7,7,185,259,159,72
+Calgary Cougars,2021-03-02,3,Vancouver Fury,0,9,7,0,227,124,257,202
+Vancouver Fury,2021-01-22,42,Vancouver Jr. Terriers,7,1,7,5,72,259,294,185
+Vancouver Fury,2021-10-12,1,Ottawa Victorias,5,6,10,4,328,185,259,159
+Ottawa Victorias,2021-10-12,1,Vancouver Fury,6,5,10,6,312,222,207,313
+Vancouver Fury,2022-03-31,102,Nickel Centre Terriers,7,0,6,5,294,72,159,363
+Vancouver Fury,2021-04-21,10,Melfort Bruins,10,2,8,6,159,328,185,294
+Vancouver Fury,2022-01-08,35,Sidney Eagles,0,8,5,0,331,159,185,259
+Vancouver Fury,2021-09-01,1,Cold Travelways,7,1,6,4,363,185,328,259
+Cold Travelways,2021-09-01,1,Vancouver Fury,1,7,6,2,247,318,104,226
+Vancouver Islanders,2021-09-25,97,Pembroke Lumber Express,0,11,5,0,273,149,322,349
+Vancouver Islanders,2020-11-09,1,Game of Stones,0,8,9,0,113,230,149,273
+Game of Stones,2020-11-09,1,Vancouver Islanders,8,0,9,9,107,231,58,192
+Vancouver Islanders,2021-09-05,61,Pierrefonds Canadians,0,6,5,0,322,349,149,364
+Vancouver Islanders,2021-10-19,61,Pierrefonds Canadians,0,6,5,0,190,149,349,364
+Vancouver Islanders,2021-02-05,92,Toronto Wild,1,10,9,1,149,113,230,273
+Vancouver Islanders,2021-09-29,47,Halifax Flames,0,8,9,0,364,190,149,273
+Vancouver Islanders,2022-01-27,15,Elliot Lake Wings,0,12,5,0,149,426,349,322
+Vancouver Islanders,2021-10-26,61,Pierrefonds Canadians,0,8,5,0,149,190,349,273
+Vancouver Islanders,2021-10-25,92,Toronto Wild,1,7,7,1,149,364,349,230
+Vancouver Islanders,2021-03-10,16,Bancroft Waxers,4,10,6,1,230,113,273,190
+Vancouver Islanders,2021-07-21,80,Thunder Bay Thunderbirds,7,8,10,4,230,364,190,273
+Vancouver Islanders,2021-10-15,47,Halifax Flames,0,8,8,0,322,149,190,230
+Vancouver Islanders,2020-08-20,40,Kindersley Warriors,0,7,5,0,190,230,113,149
+Vancouver Islanders,2021-03-26,51,Richmond Hill Tondas,2,9,8,1,149,230,113,273
+Vancouver Islanders,2021-08-13,0,Ice Cougars,7,8,10,3,349,190,273,322
+Ice Cougars,2021-08-13,0,Vancouver Islanders,8,7,10,7,177,258,101,321
+Vancouver Islanders,2021-04-20,80,Thunder Bay Thunderbirds,7,8,11,3,322,113,273,230
+Vancouver Islanders,2020-10-13,28,Thunder Bay Thunder,1,9,10,1,149,113,230,190
+Vancouver Islanders,2022-01-13,0,Ice Cougars,5,6,10,3,426,273,149,349
+Ice Cougars,2022-01-13,0,Vancouver Islanders,6,5,10,7,101,447,258,321
+Vancouver Islanders,2021-04-25,28,Thunder Bay Thunder,0,6,5,0,322,273,113,149
+Vancouver Islanders,2020-08-09,48,Halifax A's,1,8,7,1,230,149,113,190
+Vancouver Islanders,2021-06-05,13,Halifax Team Leafs,0,6,5,0,230,273,349,322
+Vancouver Islanders,2022-02-18,30,Peterborough Jr. Patriots,0,7,7,0,322,230,273,426
+Vancouver Islanders,2021-09-24,92,Toronto Wild,0,6,5,0,149,322,403,190
+Vancouver Islanders,2021-03-01,61,Pierrefonds Canadians,0,7,5,0,113,149,230,190
+Vancouver Islanders,2021-10-08,71,Thornhill Caribous,3,6,10,2,149,403,230,273
+Vancouver Islanders,2020-12-06,61,Pierrefonds Canadians,0,8,8,0,190,113,149,230
+Vancouver Islanders,2021-04-07,28,Thunder Bay Thunder,0,10,7,0,230,113,149,322
+Vancouver Islanders,2020-08-27,92,Toronto Wild,3,4,10,2,190,149,230,113
+Stone Mariners,2021-11-06,7,Southeast Nationals,4,7,10,2,157,277,217,245
+Stone Mariners,2021-09-14,8,Peterborough Bearcats,2,12,9,1,245,251,217,157
+Stone Mariners,2020-08-08,49,North Sydney Spitfires,0,9,7,0,217,157,74,9
+Stone Mariners,2020-10-27,50,Ajax Sports,1,7,8,1,251,217,9,245
+Stone Mariners,2022-04-21,4,Super Salsa,1,7,7,1,157,245,440,277
+Super Salsa,2022-04-21,4,Stone Mariners,7,1,7,6,329,41,199,168
+Stone Mariners,2021-02-07,14,Battleford Greys,0,7,8,0,157,245,277,269
+Stone Mariners,2021-11-16,54,Saskatoon Rams,0,7,6,0,157,217,245,277
+Stone Mariners,2021-03-23,32,Williams Lake Vulcans,3,6,10,2,277,269,245,157
+Stone Mariners,2021-08-09,3,Ice Huskies,7,3,10,6,245,157,269,217
+Ice Huskies,2021-08-09,3,Stone Mariners,3,7,10,4,6,252,244,367
+Stone Mariners,2020-09-05,8,Peterborough Bearcats,0,7,5,0,25,9,74,157
+Stone Mariners,2022-01-16,96,Vernon Bears,1,9,6,1,245,277,157,440
+Stone Mariners,2021-06-28,1,Broom Mets,1,8,6,1,245,9,277,251
+Broom Mets,2021-06-28,1,Stone Mariners,8,1,6,5,173,96,188,120
+Stone Mariners,2022-02-09,1,Ottawa Kiltys,1,8,6,1,245,440,277,157
+Ottawa Kiltys,2022-02-09,1,Stone Mariners,8,1,6,5,42,409,395,220
+Stone Mariners,2021-08-04,65,Winnipeg Beehives,6,7,10,4,277,157,251,217
+Stone Mariners,2021-12-11,3,Ice Huskies,3,9,6,2,277,157,440,245
+Ice Huskies,2021-12-11,3,Stone Mariners,9,3,6,4,252,399,6,367
+Stone Mariners,2022-01-24,6,Cape Breton Lumberjacks,0,6,7,0,440,157,245,277
+Stone Mariners,2021-01-08,57,New Waterford Pack,6,7,10,4,251,245,74,277
+Stone Mariners,2021-06-30,96,Vernon Bears,2,9,5,1,269,217,157,277
+Stone Mariners,2021-05-23,85,Sherwood Park Grads,2,9,7,1,269,217,157,245
+Stone Mariners,2021-07-21,96,Vernon Bears,0,8,8,0,277,157,245,217
+Stone Mariners,2020-08-30,49,North Sydney Spitfires,2,7,10,2,217,245,74,25
+Stone Mariners,2020-08-07,6,Cape Breton Lumberjacks,3,11,8,2,74,25,9,157
+Stone Mariners,2021-11-08,89,Williams Lake Warriors,0,5,10,0,277,157,245,217
+Stone Mariners,2021-09-16,65,Winnipeg Beehives,1,9,8,1,277,251,245,157
+Stone Mariners,2020-07-14,77,Lanark Festivals,4,8,10,3,9,25,157,217
+Stone Mariners,2021-07-07,85,Sherwood Park Grads,1,14,6,1,269,157,9,251
+Stone Mariners,2022-03-05,6,Cape Breton Lumberjacks,1,7,8,1,277,157,245,440
+Ice Huskies,2021-08-15,24,Sidney Terriers,3,6,10,3,367,252,6,244
+Ice Huskies,2022-05-04,7,Southeast Nationals,3,11,9,2,399,6,244,252
+Ice Huskies,2021-09-14,7,Southeast Nationals,1,12,6,1,6,244,367,252
+Ice Huskies,2022-03-02,54,Saskatoon Rams,0,6,5,0,244,6,252,399
+Ice Huskies,2021-09-12,7,Southeast Nationals,0,7,5,0,244,367,252,6
+Ice Huskies,2022-02-21,24,Sidney Terriers,6,0,6,4,399,367,252,244
+Ice Huskies,2022-05-24,24,Sidney Terriers,4,5,10,2,252,399,367,244
+Ice Huskies,2022-01-04,4,Super Salsa,5,7,10,3,399,252,367,6
+Super Salsa,2022-01-04,4,Ice Huskies,7,5,10,7,168,329,386,199
+Ice Huskies,2022-04-07,0,Toronto Olympics,0,7,6,0,252,367,399,6
+Toronto Olympics,2022-04-07,0,Ice Huskies,7,0,6,6,477,180,482,428
+Ice Huskies,2021-07-15,38,Espanola Screaming Crystals,3,7,10,2,367,252,6,244
+Ice Huskies,2022-04-20,85,Sherwood Park Grads,4,7,10,3,6,367,244,252
+Ice Huskies,2022-04-21,7,Southeast Nationals,0,9,5,0,399,252,6,367
+Ice Huskies,2022-01-09,57,New Waterford Pack,6,7,10,5,244,399,367,6
+Ice Huskies,2021-11-27,90,Langley Hawks,3,7,10,2,6,399,252,367
+Ice Huskies,2022-02-09,7,Southeast Nationals,4,10,7,2,252,399,244,367
+Ice Huskies,2021-11-02,4,Super Salsa,2,9,5,1,252,367,244,399
+Super Salsa,2021-11-02,4,Ice Huskies,9,2,5,4,141,386,168,108
+Calgary Metros,2022-04-05,103,Riverview Elites,9,1,6,4,93,39,460,456
+Calgary Metros,2022-03-26,4,Ice Unicorns,8,1,7,4,39,93,456,453
+Ice Unicorns,2022-03-26,4,Calgary Metros,1,8,7,3,55,418,344,376
+Calgary Metros,2022-01-08,68,Vernon Crystals,7,5,10,5,39,93,456,396
+Calgary Metros,2022-03-04,60,Villanova Terriers,10,5,10,6,456,453,460,39
+Calgary Metros,2022-01-05,18,Mississauga Cougars,7,1,6,5,453,396,456,39
+Rolling Stones,2022-01-18,41,Dartmouth Crunch,14,0,7,6,208,284,153,449
+Rolling Stones,2022-01-04,91,La Salle Eagles,8,2,6,4,153,449,284,208
+Calgary Cougars,2021-08-17,76,Whitby Lakers,8,2,9,4,119,347,227,202
+Calgary Cougars,2021-04-08,25,Chateauguay Canucks,0,11,6,0,119,124,202,257
+Calgary Cougars,2020-07-18,10,Melfort Bruins,7,4,10,5,202,119,124,227
+Calgary Cougars,2020-10-13,10,Melfort Bruins,6,5,10,3,119,257,227,124
+Calgary Cougars,2021-06-19,4,Montreal Bruins,4,7,10,2,124,119,202,347
+Montreal Bruins,2021-06-19,4,Calgary Cougars,7,4,10,8,109,36,140,221
+Calgary Cougars,2021-09-25,42,Vancouver Jr. Terriers,11,3,6,4,202,227,119,124
+Calgary Cougars,2022-02-18,72,Yorkton Indians,3,7,10,2,202,227,347,119
+Calgary Cougars,2020-12-25,102,Nickel Centre Terriers,5,2,10,4,124,202,227,257
+Calgary Cougars,2021-04-06,69,Sudbury Jets,7,2,10,5,202,124,227,257
+Calgary Cougars,2021-02-25,4,Montreal Raiders,4,5,10,3,202,257,119,227
+Montreal Raiders,2021-02-25,4,Calgary Cougars,5,4,10,7,182,218,301,38
+Calgary Cougars,2020-07-25,102,Nickel Centre Terriers,4,5,10,3,227,124,119,202
+Calgary Cougars,2020-07-22,69,Sudbury Jets,7,6,10,3,119,202,227,124
+Calgary Cougars,2021-07-08,69,Sudbury Jets,10,4,10,5,347,202,119,227
+Calgary Cougars,2021-02-06,76,Whitby Lakers,10,6,11,6,227,119,124,257
+Calgary Cougars,2021-11-29,42,Vancouver Jr. Terriers,11,0,5,5,430,202,347,124
+Calgary Cougars,2022-05-08,4,Montreal Raiders,7,5,10,4,347,202,430,227
+Montreal Raiders,2022-05-08,4,Calgary Cougars,5,7,10,6,343,301,218,182
+Calgary Cougars,2021-08-26,2,Vancouver Fury,0,6,6,0,202,124,227,119
+Vancouver Fury,2021-08-26,2,Calgary Cougars,6,0,6,6,159,331,72,259
+Calgary Cougars,2021-09-09,21,Victoria Thunder,7,0,5,4,227,124,347,119
+Calgary Cougars,2021-06-17,46,Steinbach Oilers,7,3,10,4,119,124,227,347
+Calgary Cougars,2020-11-27,84,Windsor Royals,0,10,6,0,119,202,257,124
+Calgary Cougars,2021-02-09,4,Cold Colts,4,6,10,3,227,202,119,124
+Cold Colts,2021-02-09,4,Calgary Cougars,6,4,10,7,235,279,11,89
+Calgary Cougars,2020-10-23,10,Melfort Bruins,8,9,10,4,257,227,119,202
+Calgary Cubs,2021-12-08,46,Steinbach Oilers,7,6,10,4,256,26,305,224
+Calgary Cubs,2020-12-24,10,Melfort Bruins,5,2,10,4,224,272,26,256
+Calgary Cubs,2022-05-30,3,Calgary Cougars,6,8,10,4,459,256,26,224
+Calgary Cougars,2022-05-30,3,Calgary Cubs,8,6,10,6,347,227,202,430
+Calgary Cubs,2022-05-04,4,Montreal Bruins,5,7,10,2,224,26,459,256
+Montreal Bruins,2022-05-04,4,Calgary Cubs,7,5,10,8,387,46,164,36
+Calgary Cubs,2021-05-01,35,Sidney Eagles,6,7,10,5,256,26,305,224
+Calgary Cubs,2021-01-31,4,Montreal Bruins,6,3,10,5,224,256,272,26
+Montreal Bruins,2021-01-31,4,Calgary Cubs,3,6,10,5,164,140,46,36
+Calgary Cubs,2021-09-15,84,Windsor Royals,2,9,8,1,356,256,305,224
+Calgary Cubs,2021-12-17,0,Toronto Eagles,8,4,10,6,305,26,256,224
+Toronto Eagles,2021-12-17,0,Calgary Cubs,4,8,10,4,267,422,155,325
+Calgary Cubs,2021-06-30,4,Montreal Bruins,3,9,7,2,356,256,26,224
+Montreal Bruins,2021-06-30,4,Calgary Cubs,9,3,7,5,221,36,109,140
+Calgary Cubs,2021-08-24,1,Ottawa Victorias,4,6,10,4,26,305,224,256
+Ottawa Victorias,2021-08-24,1,Calgary Cubs,6,4,10,6,287,312,249,222
+Calgary Cubs,2021-09-26,63,Moncton Legionaires,8,3,10,4,26,305,356,256
+Calgary Cubs,2022-05-22,72,Yorkton Indians,3,7,10,3,256,26,459,224
+Calgary Cubs,2021-04-13,3,Calgary Cougars,8,6,12,5,305,26,256,272
+Calgary Cougars,2021-04-13,3,Calgary Cubs,6,8,12,7,257,227,202,124
+Calgary Cubs,2021-05-05,63,Moncton Legionaires,5,10,10,2,224,256,305,26
+Calgary Cubs,2021-07-29,42,Vancouver Jr. Terriers,5,2,10,3,256,26,356,224
+Calgary Cubs,2022-04-20,0,Toronto Eagles,7,3,10,5,224,459,26,256
+Toronto Eagles,2022-04-20,0,Calgary Cubs,3,7,10,5,13,327,267,155
+Calgary Cubs,2022-03-02,0,Toronto Eagles,7,5,10,5,305,459,224,256
+Toronto Eagles,2022-03-02,0,Calgary Cubs,5,7,10,5,155,422,13,325
+Calgary Fleur-de-Lys,2022-05-24,3,Calgary Rockets,2,9,9,1,412,123,183,531
+Calgary Rockets,2022-05-24,3,Calgary Fleur-de-Lys,9,2,9,8,200,21,358,61
+Calgary Fleur-de-Lys,2020-01-30,58,Canmore Rats,8,7,11,6,79,123,63,117
+Calgary Fleur-de-Lys,2021-06-22,4,Montreal Raiders,8,2,7,6,183,123,117,63
+Montreal Raiders,2021-06-22,4,Calgary Fleur-de-Lys,2,8,7,1,27,301,182,38
+Calgary Fleur-de-Lys,2021-04-24,21,Victoria Thunder,7,1,7,6,117,33,63,183
+Calgary Fleur-de-Lys,2020-12-05,3,Calgary Cougars,3,6,10,3,63,183,117,33
+Calgary Cougars,2020-12-05,3,Calgary Fleur-de-Lys,6,3,10,7,227,124,202,257
+Calgary Fleur-de-Lys,2021-10-30,31,Thunder Bay Dogs,5,4,11,5,412,117,123,33
+Calgary Fleur-de-Lys,2020-09-23,58,Canmore Rats,7,1,6,4,117,33,123,63
+Calgary Fleur-de-Lys,2021-04-26,4,Cold Colts,8,1,5,4,123,117,183,33
+Cold Colts,2021-04-26,4,Calgary Fleur-de-Lys,1,8,5,1,11,45,235,44
+Calgary Fleur-de-Lys,2021-03-03,69,Sudbury Jets,7,1,6,5,117,33,183,63
+Calgary Fleur-de-Lys,2021-08-25,3,Calgary Cougars,6,4,10,4,117,63,33,183
+Calgary Cougars,2021-08-25,3,Calgary Fleur-de-Lys,4,6,10,6,347,202,124,119
+Calgary Fleur-de-Lys,2021-05-17,58,Canmore Rats,7,5,10,4,183,123,33,117
+Calgary Fleur-de-Lys,2021-06-27,31,Thunder Bay Dogs,0,6,5,0,123,117,33,183
+Calgary Fleur-de-Lys,2020-11-27,31,Thunder Bay Dogs,6,5,11,5,183,79,33,63
+Calgary Fleur-de-Lys,2021-12-30,4,Montreal Raiders,8,4,10,6,412,183,33,63
+Montreal Raiders,2021-12-30,4,Calgary Fleur-de-Lys,4,8,10,4,38,218,343,182
+Calgary Fleur-de-Lys,2020-08-01,25,Chateauguay Canucks,4,10,6,1,123,183,117,63
+Calgary Fleur-de-Lys,2021-05-27,3,Calgary Cougars,2,7,10,2,117,33,63,183
+Calgary Cougars,2021-05-27,3,Calgary Fleur-de-Lys,7,2,10,8,227,202,257,119
+Calgary Fleur-de-Lys,2020-11-25,84,Windsor Royals,0,10,6,0,183,63,33,79
+Calgary Fleur-de-Lys,2021-02-18,99,Bellingham Travelways,9,3,10,5,63,183,33,123
+Calgary Fleur-de-Lys,2021-07-04,58,Canmore Rats,10,4,9,6,33,117,63,123
+Calgary Fleur-de-Lys,2022-01-26,46,Steinbach Oilers,3,6,10,1,63,33,183,117
+Calgary Fleur-de-Lys,2022-05-29,3,Calgary Cubs,0,10,6,0,63,123,183,412
+Calgary Cubs,2022-05-29,3,Calgary Fleur-de-Lys,10,0,6,6,256,459,224,26
+Calgary Fleur-de-Lys,2020-08-18,76,Whitby Lakers,6,8,13,4,123,183,117,79
+Calgary Fleur-de-Lys,2022-03-01,102,Nickel Centre Terriers,2,3,10,1,33,412,123,183
+Calgary Rockets,2022-04-26,4,Montreal Raiders,10,0,5,5,358,319,308,200
+Montreal Raiders,2022-04-26,4,Calgary Rockets,0,10,5,0,218,38,182,27
+Calgary Rockets,2021-03-16,4,Montreal Raiders,8,0,5,4,21,61,200,308
+Montreal Raiders,2021-03-16,4,Calgary Rockets,0,8,5,1,182,314,301,27
+Calgary Rockets,2021-06-09,4,Ice Bulls,6,0,6,4,308,323,61,319
+Ice Bulls,2021-06-09,4,Calgary Rockets,0,6,6,2,337,18,326,169
+Calgary Rockets,2022-02-03,3,Calgary Fleur-de-Lys,7,1,8,4,61,21,308,382
+Calgary Fleur-de-Lys,2022-02-03,3,Calgary Rockets,1,7,8,4,412,117,123,183
+Calgary Rockets,2021-06-20,1,Cold Travelways,7,0,5,4,21,358,319,323
+Cold Travelways,2021-06-20,1,Calgary Rockets,0,7,5,1,318,104,201,226
+Calgary Rockets,2021-05-26,84,Windsor Royals,5,3,10,3,21,200,323,319
+Calgary Rockets,2022-05-09,21,Victoria Thunder,9,4,10,6,61,358,200,323
+Calgary Rockets,2021-07-11,4,Ice Bulls,5,4,11,4,61,200,308,323
+Ice Bulls,2021-07-11,4,Calgary Rockets,4,5,11,7,326,337,169,18
+Calgary Rockets,2022-04-08,21,Victoria Thunder,7,0,5,4,319,200,21,61
+Calgary Rockets,2021-10-29,76,Whitby Lakers,7,1,7,6,308,382,358,61
+Calgary Rockets,2021-08-26,3,Calgary Fleur-de-Lys,6,3,10,5,21,61,200,319
+Calgary Fleur-de-Lys,2021-08-26,3,Calgary Rockets,3,6,10,5,183,123,33,63
+Calgary Rockets,2021-04-04,25,Chateauguay Canucks,11,4,9,6,21,200,319,323
+Calgary Rockets,2022-03-16,102,Nickel Centre Terriers,7,2,10,5,200,323,308,382
+Calgary Rockets,2021-08-28,10,Melfort Bruins,7,0,7,5,61,319,382,358
+Calgary Rockets,2022-04-22,46,Steinbach Oilers,8,0,5,5,358,61,319,200
+Calgary Rockets,2021-06-11,76,Whitby Lakers,8,0,5,4,61,308,319,21
+Cold Huskies,2021-09-11,95,Fort Garry Eagles,4,1,10,4,348,336,66,28
+Cold Huskies,2021-06-24,3,Calgary Bruins,7,4,10,3,66,348,28,172
+Calgary Bruins,2021-06-24,3,Cold Huskies,4,7,10,7,345,73,56,219
+Cold Huskies,2021-09-04,37,Halifax Oland Vikings,6,0,5,3,66,28,348,336
+Cold Huskies,2021-09-08,93,Humboldt Vipers,6,0,7,5,336,348,172,66
+Cold Huskies,2022-05-03,75,New Westminster Thunder,2,7,10,2,28,499,336,348
+Cold Huskies,2022-03-07,93,Humboldt Vipers,8,5,10,4,479,348,66,336
+Cold Huskies,2021-11-08,81,Brockville Spirit,8,2,7,5,348,172,28,66
+Cold Huskies,2022-02-16,55,Markham Rockets,5,6,10,4,348,336,66,28
+Cold Huskies,2022-01-06,33,Iron Range Penguins,7,1,5,3,28,336,348,66
+Calgary Bruins,2020-11-23,0,Ice Sabres,10,0,5,5,219,67,56,73
+Ice Sabres,2020-11-23,0,Calgary Bruins,0,10,5,0,145,138,10,205
+Calgary Bruins,2022-04-24,9,Trail Smoke Remparts,7,6,10,4,56,73,384,219
+Calgary Bruins,2020-07-08,93,Humboldt Vipers,8,6,10,5,73,54,67,56
+Calgary Bruins,2021-08-02,95,Fort Garry Eagles,8,0,6,6,56,219,345,73
+Calgary Bruins,2020-08-25,9,Trail Smoke Remparts,8,3,10,5,56,67,219,54
+Calgary Bruins,2020-10-04,0,Ice Sabres,7,0,6,6,67,73,219,56
+Ice Sabres,2020-10-04,0,Calgary Bruins,0,7,6,0,138,10,210,205
+Calgary Bruins,2021-06-20,73,Thunder Bay Flames,7,6,10,3,67,73,345,219
+Calgary Bruins,2021-07-27,9,Trail Smoke Remparts,7,9,10,4,56,219,73,345
+Calgary Bruins,2021-11-08,95,Fort Garry Eagles,7,8,10,4,384,345,56,73
+Calgary Bruins,2022-03-22,3,Cold Huskies,4,6,11,4,219,345,56,73
+Cold Huskies,2022-03-22,3,Calgary Bruins,6,4,11,7,66,28,336,498
+Calgary Bruins,2021-04-06,100,Chilliwack Metros,6,0,5,4,73,67,219,56
+Calgary Bruins,2022-03-19,27,Burlington Stampeders,8,2,6,3,73,56,345,219
+Calgary Bruins,2020-11-28,93,Humboldt Vipers,6,0,5,4,67,219,56,73
+Calgary Bruins,2020-01-07,81,Brockville Spirit,8,3,10,6,56,73,67,54
+Calgary Bruins,2021-05-12,95,Fort Garry Eagles,8,2,7,5,56,219,73,67
+Calgary Bruins,2021-01-14,0,Ice Sabres,9,0,6,5,67,73,219,56
+Ice Sabres,2021-01-14,0,Calgary Bruins,0,9,6,1,210,138,234,197
+Calgary Bruins,2020-01-17,9,Trail Smoke Remparts,8,4,10,4,54,73,56,67
+Calgary Bruins,2020-09-11,29,Richmond Hill Mets,8,3,10,3,67,56,54,219
+Calgary Bruins,2021-08-28,81,Brockville Spirit,9,0,5,4,345,384,73,56
+Calgary Bruins,2020-07-29,100,Chilliwack Metros,8,6,10,6,219,54,73,56
+Calgary Bruins,2021-09-03,100,Chilliwack Metros,6,0,7,4,73,384,345,219
+Calgary Bruins,2020-02-17,39,Charlottetown Schooners,5,6,10,4,67,73,54,56
+Calgary Bruins,2020-02-10,9,Trail Smoke Remparts,7,0,5,4,73,54,67,56
+Montreal Vipers,2021-12-15,88,Niagara Falls Filons,7,4,10,5,29,427,143,263
+Montreal Vipers,2021-12-11,0,Toronto Rockets,6,3,10,5,427,29,263,143
+Toronto Rockets,2021-12-11,0,Montreal Vipers,3,6,10,5,388,35,338,424
+Montreal Vipers,2022-02-19,19,Rosemont Bears,8,0,5,5,143,452,263,450
+Montreal Vipers,2022-04-13,67,Edmonton Maple Predators,8,5,10,4,450,491,263,427
+Montreal Vipers,2022-05-26,79,Pembroke Lumber Bears,5,6,10,4,491,452,263,143
+Montreal Braves,2021-10-31,2,Super Lords,6,0,8,5,152,304,92,194
+Super Lords,2021-10-31,2,Montreal Braves,0,6,8,3,381,88,5,402
+Montreal Braves,2022-02-27,0,Toronto Rockets,8,1,7,6,194,92,152,415
+Toronto Rockets,2022-02-27,0,Montreal Braves,1,8,7,1,35,424,480,473
+Montreal Braves,2022-01-04,11,Penticton Chiefs,8,1,5,4,152,415,445,304
+Montreal Braves,2021-05-14,56,Thetford Mines Blizzard,7,0,5,5,92,304,152,194
+Montreal Braves,2021-05-23,22,Ste. Agathe Flyers,7,3,10,4,92,194,152,304
+Montreal Braves,2021-09-23,11,Penticton Chiefs,9,4,10,6,194,92,152,304
+Montreal Braves,2021-10-16,98,Aurora Canadians,11,0,5,5,92,304,152,194
+Montreal Braves,2021-10-19,98,Aurora Canadians,10,2,8,6,152,194,304,92
+Montreal Braves,2021-08-17,11,Penticton Chiefs,7,2,10,5,304,194,152,92
+Montreal Braves,2022-04-02,45,Prince Albert Marrs,7,1,7,5,445,152,415,92
+Montreal Braves,2022-02-09,88,Niagara Falls Filons,10,5,10,7,304,445,415,194
+Montreal Braves,2021-11-16,11,Penticton Chiefs,7,1,6,4,92,194,304,415
+Montreal Braves,2022-01-15,5,Port Hope Islanders,7,0,5,4,194,304,152,92
+Montreal Braves,2021-04-08,67,Edmonton Maple Predators,6,3,10,5,152,194,92,304
+Super Salsa,2021-10-09,32,Williams Lake Vulcans,7,5,10,6,41,386,141,199
+Super Salsa,2021-11-17,65,Winnipeg Beehives,6,4,10,5,41,329,386,199
+Super Salsa,2020-09-09,26,Wexford Beehives,4,8,10,3,141,41,154,168
+Super Salsa,2021-08-20,77,Lanark Festivals,7,1,7,5,141,386,41,108
+Super Salsa,2022-05-20,44,Thunder Bay Panthers,10,4,7,5,141,467,329,168
+Super Salsa,2021-06-07,44,Thunder Bay Panthers,3,2,10,2,154,329,108,168
+Super Salsa,2021-02-21,1,Ice Dodgers,9,3,8,5,199,168,154,41
+Ice Dodgers,2021-02-21,1,Super Salsa,3,9,8,3,211,137,174,131
+Super Salsa,2021-03-23,54,Saskatoon Rams,1,8,6,1,168,141,199,108
+Super Salsa,2020-09-21,8,Peterborough Bearcats,6,7,10,4,154,168,108,41
+Super Salsa,2020-12-14,14,Battleford Greys,8,4,10,5,168,41,141,199
+Super Salsa,2020-07-08,44,Thunder Bay Panthers,9,2,7,5,141,41,154,168
+Super Salsa,2021-08-08,74,Port-aux-Basques Buccaneers,8,0,8,6,41,329,154,108
+Super Salsa,2020-11-18,78,Halifax Oland Centennials,7,10,10,4,199,41,168,154
+Super Salsa,2022-01-26,3,Ice Huskies,8,0,5,4,199,329,108,386
+Ice Huskies,2022-01-26,3,Super Salsa,0,8,5,1,244,6,252,399
+Super Salsa,2021-12-19,90,Langley Hawks,6,2,10,5,154,108,168,141
+Super Salsa,2021-11-09,50,Ajax Sports,8,0,7,4,141,329,199,41
+Super Salsa,2020-07-27,32,Williams Lake Vulcans,2,11,9,2,154,199,108,141
+Super Salsa,2021-07-17,32,Williams Lake Vulcans,4,5,10,4,41,199,168,108
+Super Salsa,2022-04-29,89,Williams Lake Warriors,6,7,10,2,41,329,467,386
+Super Salsa,2021-09-05,77,Lanark Festivals,5,7,11,4,329,141,168,41
+Super Salsa,2022-05-21,49,North Sydney Spitfires,6,0,5,4,467,168,329,141
+Super Salsa,2021-11-21,44,Thunder Bay Panthers,6,7,10,3,329,199,154,141
+Super Salsa,2021-05-30,77,Lanark Festivals,8,6,11,6,41,199,168,329
+Super Salsa,2021-03-18,17,Brandon Warriors,11,4,9,6,108,168,141,199
+Super Salsa,2020-12-08,44,Thunder Bay Panthers,6,3,10,5,41,141,199,108
+Super Salsa,2022-03-01,6,Cape Breton Lumberjacks,7,3,10,5,386,41,199,329
+Super Salsa,2020-09-03,50,Ajax Sports,6,5,11,5,108,168,141,41
+Super Salsa,2022-02-16,74,Port-aux-Basques Buccaneers,2,11,8,2,41,141,329,467
+Baby Broomers,2021-07-25,62,Hamilton Tigers,2,8,10,2,68,20,372,307
+Baby Broomers,2021-08-15,66,Vancouver Flyers,2,9,9,2,372,20,307,68
+Baby Broomers,2021-08-09,86,Cape Breton Rustlers,8,2,7,5,68,20,372,307
+Baby Broomers,2021-08-17,53,Toronto 73's,3,6,10,1,372,68,307,20
+Baby Broomers,2021-11-19,18,Mississauga Cougars,7,1,5,3,20,307,68,372
+Montreal Lasers,2022-04-17,43,Temiscaming Hawks,1,8,8,1,414,437,14,114
+Montreal Lasers,2021-09-09,2,Vancouver Buccaneers,8,1,5,4,114,332,136,14
+Vancouver Buccaneers,2021-09-09,2,Montreal Lasers,1,8,5,1,265,390,351,393
+Montreal Lasers,2021-02-10,52,Ottawa Crunch,10,1,8,7,191,166,114,254
+Montreal Lasers,2022-01-29,62,Hamilton Tigers,3,9,8,2,14,114,254,166
+Montreal Lasers,2022-05-13,0,Cold Islanders,3,9,6,2,166,332,14,114
+Cold Islanders,2022-05-13,0,Montreal Lasers,9,3,6,4,147,241,379,121
+Montreal Lasers,2021-12-02,68,Vernon Crystals,5,6,10,4,332,114,414,136
+Montreal Lasers,2020-10-28,83,North York Capitals,6,2,10,4,254,14,136,191
+Montreal Lasers,2021-12-12,4,Ice Unicorns,8,4,10,6,14,332,136,254
+Ice Unicorns,2021-12-12,4,Montreal Lasers,4,8,10,4,376,85,418,344
+Montreal Lasers,2021-04-28,103,Riverview Elites,3,11,8,2,166,332,254,136
+Montreal Lasers,2022-05-28,3,Rolling Stones,5,6,10,3,166,254,332,114
+Rolling Stones,2022-05-28,3,Montreal Lasers,6,5,10,7,208,449,153,544
+Montreal Lasers,2020-07-15,87,South Surrey Canadians,15,2,10,6,163,14,114,191
+Montreal Lasers,2020-09-09,52,Ottawa Crunch,8,0,5,5,136,114,14,166
+Montreal Lasers,2021-02-17,60,Villanova Terriers,8,0,5,5,166,254,136,14
+Montreal Lasers,2022-04-03,66,Vancouver Flyers,4,10,9,2,14,437,414,332
+Montreal Lasers,2021-08-30,1,Cold Chinooks,9,1,9,7,136,114,14,191
+Cold Chinooks,2021-08-30,1,Montreal Lasers,1,9,9,2,353,340,127,151
+Montreal Lasers,2022-05-07,53,Toronto 73's,8,1,5,4,166,136,114,487
+Ice Unicorns,2021-12-13,91,La Salle Eagles,7,6,10,4,344,55,418,376
+Ice Unicorns,2022-05-05,41,Dartmouth Crunch,9,1,5,4,344,418,474,55
+Ice Unicorns,2022-05-04,43,Temiscaming Hawks,4,6,10,3,344,376,55,474
+Ice Unicorns,2021-10-06,52,Ottawa Crunch,6,0,5,5,85,299,55,376
+Ice Unicorns,2022-05-06,0,Cold Islanders,1,7,8,1,376,344,418,55
+Cold Islanders,2022-05-06,0,Ice Unicorns,7,1,8,7,121,291,241,147
+Ice Unicorns,2021-12-19,64,Vancouver Canadiens,6,2,10,6,418,376,344,55
+Ice Unicorns,2021-09-15,36,Thunder Bay Eaters,4,5,10,3,299,85,376,55
+Ice Unicorns,2021-12-03,0,Cold Islanders,4,7,10,3,344,418,85,55
+Cold Islanders,2021-12-03,0,Ice Unicorns,7,4,10,7,241,291,379,102
+Ice Unicorns,2021-10-10,1,Cold Chinooks,7,1,9,6,376,55,401,299
+Cold Chinooks,2021-10-10,1,Ice Unicorns,1,7,9,3,144,400,127,353
+Ice Unicorns,2022-05-07,23,Laval Rousseau 77's,4,7,10,3,85,55,418,344
+Ice Unicorns,2021-06-23,94,Aurora Chiefs,3,5,10,3,85,55,299,344
+Ice Unicorns,2021-08-17,60,Villanova Terriers,8,2,8,6,344,55,376,299
+Ice Unicorns,2021-12-25,62,Hamilton Tigers,10,0,7,6,376,344,418,55
+Ice Unicorns,2021-11-18,53,Toronto 73's,7,6,13,5,376,85,55,418
+Ice Unicorns,2021-11-25,0,Cold Islanders,7,8,11,4,85,418,376,344
+Cold Islanders,2021-11-25,0,Ice Unicorns,8,7,11,7,121,379,291,241
+Montreal Raiders,2021-08-20,1,Cold Travelways,0,7,5,0,343,218,38,115
+Cold Travelways,2021-08-20,1,Montreal Raiders,7,0,5,5,104,318,247,226
+Montreal Raiders,2020-10-30,2,Vancouver Fury,0,8,7,0,182,27,115,218
+Vancouver Fury,2020-10-30,2,Montreal Raiders,8,0,7,7,22,72,185,159
+Montreal Raiders,2021-01-23,4,Cold Colts,3,12,10,2,182,115,218,38
+Cold Colts,2021-01-23,4,Montreal Raiders,12,3,10,8,45,44,235,279
+Montreal Raiders,2021-01-01,25,Chateauguay Canucks,1,12,6,1,218,38,182,115
+Montreal Raiders,2022-05-10,25,Chateauguay Canucks,0,9,7,0,27,301,218,343
+Montreal Raiders,2020-08-07,4,Cold Colts,0,6,8,0,182,38,218,115
+Cold Colts,2020-08-07,4,Montreal Raiders,6,0,8,8,89,45,44,11
+Montreal Raiders,2022-02-26,72,Yorkton Indians,0,7,7,0,218,410,115,38
+Montreal Raiders,2020-12-30,4,Montreal Bruins,0,10,7,0,27,218,38,182
+Montreal Bruins,2020-12-30,4,Montreal Raiders,10,0,7,7,140,164,221,36
+Montreal Raiders,2021-09-16,2,Vancouver Fury,0,6,7,0,218,343,115,301
+Vancouver Fury,2021-09-16,2,Montreal Raiders,6,0,7,7,363,72,259,328
+Montreal Raiders,2021-01-26,69,Sudbury Jets,6,5,10,5,38,115,302,218
+Montreal Raiders,2021-11-25,1,Ottawa Victorias,8,2,9,4,115,182,410,27
+Ottawa Victorias,2021-11-25,1,Montreal Raiders,2,8,9,5,312,313,287,222
+Montreal Raiders,2021-10-19,31,Thunder Bay Dogs,2,8,9,2,218,301,38,343
+Montreal Raiders,2022-04-27,99,Bellingham Travelways,12,5,10,5,343,301,182,115
+Montreal Raiders,2022-05-05,2,Vancouver Fury,5,7,10,2,218,27,115,343
+Vancouver Fury,2022-05-05,2,Montreal Raiders,7,5,10,8,363,398,159,259
+Montreal Raiders,2020-08-23,3,Calgary Fleur-de-Lys,8,6,10,3,182,115,38,27
+Calgary Fleur-de-Lys,2020-08-23,3,Montreal Raiders,6,8,10,7,63,79,123,117
+Montreal Raiders,2021-06-14,3,Calgary Cubs,0,6,5,0,182,27,38,343
+Calgary Cubs,2021-06-14,3,Montreal Raiders,6,0,5,5,256,305,26,224
+Montreal Raiders,2021-09-10,72,Yorkton Indians,4,11,7,2,343,218,115,38
+Montreal Raiders,2021-01-29,21,Victoria Thunder,11,5,10,4,182,301,27,115
+Ice Bulls,2021-11-04,69,Sudbury Jets,5,7,10,3,18,169,326,419
+Ice Bulls,2022-02-27,4,Montreal Bruins,7,9,10,4,419,326,18,169
+Montreal Bruins,2022-02-27,4,Ice Bulls,9,7,10,6,36,46,387,425
+Ice Bulls,2022-03-14,42,Vancouver Jr. Terriers,3,4,10,2,337,169,443,326
+Ice Bulls,2021-05-16,69,Sudbury Jets,7,8,10,5,169,337,326,18
+Ice Bulls,2022-05-06,42,Vancouver Jr. Terriers,4,7,10,2,419,18,326,337
+Ice Bulls,2021-07-06,102,Nickel Centre Terriers,3,8,10,2,18,337,326,169
+Ice Bulls,2022-01-26,1,Ottawa Victorias,6,7,10,4,419,326,18,337
+Ottawa Victorias,2022-01-26,1,Ice Bulls,7,6,10,6,222,461,249,312
+Ice Bulls,2021-10-08,21,Victoria Thunder,0,7,6,0,18,169,326,337
+Ice Bulls,2022-05-29,58,Canmore Rats,9,2,5,4,443,419,326,18
+Ice Bulls,2021-08-20,4,Montreal Bruins,2,8,7,2,18,326,337,169
+Montreal Bruins,2021-08-20,4,Ice Bulls,8,2,7,5,36,387,164,46
+Ice Bulls,2022-05-03,63,Moncton Legionaires,1,8,5,1,443,18,419,169
+Ice Bulls,2022-01-01,31,Thunder Bay Dogs,3,7,10,3,337,419,326,18
+Ice Bulls,2021-06-15,25,Chateauguay Canucks,1,8,9,1,337,169,326,18
+Ice Bulls,2021-06-10,3,Calgary Fleur-de-Lys,5,10,10,2,18,169,326,337
+Calgary Fleur-de-Lys,2021-06-10,3,Ice Bulls,10,5,10,8,183,63,123,33
+Ice Bulls,2021-11-13,99,Bellingham Travelways,2,7,10,2,18,337,419,169
+Montreal Bruins,2020-08-06,69,Sudbury Jets,9,0,5,4,46,109,221,164
+Montreal Bruins,2021-09-17,25,Chateauguay Canucks,6,3,10,3,387,46,140,221
+Montreal Bruins,2021-04-20,35,Sidney Eagles,6,5,10,4,46,36,140,164
+Montreal Bruins,2022-03-30,99,Bellingham Travelways,11,1,10,8,46,36,164,387
+Montreal Bruins,2021-08-25,69,Sudbury Jets,10,7,11,6,109,36,387,46
+Montreal Bruins,2020-09-25,84,Windsor Royals,5,7,10,4,109,140,46,221
+Montreal Bruins,2020-11-24,58,Canmore Rats,6,0,5,5,46,221,140,164
+Montreal Bruins,2021-10-16,99,Bellingham Travelways,5,3,10,3,387,221,46,36
+Montreal Bruins,2022-01-27,4,Montreal Raiders,8,0,5,4,387,36,221,46
+Montreal Raiders,2022-01-27,4,Montreal Bruins,0,8,5,1,38,301,27,182
+Montreal Bruins,2021-09-01,72,Yorkton Indians,4,8,10,2,221,389,109,387
+Montreal Bruins,2022-04-30,58,Canmore Rats,9,0,9,7,36,221,46,387
+Montreal Bruins,2022-04-28,46,Steinbach Oilers,8,0,5,5,46,36,387,221
+Montreal Bruins,2022-04-15,69,Sudbury Jets,8,0,5,4,387,36,164,46
+Montreal Bruins,2020-10-14,31,Thunder Bay Dogs,6,5,10,4,221,46,36,109
+Montreal Bruins,2022-02-05,84,Windsor Royals,3,11,9,2,36,46,425,221
+Montreal Bruins,2022-02-04,21,Victoria Thunder,6,4,10,4,387,46,221,164
+Montreal Bruins,2021-10-31,69,Sudbury Jets,7,0,7,5,221,140,46,387
+Montreal Bruins,2021-08-04,72,Yorkton Indians,8,6,10,4,140,164,109,221
+Montreal Bruins,2020-11-03,35,Sidney Eagles,1,9,5,1,36,164,140,109
+Montreal Bruins,2021-11-06,76,Whitby Lakers,6,3,10,4,36,140,221,46
+Montreal Bruins,2021-10-27,58,Canmore Rats,6,0,5,4,221,36,46,140
+Montreal Bruins,2020-12-04,72,Yorkton Indians,8,6,11,4,140,36,221,109
+Montreal Bruins,2020-08-01,58,Canmore Rats,8,0,5,4,36,221,140,46
+Montreal Bruins,2021-03-07,0,Toronto Eagles,7,0,5,5,109,36,46,164
+Toronto Eagles,2021-03-07,0,Montreal Bruins,0,7,5,0,13,142,155,267
+Montreal Bruins,2021-03-12,63,Moncton Legionaires,5,3,10,4,46,109,140,164
+Montreal Bruins,2021-04-08,72,Yorkton Indians,10,4,9,6,46,221,140,109
+Montreal Bruins,2022-03-28,3,Calgary Rockets,6,10,11,4,36,387,221,46
+Calgary Rockets,2022-03-28,3,Montreal Bruins,10,6,11,7,323,319,200,61
+Montreal Bruins,2021-12-13,63,Moncton Legionaires,11,5,8,6,221,164,140,36
+Montreal Bruins,2020-10-10,102,Nickel Centre Terriers,8,2,8,5,140,109,46,36
+Montreal Bruins,2020-08-16,72,Yorkton Indians,6,3,10,4,164,46,36,109
+Montreal Bruins,2021-05-09,102,Nickel Centre Terriers,7,3,10,6,36,109,140,221
+Montreal Bruins,2021-11-14,58,Canmore Rats,7,1,6,5,164,46,140,387
+Montreal Bruins,2021-10-10,31,Thunder Bay Dogs,9,1,6,5,46,221,36,164
+Cold Colts,2021-06-10,4,Montreal Bruins,5,4,10,3,235,89,44,279
+Montreal Bruins,2021-06-10,4,Cold Colts,4,5,10,7,164,109,221,140
+Cold Colts,2020-11-16,0,Toronto Eagles,7,0,7,5,45,89,44,11
+Toronto Eagles,2020-11-16,0,Cold Colts,0,7,7,2,267,155,142,13
+Cold Colts,2021-10-09,3,Calgary Cougars,4,2,10,4,235,89,11,44
+Calgary Cougars,2021-10-09,3,Cold Colts,2,4,10,6,124,202,347,119
+Cold Colts,2021-09-08,21,Victoria Thunder,7,4,10,3,45,235,44,89
+Cold Colts,2021-06-05,0,Toronto Eagles,9,0,5,5,89,11,44,45
+Toronto Eagles,2021-06-05,0,Cold Colts,0,9,5,0,325,13,155,267
+Cold Colts,2020-02-01,58,Canmore Rats,7,0,5,3,89,11,45,44
+Cold Colts,2020-12-24,99,Bellingham Travelways,6,0,5,3,45,279,44,11
+Cold Colts,2020-07-31,3,Calgary Fleur-de-Lys,5,4,10,4,89,44,11,45
+Calgary Fleur-de-Lys,2020-07-31,3,Cold Colts,4,5,10,6,183,63,79,123
+Cold Colts,2021-11-29,25,Chateauguay Canucks,3,5,10,2,11,89,45,235
+Cold Colts,2022-03-14,25,Chateauguay Canucks,3,10,8,1,235,89,45,44
+Cold Colts,2022-02-24,58,Canmore Rats,10,0,8,8,11,44,45,235
+Cold Colts,2020-07-14,4,Montreal Bruins,4,8,10,3,44,11,89,45
+Montreal Bruins,2020-07-14,4,Cold Colts,8,4,10,7,46,140,164,109
+Cold Colts,2021-07-28,3,Calgary Cougars,6,7,10,4,45,235,89,279
+Calgary Cougars,2021-07-28,3,Cold Colts,7,6,10,6,119,202,347,124

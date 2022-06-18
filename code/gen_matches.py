@@ -102,58 +102,71 @@ def gen_matches_to_file(file_name):
 
         file.write('team_name,date,address_id,opponent_name,team_score,opponent_score,number_of_ends,number_of_ends_won,lead_id,second_id,vice_id,skip_id\n')
 
+        dict_dates = {}
+
         for index, row in home.iterrows():
-            team = row['team_name']
-            category = row['category']
-            teams_cat = teams[teams['category']==category]
 
-            team_players = players[players['team_name']==team]
+            team = row['team_name'] # team name
+            category = row['category'] # team category
+            teams_cat = teams[teams['category']==category] # only teams with our category
 
-            n = np.random.randint(20,45)
-            n_dates = np.random.choice(dates2,size=n,replace=False)
+            team_players = players[players['team_name']==team] # players of our team
+
+            n = np.random.randint(20,45) # number of matches
+            n_dates = np.random.choice(dates2,size=n,replace=False) # generating matches
             
             for i in range(n):
 
                 date = n_dates[i]
+
                 cond = ((team_players['join_date'] <= date) & ((team_players['retire_date'] >= date) | (team_players['retire_date'].isnull())))
-                team_active = team_players[cond]
+                team_active = team_players[cond] # only active players
 
                 opponent_name = np.random.choice(teams_cat[teams_cat['team_name'] != team]['team_name'])
                 
-                our_opponent = False
+                if team not in dict_dates:
+                    dict_dates[team] = []
+                if opponent_name not in dict_dates:
+                    dict_dates[opponent_name] = []
 
-                # checking if opponent is one of our teams
-                if opponent_name in np.array(home['team_name']):
+                if  date not in dict_dates[team] and date not in dict_dates[opponent_name]:
+                    dict_dates[team].append(date)
+                    dict_dates[opponent_name].append(date)   
 
-                    opponent_players = players[players['team_name']==opponent_name]
-                    cond2 = ((opponent_players['join_date'] <= date) & ((opponent_players['retire_date'] >= date) | (opponent_players['retire_date'].isnull())))
-                    opponent_active = opponent_players[cond2]
+                    # checking if opponent is one of our teams
+                    our_opponent = False
 
-                    our_opponent = True
-                
-                # checking if we can complete a team
-                if len(team_active) >= 4 and (our_opponent == False or len(opponent_active) >= 4):
+                    if opponent_name in np.array(home['team_name']):
+
+                        opponent_players = players[players['team_name']==opponent_name]
+                        cond2 = ((opponent_players['join_date'] <= date) & ((opponent_players['retire_date'] >= date) | (opponent_players['retire_date'].isnull())))
+                        opponent_active = opponent_players[cond2]
+
+                        our_opponent = True
                     
-                    address_id = teams_cat[teams_cat['team_name'] == opponent_name].iloc[0]['address_id']
+                    # checking if we can complete a team
+                    if len(team_active) >= 4 and (our_opponent == False or len(opponent_active) >= 4):
+                        
+                        address_id = teams_cat[teams_cat['team_name'] == opponent_name].iloc[0]['address_id']
 
-                    scores = gen_match(team,opponent_name)
+                        scores = gen_match(team,opponent_name)
 
-                    team_score = np.sum(scores[0])
-                    opponent_score = np.sum(scores[1])
-                    n_ends = scores[2]
-                    n_wins = scores[3]
+                        team_score = np.sum(scores[0])
+                        opponent_score = np.sum(scores[1])
+                        n_ends = scores[2]
+                        n_wins = scores[3]
 
-                    lineup = np.random.choice(list(team_active.index),size=4,replace=False)
+                        lineup = np.random.choice(list(team_active.index),size=4,replace=False)
 
-                    match = '{},{},{},{},{},{},{},{},{},{},{},{}\n'.format(team,date,address_id,opponent_name,team_score,opponent_score,n_ends,n_wins,lineup[0],lineup[1],lineup[2],lineup[3])
-                    file.write(match)
-
-                    if our_opponent:
-
-                        lineup = np.random.choice(list(opponent_active.index),size=4,replace=False)
-
-                        match = '{},{},{},{},{},{},{},{},{},{},{},{}\n'.format(opponent_name,date,address_id,team,opponent_score,team_score,n_ends,n_ends-n_wins,lineup[0],lineup[1],lineup[2],lineup[3])
+                        match = '{},{},{},{},{},{},{},{},{},{},{},{}\n'.format(team,date,address_id,opponent_name,team_score,opponent_score,n_ends,n_wins,lineup[0],lineup[1],lineup[2],lineup[3])
                         file.write(match)
+
+                        if our_opponent:
+
+                            lineup = np.random.choice(list(opponent_active.index),size=4,replace=False)
+
+                            match = '{},{},{},{},{},{},{},{},{},{},{},{}\n'.format(opponent_name,date,address_id,team,opponent_score,team_score,n_ends,n_ends-n_wins,lineup[0],lineup[1],lineup[2],lineup[3])
+                            file.write(match)
 
                     
 
@@ -161,4 +174,4 @@ def gen_matches_to_file(file_name):
 if  __name__ == "__main__":
     download_data()
 
-    gen_matches_to_file('../data/backup/full_matches.csv')
+    gen_matches_to_file('../data/backup/full_matches.csv')    

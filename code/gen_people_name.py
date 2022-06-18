@@ -75,16 +75,16 @@ def gen_name_to_file(file_name1, file_name2):
 
                 if gender == 'M':
                     first = np.random.choice(names['M'])
-                    firs_last = '{},{},{}\n'.format(index,first,np.random.choice(names['last name']))
-                    gender_first = '{},{}\n'.format('M',first)
+                    firs_last = '{},{},{}\n'.format(index,first.capitalize(),np.random.choice(names['last name']))
+                    gender_first = '{},{}\n'.format('M',first.capitalize())
 
                     file1.write(firs_last)
                     file2.write(gender_first)
 
                 elif gender == 'F':
                     first = np.random.choice(names['F'])
-                    firs_last = '{},{},{}\n'.format(index,first,np.random.choice(names['last name']))
-                    gender_first = '{},{}\n'.format('F',first)
+                    firs_last = '{},{},{}\n'.format(index,first.capitalize(),np.random.choice(names['last name']))
+                    gender_first = '{},{}\n'.format('F',first.capitalize())
 
                     file1.write(firs_last)
                     file2.write(gender_first)
@@ -92,8 +92,8 @@ def gen_name_to_file(file_name1, file_name2):
                 else:
                     g = np.random.choice(['M','F'])
                     first = np.random.choice(names[g])
-                    firs_last = '{},{},{}\n'.format(index,first,np.random.choice(names['last name']))
-                    gender_first = '{},{}\n'.format(g,first)
+                    firs_last = '{},{},{}\n'.format(index,first.capitalize(),np.random.choice(names['last name']))
+                    gender_first = '{},{}\n'.format(g,first.capitalize())
 
                     file1.write(firs_last)
                     file2.write(gender_first)
@@ -105,4 +105,5 @@ def gen_name_to_file(file_name1, file_name2):
 
 if __name__ == '__main__':
     download_data()
-    gen_name_to_file('../data/people.csv','../data/gender.csv')
+    #gen_name_to_file('../data/people.csv','../data/gender.csv')
+    gen_name_to_file('../data/test1.csv','../data/test2.csv')

@@ -6,20 +6,20 @@ def gen_position_to_file():
     matches = pd.read_csv('../data/backup/full_matches.csv')
     n = len(matches)
 
-    lead = matches[['lead','date']]
-    lead.rename(columns={'lead':'person_id'},inplace=True)
+    lead = matches[['lead_id','date']]
+    lead.rename(columns={'lead_id':'person_id'},inplace=True)
     lead = lead.assign(position=['lead' for _ in range(n)])
 
-    second = matches[['second','date']]
-    second.rename(columns={'second':'person_id'},inplace=True)
+    second = matches[['second_id','date']]
+    second.rename(columns={'second_id':'person_id'},inplace=True)
     second = second.assign(position=['second' for _ in range(n)])
 
-    vice = matches[['vice','date']]
-    vice.rename(columns={'vice':'person_id'},inplace=True)
+    vice = matches[['vice_id','date']]
+    vice.rename(columns={'vice_id':'person_id'},inplace=True)
     vice = vice.assign(position=['vice' for _ in range(n)])
 
-    skip = matches[['skip','date']]
-    skip.rename(columns={'skip':'person_id'},inplace=True)
+    skip = matches[['skip_id','date']]
+    skip.rename(columns={'skip_id':'person_id'},inplace=True)
     skip = skip.assign(position=['skip' for _ in range(n)])
 
     positions = pd.concat([lead,second,vice,skip])
