@@ -1,8 +1,8 @@
 import mysql.connector as mysql
 import pandas as pd
 
-def fill_table(table_name, query):
-    conn = mysql.connect(user='team3', password='te@mEP@ss', host='giniewicz.it', database='team3')
+def fill_table(table_name, query, password):
+    conn = password
     data = pd.read_csv('../final_data/{}.csv'.format(table_name))
     data = data.where(pd.notnull(data), None)
 
