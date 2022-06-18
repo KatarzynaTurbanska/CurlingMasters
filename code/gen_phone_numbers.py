@@ -70,7 +70,9 @@ def save_phone_numbers(people_filename, filename):
 
     ph_nums_by_id = [ph_nums[int(people["facility_id"][i] - 1)].pop() for i in range(len(people))]
 
-    pd.DataFrame(ph_nums_by_id, columns=["phone"]).to_csv(filename)
+    df = pd.DataFrame(ph_nums_by_id, columns=["phone"])
+    df.index.name = "person_id"
+    df.to_csv(filename)
 
 
 if __name__ == "__main__":
