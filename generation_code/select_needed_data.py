@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 phone_book = pd.read_csv('../data/phone_book.csv')
 phone_book.to_csv('../final_data/phone_book.csv', index=False)
@@ -18,14 +19,17 @@ people.to_csv('../final_data/people.csv', index=False)
 def connect_people_addresses():
     cities = {1:'Toronto', 2:'Montreal', 3:'Calgary', 4:'Ottawa', 5:'Vancouver'}
     address_id = pd.read_csv('../data/addresses.csv')
-    address_id = address_id.iloc[104:,:] 
+    address_id = address_id.iloc[104:,:]
     people_id = pd.read_csv('../data/full_people.csv')
     address = []
     for id in range(1,6):
         p = people_id[people_id['facility_id'] == id]
+        p.reset_index(inplace=True, drop=True)
         a = address_id[address_id['city'] == cities[id]]
-        address.append(pd.concat([p[['person_id']],a[['address_id']]]))
-    address = pd.concat(address)
+        a.reset_index(inplace=True, drop=True)
+        address.append(pd.concat([p,a], axis=1))
+    address = pd.concat(address, axis=0)
+    address = address[['person_id', 'address_id']]
     address.to_csv('../final_data/address.csv', index=False)
 
 connect_people_addresses()
@@ -51,6 +55,7 @@ def format_teams():
             teams.loc[index, 'age_category'] = cat[0]
             teams.loc[index, 'gender_category'] = cat[1]
     teams = teams[['team_name', 'facility_id', 'age_category', 'gender_category']]
+    teams[['facility_id']] = teams[['facility_id']].astype(int)
     teams.to_csv('../final_data/teams.csv', index=False)
 
 format_teams()
@@ -67,6 +72,8 @@ age_category.to_csv('../final_data/age_category.csv', index=False)
 
 fac = pd.read_csv('../data/facility.csv')
 facility = fac[['facility_id', 'address_id']]
+facility[['facility_id']] = facility[['facility_id']].astype(int)
 facility.to_csv('../final_data/facility.csv', index=False)
 equipment = fac[['facility_id', 'brooms', 'stones', 'shoes']]
+equipment[['facility_id']] = equipment[['facility_id']].astype(int)
 equipment.to_csv('../final_data/equipment.csv', index=False)
