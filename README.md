@@ -9,7 +9,7 @@ Database made in MySql for Canadian 🍁 curling sports club.
 - Documentation.
 
 ## Scheme of the database
-![image_1](database_scheme.png)
+![image_1](database_scheme.jpg)
 
 ## Authors
 [Edyta Łabędzka](https://github.com/3dytalabedzka)
