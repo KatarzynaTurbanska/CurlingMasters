@@ -3,9 +3,9 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": -864.0052083333412,
-    "scrollLeft": -521.9999999999984,
-    "zoomLevel": 0.3,
+    "scrollTop": -801.0052083333412,
+    "scrollLeft": -277.9999999999984,
+    "zoomLevel": 0.4,
     "show": {
       "tableComment": true,
       "columnComment": true,
@@ -19,7 +19,7 @@
     },
     "database": "MySQL",
     "databaseName": "curling_masters",
-    "canvasType": "ERD",
+    "canvasType": "@vuerd/builtin-visualization",
     "language": "GraphQL",
     "tableCase": "pascalCase",
     "columnCase": "camelCase",
@@ -882,8 +882,8 @@
         "ui": {
           "active": false,
           "left": 639.4256,
-          "top": 1387.1684,
-          "zIndex": 2,
+          "top": 1386.1684,
+          "zIndex": 15,
           "widthName": 60,
           "widthComment": 60,
           "color": "#F44336"
@@ -1032,7 +1032,7 @@
           "active": false,
           "left": 617.7156,
           "top": 1063.4131,
-          "zIndex": 6,
+          "zIndex": 14,
           "widthName": 60,
           "widthComment": 60,
           "color": "#FF1300"
@@ -1368,7 +1368,7 @@
             "b834d03c-a0c3-4690-8afd-81a08af5f4e4"
           ],
           "x": 1082.8054828125,
-          "y": 1419.7934,
+          "y": 1418.7934,
           "direction": "right"
         },
         "end": {
@@ -1403,7 +1403,7 @@
             "8178dcb3-4223-467b-b4dc-609519277bf3"
           ],
           "x": 1082.8054828125,
-          "y": 1485.0434,
+          "y": 1484.0434,
           "direction": "right"
         },
         "constraintName": "fk_gender_to_people",
@@ -1420,7 +1420,7 @@
             "b834d03c-a0c3-4690-8afd-81a08af5f4e4"
           ],
           "x": 861.11554140625,
-          "y": 1517.6684,
+          "y": 1516.6684,
           "direction": "bottom"
         },
         "end": {
@@ -1604,7 +1604,7 @@
             "b834d03c-a0c3-4690-8afd-81a08af5f4e4"
           ],
           "x": 639.4256,
-          "y": 1485.0434,
+          "y": 1484.0434,
           "direction": "left"
         },
         "end": {
@@ -1630,7 +1630,7 @@
             "b834d03c-a0c3-4690-8afd-81a08af5f4e4"
           ],
           "x": 639.4256,
-          "y": 1419.7934,
+          "y": 1418.7934,
           "direction": "left"
         },
         "end": {
@@ -1682,7 +1682,7 @@
             "b834d03c-a0c3-4690-8afd-81a08af5f4e4"
           ],
           "x": 861.11554140625,
-          "y": 1387.1684,
+          "y": 1386.1684,
           "direction": "top"
         },
         "end": {
